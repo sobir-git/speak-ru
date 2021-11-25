@@ -1,0 +1,1455 @@
+[
+  {
+    "ru": {
+      "sentence": "У Анны очень тяжёлая жизнь, хотя ей только 18 лет.",
+      "audio": "Тяжёлая жизнь Анны.translated.json.audio\\0.ogg",
+      "spacy_tokens": [
+        {
+          "text": "У",
+          "lemma": "у",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "Анны",
+          "lemma": "анна",
+          "morph": "Animacy=Anim|Case=Gen|Gender=Fem|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": "очень",
+          "lemma": "очень",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "тяжёлая",
+          "lemma": "тяжёлый",
+          "morph": "Case=Nom|Degree=Pos|Gender=Fem|Number=Sing",
+          "pos": "ADJ"
+        },
+        {
+          "text": "жизнь",
+          "lemma": "жизнь",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "хотя",
+          "lemma": "хотя",
+          "morph": "",
+          "pos": "SCONJ"
+        },
+        {
+          "text": "ей",
+          "lemma": "ей",
+          "morph": "Case=Dat|Gender=Fem|Number=Sing|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": "только",
+          "lemma": "только",
+          "morph": "",
+          "pos": "PART"
+        },
+        {
+          "text": "18",
+          "lemma": "18",
+          "morph": "",
+          "pos": "NUM"
+        },
+        {
+          "text": "лет",
+          "lemma": "год",
+          "morph": "Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "Anna has a very hard life, even though she is only 18 years old."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Вот, например, сегодня она сделала очень много дел.",
+      "audio": "Тяжёлая жизнь Анны.translated.json.audio\\1.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Вот",
+          "lemma": "вот",
+          "morph": "",
+          "pos": "PART"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "например",
+          "lemma": "например",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "сегодня",
+          "lemma": "сегодня",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "она",
+          "lemma": "она",
+          "morph": "Case=Nom|Gender=Fem|Number=Sing|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": "сделала",
+          "lemma": "сделать",
+          "morph": "Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "очень",
+          "lemma": "очень",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "много",
+          "lemma": "много",
+          "morph": "Case=Acc",
+          "pos": "NUM"
+        },
+        {
+          "text": "дел",
+          "lemma": "дело",
+          "morph": "Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "Here, for example, she has done a lot of things today."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Главное для Анны – хорошая форма и красивая фигура (90 – 60 – 90).",
+      "audio": "Тяжёлая жизнь Анны.translated.json.audio\\2.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Главное",
+          "lemma": "главный",
+          "morph": "Case=Nom|Degree=Pos|Gender=Neut|Number=Sing",
+          "pos": "ADJ"
+        },
+        {
+          "text": "для",
+          "lemma": "для",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "Анны",
+          "lemma": "анна",
+          "morph": "Animacy=Anim|Case=Gen|Gender=Fem|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": "–",
+          "lemma": "–",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "хорошая",
+          "lemma": "хороший",
+          "morph": "Case=Nom|Degree=Pos|Gender=Fem|Number=Sing",
+          "pos": "ADJ"
+        },
+        {
+          "text": "форма",
+          "lemma": "форма",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "и",
+          "lemma": "и",
+          "morph": "",
+          "pos": "CCONJ"
+        },
+        {
+          "text": "красивая",
+          "lemma": "красивый",
+          "morph": "Case=Nom|Degree=Pos|Gender=Fem|Number=Sing",
+          "pos": "ADJ"
+        },
+        {
+          "text": "фигура",
+          "lemma": "фигура",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "(",
+          "lemma": "(",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "90",
+          "lemma": "90",
+          "morph": "",
+          "pos": "NUM"
+        },
+        {
+          "text": "–",
+          "lemma": "–",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "60",
+          "lemma": "60",
+          "morph": "",
+          "pos": "NUM"
+        },
+        {
+          "text": "–",
+          "lemma": "–",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "90",
+          "lemma": "90",
+          "morph": "",
+          "pos": "NUM"
+        },
+        {
+          "text": ")",
+          "lemma": ")",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "The most important thing for Anna is good shape and a beautiful figure (90 - 60 - 90)."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "А её идеал – Пэрис Хилтон.",
+      "audio": "Тяжёлая жизнь Анны.translated.json.audio\\3.ogg",
+      "spacy_tokens": [
+        {
+          "text": "А",
+          "lemma": "а",
+          "morph": "",
+          "pos": "CCONJ"
+        },
+        {
+          "text": "её",
+          "lemma": "её",
+          "morph": "",
+          "pos": "DET"
+        },
+        {
+          "text": "идеал",
+          "lemma": "идеал",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "–",
+          "lemma": "–",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "Пэрис",
+          "lemma": "пэрис",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": "Хилтон",
+          "lemma": "хилтон",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "And her ideal is Paris Hilton."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Анна хочет жить, как эта известная американка.",
+      "audio": "Тяжёлая жизнь Анны.translated.json.audio\\4.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Анна",
+          "lemma": "анна",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": "хочет",
+          "lemma": "хотеть",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "жить",
+          "lemma": "жить",
+          "morph": "Aspect=Imp|VerbForm=Inf|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "как",
+          "lemma": "как",
+          "morph": "",
+          "pos": "SCONJ"
+        },
+        {
+          "text": "эта",
+          "lemma": "этот",
+          "morph": "Case=Nom|Gender=Fem|Number=Sing",
+          "pos": "DET"
+        },
+        {
+          "text": "известная",
+          "lemma": "известный",
+          "morph": "Case=Nom|Degree=Pos|Gender=Fem|Number=Sing",
+          "pos": "ADJ"
+        },
+        {
+          "text": "американка",
+          "lemma": "американка",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "Anna wants to live like this famous American woman."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Утром она сначала бегала в парке, потом плавала в бассейне, потом пошла в фитнес- клуб на массаж, потом в солярий.",
+      "audio": "Тяжёлая жизнь Анны.translated.json.audio\\5.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Утром",
+          "lemma": "утро",
+          "morph": "Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "она",
+          "lemma": "она",
+          "morph": "Case=Nom|Gender=Fem|Number=Sing|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": "сначала",
+          "lemma": "сначала",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "бегала",
+          "lemma": "бегать",
+          "morph": "Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "в",
+          "lemma": "в",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "парке",
+          "lemma": "парк",
+          "morph": "Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "потом",
+          "lemma": "потом",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "плавала",
+          "lemma": "плавать",
+          "morph": "Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "в",
+          "lemma": "в",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "бассейне",
+          "lemma": "бассейн",
+          "morph": "Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "потом",
+          "lemma": "потом",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "пошла",
+          "lemma": "пойти",
+          "morph": "Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "в",
+          "lemma": "в",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "фитнес-",
+          "lemma": "фитнес-",
+          "morph": "Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing",
+          "pos": "ADJ"
+        },
+        {
+          "text": "клуб",
+          "lemma": "клуб",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "на",
+          "lemma": "на",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "массаж",
+          "lemma": "массаж",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "потом",
+          "lemma": "потом",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "в",
+          "lemma": "в",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "солярий",
+          "lemma": "солярий",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "In the morning she first ran in the park, then swam in the pool, then went to the fitness club for a massage, then to the solarium."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "После этого Анна пошла в салон красоты.",
+      "audio": "Тяжёлая жизнь Анны.translated.json.audio\\6.ogg",
+      "spacy_tokens": [
+        {
+          "text": "После",
+          "lemma": "после",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "этого",
+          "lemma": "это",
+          "morph": "Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing",
+          "pos": "PRON"
+        },
+        {
+          "text": "Анна",
+          "lemma": "анна",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": "пошла",
+          "lemma": "пойти",
+          "morph": "Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "в",
+          "lemma": "в",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "салон",
+          "lemma": "салон",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "красоты",
+          "lemma": "красота",
+          "morph": "Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "After that, Anna went to the beauty salon."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Через четыре часа она вышла из салона красоты и пошла в ресторан обедать.",
+      "audio": "Тяжёлая жизнь Анны.translated.json.audio\\7.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Через",
+          "lemma": "через",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "четыре",
+          "lemma": "четыре",
+          "morph": "Animacy=Inan|Case=Acc",
+          "pos": "NUM"
+        },
+        {
+          "text": "часа",
+          "lemma": "час",
+          "morph": "Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "она",
+          "lemma": "она",
+          "morph": "Case=Nom|Gender=Fem|Number=Sing|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": "вышла",
+          "lemma": "выйти",
+          "morph": "Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "из",
+          "lemma": "из",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "салона",
+          "lemma": "салон",
+          "morph": "Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "красоты",
+          "lemma": "красота",
+          "morph": "Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "и",
+          "lemma": "и",
+          "morph": "",
+          "pos": "CCONJ"
+        },
+        {
+          "text": "пошла",
+          "lemma": "пойти",
+          "morph": "Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "в",
+          "lemma": "в",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "ресторан",
+          "lemma": "ресторан",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "обедать",
+          "lemma": "обедать",
+          "morph": "Aspect=Imp|VerbForm=Inf|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "Four hours later, she left the beauty salon and went to a restaurant for lunch."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Через час она вышла из ресторана и поехала в магазин “Эксклюзивная одежда”.",
+      "audio": "Тяжёлая жизнь Анны.translated.json.audio\\8.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Через",
+          "lemma": "через",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "час",
+          "lemma": "час",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "она",
+          "lemma": "она",
+          "morph": "Case=Nom|Gender=Fem|Number=Sing|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": "вышла",
+          "lemma": "выйти",
+          "morph": "Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "из",
+          "lemma": "из",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "ресторана",
+          "lemma": "ресторан",
+          "morph": "Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "и",
+          "lemma": "и",
+          "morph": "",
+          "pos": "CCONJ"
+        },
+        {
+          "text": "поехала",
+          "lemma": "поехать",
+          "morph": "Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "в",
+          "lemma": "в",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "магазин",
+          "lemma": "магазин",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "“",
+          "lemma": "“",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "Эксклюзивная",
+          "lemma": "эксклюзивный",
+          "morph": "Case=Nom|Degree=Pos|Gender=Fem|Number=Sing",
+          "pos": "ADJ"
+        },
+        {
+          "text": "одежда",
+          "lemma": "одежда",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "”",
+          "lemma": "”",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "An hour later, she left the restaurant and went to the exclusive clothing store."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Она вошла в магазин в два часа.",
+      "audio": "Тяжёлая жизнь Анны.translated.json.audio\\9.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Она",
+          "lemma": "она",
+          "morph": "Case=Nom|Gender=Fem|Number=Sing|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": "вошла",
+          "lemma": "войти",
+          "morph": "Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "в",
+          "lemma": "в",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "магазин",
+          "lemma": "магазин",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "в",
+          "lemma": "в",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "два",
+          "lemma": "два",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Masc",
+          "pos": "NUM"
+        },
+        {
+          "text": "часа",
+          "lemma": "час",
+          "morph": "Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "She entered the store at two o'clock."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Анна долго ходила по магазину и выбирала новую одежду.",
+      "audio": "Тяжёлая жизнь Анны.translated.json.audio\\10.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Анна",
+          "lemma": "анна",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": "долго",
+          "lemma": "долго",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "ходила",
+          "lemma": "ходить",
+          "morph": "Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "по",
+          "lemma": "по",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "магазину",
+          "lemma": "магазин",
+          "morph": "Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "и",
+          "lemma": "и",
+          "morph": "",
+          "pos": "CCONJ"
+        },
+        {
+          "text": "выбирала",
+          "lemma": "выбирать",
+          "morph": "Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "новую",
+          "lemma": "новый",
+          "morph": "Case=Acc|Degree=Pos|Gender=Fem|Number=Sing",
+          "pos": "ADJ"
+        },
+        {
+          "text": "одежду",
+          "lemma": "одежда",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "Anna walked around the store for a long time and picked out new clothes."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Через пять часов она вышла из магазина и поехала на такси домой.",
+      "audio": "Тяжёлая жизнь Анны.translated.json.audio\\11.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Через",
+          "lemma": "через",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "пять",
+          "lemma": "пять",
+          "morph": "Case=Acc",
+          "pos": "NUM"
+        },
+        {
+          "text": "часов",
+          "lemma": "час",
+          "morph": "Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur",
+          "pos": "NOUN"
+        },
+        {
+          "text": "она",
+          "lemma": "она",
+          "morph": "Case=Nom|Gender=Fem|Number=Sing|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": "вышла",
+          "lemma": "выйти",
+          "morph": "Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "из",
+          "lemma": "из",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "магазина",
+          "lemma": "магазин",
+          "morph": "Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "и",
+          "lemma": "и",
+          "morph": "",
+          "pos": "CCONJ"
+        },
+        {
+          "text": "поехала",
+          "lemma": "поехать",
+          "morph": "Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "на",
+          "lemma": "на",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "такси",
+          "lemma": "такси",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "домой",
+          "lemma": "домой",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "After five hours, she left the store and took a cab home."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Дома Анна один час думала, что надеть.",
+      "audio": "Тяжёлая жизнь Анны.translated.json.audio\\12.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Дома",
+          "lemma": "дом",
+          "morph": "Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "Анна",
+          "lemma": "анна",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": "один",
+          "lemma": "один",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Masc",
+          "pos": "NUM"
+        },
+        {
+          "text": "час",
+          "lemma": "час",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "думала",
+          "lemma": "думать",
+          "morph": "Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "что",
+          "lemma": "что",
+          "morph": "",
+          "pos": "SCONJ"
+        },
+        {
+          "text": "надеть",
+          "lemma": "надеть",
+          "morph": "Aspect=Perf|VerbForm=Inf|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "At home, Anna spent one hour thinking about what to wear."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Потому что она должна сначала пойти на дискотеку, а потом поехать в ночной клуб.",
+      "audio": "Тяжёлая жизнь Анны.translated.json.audio\\13.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Потому",
+          "lemma": "потому",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "что",
+          "lemma": "что",
+          "morph": "",
+          "pos": "SCONJ"
+        },
+        {
+          "text": "она",
+          "lemma": "она",
+          "morph": "Case=Nom|Gender=Fem|Number=Sing|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": "должна",
+          "lemma": "должный",
+          "morph": "Degree=Pos|Gender=Fem|Number=Sing|StyleVariant=Short",
+          "pos": "ADJ"
+        },
+        {
+          "text": "сначала",
+          "lemma": "сначала",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "пойти",
+          "lemma": "пойти",
+          "morph": "Aspect=Perf|VerbForm=Inf|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "на",
+          "lemma": "на",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "дискотеку",
+          "lemma": "дискотека",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "а",
+          "lemma": "а",
+          "morph": "",
+          "pos": "CCONJ"
+        },
+        {
+          "text": "потом",
+          "lemma": "потом",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "поехать",
+          "lemma": "поехать",
+          "morph": "Aspect=Perf|VerbForm=Inf|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "в",
+          "lemma": "в",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "ночной",
+          "lemma": "ночной",
+          "morph": "Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing",
+          "pos": "ADJ"
+        },
+        {
+          "text": "клуб",
+          "lemma": "клуб",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "Because she must first go to the disco and then go to a nightclub."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Завтра утром Анна летит в Италию, в Милан.",
+      "audio": "Тяжёлая жизнь Анны.translated.json.audio\\14.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Завтра",
+          "lemma": "завтра",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "утром",
+          "lemma": "утро",
+          "morph": "Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "Анна",
+          "lemma": "анна",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": "летит",
+          "lemma": "лететь",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "в",
+          "lemma": "в",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "Италию",
+          "lemma": "италия",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "в",
+          "lemma": "в",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "Милан",
+          "lemma": "милан",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "Tomorrow morning, Anna is flying to Italy, to Milan."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Ей надо купить новое вечернее платье, потому что через два дня она пойдёт на важную встречу с подругами в кафе.",
+      "audio": "Тяжёлая жизнь Анны.translated.json.audio\\15.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Ей",
+          "lemma": "ей",
+          "morph": "Case=Dat|Gender=Fem|Number=Sing|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": "надо",
+          "lemma": "надо",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "купить",
+          "lemma": "купить",
+          "morph": "Aspect=Perf|VerbForm=Inf|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "новое",
+          "lemma": "новый",
+          "morph": "Animacy=Inan|Case=Acc|Degree=Pos|Gender=Neut|Number=Sing",
+          "pos": "ADJ"
+        },
+        {
+          "text": "вечернее",
+          "lemma": "вечерний",
+          "morph": "Animacy=Inan|Case=Acc|Degree=Pos|Gender=Neut|Number=Sing",
+          "pos": "ADJ"
+        },
+        {
+          "text": "платье",
+          "lemma": "платье",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "потому",
+          "lemma": "потому",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "что",
+          "lemma": "что",
+          "morph": "",
+          "pos": "SCONJ"
+        },
+        {
+          "text": "через",
+          "lemma": "через",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "два",
+          "lemma": "два",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Masc",
+          "pos": "NUM"
+        },
+        {
+          "text": "дня",
+          "lemma": "день",
+          "morph": "Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "она",
+          "lemma": "она",
+          "morph": "Case=Nom|Gender=Fem|Number=Sing|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": "пойдёт",
+          "lemma": "пойти",
+          "morph": "Aspect=Perf|Mood=Ind|Number=Sing|Person=Third|Tense=Fut|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "на",
+          "lemma": "на",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "важную",
+          "lemma": "важный",
+          "morph": "Case=Acc|Degree=Pos|Gender=Fem|Number=Sing",
+          "pos": "ADJ"
+        },
+        {
+          "text": "встречу",
+          "lemma": "встреча",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "с",
+          "lemma": "с",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "подругами",
+          "lemma": "подруга",
+          "morph": "Animacy=Anim|Case=Ins|Gender=Fem|Number=Plur",
+          "pos": "NOUN"
+        },
+        {
+          "text": "в",
+          "lemma": "в",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "кафе",
+          "lemma": "кафе",
+          "morph": "Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "She has to buy a new evening dress, because in two days she will go to an important meeting with her friends in a cafe."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "У Анны очень тяжёлая жизнь!",
+      "audio": "Тяжёлая жизнь Анны.translated.json.audio\\16.ogg",
+      "spacy_tokens": [
+        {
+          "text": "У",
+          "lemma": "у",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "Анны",
+          "lemma": "анна",
+          "morph": "Animacy=Anim|Case=Gen|Gender=Fem|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": "очень",
+          "lemma": "очень",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "тяжёлая",
+          "lemma": "тяжёлый",
+          "morph": "Case=Nom|Degree=Pos|Gender=Fem|Number=Sing",
+          "pos": "ADJ"
+        },
+        {
+          "text": "жизнь",
+          "lemma": "жизнь",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "!",
+          "lemma": "!",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "Anna has a very hard life!"
+    }
+  }
+]

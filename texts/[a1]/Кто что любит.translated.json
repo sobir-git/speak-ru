@@ -1,0 +1,876 @@
+[
+  {
+    "ru": {
+      "sentence": "Сегодня вечером моя семья дома.",
+      "audio": "Кто что любит.translated.json.audio\\0.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Сегодня",
+          "lemma": "сегодня",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "вечером",
+          "lemma": "вечер",
+          "morph": "Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "моя",
+          "lemma": "мой",
+          "morph": "Case=Nom|Gender=Fem|Number=Sing",
+          "pos": "DET"
+        },
+        {
+          "text": "семья",
+          "lemma": "семья",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "дома",
+          "lemma": "дом",
+          "morph": "Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "My family is home tonight."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Дедушка и отец играют в шахматы, потому что они любят интеллектуальные игры.",
+      "audio": "Кто что любит.translated.json.audio\\1.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Дедушка",
+          "lemma": "дедушка",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "и",
+          "lemma": "и",
+          "morph": "",
+          "pos": "CCONJ"
+        },
+        {
+          "text": "отец",
+          "lemma": "отец",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "играют",
+          "lemma": "играть",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Plur|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "в",
+          "lemma": "в",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "шахматы",
+          "lemma": "шахматы",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur",
+          "pos": "NOUN"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "потому",
+          "lemma": "потому",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "что",
+          "lemma": "что",
+          "morph": "",
+          "pos": "SCONJ"
+        },
+        {
+          "text": "они",
+          "lemma": "они",
+          "morph": "Case=Nom|Number=Plur|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": "любят",
+          "lemma": "любить",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Plur|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "интеллектуальные",
+          "lemma": "интеллектуальный",
+          "morph": "Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur",
+          "pos": "ADJ"
+        },
+        {
+          "text": "игры",
+          "lemma": "игра",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "Grandpa and Dad are playing chess because they like intellectual games."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Бабушка смотрит телевизор, потому что она любит сериалы.",
+      "audio": "Кто что любит.translated.json.audio\\2.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Бабушка",
+          "lemma": "бабушка",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "смотрит",
+          "lemma": "смотреть",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "телевизор",
+          "lemma": "телевизор",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "потому",
+          "lemma": "потому",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "что",
+          "lemma": "что",
+          "morph": "",
+          "pos": "SCONJ"
+        },
+        {
+          "text": "она",
+          "lemma": "она",
+          "morph": "Case=Nom|Gender=Fem|Number=Sing|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": "любит",
+          "lemma": "любить",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "сериалы",
+          "lemma": "сериал",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "Grandma is watching TV because she likes soap operas."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Мама готовит ужин.",
+      "audio": "Кто что любит.translated.json.audio\\3.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Мама",
+          "lemma": "мама",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "готовит",
+          "lemma": "готовить",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "ужин",
+          "lemma": "ужин",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "Mom cooks dinner."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Она не любит готовить, но мы любим всё, что она готовит.",
+      "audio": "Кто что любит.translated.json.audio\\4.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Она",
+          "lemma": "она",
+          "morph": "Case=Nom|Gender=Fem|Number=Sing|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": "не",
+          "lemma": "не",
+          "morph": "Polarity=Neg",
+          "pos": "PART"
+        },
+        {
+          "text": "любит",
+          "lemma": "любить",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "готовить",
+          "lemma": "готовить",
+          "morph": "Aspect=Imp|VerbForm=Inf|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "но",
+          "lemma": "но",
+          "morph": "",
+          "pos": "CCONJ"
+        },
+        {
+          "text": "мы",
+          "lemma": "мы",
+          "morph": "Case=Nom|Number=Plur|Person=First",
+          "pos": "PRON"
+        },
+        {
+          "text": "любим",
+          "lemma": "любить",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Plur|Person=First|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "всё",
+          "lemma": "всё",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing",
+          "pos": "PRON"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "что",
+          "lemma": "что",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing",
+          "pos": "PRON"
+        },
+        {
+          "text": "она",
+          "lemma": "она",
+          "morph": "Case=Nom|Gender=Fem|Number=Sing|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": "готовит",
+          "lemma": "готовить",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "She doesn't like to cook, but we love everything she makes."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Моя сестра очень любит слушать музыку.",
+      "audio": "Кто что любит.translated.json.audio\\5.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Моя",
+          "lemma": "мой",
+          "morph": "Case=Nom|Gender=Fem|Number=Sing",
+          "pos": "DET"
+        },
+        {
+          "text": "сестра",
+          "lemma": "сестра",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "очень",
+          "lemma": "очень",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "любит",
+          "lemma": "любить",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "слушать",
+          "lemma": "слушать",
+          "morph": "Aspect=Imp|VerbForm=Inf|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "музыку",
+          "lemma": "музыка",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "My sister really likes to listen to music."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Она каждый вечер слушает музыку.",
+      "audio": "Кто что любит.translated.json.audio\\6.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Она",
+          "lemma": "она",
+          "morph": "Case=Nom|Gender=Fem|Number=Sing|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": "каждый",
+          "lemma": "каждый",
+          "morph": "Case=Acc|Gender=Masc|Number=Sing",
+          "pos": "DET"
+        },
+        {
+          "text": "вечер",
+          "lemma": "вечер",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "слушает",
+          "lemma": "слушать",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "музыку",
+          "lemma": "музыка",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "She listens to music every night."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Она любит джаз и поп-музыку.",
+      "audio": "Кто что любит.translated.json.audio\\7.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Она",
+          "lemma": "она",
+          "morph": "Case=Nom|Gender=Fem|Number=Sing|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": "любит",
+          "lemma": "любить",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "джаз",
+          "lemma": "джаз",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "и",
+          "lemma": "и",
+          "morph": "",
+          "pos": "CCONJ"
+        },
+        {
+          "text": "поп",
+          "lemma": "поп",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "-",
+          "lemma": "-",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "музыку",
+          "lemma": "музыка",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "She likes jazz and pop music."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Но мама и бабушка не любят эту музыку.",
+      "audio": "Кто что любит.translated.json.audio\\8.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Но",
+          "lemma": "но",
+          "morph": "",
+          "pos": "CCONJ"
+        },
+        {
+          "text": "мама",
+          "lemma": "мама",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "и",
+          "lemma": "и",
+          "morph": "",
+          "pos": "CCONJ"
+        },
+        {
+          "text": "бабушка",
+          "lemma": "бабушка",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "не",
+          "lemma": "не",
+          "morph": "Polarity=Neg",
+          "pos": "PART"
+        },
+        {
+          "text": "любят",
+          "lemma": "любить",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Plur|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "эту",
+          "lemma": "этот",
+          "morph": "Case=Acc|Gender=Fem|Number=Sing",
+          "pos": "DET"
+        },
+        {
+          "text": "музыку",
+          "lemma": "музыка",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "But my mother and grandmother don't like that music."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Мой брат учит математику.",
+      "audio": "Кто что любит.translated.json.audio\\9.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Мой",
+          "lemma": "мой",
+          "morph": "Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "DET"
+        },
+        {
+          "text": "брат",
+          "lemma": "брат",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "учит",
+          "lemma": "учить",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "математику",
+          "lemma": "математика",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "My brother is learning math."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Он не любит этот предмет.",
+      "audio": "Кто что любит.translated.json.audio\\10.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Он",
+          "lemma": "он",
+          "morph": "Case=Nom|Gender=Masc|Number=Sing|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": "не",
+          "lemma": "не",
+          "morph": "Polarity=Neg",
+          "pos": "PART"
+        },
+        {
+          "text": "любит",
+          "lemma": "любить",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "этот",
+          "lemma": "этот",
+          "morph": "Case=Acc|Gender=Masc|Number=Sing",
+          "pos": "DET"
+        },
+        {
+          "text": "предмет",
+          "lemma": "предмет",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "He doesn't like that subject."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Он любит биологию и любит играть в футбол.",
+      "audio": "Кто что любит.translated.json.audio\\11.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Он",
+          "lemma": "он",
+          "morph": "Case=Nom|Gender=Masc|Number=Sing|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": "любит",
+          "lemma": "любить",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "биологию",
+          "lemma": "биология",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "и",
+          "lemma": "и",
+          "morph": "",
+          "pos": "CCONJ"
+        },
+        {
+          "text": "любит",
+          "lemma": "любить",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "играть",
+          "lemma": "играть",
+          "morph": "Aspect=Imp|VerbForm=Inf|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "в",
+          "lemma": "в",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "футбол",
+          "lemma": "футбол",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "He likes biology and he likes to play soccer."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "А я читаю детектив, потому что я очень люблю детективы.",
+      "audio": "Кто что любит.translated.json.audio\\12.ogg",
+      "spacy_tokens": [
+        {
+          "text": "А",
+          "lemma": "а",
+          "morph": "",
+          "pos": "CCONJ"
+        },
+        {
+          "text": "я",
+          "lemma": "я",
+          "morph": "Case=Nom|Number=Sing|Person=First",
+          "pos": "PRON"
+        },
+        {
+          "text": "читаю",
+          "lemma": "читать",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=First|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "детектив",
+          "lemma": "детектив",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "потому",
+          "lemma": "потому",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "что",
+          "lemma": "что",
+          "morph": "",
+          "pos": "SCONJ"
+        },
+        {
+          "text": "я",
+          "lemma": "я",
+          "morph": "Case=Nom|Number=Sing|Person=First",
+          "pos": "PRON"
+        },
+        {
+          "text": "очень",
+          "lemma": "очень",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "люблю",
+          "lemma": "любить",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=First|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "детективы",
+          "lemma": "детектив",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "And I read detective because I really like detectives."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Они интересные, а я не люблю скучные книги.",
+      "audio": "Кто что любит.translated.json.audio\\13.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Они",
+          "lemma": "они",
+          "morph": "Case=Nom|Number=Plur|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": "интересные",
+          "lemma": "интересный",
+          "morph": "Case=Nom|Degree=Pos|Number=Plur",
+          "pos": "ADJ"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "а",
+          "lemma": "а",
+          "morph": "",
+          "pos": "CCONJ"
+        },
+        {
+          "text": "я",
+          "lemma": "я",
+          "morph": "Case=Nom|Number=Sing|Person=First",
+          "pos": "PRON"
+        },
+        {
+          "text": "не",
+          "lemma": "не",
+          "morph": "Polarity=Neg",
+          "pos": "PART"
+        },
+        {
+          "text": "люблю",
+          "lemma": "любить",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=First|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "скучные",
+          "lemma": "скучный",
+          "morph": "Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur",
+          "pos": "ADJ"
+        },
+        {
+          "text": "книги",
+          "lemma": "книга",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "They are interesting, and I don't like boring books."
+    }
+  }
+]

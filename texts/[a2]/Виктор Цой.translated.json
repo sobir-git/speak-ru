@@ -1,0 +1,1884 @@
+[
+  {
+    "ru": {
+      "sentence": "Виктор Цой Родился 21 июня 1962 года в Ленинграде.",
+      "audio": "Виктор Цой.translated.json.audio\\0.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Виктор",
+          "lemma": "виктор",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": "Цой",
+          "lemma": "цой",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": "Родился",
+          "lemma": "родиться",
+          "morph": "Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid",
+          "pos": "VERB"
+        },
+        {
+          "text": "21",
+          "lemma": "21",
+          "morph": "",
+          "pos": "ADJ"
+        },
+        {
+          "text": "июня",
+          "lemma": "июнь",
+          "morph": "Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "1962",
+          "lemma": "1962",
+          "morph": "",
+          "pos": "ADJ"
+        },
+        {
+          "text": "года",
+          "lemma": "год",
+          "morph": "Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "в",
+          "lemma": "в",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "Ленинграде",
+          "lemma": "ленинград",
+          "morph": "Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "Victor Tsoi was born on June 21, 1962, in Leningrad."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Его отец был инженером, мать – школьной учительницей.",
+      "audio": "Виктор Цой.translated.json.audio\\1.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Его",
+          "lemma": "его",
+          "morph": "Case=Gen|Gender=Masc|Number=Sing|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": "отец",
+          "lemma": "отец",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "был",
+          "lemma": "был",
+          "morph": "Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "AUX"
+        },
+        {
+          "text": "инженером",
+          "lemma": "инженер",
+          "morph": "Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "мать",
+          "lemma": "мать",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "–",
+          "lemma": "–",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "школьной",
+          "lemma": "школьный",
+          "morph": "Case=Ins|Degree=Pos|Gender=Fem|Number=Sing",
+          "pos": "ADJ"
+        },
+        {
+          "text": "учительницей",
+          "lemma": "учительница",
+          "morph": "Animacy=Anim|Case=Ins|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "His father was an engineer, his mother was a schoolteacher."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Он был таким плохим школьником, что его исключили из школы.",
+      "audio": "Виктор Цой.translated.json.audio\\2.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Он",
+          "lemma": "он",
+          "morph": "Case=Nom|Gender=Masc|Number=Sing|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": "был",
+          "lemma": "был",
+          "morph": "Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "AUX"
+        },
+        {
+          "text": "таким",
+          "lemma": "такой",
+          "morph": "Case=Ins|Gender=Masc|Number=Sing",
+          "pos": "DET"
+        },
+        {
+          "text": "плохим",
+          "lemma": "плохой",
+          "morph": "Case=Ins|Degree=Pos|Gender=Masc|Number=Sing",
+          "pos": "ADJ"
+        },
+        {
+          "text": "школьником",
+          "lemma": "школьник",
+          "morph": "Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "что",
+          "lemma": "что",
+          "morph": "",
+          "pos": "SCONJ"
+        },
+        {
+          "text": "его",
+          "lemma": "его",
+          "morph": "Case=Acc|Gender=Masc|Number=Sing|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": "исключили",
+          "lemma": "исключить",
+          "morph": "Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "из",
+          "lemma": "из",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "школы",
+          "lemma": "школа",
+          "morph": "Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "He was such a bad student that he was expelled from school."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Музыка была его главным увлечением.",
+      "audio": "Виктор Цой.translated.json.audio\\3.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Музыка",
+          "lemma": "музыка",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "была",
+          "lemma": "была",
+          "morph": "Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "AUX"
+        },
+        {
+          "text": "его",
+          "lemma": "его",
+          "morph": "",
+          "pos": "DET"
+        },
+        {
+          "text": "главным",
+          "lemma": "главный",
+          "morph": "Case=Ins|Degree=Pos|Gender=Neut|Number=Sing",
+          "pos": "ADJ"
+        },
+        {
+          "text": "увлечением",
+          "lemma": "увлечение",
+          "morph": "Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "Music was his main passion."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "В 1981 году он организовал свою первую группу, а через полгода написал первую песню “Мои друзья всегда идут по жизни маршем”.",
+      "audio": "Виктор Цой.translated.json.audio\\4.ogg",
+      "spacy_tokens": [
+        {
+          "text": "В",
+          "lemma": "в",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "1981",
+          "lemma": "1981",
+          "morph": "",
+          "pos": "ADJ"
+        },
+        {
+          "text": "году",
+          "lemma": "год",
+          "morph": "Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "он",
+          "lemma": "он",
+          "morph": "Case=Nom|Gender=Masc|Number=Sing|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": "организовал",
+          "lemma": "организовать",
+          "morph": "Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "свою",
+          "lemma": "свой",
+          "morph": "Case=Acc|Gender=Fem|Number=Sing",
+          "pos": "DET"
+        },
+        {
+          "text": "первую",
+          "lemma": "первый",
+          "morph": "Case=Acc|Degree=Pos|Gender=Fem|Number=Sing",
+          "pos": "ADJ"
+        },
+        {
+          "text": "группу",
+          "lemma": "группа",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "а",
+          "lemma": "а",
+          "morph": "",
+          "pos": "CCONJ"
+        },
+        {
+          "text": "через",
+          "lemma": "через",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "полгода",
+          "lemma": "полгода",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur",
+          "pos": "NOUN"
+        },
+        {
+          "text": "написал",
+          "lemma": "написать",
+          "morph": "Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "первую",
+          "lemma": "первый",
+          "morph": "Case=Acc|Degree=Pos|Gender=Fem|Number=Sing",
+          "pos": "ADJ"
+        },
+        {
+          "text": "песню",
+          "lemma": "песня",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "“",
+          "lemma": "“",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "Мои",
+          "lemma": "мой",
+          "morph": "Case=Nom|Number=Plur",
+          "pos": "DET"
+        },
+        {
+          "text": "друзья",
+          "lemma": "друг",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur",
+          "pos": "NOUN"
+        },
+        {
+          "text": "всегда",
+          "lemma": "всегда",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "идут",
+          "lemma": "идти",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Plur|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "по",
+          "lemma": "по",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "жизни",
+          "lemma": "жизнь",
+          "morph": "Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "маршем",
+          "lemma": "марш",
+          "morph": "Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "”",
+          "lemma": "”",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "In 1981 he organized his first band, and six months later he wrote his first song \"My friends always march through life.\""
+    }
+  },
+  {
+    "ru": {
+      "sentence": "В 1982 году он организовал группу “Кино” и записал первый альбом “45”.",
+      "audio": "Виктор Цой.translated.json.audio\\5.ogg",
+      "spacy_tokens": [
+        {
+          "text": "В",
+          "lemma": "в",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "1982",
+          "lemma": "1982",
+          "morph": "",
+          "pos": "ADJ"
+        },
+        {
+          "text": "году",
+          "lemma": "год",
+          "morph": "Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "он",
+          "lemma": "он",
+          "morph": "Case=Nom|Gender=Masc|Number=Sing|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": "организовал",
+          "lemma": "организовать",
+          "morph": "Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "группу",
+          "lemma": "группа",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "“",
+          "lemma": "“",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "Кино",
+          "lemma": "кино",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "”",
+          "lemma": "”",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "и",
+          "lemma": "и",
+          "morph": "",
+          "pos": "CCONJ"
+        },
+        {
+          "text": "записал",
+          "lemma": "записать",
+          "morph": "Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "первый",
+          "lemma": "первый",
+          "morph": "Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing",
+          "pos": "ADJ"
+        },
+        {
+          "text": "альбом",
+          "lemma": "альбом",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "“",
+          "lemma": "“",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "45",
+          "lemma": "45",
+          "morph": "",
+          "pos": "NUM"
+        },
+        {
+          "text": "”",
+          "lemma": "”",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "In 1982 he organized the band Kino and recorded his first album, 45."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "У них не было студии, не было аппаратуры.",
+      "audio": "Виктор Цой.translated.json.audio\\6.ogg",
+      "spacy_tokens": [
+        {
+          "text": "У",
+          "lemma": "у",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "них",
+          "lemma": "них",
+          "morph": "Case=Gen|Number=Plur|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": "не",
+          "lemma": "не",
+          "morph": "Polarity=Neg",
+          "pos": "PART"
+        },
+        {
+          "text": "было",
+          "lemma": "быть",
+          "morph": "Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "студии",
+          "lemma": "студия",
+          "morph": "Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "не",
+          "lemma": "не",
+          "morph": "Polarity=Neg",
+          "pos": "PART"
+        },
+        {
+          "text": "было",
+          "lemma": "быть",
+          "morph": "Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "аппаратуры",
+          "lemma": "аппаратура",
+          "morph": "Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "They had no studio, no equipment."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Они собирались со своими друзьями в коммуналке и пели песни.",
+      "audio": "Виктор Цой.translated.json.audio\\7.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Они",
+          "lemma": "они",
+          "morph": "Case=Nom|Number=Plur|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": "собирались",
+          "lemma": "собираться",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid",
+          "pos": "VERB"
+        },
+        {
+          "text": "со",
+          "lemma": "со",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "своими",
+          "lemma": "свой",
+          "morph": "Case=Ins|Number=Plur",
+          "pos": "DET"
+        },
+        {
+          "text": "друзьями",
+          "lemma": "друг",
+          "morph": "Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur",
+          "pos": "NOUN"
+        },
+        {
+          "text": "в",
+          "lemma": "в",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "коммуналке",
+          "lemma": "коммуналка",
+          "morph": "Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "и",
+          "lemma": "и",
+          "morph": "",
+          "pos": "CCONJ"
+        },
+        {
+          "text": "пели",
+          "lemma": "петь",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "песни",
+          "lemma": "песня",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "They would gather with their friends in a communal apartment and sing songs."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Однажды он ехал в электричке вместе с уже очень известным музыкантом Борисом Гребенщиковым, лидером группы “Аквариум”.",
+      "audio": "Виктор Цой.translated.json.audio\\8.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Однажды",
+          "lemma": "однажды",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "он",
+          "lemma": "он",
+          "morph": "Case=Nom|Gender=Masc|Number=Sing|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": "ехал",
+          "lemma": "ехать",
+          "morph": "Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "в",
+          "lemma": "в",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "электричке",
+          "lemma": "электричка",
+          "morph": "Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "вместе",
+          "lemma": "вместе",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "с",
+          "lemma": "с",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "уже",
+          "lemma": "уже",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "очень",
+          "lemma": "очень",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "известным",
+          "lemma": "известный",
+          "morph": "Case=Ins|Degree=Pos|Gender=Masc|Number=Sing",
+          "pos": "ADJ"
+        },
+        {
+          "text": "музыкантом",
+          "lemma": "музыкант",
+          "morph": "Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "Борисом",
+          "lemma": "борис",
+          "morph": "Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": "Гребенщиковым",
+          "lemma": "гребенщиков",
+          "morph": "Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "лидером",
+          "lemma": "лидер",
+          "morph": "Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "группы",
+          "lemma": "группа",
+          "morph": "Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "“",
+          "lemma": "“",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "Аквариум",
+          "lemma": "аквариум",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "”",
+          "lemma": "”",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "Once he was riding in an electric train with Boris Grebenshchikov, the leader of the band Aquarium, who was already very famous."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Борис попросил его спеть что-нибудь, и Виктор спел две песни.",
+      "audio": "Виктор Цой.translated.json.audio\\9.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Борис",
+          "lemma": "борис",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": "попросил",
+          "lemma": "попросить",
+          "morph": "Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "его",
+          "lemma": "его",
+          "morph": "Case=Acc|Gender=Masc|Number=Sing|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": "спеть",
+          "lemma": "спеть",
+          "morph": "Aspect=Perf|VerbForm=Inf|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "что",
+          "lemma": "что",
+          "morph": "Case=Acc",
+          "pos": "PRON"
+        },
+        {
+          "text": "-",
+          "lemma": "-",
+          "morph": "Case=Acc",
+          "pos": "PRON"
+        },
+        {
+          "text": "нибудь",
+          "lemma": "нибудь",
+          "morph": "Case=Acc",
+          "pos": "PRON"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "и",
+          "lemma": "и",
+          "morph": "",
+          "pos": "CCONJ"
+        },
+        {
+          "text": "Виктор",
+          "lemma": "виктор",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": "спел",
+          "lemma": "спеть",
+          "morph": "Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "две",
+          "lemma": "два",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Fem",
+          "pos": "NUM"
+        },
+        {
+          "text": "песни",
+          "lemma": "песня",
+          "morph": "Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "Boris asked him to sing something, and Victor sang two songs."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Одна песня так понравилась Борису, что он решил помочь музыканту.",
+      "audio": "Виктор Цой.translated.json.audio\\10.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Одна",
+          "lemma": "одна",
+          "morph": "Case=Nom|Gender=Fem|Number=Sing",
+          "pos": "NUM"
+        },
+        {
+          "text": "песня",
+          "lemma": "песня",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "так",
+          "lemma": "так",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "понравилась",
+          "lemma": "понравиться",
+          "morph": "Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid",
+          "pos": "VERB"
+        },
+        {
+          "text": "Борису",
+          "lemma": "борис",
+          "morph": "Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "что",
+          "lemma": "что",
+          "morph": "",
+          "pos": "SCONJ"
+        },
+        {
+          "text": "он",
+          "lemma": "он",
+          "morph": "Case=Nom|Gender=Masc|Number=Sing|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": "решил",
+          "lemma": "решить",
+          "morph": "Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "помочь",
+          "lemma": "помочь",
+          "morph": "Aspect=Perf|VerbForm=Inf|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "музыканту",
+          "lemma": "музыкант",
+          "morph": "Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "One song Boris liked so much that he decided to help the musician."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "19 февраля 1983 года группы “Кино” и “Аквариум” выступили вместе.",
+      "audio": "Виктор Цой.translated.json.audio\\11.ogg",
+      "spacy_tokens": [
+        {
+          "text": "19",
+          "lemma": "19",
+          "morph": "",
+          "pos": "ADJ"
+        },
+        {
+          "text": "февраля",
+          "lemma": "февраль",
+          "morph": "Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "1983",
+          "lemma": "1983",
+          "morph": "",
+          "pos": "ADJ"
+        },
+        {
+          "text": "года",
+          "lemma": "год",
+          "morph": "Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "группы",
+          "lemma": "группа",
+          "morph": "Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "“",
+          "lemma": "“",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "Кино",
+          "lemma": "кино",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "”",
+          "lemma": "”",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "и",
+          "lemma": "и",
+          "morph": "",
+          "pos": "CCONJ"
+        },
+        {
+          "text": "“",
+          "lemma": "“",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "Аквариум",
+          "lemma": "аквариум",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "”",
+          "lemma": "”",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "выступили",
+          "lemma": "выступить",
+          "morph": "Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "вместе",
+          "lemma": "вместе",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "On February 19, 1983, the bands Kino and Aquarium performed together."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Так началась другая жизнь.",
+      "audio": "Виктор Цой.translated.json.audio\\12.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Так",
+          "lemma": "так",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "началась",
+          "lemma": "начаться",
+          "morph": "Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid",
+          "pos": "VERB"
+        },
+        {
+          "text": "другая",
+          "lemma": "другая",
+          "morph": "Case=Nom|Degree=Pos|Gender=Fem|Number=Sing",
+          "pos": "ADJ"
+        },
+        {
+          "text": "жизнь",
+          "lemma": "жизнь",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "Thus another life began."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Друзья-музыканты из “Аквариума” помогали Виктору организовывать концерты.",
+      "audio": "Виктор Цой.translated.json.audio\\13.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Друзья",
+          "lemma": "друг",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur",
+          "pos": "NOUN"
+        },
+        {
+          "text": "-",
+          "lemma": "-",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur",
+          "pos": "NOUN"
+        },
+        {
+          "text": "музыканты",
+          "lemma": "музыкант",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur",
+          "pos": "NOUN"
+        },
+        {
+          "text": "из",
+          "lemma": "из",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "“",
+          "lemma": "“",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "Аквариума",
+          "lemma": "аквариум",
+          "morph": "Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "”",
+          "lemma": "”",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "помогали",
+          "lemma": "помогать",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "Виктору",
+          "lemma": "виктор",
+          "morph": "Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": "организовывать",
+          "lemma": "организовывать",
+          "morph": "Aspect=Imp|VerbForm=Inf|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "концерты",
+          "lemma": "концерт",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "Friends-musicians from \"Aquarium\" helped Victor to organize concerts."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Группа несколько раз выступала на ленинградском рок-фестивале, ездила в Данию, Францию, Италию и америку.",
+      "audio": "Виктор Цой.translated.json.audio\\14.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Группа",
+          "lemma": "группа",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "несколько",
+          "lemma": "несколько",
+          "morph": "Animacy=Inan|Case=Acc",
+          "pos": "NUM"
+        },
+        {
+          "text": "раз",
+          "lemma": "раз",
+          "morph": "Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur",
+          "pos": "NOUN"
+        },
+        {
+          "text": "выступала",
+          "lemma": "выступать",
+          "morph": "Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "на",
+          "lemma": "на",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "ленинградском",
+          "lemma": "ленинградский",
+          "morph": "Case=Loc|Degree=Pos|Gender=Masc|Number=Sing",
+          "pos": "ADJ"
+        },
+        {
+          "text": "рок",
+          "lemma": "рок",
+          "morph": "Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "-",
+          "lemma": "-",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "фестивале",
+          "lemma": "фестивале",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "ездила",
+          "lemma": "ездить",
+          "morph": "Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "в",
+          "lemma": "в",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "Данию",
+          "lemma": "дания",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "Францию",
+          "lemma": "франция",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "Италию",
+          "lemma": "италия",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": "и",
+          "lemma": "и",
+          "morph": "",
+          "pos": "CCONJ"
+        },
+        {
+          "text": "америку",
+          "lemma": "америка",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "The band performed several times at the Leningrad rock festival, went to Denmark, France, Italy and America."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Ночью Виктор работал машинистом в котельной, чтобы днём заниматься музыкой.",
+      "audio": "Виктор Цой.translated.json.audio\\15.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Ночью",
+          "lemma": "ночь",
+          "morph": "Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "Виктор",
+          "lemma": "виктор",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": "работал",
+          "lemma": "работать",
+          "morph": "Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "машинистом",
+          "lemma": "машинист",
+          "morph": "Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "в",
+          "lemma": "в",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "котельной",
+          "lemma": "котельная",
+          "morph": "Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "чтобы",
+          "lemma": "чтобы",
+          "morph": "",
+          "pos": "SCONJ"
+        },
+        {
+          "text": "днём",
+          "lemma": "днём",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "заниматься",
+          "lemma": "заниматься",
+          "morph": "Aspect=Imp|VerbForm=Inf|Voice=Mid",
+          "pos": "VERB"
+        },
+        {
+          "text": "музыкой",
+          "lemma": "музыка",
+          "morph": "Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "Victor worked as a machinist in a boiler room at night in order to work on his music during the day."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "В этой котельной сейчас находится его фан-клуб “Камчатка”.",
+      "audio": "Виктор Цой.translated.json.audio\\16.ogg",
+      "spacy_tokens": [
+        {
+          "text": "В",
+          "lemma": "в",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "этой",
+          "lemma": "этот",
+          "morph": "Case=Loc|Gender=Fem|Number=Sing",
+          "pos": "DET"
+        },
+        {
+          "text": "котельной",
+          "lemma": "котельная",
+          "morph": "Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "сейчас",
+          "lemma": "сейчас",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "находится",
+          "lemma": "находиться",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Mid",
+          "pos": "VERB"
+        },
+        {
+          "text": "его",
+          "lemma": "его",
+          "morph": "",
+          "pos": "DET"
+        },
+        {
+          "text": "фан",
+          "lemma": "фан",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "-",
+          "lemma": "-",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "клуб",
+          "lemma": "клуб",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "“",
+          "lemma": "“",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "Камчатка",
+          "lemma": "камчатка",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "”",
+          "lemma": "”",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "This boiler room is now home to his fan club, Kamchatka."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "В 1987 году он сыграл роль в фильме “Асса”, через год – в фильме “Игла”.",
+      "audio": "Виктор Цой.translated.json.audio\\17.ogg",
+      "spacy_tokens": [
+        {
+          "text": "В",
+          "lemma": "в",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "1987",
+          "lemma": "1987",
+          "morph": "",
+          "pos": "ADJ"
+        },
+        {
+          "text": "году",
+          "lemma": "год",
+          "morph": "Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "он",
+          "lemma": "он",
+          "morph": "Case=Nom|Gender=Masc|Number=Sing|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": "сыграл",
+          "lemma": "сыграть",
+          "morph": "Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "роль",
+          "lemma": "роль",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "в",
+          "lemma": "в",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "фильме",
+          "lemma": "фильм",
+          "morph": "Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "“",
+          "lemma": "“",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "Асса",
+          "lemma": "асса",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "”",
+          "lemma": "”",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "через",
+          "lemma": "через",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "год",
+          "lemma": "год",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "–",
+          "lemma": "–",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "в",
+          "lemma": "в",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "фильме",
+          "lemma": "фильм",
+          "morph": "Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "“",
+          "lemma": "“",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "Игла",
+          "lemma": "игла",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "”",
+          "lemma": "”",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "In 1987 he played a role in the movie \"Assa\", a year later - in the movie \"Needle\"."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Он не был великим актёром и вокалистом, но имел такой грандиозный успех, что стал кумиром для миллионов людей.",
+      "audio": "Виктор Цой.translated.json.audio\\18.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Он",
+          "lemma": "он",
+          "morph": "Case=Nom|Gender=Masc|Number=Sing|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": "не",
+          "lemma": "не",
+          "morph": "Polarity=Neg",
+          "pos": "PART"
+        },
+        {
+          "text": "был",
+          "lemma": "был",
+          "morph": "Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "AUX"
+        },
+        {
+          "text": "великим",
+          "lemma": "великий",
+          "morph": "Case=Ins|Degree=Pos|Gender=Masc|Number=Sing",
+          "pos": "ADJ"
+        },
+        {
+          "text": "актёром",
+          "lemma": "актёр",
+          "morph": "Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "и",
+          "lemma": "и",
+          "morph": "",
+          "pos": "CCONJ"
+        },
+        {
+          "text": "вокалистом",
+          "lemma": "вокалист",
+          "morph": "Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "но",
+          "lemma": "но",
+          "morph": "",
+          "pos": "CCONJ"
+        },
+        {
+          "text": "имел",
+          "lemma": "иметь",
+          "morph": "Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "такой",
+          "lemma": "такой",
+          "morph": "Case=Acc|Gender=Masc|Number=Sing",
+          "pos": "DET"
+        },
+        {
+          "text": "грандиозный",
+          "lemma": "грандиозный",
+          "morph": "Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing",
+          "pos": "ADJ"
+        },
+        {
+          "text": "успех",
+          "lemma": "успех",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "что",
+          "lemma": "что",
+          "morph": "",
+          "pos": "SCONJ"
+        },
+        {
+          "text": "стал",
+          "lemma": "стать",
+          "morph": "Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "кумиром",
+          "lemma": "кумир",
+          "morph": "Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "для",
+          "lemma": "для",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "миллионов",
+          "lemma": "миллион",
+          "morph": "Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur",
+          "pos": "NOUN"
+        },
+        {
+          "text": "людей",
+          "lemma": "человек",
+          "morph": "Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "He was not a great actor or vocalist, but was such a tremendous success that he became an idol for millions of people."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "15 августа 1990 года Виктор Цой погиб в автомобильной катастрофе.",
+      "audio": "Виктор Цой.translated.json.audio\\19.ogg",
+      "spacy_tokens": [
+        {
+          "text": "15",
+          "lemma": "15",
+          "morph": "",
+          "pos": "ADJ"
+        },
+        {
+          "text": "августа",
+          "lemma": "август",
+          "morph": "Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "1990",
+          "lemma": "1990",
+          "morph": "",
+          "pos": "ADJ"
+        },
+        {
+          "text": "года",
+          "lemma": "год",
+          "morph": "Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "Виктор",
+          "lemma": "виктор",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": "Цой",
+          "lemma": "цой",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": "погиб",
+          "lemma": "погибнуть",
+          "morph": "Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "в",
+          "lemma": "в",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "автомобильной",
+          "lemma": "автомобильный",
+          "morph": "Case=Loc|Degree=Pos|Gender=Fem|Number=Sing",
+          "pos": "ADJ"
+        },
+        {
+          "text": "катастрофе",
+          "lemma": "катастрофа",
+          "morph": "Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "On August 15, 1990 Victor Tsoi died in a car accident."
+    }
+  }
+]

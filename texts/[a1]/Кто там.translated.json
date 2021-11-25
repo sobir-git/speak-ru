@@ -1,0 +1,1754 @@
+[
+  {
+    "ru": {
+      "sentence": "У меня есть русский друг.",
+      "audio": "Кто там.translated.json.audio\\0.ogg",
+      "spacy_tokens": [
+        {
+          "text": "У",
+          "lemma": "у",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "меня",
+          "lemma": "меня",
+          "morph": "Case=Gen|Number=Sing|Person=First",
+          "pos": "PRON"
+        },
+        {
+          "text": "есть",
+          "lemma": "быть",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "русский",
+          "lemma": "русский",
+          "morph": "Case=Nom|Degree=Pos|Gender=Masc|Number=Sing",
+          "pos": "ADJ"
+        },
+        {
+          "text": "друг",
+          "lemma": "друг",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "I have a Russian friend."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Его зовут Александр.Один раз Александр пригласил меня в гости.",
+      "audio": "Кто там.translated.json.audio\\1.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Его",
+          "lemma": "его",
+          "morph": "Case=Acc|Gender=Masc|Number=Sing|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": "зовут",
+          "lemma": "звать",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Plur|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "Александр",
+          "lemma": "александр",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "Один",
+          "lemma": "один",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Masc",
+          "pos": "NUM"
+        },
+        {
+          "text": "раз",
+          "lemma": "раз",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "Александр",
+          "lemma": "александр",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": "пригласил",
+          "lemma": "пригласить",
+          "morph": "Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "меня",
+          "lemma": "меня",
+          "morph": "Case=Acc|Number=Sing|Person=First",
+          "pos": "PRON"
+        },
+        {
+          "text": "в",
+          "lemma": "в",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "гости",
+          "lemma": "гость",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "His name is Alexander.One time Alexander invited me to visit."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Он сказал мне: “Жду тебя завтра в два часа”.",
+      "audio": "Кто там.translated.json.audio\\2.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Он",
+          "lemma": "он",
+          "morph": "Case=Nom|Gender=Masc|Number=Sing|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": "сказал",
+          "lemma": "сказать",
+          "morph": "Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "мне",
+          "lemma": "мне",
+          "morph": "Case=Dat|Number=Sing|Person=First",
+          "pos": "PRON"
+        },
+        {
+          "text": ":",
+          "lemma": ":",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "“",
+          "lemma": "“",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "Жду",
+          "lemma": "ждать",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=First|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "тебя",
+          "lemma": "тебя",
+          "morph": "Case=Acc|Number=Sing|Person=Second",
+          "pos": "PRON"
+        },
+        {
+          "text": "завтра",
+          "lemma": "завтра",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "в",
+          "lemma": "в",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "два",
+          "lemma": "два",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Masc",
+          "pos": "NUM"
+        },
+        {
+          "text": "часа",
+          "lemma": "час",
+          "morph": "Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "”",
+          "lemma": "”",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "He told me, \"I'll see you tomorrow at two o'clock."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Я перепутал и подумал, что он ждёт меня в двенадцать часов.",
+      "audio": "Кто там.translated.json.audio\\3.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Я",
+          "lemma": "я",
+          "morph": "Case=Nom|Number=Sing|Person=First",
+          "pos": "PRON"
+        },
+        {
+          "text": "перепутал",
+          "lemma": "перепутать",
+          "morph": "Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "и",
+          "lemma": "и",
+          "morph": "",
+          "pos": "CCONJ"
+        },
+        {
+          "text": "подумал",
+          "lemma": "подумать",
+          "morph": "Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "что",
+          "lemma": "что",
+          "morph": "",
+          "pos": "SCONJ"
+        },
+        {
+          "text": "он",
+          "lemma": "он",
+          "morph": "Case=Nom|Gender=Masc|Number=Sing|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": "ждёт",
+          "lemma": "ждать",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "меня",
+          "lemma": "меня",
+          "morph": "Case=Acc|Number=Sing|Person=First",
+          "pos": "PRON"
+        },
+        {
+          "text": "в",
+          "lemma": "в",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "двенадцать",
+          "lemma": "двенадцать",
+          "morph": "Case=Acc",
+          "pos": "NUM"
+        },
+        {
+          "text": "часов",
+          "lemma": "час",
+          "morph": "Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "I got confused and thought that he was expecting me at twelve o'clock."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "В двенадцать часов я позвонил в квартиру Александра.",
+      "audio": "Кто там.translated.json.audio\\4.ogg",
+      "spacy_tokens": [
+        {
+          "text": "В",
+          "lemma": "в",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "двенадцать",
+          "lemma": "двенадцать",
+          "morph": "Case=Acc",
+          "pos": "NUM"
+        },
+        {
+          "text": "часов",
+          "lemma": "час",
+          "morph": "Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur",
+          "pos": "NOUN"
+        },
+        {
+          "text": "я",
+          "lemma": "я",
+          "morph": "Case=Nom|Number=Sing|Person=First",
+          "pos": "PRON"
+        },
+        {
+          "text": "позвонил",
+          "lemma": "позвонить",
+          "morph": "Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "в",
+          "lemma": "в",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "квартиру",
+          "lemma": "квартира",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "Александра",
+          "lemma": "александр",
+          "morph": "Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "At twelve o'clock I called Alexander's apartment."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "– Кто там?",
+      "audio": "Кто там.translated.json.audio\\5.ogg",
+      "spacy_tokens": [
+        {
+          "text": "–",
+          "lemma": "–",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "Кто",
+          "lemma": "кто",
+          "morph": "Case=Nom",
+          "pos": "PRON"
+        },
+        {
+          "text": "там",
+          "lemma": "там",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "?",
+          "lemma": "?",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "- Who is there?"
+    }
+  },
+  {
+    "ru": {
+      "sentence": "– спросили меня.",
+      "audio": "Кто там.translated.json.audio\\6.ogg",
+      "spacy_tokens": [
+        {
+          "text": "–",
+          "lemma": "–",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "спросили",
+          "lemma": "спросить",
+          "morph": "Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "меня",
+          "lemma": "меня",
+          "morph": "Case=Acc|Number=Sing|Person=First",
+          "pos": "PRON"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "- they asked me."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "– Это я, – ответил я.",
+      "audio": "Кто там.translated.json.audio\\7.ogg",
+      "spacy_tokens": [
+        {
+          "text": "–",
+          "lemma": "–",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "Это",
+          "lemma": "это",
+          "morph": "",
+          "pos": "PART"
+        },
+        {
+          "text": "я",
+          "lemma": "я",
+          "morph": "Case=Nom|Number=Sing|Person=First",
+          "pos": "PRON"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "–",
+          "lemma": "–",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "ответил",
+          "lemma": "ответить",
+          "morph": "Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "я",
+          "lemma": "я",
+          "morph": "Case=Nom|Number=Sing|Person=First",
+          "pos": "PRON"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "- It's me,\" I answered."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "– Кто там?",
+      "audio": "Кто там.translated.json.audio\\8.ogg",
+      "spacy_tokens": [
+        {
+          "text": "–",
+          "lemma": "–",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "Кто",
+          "lemma": "кто",
+          "morph": "Case=Nom",
+          "pos": "PRON"
+        },
+        {
+          "text": "там",
+          "lemma": "там",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "?",
+          "lemma": "?",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "- Who is there?"
+    }
+  },
+  {
+    "ru": {
+      "sentence": "– опять спросил голос.",
+      "audio": "Кто там.translated.json.audio\\9.ogg",
+      "spacy_tokens": [
+        {
+          "text": "–",
+          "lemma": "–",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "опять",
+          "lemma": "опять",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "спросил",
+          "lemma": "спросить",
+          "morph": "Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "голос",
+          "lemma": "голос",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "- The voice asked again."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "– Это я, Александр, открой дверь, – повторил я.",
+      "audio": "Кто там.translated.json.audio\\10.ogg",
+      "spacy_tokens": [
+        {
+          "text": "–",
+          "lemma": "–",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "Это",
+          "lemma": "это",
+          "morph": "",
+          "pos": "PART"
+        },
+        {
+          "text": "я",
+          "lemma": "я",
+          "morph": "Case=Nom|Number=Sing|Person=First",
+          "pos": "PRON"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "Александр",
+          "lemma": "александр",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "открой",
+          "lemma": "открыть",
+          "morph": "Aspect=Perf|Mood=Imp|Number=Sing|Person=Second|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "дверь",
+          "lemma": "дверь",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "–",
+          "lemma": "–",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "повторил",
+          "lemma": "повторить",
+          "morph": "Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "я",
+          "lemma": "я",
+          "morph": "Case=Nom|Number=Sing|Person=First",
+          "pos": "PRON"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "- It's me, Alexander, open the door,\" I repeated."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Я долго повторял, что это я и просил открыть дверь.",
+      "audio": "Кто там.translated.json.audio\\11.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Я",
+          "lemma": "я",
+          "morph": "Case=Nom|Number=Sing|Person=First",
+          "pos": "PRON"
+        },
+        {
+          "text": "долго",
+          "lemma": "долго",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "повторял",
+          "lemma": "повторять",
+          "morph": "Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "что",
+          "lemma": "что",
+          "morph": "",
+          "pos": "SCONJ"
+        },
+        {
+          "text": "это",
+          "lemma": "это",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing",
+          "pos": "PRON"
+        },
+        {
+          "text": "я",
+          "lemma": "я",
+          "morph": "Case=Nom|Number=Sing|Person=First",
+          "pos": "PRON"
+        },
+        {
+          "text": "и",
+          "lemma": "и",
+          "morph": "",
+          "pos": "PART"
+        },
+        {
+          "text": "просил",
+          "lemma": "просить",
+          "morph": "Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "открыть",
+          "lemma": "открыть",
+          "morph": "Aspect=Perf|VerbForm=Inf|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "дверь",
+          "lemma": "дверь",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "I repeated for a long time that it was me and asked to open the door."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "“Почему Александр не открывает дверь?”",
+      "audio": "Кто там.translated.json.audio\\12.ogg",
+      "spacy_tokens": [
+        {
+          "text": "“",
+          "lemma": "“",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "Почему",
+          "lemma": "почему",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "Александр",
+          "lemma": "александр",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": "не",
+          "lemma": "не",
+          "morph": "Polarity=Neg",
+          "pos": "PART"
+        },
+        {
+          "text": "открывает",
+          "lemma": "открывать",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "дверь",
+          "lemma": "дверь",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "?",
+          "lemma": "?",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "”",
+          "lemma": "”",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "\"Why doesn't Alexander open the door?\""
+    }
+  },
+  {
+    "ru": {
+      "sentence": "– подумал я.",
+      "audio": "Кто там.translated.json.audio\\13.ogg",
+      "spacy_tokens": [
+        {
+          "text": "–",
+          "lemma": "–",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "подумал",
+          "lemma": "подумать",
+          "morph": "Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "я",
+          "lemma": "я",
+          "morph": "Case=Nom|Number=Sing|Person=First",
+          "pos": "PRON"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "- I thought."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Он живёт в квартире один.",
+      "audio": "Кто там.translated.json.audio\\14.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Он",
+          "lemma": "он",
+          "morph": "Case=Nom|Gender=Masc|Number=Sing|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": "живёт",
+          "lemma": "жить",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "в",
+          "lemma": "в",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "квартире",
+          "lemma": "квартира",
+          "morph": "Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "один",
+          "lemma": "один",
+          "morph": "Case=Nom|Degree=Pos|Gender=Masc|Number=Sing",
+          "pos": "DET"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "He lives in the apartment alone."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Кто в квартире Александра?",
+      "audio": "Кто там.translated.json.audio\\15.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Кто",
+          "lemma": "кто",
+          "morph": "Case=Nom",
+          "pos": "PRON"
+        },
+        {
+          "text": "в",
+          "lemma": "в",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "квартире",
+          "lemma": "квартира",
+          "morph": "Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "Александра",
+          "lemma": "александр",
+          "morph": "Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": "?",
+          "lemma": "?",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "Who is in Alexander's apartment?"
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Кто меня спрашивает?",
+      "audio": "Кто там.translated.json.audio\\16.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Кто",
+          "lemma": "кто",
+          "morph": "Case=Nom",
+          "pos": "PRON"
+        },
+        {
+          "text": "меня",
+          "lemma": "меня",
+          "morph": "Case=Acc|Number=Sing|Person=First",
+          "pos": "PRON"
+        },
+        {
+          "text": "спрашивает",
+          "lemma": "спрашивать",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "?",
+          "lemma": "?",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "Who's asking me?"
+    }
+  },
+  {
+    "ru": {
+      "sentence": "И тогда я ещё раз позвонил и спросил “Кто там?”",
+      "audio": "Кто там.translated.json.audio\\17.ogg",
+      "spacy_tokens": [
+        {
+          "text": "И",
+          "lemma": "и",
+          "morph": "",
+          "pos": "CCONJ"
+        },
+        {
+          "text": "тогда",
+          "lemma": "тогда",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "я",
+          "lemma": "я",
+          "morph": "Case=Nom|Number=Sing|Person=First",
+          "pos": "PRON"
+        },
+        {
+          "text": "ещё",
+          "lemma": "ещё",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "раз",
+          "lemma": "раз",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "позвонил",
+          "lemma": "позвонить",
+          "morph": "Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "и",
+          "lemma": "и",
+          "morph": "",
+          "pos": "CCONJ"
+        },
+        {
+          "text": "спросил",
+          "lemma": "спросить",
+          "morph": "Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "“",
+          "lemma": "“",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "Кто",
+          "lemma": "кто",
+          "morph": "Case=Nom",
+          "pos": "PRON"
+        },
+        {
+          "text": "там",
+          "lemma": "там",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "?",
+          "lemma": "?",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "”",
+          "lemma": "”",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "So I called again and asked, \"Who's there?\""
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Голос из квартиры ответил: “Это я! Открой дверь!”",
+      "audio": "Кто там.translated.json.audio\\18.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Голос",
+          "lemma": "голос",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "из",
+          "lemma": "из",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "квартиры",
+          "lemma": "квартира",
+          "morph": "Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "ответил",
+          "lemma": "ответить",
+          "morph": "Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": ":",
+          "lemma": ":",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "“",
+          "lemma": "“",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "Это",
+          "lemma": "это",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing",
+          "pos": "PRON"
+        },
+        {
+          "text": "я",
+          "lemma": "я",
+          "morph": "Case=Nom|Number=Sing|Person=First",
+          "pos": "PRON"
+        },
+        {
+          "text": "!",
+          "lemma": "!",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "Открой",
+          "lemma": "открыть",
+          "morph": "Aspect=Perf|Mood=Imp|Number=Sing|Person=Second|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "дверь",
+          "lemma": "дверь",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "!",
+          "lemma": "!",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "”",
+          "lemma": "”",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "The voice from the apartment answered, \"It's me! Open the door!\""
+    }
+  },
+  {
+    "ru": {
+      "sentence": "“Что?!”",
+      "audio": "Кто там.translated.json.audio\\19.ogg",
+      "spacy_tokens": [
+        {
+          "text": "“",
+          "lemma": "“",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "Что",
+          "lemma": "что",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing",
+          "pos": "PRON"
+        },
+        {
+          "text": "?",
+          "lemma": "?",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "!",
+          "lemma": "!",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "”",
+          "lemma": "”",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "\"What?!\""
+    }
+  },
+  {
+    "ru": {
+      "sentence": "– подумал я.",
+      "audio": "Кто там.translated.json.audio\\20.ogg",
+      "spacy_tokens": [
+        {
+          "text": "–",
+          "lemma": "–",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "подумал",
+          "lemma": "подумать",
+          "morph": "Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "я",
+          "lemma": "я",
+          "morph": "Case=Nom|Number=Sing|Person=First",
+          "pos": "PRON"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "- I thought."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Я долго звонил, стучал в дверь и спрашивал: “Кто там?”",
+      "audio": "Кто там.translated.json.audio\\21.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Я",
+          "lemma": "я",
+          "morph": "Case=Nom|Number=Sing|Person=First",
+          "pos": "PRON"
+        },
+        {
+          "text": "долго",
+          "lemma": "долго",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "звонил",
+          "lemma": "звонить",
+          "morph": "Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "стучал",
+          "lemma": "стучать",
+          "morph": "Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "в",
+          "lemma": "в",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "дверь",
+          "lemma": "дверь",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "и",
+          "lemma": "и",
+          "morph": "",
+          "pos": "CCONJ"
+        },
+        {
+          "text": "спрашивал",
+          "lemma": "спрашивать",
+          "morph": "Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": ":",
+          "lemma": ":",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "“",
+          "lemma": "“",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "Кто",
+          "lemma": "кто",
+          "morph": "Case=Nom",
+          "pos": "PRON"
+        },
+        {
+          "text": "там",
+          "lemma": "там",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "?",
+          "lemma": "?",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "”",
+          "lemma": "”",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "I rang and knocked on the door for a long time and asked, \"Who's there?\""
+    }
+  },
+  {
+    "ru": {
+      "sentence": "А голос из квартиры отвечал:”Это я! Открой дверь!”",
+      "audio": "Кто там.translated.json.audio\\22.ogg",
+      "spacy_tokens": [
+        {
+          "text": "А",
+          "lemma": "а",
+          "morph": "",
+          "pos": "CCONJ"
+        },
+        {
+          "text": "голос",
+          "lemma": "голос",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "из",
+          "lemma": "из",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "квартиры",
+          "lemma": "квартира",
+          "morph": "Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "отвечал:”Это",
+          "lemma": "отвечал:”это",
+          "morph": "Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "я",
+          "lemma": "я",
+          "morph": "Case=Nom|Number=Sing|Person=First",
+          "pos": "PRON"
+        },
+        {
+          "text": "!",
+          "lemma": "!",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "Открой",
+          "lemma": "открыть",
+          "morph": "Aspect=Perf|Mood=Imp|Number=Sing|Person=Second|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "дверь",
+          "lemma": "дверь",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "!",
+          "lemma": "!",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "”",
+          "lemma": "”",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "And the voice in the apartment said, \"It's me! Open the door!\""
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Наконец пришёл Александр.",
+      "audio": "Кто там.translated.json.audio\\23.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Наконец",
+          "lemma": "наконец",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "пришёл",
+          "lemma": "прийти",
+          "morph": "Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "Александр",
+          "lemma": "александр",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "Finally Alexander came."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Когда он увидел меня, он долго смеялся.",
+      "audio": "Кто там.translated.json.audio\\24.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Когда",
+          "lemma": "когда",
+          "morph": "",
+          "pos": "SCONJ"
+        },
+        {
+          "text": "он",
+          "lemma": "он",
+          "morph": "Case=Nom|Gender=Masc|Number=Sing|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": "увидел",
+          "lemma": "увидеть",
+          "morph": "Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "меня",
+          "lemma": "меня",
+          "morph": "Case=Acc|Number=Sing|Person=First",
+          "pos": "PRON"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "он",
+          "lemma": "он",
+          "morph": "Case=Nom|Gender=Masc|Number=Sing|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": "долго",
+          "lemma": "долго",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "смеялся",
+          "lemma": "смеяться",
+          "morph": "Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid",
+          "pos": "VERB"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "When he saw me, he laughed a long time."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Александр объяснил мне: “Это попугай.",
+      "audio": "Кто там.translated.json.audio\\25.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Александр",
+          "lemma": "александр",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": "объяснил",
+          "lemma": "объяснить",
+          "morph": "Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "мне",
+          "lemma": "мне",
+          "morph": "Case=Dat|Number=Sing|Person=First",
+          "pos": "PRON"
+        },
+        {
+          "text": ":",
+          "lemma": ":",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "“",
+          "lemma": "“",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "Это",
+          "lemma": "это",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing",
+          "pos": "PRON"
+        },
+        {
+          "text": "попугай",
+          "lemma": "попугай",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "Alexander explained to me, \"It's a parrot."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Я купил его год назад.",
+      "audio": "Кто там.translated.json.audio\\26.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Я",
+          "lemma": "я",
+          "morph": "Case=Nom|Number=Sing|Person=First",
+          "pos": "PRON"
+        },
+        {
+          "text": "купил",
+          "lemma": "купить",
+          "morph": "Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "его",
+          "lemma": "его",
+          "morph": "",
+          "pos": "DET"
+        },
+        {
+          "text": "год",
+          "lemma": "год",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "назад",
+          "lemma": "назад",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "I bought him a year ago."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Его зовут Петя.",
+      "audio": "Кто там.translated.json.audio\\27.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Его",
+          "lemma": "его",
+          "morph": "Case=Acc|Gender=Masc|Number=Sing|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": "зовут",
+          "lemma": "звать",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Plur|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "Петя",
+          "lemma": "петя",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "His name is Petya."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Он очень красивый и умный.",
+      "audio": "Кто там.translated.json.audio\\28.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Он",
+          "lemma": "он",
+          "morph": "Case=Nom|Gender=Masc|Number=Sing|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": "очень",
+          "lemma": "очень",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "красивый",
+          "lemma": "красивый",
+          "morph": "Case=Nom|Degree=Pos|Gender=Masc|Number=Sing",
+          "pos": "ADJ"
+        },
+        {
+          "text": "и",
+          "lemma": "и",
+          "morph": "",
+          "pos": "CCONJ"
+        },
+        {
+          "text": "умный",
+          "lemma": "умный",
+          "morph": "Case=Nom|Degree=Pos|Gender=Masc|Number=Sing",
+          "pos": "ADJ"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "He's very beautiful and smart."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Он уже неплохо говорит по-русски”.",
+      "audio": "Кто там.translated.json.audio\\29.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Он",
+          "lemma": "он",
+          "morph": "Case=Nom|Gender=Masc|Number=Sing|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": "уже",
+          "lemma": "уже",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "неплохо",
+          "lemma": "неплохо",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "говорит",
+          "lemma": "говорить",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "по",
+          "lemma": "по",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "-",
+          "lemma": "-",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "русски",
+          "lemma": "русски",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "”",
+          "lemma": "”",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "He already speaks good Russian."
+    }
+  }
+]

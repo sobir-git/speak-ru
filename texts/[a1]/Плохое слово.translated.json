@@ -1,0 +1,1989 @@
+[
+  {
+    "ru": {
+      "sentence": "Недавно Николя, студент из Франции, спросил нашего преподавателя русского языка:",
+      "audio": "Плохое слово.translated.json.audio\\0.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Недавно",
+          "lemma": "недавно",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "Николя",
+          "lemma": "николя",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "студент",
+          "lemma": "студент",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "из",
+          "lemma": "из",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "Франции",
+          "lemma": "франция",
+          "morph": "Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "спросил",
+          "lemma": "спросить",
+          "morph": "Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "нашего",
+          "lemma": "наш",
+          "morph": "Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing",
+          "pos": "DET"
+        },
+        {
+          "text": "преподавателя",
+          "lemma": "преподаватель",
+          "morph": "Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "русского",
+          "lemma": "русский",
+          "morph": "Case=Gen|Degree=Pos|Gender=Masc|Number=Sing",
+          "pos": "ADJ"
+        },
+        {
+          "text": "языка",
+          "lemma": "язык",
+          "morph": "Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ":",
+          "lemma": ":",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "The other day Nicolas, a student from France, asked our Russian teacher:"
+    }
+  },
+  {
+    "ru": {
+      "sentence": "– В русском языке есть “плохие” слова?",
+      "audio": "Плохое слово.translated.json.audio\\1.ogg",
+      "spacy_tokens": [
+        {
+          "text": "–",
+          "lemma": "–",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "В",
+          "lemma": "в",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "русском",
+          "lemma": "русский",
+          "morph": "Case=Loc|Degree=Pos|Gender=Masc|Number=Sing",
+          "pos": "ADJ"
+        },
+        {
+          "text": "языке",
+          "lemma": "язык",
+          "morph": "Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "есть",
+          "lemma": "быть",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "“",
+          "lemma": "“",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "плохие",
+          "lemma": "плохой",
+          "morph": "Case=Nom|Degree=Pos|Number=Plur",
+          "pos": "ADJ"
+        },
+        {
+          "text": "”",
+          "lemma": "”",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "слова",
+          "lemma": "слово",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur",
+          "pos": "NOUN"
+        },
+        {
+          "text": "?",
+          "lemma": "?",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "- Is there a \"bad\" word in the Russian language?"
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Ну, вы понимаете, какие?",
+      "audio": "Плохое слово.translated.json.audio\\2.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Ну",
+          "lemma": "ну",
+          "morph": "",
+          "pos": "PART"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "вы",
+          "lemma": "вы",
+          "morph": "Case=Nom|Number=Plur|Person=Second",
+          "pos": "PRON"
+        },
+        {
+          "text": "понимаете",
+          "lemma": "понимать",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Plur|Person=Second|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "какие",
+          "lemma": "какой",
+          "morph": "Case=Nom|Number=Plur",
+          "pos": "DET"
+        },
+        {
+          "text": "?",
+          "lemma": "?",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "Well, do you understand what they are?"
+    }
+  },
+  {
+    "ru": {
+      "sentence": "– Да, я понимаю.",
+      "audio": "Плохое слово.translated.json.audio\\3.ogg",
+      "spacy_tokens": [
+        {
+          "text": "–",
+          "lemma": "–",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "Да",
+          "lemma": "да",
+          "morph": "",
+          "pos": "PART"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "я",
+          "lemma": "я",
+          "morph": "Case=Nom|Number=Sing|Person=First",
+          "pos": "PRON"
+        },
+        {
+          "text": "понимаю",
+          "lemma": "понимать",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=First|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "- Yes, I understand."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "В русском языке такие слова есть.",
+      "audio": "Плохое слово.translated.json.audio\\4.ogg",
+      "spacy_tokens": [
+        {
+          "text": "В",
+          "lemma": "в",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "русском",
+          "lemma": "русский",
+          "morph": "Case=Loc|Degree=Pos|Gender=Masc|Number=Sing",
+          "pos": "ADJ"
+        },
+        {
+          "text": "языке",
+          "lemma": "язык",
+          "morph": "Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "такие",
+          "lemma": "такой",
+          "morph": "Case=Nom|Number=Plur",
+          "pos": "DET"
+        },
+        {
+          "text": "слова",
+          "lemma": "слово",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur",
+          "pos": "NOUN"
+        },
+        {
+          "text": "есть",
+          "lemma": "быть",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "There are such words in the Russian language."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Но я не могу их вам сказать!",
+      "audio": "Плохое слово.translated.json.audio\\5.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Но",
+          "lemma": "но",
+          "morph": "",
+          "pos": "CCONJ"
+        },
+        {
+          "text": "я",
+          "lemma": "я",
+          "morph": "Case=Nom|Number=Sing|Person=First",
+          "pos": "PRON"
+        },
+        {
+          "text": "не",
+          "lemma": "не",
+          "morph": "Polarity=Neg",
+          "pos": "PART"
+        },
+        {
+          "text": "могу",
+          "lemma": "мочь",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=First|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "их",
+          "lemma": "их",
+          "morph": "Animacy=Inan|Case=Acc|Number=Plur|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": "вам",
+          "lemma": "вам",
+          "morph": "Case=Dat|Number=Plur|Person=Second",
+          "pos": "PRON"
+        },
+        {
+          "text": "сказать",
+          "lemma": "сказать",
+          "morph": "Aspect=Perf|VerbForm=Inf|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "!",
+          "lemma": "!",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "But I can't tell you them!"
+    }
+  },
+  {
+    "ru": {
+      "sentence": "– Я думаю мы должны их знать",
+      "audio": "Плохое слово.translated.json.audio\\6.ogg",
+      "spacy_tokens": [
+        {
+          "text": "–",
+          "lemma": "–",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "Я",
+          "lemma": "я",
+          "morph": "Case=Nom|Number=Sing|Person=First",
+          "pos": "PRON"
+        },
+        {
+          "text": "думаю",
+          "lemma": "думать",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=First|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "мы",
+          "lemma": "мы",
+          "morph": "Case=Nom|Number=Plur|Person=First",
+          "pos": "PRON"
+        },
+        {
+          "text": "должны",
+          "lemma": "должный",
+          "morph": "Degree=Pos|Number=Plur|StyleVariant=Short",
+          "pos": "ADJ"
+        },
+        {
+          "text": "их",
+          "lemma": "их",
+          "morph": "Animacy=Inan|Case=Acc|Number=Plur|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": "знать",
+          "lemma": "знать",
+          "morph": "Aspect=Imp|VerbForm=Inf|Voice=Act",
+          "pos": "VERB"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "- I think we should know them."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "– Да, сказал Стен, американец.",
+      "audio": "Плохое слово.translated.json.audio\\7.ogg",
+      "spacy_tokens": [
+        {
+          "text": "–",
+          "lemma": "–",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "Да",
+          "lemma": "да",
+          "morph": "",
+          "pos": "PART"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "сказал",
+          "lemma": "сказать",
+          "morph": "Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "Стен",
+          "lemma": "стен",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "американец",
+          "lemma": "американец",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "- Yes, said Stan, the American."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "– Мы не будем говорить эти слова, но мы должны их понимать.",
+      "audio": "Плохое слово.translated.json.audio\\8.ogg",
+      "spacy_tokens": [
+        {
+          "text": "–",
+          "lemma": "–",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "Мы",
+          "lemma": "мы",
+          "morph": "Case=Nom|Number=Plur|Person=First",
+          "pos": "PRON"
+        },
+        {
+          "text": "не",
+          "lemma": "не",
+          "morph": "Polarity=Neg",
+          "pos": "PART"
+        },
+        {
+          "text": "будем",
+          "lemma": "будем",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Plur|Person=First|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "AUX"
+        },
+        {
+          "text": "говорить",
+          "lemma": "говорить",
+          "morph": "Aspect=Imp|VerbForm=Inf|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "эти",
+          "lemma": "этот",
+          "morph": "Animacy=Inan|Case=Acc|Number=Plur",
+          "pos": "DET"
+        },
+        {
+          "text": "слова",
+          "lemma": "слово",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur",
+          "pos": "NOUN"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "но",
+          "lemma": "но",
+          "morph": "",
+          "pos": "CCONJ"
+        },
+        {
+          "text": "мы",
+          "lemma": "мы",
+          "morph": "Case=Nom|Number=Plur|Person=First",
+          "pos": "PRON"
+        },
+        {
+          "text": "должны",
+          "lemma": "должный",
+          "morph": "Degree=Pos|Number=Plur|StyleVariant=Short",
+          "pos": "ADJ"
+        },
+        {
+          "text": "их",
+          "lemma": "их",
+          "morph": "Animacy=Inan|Case=Acc|Number=Plur|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": "понимать",
+          "lemma": "понимать",
+          "morph": "Aspect=Imp|VerbForm=Inf|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "- We won't say the words, but we must understand them."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Кто-нибудь может нам их сказать.",
+      "audio": "Плохое слово.translated.json.audio\\9.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Кто",
+          "lemma": "кто",
+          "morph": "Case=Nom",
+          "pos": "PRON"
+        },
+        {
+          "text": "-",
+          "lemma": "-",
+          "morph": "Case=Nom",
+          "pos": "PRON"
+        },
+        {
+          "text": "нибудь",
+          "lemma": "нибудь",
+          "morph": "Case=Nom",
+          "pos": "PRON"
+        },
+        {
+          "text": "может",
+          "lemma": "мочь",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "нам",
+          "lemma": "нам",
+          "morph": "Case=Dat|Number=Plur|Person=First",
+          "pos": "PRON"
+        },
+        {
+          "text": "их",
+          "lemma": "их",
+          "morph": "Animacy=Inan|Case=Acc|Number=Plur|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": "сказать",
+          "lemma": "сказать",
+          "morph": "Aspect=Perf|VerbForm=Inf|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "Somebody can tell us them."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Я слышал, есть даже специальные словари таких слов",
+      "audio": "Плохое слово.translated.json.audio\\10.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Я",
+          "lemma": "я",
+          "morph": "Case=Nom|Number=Sing|Person=First",
+          "pos": "PRON"
+        },
+        {
+          "text": "слышал",
+          "lemma": "слышать",
+          "morph": "Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "есть",
+          "lemma": "быть",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Plur|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "даже",
+          "lemma": "даже",
+          "morph": "",
+          "pos": "PART"
+        },
+        {
+          "text": "специальные",
+          "lemma": "специальный",
+          "morph": "Case=Nom|Degree=Pos|Number=Plur",
+          "pos": "ADJ"
+        },
+        {
+          "text": "словари",
+          "lemma": "словарь",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur",
+          "pos": "NOUN"
+        },
+        {
+          "text": "таких",
+          "lemma": "такой",
+          "morph": "Case=Gen|Number=Plur",
+          "pos": "DET"
+        },
+        {
+          "text": "слов",
+          "lemma": "слово",
+          "morph": "Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur",
+          "pos": "NOUN"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "I hear there are even special dictionaries of these words."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "– А я знаю одно очень “плохое ” русское слово, но не могу сказать.",
+      "audio": "Плохое слово.translated.json.audio\\11.ogg",
+      "spacy_tokens": [
+        {
+          "text": "–",
+          "lemma": "–",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "А",
+          "lemma": "а",
+          "morph": "",
+          "pos": "CCONJ"
+        },
+        {
+          "text": "я",
+          "lemma": "я",
+          "morph": "Case=Nom|Number=Sing|Person=First",
+          "pos": "PRON"
+        },
+        {
+          "text": "знаю",
+          "lemma": "знать",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=First|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "одно",
+          "lemma": "одно",
+          "morph": "Case=Acc|Gender=Neut|Number=Sing",
+          "pos": "NUM"
+        },
+        {
+          "text": "очень",
+          "lemma": "очень",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "“",
+          "lemma": "“",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "плохое",
+          "lemma": "плохой",
+          "morph": "Animacy=Inan|Case=Acc|Degree=Pos|Gender=Neut|Number=Sing",
+          "pos": "ADJ"
+        },
+        {
+          "text": "”",
+          "lemma": "”",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "русское",
+          "lemma": "русский",
+          "morph": "Case=Nom|Degree=Pos|Gender=Neut|Number=Sing",
+          "pos": "ADJ"
+        },
+        {
+          "text": "слово",
+          "lemma": "слово",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "но",
+          "lemma": "но",
+          "morph": "",
+          "pos": "CCONJ"
+        },
+        {
+          "text": "не",
+          "lemma": "не",
+          "morph": "Polarity=Neg",
+          "pos": "PART"
+        },
+        {
+          "text": "могу",
+          "lemma": "мочь",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=First|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "сказать",
+          "lemma": "сказать",
+          "morph": "Aspect=Perf|VerbForm=Inf|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "- And I know one very \"bad\" Russian word, but I can't say it."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Почти каждое утро я слышу его в трамвае.",
+      "audio": "Плохое слово.translated.json.audio\\12.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Почти",
+          "lemma": "почти",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "каждое",
+          "lemma": "каждый",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing",
+          "pos": "DET"
+        },
+        {
+          "text": "утро",
+          "lemma": "утро",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "я",
+          "lemma": "я",
+          "morph": "Case=Nom|Number=Sing|Person=First",
+          "pos": "PRON"
+        },
+        {
+          "text": "слышу",
+          "lemma": "слышать",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=First|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "его",
+          "lemma": "его",
+          "morph": "Case=Acc|Gender=Masc|Number=Sing|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": "в",
+          "lemma": "в",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "трамвае",
+          "lemma": "трамвай",
+          "morph": "Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "Almost every morning I hear it in the streetcar."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Оно начинается на букву “б”, – сказал Алан, англичанин",
+      "audio": "Плохое слово.translated.json.audio\\13.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Оно",
+          "lemma": "оно",
+          "morph": "Case=Nom|Gender=Neut|Number=Sing|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": "начинается",
+          "lemma": "начинаться",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Mid",
+          "pos": "VERB"
+        },
+        {
+          "text": "на",
+          "lemma": "на",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "букву",
+          "lemma": "буква",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "“",
+          "lemma": "“",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "б",
+          "lemma": "б",
+          "morph": "",
+          "pos": "NOUN"
+        },
+        {
+          "text": "”",
+          "lemma": "”",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "–",
+          "lemma": "–",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "сказал",
+          "lemma": "сказать",
+          "morph": "Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "Алан",
+          "lemma": "алан",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "англичанин",
+          "lemma": "англичанин",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "It begins with a 'b',\" said Alan, an Englishman."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "– Скажи, Алан!",
+      "audio": "Плохое слово.translated.json.audio\\14.ogg",
+      "spacy_tokens": [
+        {
+          "text": "–",
+          "lemma": "–",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "Скажи",
+          "lemma": "сказать",
+          "morph": "Aspect=Perf|Mood=Imp|Number=Sing|Person=Second|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "Алан",
+          "lemma": "алан",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": "!",
+          "lemma": "!",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "- Say it, Alan!"
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Это нормально.",
+      "audio": "Плохое слово.translated.json.audio\\15.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Это",
+          "lemma": "это",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing",
+          "pos": "PRON"
+        },
+        {
+          "text": "нормально",
+          "lemma": "нормальный",
+          "morph": "Degree=Pos|Gender=Neut|Number=Sing|StyleVariant=Short",
+          "pos": "ADJ"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "It's normal."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "“Плохое” слово – тоже слово.",
+      "audio": "Плохое слово.translated.json.audio\\16.ogg",
+      "spacy_tokens": [
+        {
+          "text": "“",
+          "lemma": "“",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "Плохое",
+          "lemma": "плохой",
+          "morph": "Case=Nom|Degree=Pos|Gender=Neut|Number=Sing",
+          "pos": "ADJ"
+        },
+        {
+          "text": "”",
+          "lemma": "”",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "слово",
+          "lemma": "слово",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "–",
+          "lemma": "–",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "тоже",
+          "lemma": "тоже",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "слово",
+          "lemma": "слово",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "\"Bad\" is also a word."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Мы изучаем русский язык.",
+      "audio": "Плохое слово.translated.json.audio\\17.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Мы",
+          "lemma": "мы",
+          "morph": "Case=Nom|Number=Plur|Person=First",
+          "pos": "PRON"
+        },
+        {
+          "text": "изучаем",
+          "lemma": "изучать",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Plur|Person=First|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "русский",
+          "lemma": "русский",
+          "morph": "Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing",
+          "pos": "ADJ"
+        },
+        {
+          "text": "язык",
+          "lemma": "язык",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "We learn the Russian language."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Мы должны знать все слова!",
+      "audio": "Плохое слово.translated.json.audio\\18.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Мы",
+          "lemma": "мы",
+          "morph": "Case=Nom|Number=Plur|Person=First",
+          "pos": "PRON"
+        },
+        {
+          "text": "должны",
+          "lemma": "должный",
+          "morph": "Degree=Pos|Number=Plur|StyleVariant=Short",
+          "pos": "ADJ"
+        },
+        {
+          "text": "знать",
+          "lemma": "знать",
+          "morph": "Aspect=Imp|VerbForm=Inf|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "все",
+          "lemma": "весь",
+          "morph": "Animacy=Inan|Case=Acc|Number=Plur",
+          "pos": "DET"
+        },
+        {
+          "text": "слова",
+          "lemma": "слово",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur",
+          "pos": "NOUN"
+        },
+        {
+          "text": "!",
+          "lemma": "!",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "We should know all the words!"
+    }
+  },
+  {
+    "ru": {
+      "sentence": "– сказал Стен",
+      "audio": "Плохое слово.translated.json.audio\\19.ogg",
+      "spacy_tokens": [
+        {
+          "text": "–",
+          "lemma": "–",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "сказал",
+          "lemma": "сказать",
+          "morph": "Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "Стен",
+          "lemma": "стен",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "PROPN"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "- Stan said."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "– Да, я тоже так думаю!",
+      "audio": "Плохое слово.translated.json.audio\\20.ogg",
+      "spacy_tokens": [
+        {
+          "text": "–",
+          "lemma": "–",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "Да",
+          "lemma": "да",
+          "morph": "",
+          "pos": "PART"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "я",
+          "lemma": "я",
+          "morph": "Case=Nom|Number=Sing|Person=First",
+          "pos": "PRON"
+        },
+        {
+          "text": "тоже",
+          "lemma": "тоже",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "так",
+          "lemma": "так",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "думаю",
+          "lemma": "думать",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=First|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "!",
+          "lemma": "!",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "- Yes, I think so too!"
+    }
+  },
+  {
+    "ru": {
+      "sentence": "– сказал Николя",
+      "audio": "Плохое слово.translated.json.audio\\21.ogg",
+      "spacy_tokens": [
+        {
+          "text": "–",
+          "lemma": "–",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "сказал",
+          "lemma": "сказать",
+          "morph": "Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "Николя",
+          "lemma": "николя",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "PROPN"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "- said Nicolas."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "– Но здесь преподаватель и девушки!",
+      "audio": "Плохое слово.translated.json.audio\\22.ogg",
+      "spacy_tokens": [
+        {
+          "text": "–",
+          "lemma": "–",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "Но",
+          "lemma": "но",
+          "morph": "",
+          "pos": "CCONJ"
+        },
+        {
+          "text": "здесь",
+          "lemma": "здесь",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "преподаватель",
+          "lemma": "преподаватель",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "и",
+          "lemma": "и",
+          "morph": "",
+          "pos": "CCONJ"
+        },
+        {
+          "text": "девушки",
+          "lemma": "девушка",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Fem|Number=Plur",
+          "pos": "NOUN"
+        },
+        {
+          "text": "!",
+          "lemma": "!",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "- But there's a teacher and girls here!"
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Я не могу!",
+      "audio": "Плохое слово.translated.json.audio\\23.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Я",
+          "lemma": "я",
+          "morph": "Case=Nom|Number=Sing|Person=First",
+          "pos": "PRON"
+        },
+        {
+          "text": "не",
+          "lemma": "не",
+          "morph": "Polarity=Neg",
+          "pos": "PART"
+        },
+        {
+          "text": "могу",
+          "lemma": "мочь",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=First|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "!",
+          "lemma": "!",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "I can't!"
+    }
+  },
+  {
+    "ru": {
+      "sentence": "– Скажи, Алан!",
+      "audio": "Плохое слово.translated.json.audio\\24.ogg",
+      "spacy_tokens": [
+        {
+          "text": "–",
+          "lemma": "–",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "Скажи",
+          "lemma": "сказать",
+          "morph": "Aspect=Perf|Mood=Imp|Number=Sing|Person=Second|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "Алан",
+          "lemma": "алан",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": "!",
+          "lemma": "!",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "- Say, Alan!"
+    }
+  },
+  {
+    "ru": {
+      "sentence": "– сказали девушки-американки",
+      "audio": "Плохое слово.translated.json.audio\\25.ogg",
+      "spacy_tokens": [
+        {
+          "text": "–",
+          "lemma": "–",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "сказали",
+          "lemma": "сказать",
+          "morph": "Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "девушки",
+          "lemma": "девушка",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Fem|Number=Plur",
+          "pos": "NOUN"
+        },
+        {
+          "text": "-",
+          "lemma": "-",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Fem|Number=Plur",
+          "pos": "NOUN"
+        },
+        {
+          "text": "американки",
+          "lemma": "американка",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Fem|Number=Plur",
+          "pos": "NOUN"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "- said the American girls."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "– Не говори!",
+      "audio": "Плохое слово.translated.json.audio\\26.ogg",
+      "spacy_tokens": [
+        {
+          "text": "–",
+          "lemma": "–",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "Не",
+          "lemma": "не",
+          "morph": "Polarity=Neg",
+          "pos": "PART"
+        },
+        {
+          "text": "говори",
+          "lemma": "говорить",
+          "morph": "Aspect=Imp|Mood=Imp|Number=Sing|Person=Second|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "!",
+          "lemma": "!",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "- Don't say it!"
+    }
+  },
+  {
+    "ru": {
+      "sentence": "– сказала Масуми, студентка из Японии",
+      "audio": "Плохое слово.translated.json.audio\\27.ogg",
+      "spacy_tokens": [
+        {
+          "text": "–",
+          "lemma": "–",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "сказала",
+          "lemma": "сказать",
+          "morph": "Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "Масуми",
+          "lemma": "масуми",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "студентка",
+          "lemma": "студентка",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "из",
+          "lemma": "из",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "Японии",
+          "lemma": "япония",
+          "morph": "Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing",
+          "pos": "PROPN"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "- said Masumi, the student from Japan."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "– Ты можешь выйти коридор на две минуты, – сказали ей девушки-американки",
+      "audio": "Плохое слово.translated.json.audio\\28.ogg",
+      "spacy_tokens": [
+        {
+          "text": "–",
+          "lemma": "–",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "Ты",
+          "lemma": "ты",
+          "morph": "Case=Nom|Number=Sing|Person=Second",
+          "pos": "PRON"
+        },
+        {
+          "text": "можешь",
+          "lemma": "мочь",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Second|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "выйти",
+          "lemma": "выйти",
+          "morph": "Aspect=Perf|VerbForm=Inf|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "коридор",
+          "lemma": "коридор",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "на",
+          "lemma": "на",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "две",
+          "lemma": "два",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Fem",
+          "pos": "NUM"
+        },
+        {
+          "text": "минуты",
+          "lemma": "минута",
+          "morph": "Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "–",
+          "lemma": "–",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "сказали",
+          "lemma": "сказать",
+          "morph": "Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "ей",
+          "lemma": "ей",
+          "morph": "Case=Dat|Gender=Fem|Number=Sing|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": "девушки",
+          "lemma": "девушка",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Fem|Number=Plur",
+          "pos": "NOUN"
+        },
+        {
+          "text": "-",
+          "lemma": "-",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Fem|Number=Plur",
+          "pos": "NOUN"
+        },
+        {
+          "text": "американки",
+          "lemma": "американка",
+          "morph": "Animacy=Anim|Case=Gen|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "- You can go out into the hallway for two minutes,\" the American girls told her."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "– Хорошо.",
+      "audio": "Плохое слово.translated.json.audio\\29.ogg",
+      "spacy_tokens": [
+        {
+          "text": "–",
+          "lemma": "–",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "Хорошо",
+          "lemma": "хороший",
+          "morph": "Degree=Pos|Gender=Neut|Number=Sing|StyleVariant=Short",
+          "pos": "ADJ"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "- Okay."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Я это слово напишу, – сказал Стен.",
+      "audio": "Плохое слово.translated.json.audio\\30.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Я",
+          "lemma": "я",
+          "morph": "Case=Nom|Number=Sing|Person=First",
+          "pos": "PRON"
+        },
+        {
+          "text": "это",
+          "lemma": "этот",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing",
+          "pos": "DET"
+        },
+        {
+          "text": "слово",
+          "lemma": "слово",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "напишу",
+          "lemma": "написать",
+          "morph": "Aspect=Perf|Mood=Ind|Number=Sing|Person=First|Tense=Fut|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "–",
+          "lemma": "–",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "сказал",
+          "lemma": "сказать",
+          "morph": "Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "Стен",
+          "lemma": "стен",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "I'll write that word,\" Stan said."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Он вышел к доске и написал: “БАРДАК”.",
+      "audio": "Плохое слово.translated.json.audio\\31.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Он",
+          "lemma": "он",
+          "morph": "Case=Nom|Gender=Masc|Number=Sing|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": "вышел",
+          "lemma": "выйти",
+          "morph": "Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "к",
+          "lemma": "к",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "доске",
+          "lemma": "доска",
+          "morph": "Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "и",
+          "lemma": "и",
+          "morph": "",
+          "pos": "CCONJ"
+        },
+        {
+          "text": "написал",
+          "lemma": "написать",
+          "morph": "Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": ":",
+          "lemma": ":",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "“",
+          "lemma": "“",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "БАРДАК",
+          "lemma": "бардак",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "”",
+          "lemma": "”",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "He went to the board and wrote, \"BARDAK.\""
+    }
+  },
+  {
+    "ru": {
+      "sentence": "– Это не плохое слово.",
+      "audio": "Плохое слово.translated.json.audio\\32.ogg",
+      "spacy_tokens": [
+        {
+          "text": "–",
+          "lemma": "–",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "Это",
+          "lemma": "это",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing",
+          "pos": "PRON"
+        },
+        {
+          "text": "не",
+          "lemma": "не",
+          "morph": "Polarity=Neg",
+          "pos": "PART"
+        },
+        {
+          "text": "плохое",
+          "lemma": "плохой",
+          "morph": "Case=Nom|Degree=Pos|Gender=Neut|Number=Sing",
+          "pos": "ADJ"
+        },
+        {
+          "text": "слово",
+          "lemma": "слово",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "- It's not a bad word."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "“Бардак” – значит “беспорядок”.",
+      "audio": "Плохое слово.translated.json.audio\\33.ogg",
+      "spacy_tokens": [
+        {
+          "text": "“",
+          "lemma": "“",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "Бардак",
+          "lemma": "бардак",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "”",
+          "lemma": "”",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "–",
+          "lemma": "–",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "значит",
+          "lemma": "значить",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "“",
+          "lemma": "“",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "беспорядок",
+          "lemma": "беспорядок",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "”",
+          "lemma": "”",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "\"BORDER\" means \"mess.\""
+    }
+  },
+  {
+    "ru": {
+      "sentence": "– сказал счастливый преподаватель.",
+      "audio": "Плохое слово.translated.json.audio\\34.ogg",
+      "spacy_tokens": [
+        {
+          "text": "–",
+          "lemma": "–",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "сказал",
+          "lemma": "сказать",
+          "morph": "Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "счастливый",
+          "lemma": "счастливый",
+          "morph": "Case=Nom|Degree=Pos|Gender=Masc|Number=Sing",
+          "pos": "ADJ"
+        },
+        {
+          "text": "преподаватель",
+          "lemma": "преподаватель",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "- said the happy teacher."
+    }
+  }
+]

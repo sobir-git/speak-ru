@@ -1,0 +1,4287 @@
+[
+  {
+    "ru": {
+      "sentence": "Это случилось под Рождество.",
+      "audio": "Рождественская Сказка.translated.json.audio\\0.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Это",
+          "lemma": "это",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing",
+          "pos": "PRON"
+        },
+        {
+          "text": "случилось",
+          "lemma": "случиться",
+          "morph": "Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid",
+          "pos": "VERB"
+        },
+        {
+          "text": "под",
+          "lemma": "под",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "Рождество",
+          "lemma": "рождество",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "It happened on Christmas Eve."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "В доме на улице Тверская жил симпатичный мужчина.",
+      "audio": "Рождественская Сказка.translated.json.audio\\1.ogg",
+      "spacy_tokens": [
+        {
+          "text": "В",
+          "lemma": "в",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "доме",
+          "lemma": "дом",
+          "morph": "Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "на",
+          "lemma": "на",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "улице",
+          "lemma": "улица",
+          "morph": "Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "Тверская",
+          "lemma": "тверской",
+          "morph": "Case=Nom|Degree=Pos|Gender=Fem|Number=Sing",
+          "pos": "ADJ"
+        },
+        {
+          "text": "жил",
+          "lemma": "жить",
+          "morph": "Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "симпатичный",
+          "lemma": "симпатичный",
+          "morph": "Case=Nom|Degree=Pos|Gender=Masc|Number=Sing",
+          "pos": "ADJ"
+        },
+        {
+          "text": "мужчина",
+          "lemma": "мужчина",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "There was a handsome man living in a house on Tverskaya Street."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "У него не было семьи, и он жил один.",
+      "audio": "Рождественская Сказка.translated.json.audio\\2.ogg",
+      "spacy_tokens": [
+        {
+          "text": "У",
+          "lemma": "у",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "него",
+          "lemma": "него",
+          "morph": "Case=Gen|Gender=Masc|Number=Sing|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": "не",
+          "lemma": "не",
+          "morph": "Polarity=Neg",
+          "pos": "PART"
+        },
+        {
+          "text": "было",
+          "lemma": "быть",
+          "morph": "Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "семьи",
+          "lemma": "семья",
+          "morph": "Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "и",
+          "lemma": "и",
+          "morph": "",
+          "pos": "CCONJ"
+        },
+        {
+          "text": "он",
+          "lemma": "он",
+          "morph": "Case=Nom|Gender=Masc|Number=Sing|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": "жил",
+          "lemma": "жить",
+          "morph": "Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "один",
+          "lemma": "один",
+          "morph": "Case=Nom|Degree=Pos|Gender=Masc|Number=Sing",
+          "pos": "DET"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "He had no family and lived alone."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Вечером этот мужчина любил сидеть дома около камина и читать газету.",
+      "audio": "Рождественская Сказка.translated.json.audio\\3.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Вечером",
+          "lemma": "вечер",
+          "morph": "Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "этот",
+          "lemma": "этот",
+          "morph": "Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "DET"
+        },
+        {
+          "text": "мужчина",
+          "lemma": "мужчина",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "любил",
+          "lemma": "любить",
+          "morph": "Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "сидеть",
+          "lemma": "сидеть",
+          "morph": "Aspect=Imp|VerbForm=Inf|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "дома",
+          "lemma": "дома",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "около",
+          "lemma": "около",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "камина",
+          "lemma": "камин",
+          "morph": "Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "и",
+          "lemma": "и",
+          "morph": "",
+          "pos": "CCONJ"
+        },
+        {
+          "text": "читать",
+          "lemma": "читать",
+          "morph": "Aspect=Imp|VerbForm=Inf|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "газету",
+          "lemma": "газета",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "In the evening this man liked to sit at home by the fireplace and read the newspaper."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "В подвале дома жила маленькая мышка.",
+      "audio": "Рождественская Сказка.translated.json.audio\\4.ogg",
+      "spacy_tokens": [
+        {
+          "text": "В",
+          "lemma": "в",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "подвале",
+          "lemma": "подвал",
+          "morph": "Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "дома",
+          "lemma": "дом",
+          "morph": "Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "жила",
+          "lemma": "жить",
+          "morph": "Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "маленькая",
+          "lemma": "маленький",
+          "morph": "Case=Nom|Degree=Pos|Gender=Fem|Number=Sing",
+          "pos": "ADJ"
+        },
+        {
+          "text": "мышка",
+          "lemma": "мышка",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "A little mouse lived in the basement of the house."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Она часто ходила в гости к мужчине, который жил в квартире с камином.",
+      "audio": "Рождественская Сказка.translated.json.audio\\5.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Она",
+          "lemma": "она",
+          "morph": "Case=Nom|Gender=Fem|Number=Sing|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": "часто",
+          "lemma": "часто",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "ходила",
+          "lemma": "ходить",
+          "morph": "Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "в",
+          "lemma": "в",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "гости",
+          "lemma": "гость",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur",
+          "pos": "NOUN"
+        },
+        {
+          "text": "к",
+          "lemma": "к",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "мужчине",
+          "lemma": "мужчина",
+          "morph": "Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "который",
+          "lemma": "который",
+          "morph": "Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "PRON"
+        },
+        {
+          "text": "жил",
+          "lemma": "жить",
+          "morph": "Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "в",
+          "lemma": "в",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "квартире",
+          "lemma": "квартира",
+          "morph": "Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "с",
+          "lemma": "с",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "камином",
+          "lemma": "камин",
+          "morph": "Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "She often went to visit the man who lived in the apartment with the fireplace."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Ей очень нравилось здесь.",
+      "audio": "Рождественская Сказка.translated.json.audio\\6.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Ей",
+          "lemma": "ей",
+          "morph": "Case=Dat|Gender=Fem|Number=Sing|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": "очень",
+          "lemma": "очень",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "нравилось",
+          "lemma": "нравиться",
+          "morph": "Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid",
+          "pos": "VERB"
+        },
+        {
+          "text": "здесь",
+          "lemma": "здесь",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "She liked it here very much."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "На кухне она всегда могла найти хлеб и сыр на полке в шкафу.",
+      "audio": "Рождественская Сказка.translated.json.audio\\7.ogg",
+      "spacy_tokens": [
+        {
+          "text": "На",
+          "lemma": "на",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "кухне",
+          "lemma": "кухня",
+          "morph": "Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "она",
+          "lemma": "она",
+          "morph": "Case=Nom|Gender=Fem|Number=Sing|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": "всегда",
+          "lemma": "всегда",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "могла",
+          "lemma": "мочь",
+          "morph": "Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "найти",
+          "lemma": "найти",
+          "morph": "Aspect=Perf|VerbForm=Inf|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "хлеб",
+          "lemma": "хлеб",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "и",
+          "lemma": "и",
+          "morph": "",
+          "pos": "CCONJ"
+        },
+        {
+          "text": "сыр",
+          "lemma": "сыр",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "на",
+          "lemma": "на",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "полке",
+          "lemma": "полка",
+          "morph": "Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "в",
+          "lemma": "в",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "шкафу",
+          "lemma": "шкаф",
+          "morph": "Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "In the kitchen she could always find bread and cheese on a shelf in the cupboard."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Но однажды к хозяину квартиры пришла одна малоприятная женщина.",
+      "audio": "Рождественская Сказка.translated.json.audio\\8.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Но",
+          "lemma": "но",
+          "morph": "",
+          "pos": "CCONJ"
+        },
+        {
+          "text": "однажды",
+          "lemma": "однажды",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "к",
+          "lemma": "к",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "хозяину",
+          "lemma": "хозяин",
+          "morph": "Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "квартиры",
+          "lemma": "квартира",
+          "morph": "Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "пришла",
+          "lemma": "прийти",
+          "morph": "Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "одна",
+          "lemma": "одна",
+          "morph": "Case=Nom|Gender=Fem|Number=Sing",
+          "pos": "NUM"
+        },
+        {
+          "text": "малоприятная",
+          "lemma": "малоприятный",
+          "morph": "Case=Nom|Degree=Pos|Gender=Fem|Number=Sing",
+          "pos": "ADJ"
+        },
+        {
+          "text": "женщина",
+          "lemma": "женщина",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "But one day an unpleasant woman came to the landlord's apartment."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Она с утра до вечера убирала квартиру, и мышка уже не могла найти сыр и хлеб не полке в шкафу.",
+      "audio": "Рождественская Сказка.translated.json.audio\\9.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Она",
+          "lemma": "она",
+          "morph": "Case=Nom|Gender=Fem|Number=Sing|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": "с",
+          "lemma": "с",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "утра",
+          "lemma": "утро",
+          "morph": "Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "до",
+          "lemma": "до",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "вечера",
+          "lemma": "вечер",
+          "morph": "Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "убирала",
+          "lemma": "убирать",
+          "morph": "Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "квартиру",
+          "lemma": "квартира",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "и",
+          "lemma": "и",
+          "morph": "",
+          "pos": "CCONJ"
+        },
+        {
+          "text": "мышка",
+          "lemma": "мышка",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "уже",
+          "lemma": "уже",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "не",
+          "lemma": "не",
+          "morph": "Polarity=Neg",
+          "pos": "PART"
+        },
+        {
+          "text": "могла",
+          "lemma": "мочь",
+          "morph": "Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "найти",
+          "lemma": "найти",
+          "morph": "Aspect=Perf|VerbForm=Inf|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "сыр",
+          "lemma": "сыр",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "и",
+          "lemma": "и",
+          "morph": "",
+          "pos": "CCONJ"
+        },
+        {
+          "text": "хлеб",
+          "lemma": "хлеб",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "не",
+          "lemma": "не",
+          "morph": "Polarity=Neg",
+          "pos": "PART"
+        },
+        {
+          "text": "полке",
+          "lemma": "полка",
+          "morph": "Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "в",
+          "lemma": "в",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "шкафу",
+          "lemma": "шкаф",
+          "morph": "Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "She had been cleaning the apartment from morning until evening, and the mouse could no longer find cheese and bread on the shelf in the cupboard."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Эта малоприятная дама всё убрала в холодильник.",
+      "audio": "Рождественская Сказка.translated.json.audio\\10.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Эта",
+          "lemma": "этот",
+          "morph": "Case=Nom|Gender=Fem|Number=Sing",
+          "pos": "DET"
+        },
+        {
+          "text": "малоприятная",
+          "lemma": "малоприятный",
+          "morph": "Case=Nom|Degree=Pos|Gender=Fem|Number=Sing",
+          "pos": "ADJ"
+        },
+        {
+          "text": "дама",
+          "lemma": "дама",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "всё",
+          "lemma": "всё",
+          "morph": "",
+          "pos": "PART"
+        },
+        {
+          "text": "убрала",
+          "lemma": "убрать",
+          "morph": "Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "в",
+          "lemma": "в",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "холодильник",
+          "lemma": "холодильник",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "This unpleasant lady had put everything in the refrigerator."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Хлеба и сыра не было и на следующий день, и через неделю, и через месяц.",
+      "audio": "Рождественская Сказка.translated.json.audio\\11.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Хлеба",
+          "lemma": "хлеба",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": "и",
+          "lemma": "и",
+          "morph": "",
+          "pos": "CCONJ"
+        },
+        {
+          "text": "сыра",
+          "lemma": "сыр",
+          "morph": "Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "не",
+          "lemma": "не",
+          "morph": "Polarity=Neg",
+          "pos": "PART"
+        },
+        {
+          "text": "было",
+          "lemma": "быть",
+          "morph": "Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "и",
+          "lemma": "и",
+          "morph": "",
+          "pos": "PART"
+        },
+        {
+          "text": "на",
+          "lemma": "на",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "следующий",
+          "lemma": "следующий",
+          "morph": "Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing",
+          "pos": "ADJ"
+        },
+        {
+          "text": "день",
+          "lemma": "день",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "и",
+          "lemma": "и",
+          "morph": "",
+          "pos": "CCONJ"
+        },
+        {
+          "text": "через",
+          "lemma": "через",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "неделю",
+          "lemma": "неделя",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "и",
+          "lemma": "и",
+          "morph": "",
+          "pos": "CCONJ"
+        },
+        {
+          "text": "через",
+          "lemma": "через",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "месяц",
+          "lemma": "месяц",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "There was no bread or cheese the next day, or the week after that, or the month after that."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Пять месяцев эта женщина всё убирала в холодильник.",
+      "audio": "Рождественская Сказка.translated.json.audio\\12.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Пять",
+          "lemma": "пять",
+          "morph": "Case=Acc",
+          "pos": "NUM"
+        },
+        {
+          "text": "месяцев",
+          "lemma": "месяц",
+          "morph": "Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur",
+          "pos": "NOUN"
+        },
+        {
+          "text": "эта",
+          "lemma": "этот",
+          "morph": "Case=Nom|Gender=Fem|Number=Sing",
+          "pos": "DET"
+        },
+        {
+          "text": "женщина",
+          "lemma": "женщина",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "всё",
+          "lemma": "всё",
+          "morph": "",
+          "pos": "PART"
+        },
+        {
+          "text": "убирала",
+          "lemma": "убирать",
+          "morph": "Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "в",
+          "lemma": "в",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "холодильник",
+          "lemma": "холодильник",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "For five months this woman put everything in the refrigerator."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Мышка забыла дорогу в квартиру с камином.",
+      "audio": "Рождественская Сказка.translated.json.audio\\13.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Мышка",
+          "lemma": "мышка",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "забыла",
+          "lemma": "забыть",
+          "morph": "Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "дорогу",
+          "lemma": "дорога",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "в",
+          "lemma": "в",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "квартиру",
+          "lemma": "квартира",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "с",
+          "lemma": "с",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "камином",
+          "lemma": "камин",
+          "morph": "Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "The mouse forgot its way into the apartment with the fireplace."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Пришла зима, стало холодно.",
+      "audio": "Рождественская Сказка.translated.json.audio\\14.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Пришла",
+          "lemma": "прийти",
+          "morph": "Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "зима",
+          "lemma": "зима",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "стало",
+          "lemma": "стать",
+          "morph": "Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "холодно",
+          "lemma": "холодный",
+          "morph": "Degree=Pos|Gender=Neut|Number=Sing|StyleVariant=Short",
+          "pos": "ADJ"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "Winter came and it got cold."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "И было трудно найти еду на улице.",
+      "audio": "Рождественская Сказка.translated.json.audio\\15.ogg",
+      "spacy_tokens": [
+        {
+          "text": "И",
+          "lemma": "и",
+          "morph": "",
+          "pos": "CCONJ"
+        },
+        {
+          "text": "было",
+          "lemma": "было",
+          "morph": "Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "AUX"
+        },
+        {
+          "text": "трудно",
+          "lemma": "трудный",
+          "morph": "Degree=Pos|Gender=Neut|Number=Sing|StyleVariant=Short",
+          "pos": "ADJ"
+        },
+        {
+          "text": "найти",
+          "lemma": "найти",
+          "morph": "Aspect=Perf|VerbForm=Inf|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "еду",
+          "lemma": "еда",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "на",
+          "lemma": "на",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "улице",
+          "lemma": "улица",
+          "morph": "Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "And it was hard to find food outside."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Был холодный вечер.",
+      "audio": "Рождественская Сказка.translated.json.audio\\16.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Был",
+          "lemma": "быть",
+          "morph": "Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "холодный",
+          "lemma": "холодный",
+          "morph": "Case=Nom|Degree=Pos|Gender=Masc|Number=Sing",
+          "pos": "ADJ"
+        },
+        {
+          "text": "вечер",
+          "lemma": "вечер",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "It was a cold evening."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "На улице шёл снег.",
+      "audio": "Рождественская Сказка.translated.json.audio\\17.ogg",
+      "spacy_tokens": [
+        {
+          "text": "На",
+          "lemma": "на",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "улице",
+          "lemma": "улица",
+          "morph": "Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "шёл",
+          "lemma": "идти",
+          "morph": "Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "снег",
+          "lemma": "снег",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "It was snowing outside."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "В этот день мышка была очень голодная.",
+      "audio": "Рождественская Сказка.translated.json.audio\\18.ogg",
+      "spacy_tokens": [
+        {
+          "text": "В",
+          "lemma": "в",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "этот",
+          "lemma": "этот",
+          "morph": "Case=Acc|Gender=Masc|Number=Sing",
+          "pos": "DET"
+        },
+        {
+          "text": "день",
+          "lemma": "день",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "мышка",
+          "lemma": "мышка",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "была",
+          "lemma": "была",
+          "morph": "Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "AUX"
+        },
+        {
+          "text": "очень",
+          "lemma": "очень",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "голодная",
+          "lemma": "голодный",
+          "morph": "Case=Nom|Degree=Pos|Gender=Fem|Number=Sing",
+          "pos": "ADJ"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "The mouse was very hungry that day."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Она ничего не ела целый день, поэтому вечером она решила пойти к мужчине, который жил в квартире с камином.",
+      "audio": "Рождественская Сказка.translated.json.audio\\19.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Она",
+          "lemma": "она",
+          "morph": "Case=Nom|Gender=Fem|Number=Sing|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": "ничего",
+          "lemma": "ничто",
+          "morph": "Case=Gen",
+          "pos": "PRON"
+        },
+        {
+          "text": "не",
+          "lemma": "не",
+          "morph": "Polarity=Neg",
+          "pos": "PART"
+        },
+        {
+          "text": "ела",
+          "lemma": "есть",
+          "morph": "Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "целый",
+          "lemma": "целый",
+          "morph": "Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing",
+          "pos": "ADJ"
+        },
+        {
+          "text": "день",
+          "lemma": "день",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "поэтому",
+          "lemma": "поэтому",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "вечером",
+          "lemma": "вечер",
+          "morph": "Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "она",
+          "lemma": "она",
+          "morph": "Case=Nom|Gender=Fem|Number=Sing|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": "решила",
+          "lemma": "решить",
+          "morph": "Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "пойти",
+          "lemma": "пойти",
+          "morph": "Aspect=Perf|VerbForm=Inf|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "к",
+          "lemma": "к",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "мужчине",
+          "lemma": "мужчина",
+          "morph": "Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "который",
+          "lemma": "который",
+          "morph": "Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "PRON"
+        },
+        {
+          "text": "жил",
+          "lemma": "жить",
+          "morph": "Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "в",
+          "lemma": "в",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "квартире",
+          "lemma": "квартира",
+          "morph": "Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "с",
+          "lemma": "с",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "камином",
+          "lemma": "камин",
+          "morph": "Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "She hadn't eaten anything all day, so in the evening she decided to go to the man who lived in the apartment with the fireplace."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Она долго смотрела на мужчину, который, как обычно, сидел около камина и читал газету.",
+      "audio": "Рождественская Сказка.translated.json.audio\\20.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Она",
+          "lemma": "она",
+          "morph": "Case=Nom|Gender=Fem|Number=Sing|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": "долго",
+          "lemma": "долго",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "смотрела",
+          "lemma": "смотреть",
+          "morph": "Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "на",
+          "lemma": "на",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "мужчину",
+          "lemma": "мужчина",
+          "morph": "Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "который",
+          "lemma": "который",
+          "morph": "Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "PRON"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "как",
+          "lemma": "как",
+          "morph": "",
+          "pos": "SCONJ"
+        },
+        {
+          "text": "обычно",
+          "lemma": "обычно",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "сидел",
+          "lemma": "сидеть",
+          "morph": "Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "около",
+          "lemma": "около",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "камина",
+          "lemma": "камин",
+          "morph": "Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "и",
+          "lemma": "и",
+          "morph": "",
+          "pos": "CCONJ"
+        },
+        {
+          "text": "читал",
+          "lemma": "читать",
+          "morph": "Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "газету",
+          "lemma": "газета",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "She looked for a long time at the man, who, as usual, was sitting by the fireplace reading the newspaper."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Мышка надеялась, что он увидит её и даст ей хлеб и сыр.",
+      "audio": "Рождественская Сказка.translated.json.audio\\21.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Мышка",
+          "lemma": "мышка",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "надеялась",
+          "lemma": "надеяться",
+          "morph": "Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid",
+          "pos": "VERB"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "что",
+          "lemma": "что",
+          "morph": "",
+          "pos": "SCONJ"
+        },
+        {
+          "text": "он",
+          "lemma": "он",
+          "morph": "Case=Nom|Gender=Masc|Number=Sing|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": "увидит",
+          "lemma": "увидеть",
+          "morph": "Aspect=Perf|Mood=Ind|Number=Sing|Person=Third|Tense=Fut|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "её",
+          "lemma": "её",
+          "morph": "Case=Acc|Gender=Fem|Number=Sing|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": "и",
+          "lemma": "и",
+          "morph": "",
+          "pos": "CCONJ"
+        },
+        {
+          "text": "даст",
+          "lemma": "дать",
+          "morph": "Aspect=Perf|Mood=Ind|Number=Sing|Person=Third|Tense=Fut|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "ей",
+          "lemma": "ей",
+          "morph": "Case=Dat|Gender=Fem|Number=Sing|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": "хлеб",
+          "lemma": "хлеб",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "и",
+          "lemma": "и",
+          "morph": "",
+          "pos": "CCONJ"
+        },
+        {
+          "text": "сыр",
+          "lemma": "сыр",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "The mouse hoped that he would see her and give her bread and cheese."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Она ждала долго.",
+      "audio": "Рождественская Сказка.translated.json.audio\\22.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Она",
+          "lemma": "она",
+          "morph": "Case=Nom|Gender=Fem|Number=Sing|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": "ждала",
+          "lemma": "ждать",
+          "morph": "Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "долго",
+          "lemma": "долго",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "She waited a long time."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Наконец, мужчина прочитал газету, положил её на стол и пошёл на кухню готовить ужин.Там он увидел мышку.",
+      "audio": "Рождественская Сказка.translated.json.audio\\23.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Наконец",
+          "lemma": "наконец",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "мужчина",
+          "lemma": "мужчина",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "прочитал",
+          "lemma": "прочитать",
+          "morph": "Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "газету",
+          "lemma": "газета",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "положил",
+          "lemma": "положить",
+          "morph": "Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "её",
+          "lemma": "её",
+          "morph": "Case=Acc|Gender=Fem|Number=Sing|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": "на",
+          "lemma": "на",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "стол",
+          "lemma": "стол",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "и",
+          "lemma": "и",
+          "morph": "",
+          "pos": "CCONJ"
+        },
+        {
+          "text": "пошёл",
+          "lemma": "пойти",
+          "morph": "Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "на",
+          "lemma": "на",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "кухню",
+          "lemma": "кухня",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "готовить",
+          "lemma": "готовить",
+          "morph": "Aspect=Imp|VerbForm=Inf|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "ужин",
+          "lemma": "ужин",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "Там",
+          "lemma": "там",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "он",
+          "lemma": "он",
+          "morph": "Case=Nom|Gender=Masc|Number=Sing|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": "увидел",
+          "lemma": "увидеть",
+          "morph": "Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "мышку",
+          "lemma": "мышка",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "Finally, the man read the newspaper, put it on the table, and went into the kitchen to make dinner.There he saw the mouse."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "– Что ты здесь делаешь?",
+      "audio": "Рождественская Сказка.translated.json.audio\\24.ogg",
+      "spacy_tokens": [
+        {
+          "text": "–",
+          "lemma": "–",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "Что",
+          "lemma": "что",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing",
+          "pos": "PRON"
+        },
+        {
+          "text": "ты",
+          "lemma": "ты",
+          "morph": "Case=Nom|Number=Sing|Person=Second",
+          "pos": "PRON"
+        },
+        {
+          "text": "здесь",
+          "lemma": "здесь",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "делаешь",
+          "lemma": "делать",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Second|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "?",
+          "lemma": "?",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "- What are you doing here?"
+    }
+  },
+  {
+    "ru": {
+      "sentence": "– спросил он.",
+      "audio": "Рождественская Сказка.translated.json.audio\\25.ogg",
+      "spacy_tokens": [
+        {
+          "text": "–",
+          "lemma": "–",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "спросил",
+          "lemma": "спросить",
+          "morph": "Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "он",
+          "lemma": "он",
+          "morph": "Case=Nom|Gender=Masc|Number=Sing|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "- he asked."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "– Я не приглашал тебя!",
+      "audio": "Рождественская Сказка.translated.json.audio\\26.ogg",
+      "spacy_tokens": [
+        {
+          "text": "–",
+          "lemma": "–",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "Я",
+          "lemma": "я",
+          "morph": "Case=Nom|Number=Sing|Person=First",
+          "pos": "PRON"
+        },
+        {
+          "text": "не",
+          "lemma": "не",
+          "morph": "Polarity=Neg",
+          "pos": "PART"
+        },
+        {
+          "text": "приглашал",
+          "lemma": "приглашать",
+          "morph": "Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "тебя",
+          "lemma": "тебя",
+          "morph": "Case=Acc|Number=Sing|Person=Second",
+          "pos": "PRON"
+        },
+        {
+          "text": "!",
+          "lemma": "!",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "- I didn't invite you!"
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Мышка очень хотела рассказать ему, какая она голодная, сколько времени она ничего не ела, но как сказать ему об этом, она не знала.",
+      "audio": "Рождественская Сказка.translated.json.audio\\27.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Мышка",
+          "lemma": "мышка",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "очень",
+          "lemma": "очень",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "хотела",
+          "lemma": "хотеть",
+          "morph": "Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "рассказать",
+          "lemma": "рассказать",
+          "morph": "Aspect=Perf|VerbForm=Inf|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "ему",
+          "lemma": "ему",
+          "morph": "Case=Dat|Gender=Masc|Number=Sing|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "какая",
+          "lemma": "какой",
+          "morph": "Case=Nom|Gender=Fem|Number=Sing",
+          "pos": "DET"
+        },
+        {
+          "text": "она",
+          "lemma": "она",
+          "morph": "Case=Nom|Gender=Fem|Number=Sing|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": "голодная",
+          "lemma": "голодный",
+          "morph": "Case=Nom|Degree=Pos|Gender=Fem|Number=Sing",
+          "pos": "ADJ"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "сколько",
+          "lemma": "сколько",
+          "morph": "Animacy=Inan|Case=Acc",
+          "pos": "NUM"
+        },
+        {
+          "text": "времени",
+          "lemma": "время",
+          "morph": "Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "она",
+          "lemma": "она",
+          "morph": "Case=Nom|Gender=Fem|Number=Sing|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": "ничего",
+          "lemma": "ничто",
+          "morph": "Case=Gen",
+          "pos": "PRON"
+        },
+        {
+          "text": "не",
+          "lemma": "не",
+          "morph": "Polarity=Neg",
+          "pos": "PART"
+        },
+        {
+          "text": "ела",
+          "lemma": "есть",
+          "morph": "Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "но",
+          "lemma": "но",
+          "morph": "",
+          "pos": "CCONJ"
+        },
+        {
+          "text": "как",
+          "lemma": "как",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "сказать",
+          "lemma": "сказать",
+          "morph": "Aspect=Perf|VerbForm=Inf|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "ему",
+          "lemma": "ему",
+          "morph": "Case=Dat|Gender=Masc|Number=Sing|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": "об",
+          "lemma": "об",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "этом",
+          "lemma": "это",
+          "morph": "Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing",
+          "pos": "PRON"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "она",
+          "lemma": "она",
+          "morph": "Case=Nom|Gender=Fem|Number=Sing|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": "не",
+          "lemma": "не",
+          "morph": "Polarity=Neg",
+          "pos": "PART"
+        },
+        {
+          "text": "знала",
+          "lemma": "знать",
+          "morph": "Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "The mouse really wanted to tell him how hungry he was, how long he hadn't eaten anything, but he didn't know how to tell him."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Она не могла говорить на человеческом языке.",
+      "audio": "Рождественская Сказка.translated.json.audio\\28.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Она",
+          "lemma": "она",
+          "morph": "Case=Nom|Gender=Fem|Number=Sing|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": "не",
+          "lemma": "не",
+          "morph": "Polarity=Neg",
+          "pos": "PART"
+        },
+        {
+          "text": "могла",
+          "lemma": "мочь",
+          "morph": "Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "говорить",
+          "lemma": "говорить",
+          "morph": "Aspect=Imp|VerbForm=Inf|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "на",
+          "lemma": "на",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "человеческом",
+          "lemma": "человеческий",
+          "morph": "Case=Loc|Degree=Pos|Gender=Masc|Number=Sing",
+          "pos": "ADJ"
+        },
+        {
+          "text": "языке",
+          "lemma": "язык",
+          "morph": "Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "She couldn't speak the human language."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Хозяин квартиры приготовил ужин.",
+      "audio": "Рождественская Сказка.translated.json.audio\\29.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Хозяин",
+          "lemma": "хозяин",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "квартиры",
+          "lemma": "квартира",
+          "morph": "Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "приготовил",
+          "lemma": "приготовить",
+          "morph": "Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "ужин",
+          "lemma": "ужин",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "The landlord made dinner."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Это был вкусный ужин: хлеб и сыр.",
+      "audio": "Рождественская Сказка.translated.json.audio\\30.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Это",
+          "lemma": "это",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing",
+          "pos": "PRON"
+        },
+        {
+          "text": "был",
+          "lemma": "был",
+          "morph": "Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "AUX"
+        },
+        {
+          "text": "вкусный",
+          "lemma": "вкусный",
+          "morph": "Case=Nom|Degree=Pos|Gender=Masc|Number=Sing",
+          "pos": "ADJ"
+        },
+        {
+          "text": "ужин",
+          "lemma": "ужин",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ":",
+          "lemma": ":",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "хлеб",
+          "lemma": "хлеб",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "и",
+          "lemma": "и",
+          "morph": "",
+          "pos": "CCONJ"
+        },
+        {
+          "text": "сыр",
+          "lemma": "сыр",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "It was a delicious dinner: bread and cheese."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Ах, как маленькая мышка любила хлеб и сыр!",
+      "audio": "Рождественская Сказка.translated.json.audio\\31.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Ах",
+          "lemma": "ах",
+          "morph": "",
+          "pos": "INTJ"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "как",
+          "lemma": "как",
+          "morph": "",
+          "pos": "SCONJ"
+        },
+        {
+          "text": "маленькая",
+          "lemma": "маленький",
+          "morph": "Case=Nom|Degree=Pos|Gender=Fem|Number=Sing",
+          "pos": "ADJ"
+        },
+        {
+          "text": "мышка",
+          "lemma": "мышка",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "любила",
+          "lemma": "любить",
+          "morph": "Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "хлеб",
+          "lemma": "хлеб",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "и",
+          "lemma": "и",
+          "morph": "",
+          "pos": "CCONJ"
+        },
+        {
+          "text": "сыр",
+          "lemma": "сыр",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "!",
+          "lemma": "!",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "Ah, how the little mouse loved bread and cheese!"
+    }
+  },
+  {
+    "ru": {
+      "sentence": "«Как сказать ему об этом?",
+      "audio": "Рождественская Сказка.translated.json.audio\\32.ogg",
+      "spacy_tokens": [
+        {
+          "text": "«",
+          "lemma": "\"",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "Как",
+          "lemma": "как",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "сказать",
+          "lemma": "сказать",
+          "morph": "Aspect=Perf|VerbForm=Inf|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "ему",
+          "lemma": "ему",
+          "morph": "Case=Dat|Gender=Masc|Number=Sing|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": "об",
+          "lemma": "об",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "этом",
+          "lemma": "это",
+          "morph": "Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing",
+          "pos": "PRON"
+        },
+        {
+          "text": "?",
+          "lemma": "?",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "\"How to tell him that?"
+    }
+  },
+  {
+    "ru": {
+      "sentence": "– Может быть, принести ему красивую бумагу?",
+      "audio": "Рождественская Сказка.translated.json.audio\\33.ogg",
+      "spacy_tokens": [
+        {
+          "text": "–",
+          "lemma": "–",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "Может",
+          "lemma": "мочь",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "быть",
+          "lemma": "быть",
+          "morph": "Aspect=Imp|VerbForm=Inf|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "принести",
+          "lemma": "принести",
+          "morph": "Aspect=Perf|VerbForm=Inf|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "ему",
+          "lemma": "ему",
+          "morph": "Case=Dat|Gender=Masc|Number=Sing|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": "красивую",
+          "lemma": "красивый",
+          "morph": "Case=Acc|Degree=Pos|Gender=Fem|Number=Sing",
+          "pos": "ADJ"
+        },
+        {
+          "text": "бумагу",
+          "lemma": "бумага",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "?",
+          "lemma": "?",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "- Maybe bring him some pretty paper?"
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Я видела её внизу, в подвале».",
+      "audio": "Рождественская Сказка.translated.json.audio\\34.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Я",
+          "lemma": "я",
+          "morph": "Case=Nom|Number=Sing|Person=First",
+          "pos": "PRON"
+        },
+        {
+          "text": "видела",
+          "lemma": "видеть",
+          "morph": "Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "её",
+          "lemma": "её",
+          "morph": "Case=Acc|Gender=Fem|Number=Sing|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": "внизу",
+          "lemma": "внизу",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "в",
+          "lemma": "в",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "подвале",
+          "lemma": "подвал",
+          "morph": "Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "»",
+          "lemma": "\"",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "I saw it downstairs in the basement.\""
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Человек был очень добрый.",
+      "audio": "Рождественская Сказка.translated.json.audio\\35.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Человек",
+          "lemma": "человек",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "был",
+          "lemma": "был",
+          "morph": "Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "AUX"
+        },
+        {
+          "text": "очень",
+          "lemma": "очень",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "добрый",
+          "lemma": "добрый",
+          "morph": "Case=Nom|Degree=Pos|Gender=Masc|Number=Sing",
+          "pos": "ADJ"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "The man was very kind."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Он не мог долго смотреть на голодную мышку и дал ей немного хлеба и сыра.",
+      "audio": "Рождественская Сказка.translated.json.audio\\36.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Он",
+          "lemma": "он",
+          "morph": "Case=Nom|Gender=Masc|Number=Sing|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": "не",
+          "lemma": "не",
+          "morph": "Polarity=Neg",
+          "pos": "PART"
+        },
+        {
+          "text": "мог",
+          "lemma": "мочь",
+          "morph": "Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "долго",
+          "lemma": "долго",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "смотреть",
+          "lemma": "смотреть",
+          "morph": "Aspect=Imp|VerbForm=Inf|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "на",
+          "lemma": "на",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "голодную",
+          "lemma": "голодный",
+          "morph": "Case=Acc|Degree=Pos|Gender=Fem|Number=Sing",
+          "pos": "ADJ"
+        },
+        {
+          "text": "мышку",
+          "lemma": "мышка",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "и",
+          "lemma": "и",
+          "morph": "",
+          "pos": "CCONJ"
+        },
+        {
+          "text": "дал",
+          "lemma": "дать",
+          "morph": "Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "ей",
+          "lemma": "ей",
+          "morph": "Case=Dat|Gender=Fem|Number=Sing|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": "немного",
+          "lemma": "немного",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "хлеба",
+          "lemma": "хлеб",
+          "morph": "Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "и",
+          "lemma": "и",
+          "morph": "",
+          "pos": "CCONJ"
+        },
+        {
+          "text": "сыра",
+          "lemma": "сыр",
+          "morph": "Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "He couldn't look at the hungry mouse for long and gave him some bread and cheese."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Мышка была очень рада.",
+      "audio": "Рождественская Сказка.translated.json.audio\\37.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Мышка",
+          "lemma": "мышка",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "была",
+          "lemma": "была",
+          "morph": "Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "AUX"
+        },
+        {
+          "text": "очень",
+          "lemma": "очень",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "рада",
+          "lemma": "рад",
+          "morph": "Degree=Pos|Gender=Fem|Number=Sing|StyleVariant=Short",
+          "pos": "ADJ"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "The mouse was very happy."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Она быстро съела всё, а потом сказала:",
+      "audio": "Рождественская Сказка.translated.json.audio\\38.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Она",
+          "lemma": "она",
+          "morph": "Case=Nom|Gender=Fem|Number=Sing|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": "быстро",
+          "lemma": "быстро",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "съела",
+          "lemma": "съесть",
+          "morph": "Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "всё",
+          "lemma": "всё",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing",
+          "pos": "PRON"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "а",
+          "lemma": "а",
+          "morph": "",
+          "pos": "CCONJ"
+        },
+        {
+          "text": "потом",
+          "lemma": "потом",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "сказала",
+          "lemma": "сказать",
+          "morph": "Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": ":",
+          "lemma": ":",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "She quickly ate everything, and then she said:"
+    }
+  },
+  {
+    "ru": {
+      "sentence": "«Я хочу сделать тебе подарок», – и побежала в подвал.",
+      "audio": "Рождественская Сказка.translated.json.audio\\39.ogg",
+      "spacy_tokens": [
+        {
+          "text": "«",
+          "lemma": "\"",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "Я",
+          "lemma": "я",
+          "morph": "Case=Nom|Number=Sing|Person=First",
+          "pos": "PRON"
+        },
+        {
+          "text": "хочу",
+          "lemma": "хотеть",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=First|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "сделать",
+          "lemma": "сделать",
+          "morph": "Aspect=Perf|VerbForm=Inf|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "тебе",
+          "lemma": "тебе",
+          "morph": "Case=Dat|Number=Sing|Person=Second",
+          "pos": "PRON"
+        },
+        {
+          "text": "подарок",
+          "lemma": "подарок",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "»",
+          "lemma": "\"",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "–",
+          "lemma": "–",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "и",
+          "lemma": "и",
+          "morph": "",
+          "pos": "CCONJ"
+        },
+        {
+          "text": "побежала",
+          "lemma": "побежать",
+          "morph": "Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "в",
+          "lemma": "в",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "подвал",
+          "lemma": "подвал",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "\"I want to give you a present,\" and ran down to the cellar."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Мужчина, конечно, ничего не понял, потому что он не понимал мышиный язык.",
+      "audio": "Рождественская Сказка.translated.json.audio\\40.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Мужчина",
+          "lemma": "мужчина",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "конечно",
+          "lemma": "конечно",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "ничего",
+          "lemma": "ничто",
+          "morph": "Case=Gen",
+          "pos": "PRON"
+        },
+        {
+          "text": "не",
+          "lemma": "не",
+          "morph": "Polarity=Neg",
+          "pos": "PART"
+        },
+        {
+          "text": "понял",
+          "lemma": "понять",
+          "morph": "Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "потому",
+          "lemma": "потому",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "что",
+          "lemma": "что",
+          "morph": "",
+          "pos": "SCONJ"
+        },
+        {
+          "text": "он",
+          "lemma": "он",
+          "morph": "Case=Nom|Gender=Masc|Number=Sing|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": "не",
+          "lemma": "не",
+          "morph": "Polarity=Neg",
+          "pos": "PART"
+        },
+        {
+          "text": "понимал",
+          "lemma": "понимать",
+          "morph": "Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "мышиный",
+          "lemma": "мышиный",
+          "morph": "Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing",
+          "pos": "ADJ"
+        },
+        {
+          "text": "язык",
+          "lemma": "язык",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "The man, of course, didn't understand anything, because he didn't understand the mouse language."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Через 30 минут мышка вернулась.",
+      "audio": "Рождественская Сказка.translated.json.audio\\41.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Через",
+          "lemma": "через",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "30",
+          "lemma": "30",
+          "morph": "",
+          "pos": "NUM"
+        },
+        {
+          "text": "минут",
+          "lemma": "минута",
+          "morph": "Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur",
+          "pos": "NOUN"
+        },
+        {
+          "text": "мышка",
+          "lemma": "мышка",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "вернулась",
+          "lemma": "вернуться",
+          "morph": "Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid",
+          "pos": "VERB"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "Thirty minutes later the mouse returned."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "«Как! Опять ты здесь!",
+      "audio": "Рождественская Сказка.translated.json.audio\\42.ogg",
+      "spacy_tokens": [
+        {
+          "text": "«",
+          "lemma": "\"",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "Как",
+          "lemma": "как",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "!",
+          "lemma": "!",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "Опять",
+          "lemma": "опять",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "ты",
+          "lemma": "ты",
+          "morph": "Case=Nom|Number=Sing|Person=Second",
+          "pos": "PRON"
+        },
+        {
+          "text": "здесь",
+          "lemma": "здесь",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "!",
+          "lemma": "!",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "\"How! Here you are again!"
+    }
+  },
+  {
+    "ru": {
+      "sentence": "– сказал хозяин квартиры.",
+      "audio": "Рождественская Сказка.translated.json.audio\\43.ogg",
+      "spacy_tokens": [
+        {
+          "text": "–",
+          "lemma": "–",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "сказал",
+          "lemma": "сказать",
+          "morph": "Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "хозяин",
+          "lemma": "хозяин",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "квартиры",
+          "lemma": "квартира",
+          "morph": "Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "- said the landlord."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "– Я дал тебе всё, что у меня есть.",
+      "audio": "Рождественская Сказка.translated.json.audio\\44.ogg",
+      "spacy_tokens": [
+        {
+          "text": "–",
+          "lemma": "–",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "Я",
+          "lemma": "я",
+          "morph": "Case=Nom|Number=Sing|Person=First",
+          "pos": "PRON"
+        },
+        {
+          "text": "дал",
+          "lemma": "дать",
+          "morph": "Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "тебе",
+          "lemma": "тебе",
+          "morph": "Case=Dat|Number=Sing|Person=Second",
+          "pos": "PRON"
+        },
+        {
+          "text": "всё",
+          "lemma": "всё",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing",
+          "pos": "PRON"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "что",
+          "lemma": "что",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing",
+          "pos": "PRON"
+        },
+        {
+          "text": "у",
+          "lemma": "у",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "меня",
+          "lemma": "меня",
+          "morph": "Case=Gen|Number=Sing|Person=First",
+          "pos": "PRON"
+        },
+        {
+          "text": "есть",
+          "lemma": "быть",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "- I've given you everything I've got."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Что ещё ты хочешь?»",
+      "audio": "Рождественская Сказка.translated.json.audio\\45.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Что",
+          "lemma": "что",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing",
+          "pos": "PRON"
+        },
+        {
+          "text": "ещё",
+          "lemma": "ещё",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "ты",
+          "lemma": "ты",
+          "morph": "Case=Nom|Number=Sing|Person=Second",
+          "pos": "PRON"
+        },
+        {
+          "text": "хочешь",
+          "lemma": "хотеть",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Second|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "?",
+          "lemma": "?",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "»",
+          "lemma": "\"",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "What more do you want?\""
+    }
+  },
+  {
+    "ru": {
+      "sentence": "А мышка принесла ему красивую зелёную бумагу.",
+      "audio": "Рождественская Сказка.translated.json.audio\\46.ogg",
+      "spacy_tokens": [
+        {
+          "text": "А",
+          "lemma": "а",
+          "morph": "",
+          "pos": "CCONJ"
+        },
+        {
+          "text": "мышка",
+          "lemma": "мышка",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "принесла",
+          "lemma": "принести",
+          "morph": "Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "ему",
+          "lemma": "ему",
+          "morph": "Case=Dat|Gender=Masc|Number=Sing|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": "красивую",
+          "lemma": "красивый",
+          "morph": "Case=Acc|Degree=Pos|Gender=Fem|Number=Sing",
+          "pos": "ADJ"
+        },
+        {
+          "text": "зелёную",
+          "lemma": "зелёный",
+          "morph": "Case=Acc|Degree=Pos|Gender=Fem|Number=Sing",
+          "pos": "ADJ"
+        },
+        {
+          "text": "бумагу",
+          "lemma": "бумага",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "And the mouse brought him a beautiful green paper."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Это был её подарок.",
+      "audio": "Рождественская Сказка.translated.json.audio\\47.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Это",
+          "lemma": "это",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing",
+          "pos": "PRON"
+        },
+        {
+          "text": "был",
+          "lemma": "был",
+          "morph": "Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "AUX"
+        },
+        {
+          "text": "её",
+          "lemma": "её",
+          "morph": "",
+          "pos": "DET"
+        },
+        {
+          "text": "подарок",
+          "lemma": "подарок",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "It was her gift."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Мужчина взял бумагу.",
+      "audio": "Рождественская Сказка.translated.json.audio\\48.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Мужчина",
+          "lemma": "мужчина",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "взял",
+          "lemma": "взять",
+          "morph": "Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "бумагу",
+          "lemma": "бумага",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "The man took the paper."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Это была банкнота в 100 долларов.",
+      "audio": "Рождественская Сказка.translated.json.audio\\49.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Это",
+          "lemma": "это",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing",
+          "pos": "PRON"
+        },
+        {
+          "text": "была",
+          "lemma": "была",
+          "morph": "Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "AUX"
+        },
+        {
+          "text": "банкнота",
+          "lemma": "банкнота",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "в",
+          "lemma": "в",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "100",
+          "lemma": "100",
+          "morph": "",
+          "pos": "NUM"
+        },
+        {
+          "text": "долларов",
+          "lemma": "доллар",
+          "morph": "Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "It was a $100 bill."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "«Боже мой! Где ты взяла это?!",
+      "audio": "Рождественская Сказка.translated.json.audio\\50.ogg",
+      "spacy_tokens": [
+        {
+          "text": "«",
+          "lemma": "\"",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "Боже",
+          "lemma": "бог",
+          "morph": "Animacy=Anim|Case=Voc|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "мой",
+          "lemma": "мой",
+          "morph": "Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "DET"
+        },
+        {
+          "text": "!",
+          "lemma": "!",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "Где",
+          "lemma": "где",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "ты",
+          "lemma": "ты",
+          "morph": "Case=Nom|Number=Sing|Person=Second",
+          "pos": "PRON"
+        },
+        {
+          "text": "взяла",
+          "lemma": "взять",
+          "morph": "Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "это",
+          "lemma": "это",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing",
+          "pos": "PRON"
+        },
+        {
+          "text": "?",
+          "lemma": "?",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "!",
+          "lemma": "!",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "\"My God! Where did you get that?!"
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Откуда ты принесла это?!»",
+      "audio": "Рождественская Сказка.translated.json.audio\\51.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Откуда",
+          "lemma": "откуда",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "ты",
+          "lemma": "ты",
+          "morph": "Case=Nom|Number=Sing|Person=Second",
+          "pos": "PRON"
+        },
+        {
+          "text": "принесла",
+          "lemma": "принести",
+          "morph": "Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "это",
+          "lemma": "это",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing",
+          "pos": "PRON"
+        },
+        {
+          "text": "?",
+          "lemma": "?",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "!",
+          "lemma": "!",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "»",
+          "lemma": "\"",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "Where did you bring it from?!\""
+    }
+  },
+  {
+    "ru": {
+      "sentence": "– спросил он.",
+      "audio": "Рождественская Сказка.translated.json.audio\\52.ogg",
+      "spacy_tokens": [
+        {
+          "text": "–",
+          "lemma": "–",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "спросил",
+          "lemma": "спросить",
+          "morph": "Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "он",
+          "lemma": "он",
+          "morph": "Case=Nom|Gender=Masc|Number=Sing|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "- he asked."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Но маленькая мышка ничего не ответила, потому что, как мы уже знаем, она не могла говорить на человеческом языке.",
+      "audio": "Рождественская Сказка.translated.json.audio\\53.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Но",
+          "lemma": "но",
+          "morph": "",
+          "pos": "CCONJ"
+        },
+        {
+          "text": "маленькая",
+          "lemma": "маленький",
+          "morph": "Case=Nom|Degree=Pos|Gender=Fem|Number=Sing",
+          "pos": "ADJ"
+        },
+        {
+          "text": "мышка",
+          "lemma": "мышка",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "ничего",
+          "lemma": "ничто",
+          "morph": "Case=Gen",
+          "pos": "PRON"
+        },
+        {
+          "text": "не",
+          "lemma": "не",
+          "morph": "Polarity=Neg",
+          "pos": "PART"
+        },
+        {
+          "text": "ответила",
+          "lemma": "ответить",
+          "morph": "Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "потому",
+          "lemma": "потому",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "что",
+          "lemma": "что",
+          "morph": "",
+          "pos": "SCONJ"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "как",
+          "lemma": "как",
+          "morph": "",
+          "pos": "SCONJ"
+        },
+        {
+          "text": "мы",
+          "lemma": "мы",
+          "morph": "Case=Nom|Number=Plur|Person=First",
+          "pos": "PRON"
+        },
+        {
+          "text": "уже",
+          "lemma": "уже",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "знаем",
+          "lemma": "знать",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Plur|Person=First|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "она",
+          "lemma": "она",
+          "morph": "Case=Nom|Gender=Fem|Number=Sing|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": "не",
+          "lemma": "не",
+          "morph": "Polarity=Neg",
+          "pos": "PART"
+        },
+        {
+          "text": "могла",
+          "lemma": "мочь",
+          "morph": "Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "говорить",
+          "lemma": "говорить",
+          "morph": "Aspect=Imp|VerbForm=Inf|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "на",
+          "lemma": "на",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "человеческом",
+          "lemma": "человеческий",
+          "morph": "Case=Loc|Degree=Pos|Gender=Masc|Number=Sing",
+          "pos": "ADJ"
+        },
+        {
+          "text": "языке",
+          "lemma": "язык",
+          "morph": "Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "But the little mouse didn't answer anything because, as we already know, it couldn't speak the human language."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "И сейчас, когда мышка голодная, она идёт в гости к мужчине, который живёт в квартире с камином.",
+      "audio": "Рождественская Сказка.translated.json.audio\\54.ogg",
+      "spacy_tokens": [
+        {
+          "text": "И",
+          "lemma": "и",
+          "morph": "",
+          "pos": "CCONJ"
+        },
+        {
+          "text": "сейчас",
+          "lemma": "сейчас",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "когда",
+          "lemma": "когда",
+          "morph": "",
+          "pos": "SCONJ"
+        },
+        {
+          "text": "мышка",
+          "lemma": "мышка",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "голодная",
+          "lemma": "голодный",
+          "morph": "Case=Nom|Degree=Pos|Gender=Fem|Number=Sing",
+          "pos": "ADJ"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "она",
+          "lemma": "она",
+          "morph": "Case=Nom|Gender=Fem|Number=Sing|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": "идёт",
+          "lemma": "идти",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "в",
+          "lemma": "в",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "гости",
+          "lemma": "гость",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur",
+          "pos": "NOUN"
+        },
+        {
+          "text": "к",
+          "lemma": "к",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "мужчине",
+          "lemma": "мужчина",
+          "morph": "Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "который",
+          "lemma": "который",
+          "morph": "Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "PRON"
+        },
+        {
+          "text": "живёт",
+          "lemma": "жить",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "в",
+          "lemma": "в",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "квартире",
+          "lemma": "квартира",
+          "morph": "Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "с",
+          "lemma": "с",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "камином",
+          "lemma": "камин",
+          "morph": "Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "And now, when the mouse is hungry, she goes to visit the man who lives in the apartment with the fireplace."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Он всегда ждёт её и даёт ей хлеб и сыр, а мышка приносит ему красивую зелёную бумажку.",
+      "audio": "Рождественская Сказка.translated.json.audio\\55.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Он",
+          "lemma": "он",
+          "morph": "Case=Nom|Gender=Masc|Number=Sing|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": "всегда",
+          "lemma": "всегда",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "ждёт",
+          "lemma": "ждать",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "её",
+          "lemma": "её",
+          "morph": "Case=Acc|Gender=Fem|Number=Sing|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": "и",
+          "lemma": "и",
+          "morph": "",
+          "pos": "CCONJ"
+        },
+        {
+          "text": "даёт",
+          "lemma": "давать",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "ей",
+          "lemma": "ей",
+          "morph": "Case=Dat|Gender=Fem|Number=Sing|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": "хлеб",
+          "lemma": "хлеб",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "и",
+          "lemma": "и",
+          "morph": "",
+          "pos": "CCONJ"
+        },
+        {
+          "text": "сыр",
+          "lemma": "сыр",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "а",
+          "lemma": "а",
+          "morph": "",
+          "pos": "CCONJ"
+        },
+        {
+          "text": "мышка",
+          "lemma": "мышка",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "приносит",
+          "lemma": "приносить",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "ему",
+          "lemma": "ему",
+          "morph": "Case=Dat|Gender=Masc|Number=Sing|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": "красивую",
+          "lemma": "красивый",
+          "morph": "Case=Acc|Degree=Pos|Gender=Fem|Number=Sing",
+          "pos": "ADJ"
+        },
+        {
+          "text": "зелёную",
+          "lemma": "зелёный",
+          "morph": "Case=Acc|Degree=Pos|Gender=Fem|Number=Sing",
+          "pos": "ADJ"
+        },
+        {
+          "text": "бумажку",
+          "lemma": "бумажка",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "He always waits for her and gives her bread and cheese, and the mouse brings him a nice green piece of paper."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Вы спросите, откуда она каждый раз берёт 100 долларов?",
+      "audio": "Рождественская Сказка.translated.json.audio\\56.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Вы",
+          "lemma": "вы",
+          "morph": "Case=Nom|Number=Plur|Person=Second",
+          "pos": "PRON"
+        },
+        {
+          "text": "спросите",
+          "lemma": "спросить",
+          "morph": "Aspect=Perf|Mood=Imp|Number=Plur|Person=Second|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "откуда",
+          "lemma": "откуда",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "она",
+          "lemma": "она",
+          "morph": "Case=Nom|Gender=Fem|Number=Sing|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": "каждый",
+          "lemma": "каждый",
+          "morph": "Case=Acc|Gender=Masc|Number=Sing",
+          "pos": "DET"
+        },
+        {
+          "text": "раз",
+          "lemma": "раз",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "берёт",
+          "lemma": "брать",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "100",
+          "lemma": "100",
+          "morph": "",
+          "pos": "NUM"
+        },
+        {
+          "text": "долларов",
+          "lemma": "доллар",
+          "morph": "Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur",
+          "pos": "NOUN"
+        },
+        {
+          "text": "?",
+          "lemma": "?",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "You may ask, where does she get $100 every time?"
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Это очень просто.",
+      "audio": "Рождественская Сказка.translated.json.audio\\57.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Это",
+          "lemma": "это",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing",
+          "pos": "PRON"
+        },
+        {
+          "text": "очень",
+          "lemma": "очень",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "просто",
+          "lemma": "простой",
+          "morph": "Degree=Pos|Gender=Neut|Number=Sing|StyleVariant=Short",
+          "pos": "ADJ"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "It's very simple."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Внизу, где живёт маленькая мышка, в стене есть клад, где много красивой зелёной бумаги…",
+      "audio": "Рождественская Сказка.translated.json.audio\\58.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Внизу",
+          "lemma": "внизу",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "где",
+          "lemma": "где",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "живёт",
+          "lemma": "жить",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "маленькая",
+          "lemma": "маленький",
+          "morph": "Case=Nom|Degree=Pos|Gender=Fem|Number=Sing",
+          "pos": "ADJ"
+        },
+        {
+          "text": "мышка",
+          "lemma": "мышка",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "в",
+          "lemma": "в",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "стене",
+          "lemma": "стена",
+          "morph": "Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "есть",
+          "lemma": "быть",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "клад",
+          "lemma": "клад",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "где",
+          "lemma": "где",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "много",
+          "lemma": "много",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "красивой",
+          "lemma": "красивый",
+          "morph": "Case=Gen|Degree=Pos|Gender=Fem|Number=Sing",
+          "pos": "ADJ"
+        },
+        {
+          "text": "зелёной",
+          "lemma": "зелёный",
+          "morph": "Case=Gen|Degree=Pos|Gender=Fem|Number=Sing",
+          "pos": "ADJ"
+        },
+        {
+          "text": "бумаги",
+          "lemma": "бумага",
+          "morph": "Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "…",
+          "lemma": "…",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "Downstairs, where the little mouse lives, there's a treasure trove of beautiful green paper in the wall..."
+    }
+  }
+]

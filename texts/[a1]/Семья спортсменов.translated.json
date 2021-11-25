@@ -1,0 +1,1295 @@
+[
+  {
+    "ru": {
+      "sentence": "Павел Буре – спортсмен.",
+      "audio": "Семья спортсменов.translated.json.audio\\0.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Павел",
+          "lemma": "павел",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": "Буре",
+          "lemma": "буре",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": "–",
+          "lemma": "–",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "спортсмен",
+          "lemma": "спортсмен",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "Pavel Bure is an athlete."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Он играет в хоккей.",
+      "audio": "Семья спортсменов.translated.json.audio\\1.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Он",
+          "lemma": "он",
+          "morph": "Case=Nom|Gender=Masc|Number=Sing|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": "играет",
+          "lemma": "играть",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "в",
+          "lemma": "в",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "хоккей",
+          "lemma": "хоккей",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "He plays hockey."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Он из России.",
+      "audio": "Семья спортсменов.translated.json.audio\\2.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Он",
+          "lemma": "он",
+          "morph": "Case=Nom|Gender=Masc|Number=Sing|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": "из",
+          "lemma": "из",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "России",
+          "lemma": "россия",
+          "morph": "Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "He's from Russia."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Ему сейчас 41 год.",
+      "audio": "Семья спортсменов.translated.json.audio\\3.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Ему",
+          "lemma": "ему",
+          "morph": "Case=Dat|Gender=Masc|Number=Sing|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": "сейчас",
+          "lemma": "сейчас",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "41",
+          "lemma": "41",
+          "morph": "",
+          "pos": "NUM"
+        },
+        {
+          "text": "год",
+          "lemma": "год",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "He is 41 years old now."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Павел говорит по-русски и неплохо знает английский язык.",
+      "audio": "Семья спортсменов.translated.json.audio\\4.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Павел",
+          "lemma": "павел",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": "говорит",
+          "lemma": "говорить",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "по",
+          "lemma": "по",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "-",
+          "lemma": "-",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "русски",
+          "lemma": "русски",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "и",
+          "lemma": "и",
+          "morph": "",
+          "pos": "CCONJ"
+        },
+        {
+          "text": "неплохо",
+          "lemma": "неплохо",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "знает",
+          "lemma": "знать",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "английский",
+          "lemma": "английский",
+          "morph": "Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing",
+          "pos": "ADJ"
+        },
+        {
+          "text": "язык",
+          "lemma": "язык",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "Pavel speaks Russian and knows English quite well."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Павел хорошо играет в футбол и в теннис.",
+      "audio": "Семья спортсменов.translated.json.audio\\5.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Павел",
+          "lemma": "павел",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": "хорошо",
+          "lemma": "хорошо",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "играет",
+          "lemma": "играть",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "в",
+          "lemma": "в",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "футбол",
+          "lemma": "футбол",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "и",
+          "lemma": "и",
+          "morph": "",
+          "pos": "CCONJ"
+        },
+        {
+          "text": "в",
+          "lemma": "в",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "теннис",
+          "lemma": "теннис",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "Pavel is good at soccer and tennis."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Он мало отдыхает, но когда у него есть время, он читает и слушает музыку.",
+      "audio": "Семья спортсменов.translated.json.audio\\6.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Он",
+          "lemma": "он",
+          "morph": "Case=Nom|Gender=Masc|Number=Sing|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": "мало",
+          "lemma": "мало",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "отдыхает",
+          "lemma": "отдыхать",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "но",
+          "lemma": "но",
+          "morph": "",
+          "pos": "CCONJ"
+        },
+        {
+          "text": "когда",
+          "lemma": "когда",
+          "morph": "",
+          "pos": "SCONJ"
+        },
+        {
+          "text": "у",
+          "lemma": "у",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "него",
+          "lemma": "него",
+          "morph": "Case=Gen|Gender=Masc|Number=Sing|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": "есть",
+          "lemma": "быть",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "время",
+          "lemma": "время",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "он",
+          "lemma": "он",
+          "morph": "Case=Nom|Gender=Masc|Number=Sing|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": "читает",
+          "lemma": "читать",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "и",
+          "lemma": "и",
+          "morph": "",
+          "pos": "CCONJ"
+        },
+        {
+          "text": "слушает",
+          "lemma": "слушать",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "музыку",
+          "lemma": "музыка",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "He does not get much rest, but when he has time, he reads and listens to music."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "У него есть жена.",
+      "audio": "Семья спортсменов.translated.json.audio\\7.ogg",
+      "spacy_tokens": [
+        {
+          "text": "У",
+          "lemma": "у",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "него",
+          "lemma": "него",
+          "morph": "Case=Gen|Gender=Masc|Number=Sing|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": "есть",
+          "lemma": "быть",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "жена",
+          "lemma": "жена",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "He has a wife."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Её зовут Алина.",
+      "audio": "Семья спортсменов.translated.json.audio\\8.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Её",
+          "lemma": "её",
+          "morph": "Animacy=Anim|Case=Nom|Number=Plur",
+          "pos": "PRON"
+        },
+        {
+          "text": "зовут",
+          "lemma": "звать",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Plur|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "Алина",
+          "lemma": "алина",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "Her name is Alina."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Она модель из России.",
+      "audio": "Семья спортсменов.translated.json.audio\\9.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Она",
+          "lemma": "она",
+          "morph": "Case=Nom|Gender=Fem|Number=Sing|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": "модель",
+          "lemma": "модель",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "из",
+          "lemma": "из",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "России",
+          "lemma": "россия",
+          "morph": "Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "She is a model from Russia."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Ещё у него есть младший брат.",
+      "audio": "Семья спортсменов.translated.json.audio\\10.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Ещё",
+          "lemma": "ещё",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": "у",
+          "lemma": "у",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "него",
+          "lemma": "него",
+          "morph": "Case=Gen|Gender=Masc|Number=Sing|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": "есть",
+          "lemma": "быть",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "младший",
+          "lemma": "младший",
+          "morph": "Case=Nom|Degree=Pos|Gender=Masc|Number=Sing",
+          "pos": "ADJ"
+        },
+        {
+          "text": "брат",
+          "lemma": "брат",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "He also has a younger brother."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Его зовут Валерий.",
+      "audio": "Семья спортсменов.translated.json.audio\\11.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Его",
+          "lemma": "его",
+          "morph": "Case=Acc|Gender=Masc|Number=Sing|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": "зовут",
+          "lemma": "звать",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Plur|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "Валерий",
+          "lemma": "валерий",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "His name is Valery."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Ему 38 лет.",
+      "audio": "Семья спортсменов.translated.json.audio\\12.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Ему",
+          "lemma": "ему",
+          "morph": "Case=Dat|Gender=Masc|Number=Sing|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": "38",
+          "lemma": "38",
+          "morph": "",
+          "pos": "NUM"
+        },
+        {
+          "text": "лет",
+          "lemma": "год",
+          "morph": "Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "He's 38 years old."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Он тоже хоккеист.",
+      "audio": "Семья спортсменов.translated.json.audio\\13.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Он",
+          "lemma": "он",
+          "morph": "Case=Nom|Gender=Masc|Number=Sing|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": "тоже",
+          "lemma": "тоже",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "хоккеист",
+          "lemma": "хоккеист",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "He's also a hockey player."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Сейчас он уже не играет в хоккей, но он ещё занимается спортом.",
+      "audio": "Семья спортсменов.translated.json.audio\\14.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Сейчас",
+          "lemma": "сейчас",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "он",
+          "lemma": "он",
+          "morph": "Case=Nom|Gender=Masc|Number=Sing|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": "уже",
+          "lemma": "уже",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "не",
+          "lemma": "не",
+          "morph": "Polarity=Neg",
+          "pos": "PART"
+        },
+        {
+          "text": "играет",
+          "lemma": "играть",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "в",
+          "lemma": "в",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "хоккей",
+          "lemma": "хоккей",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "но",
+          "lemma": "но",
+          "morph": "",
+          "pos": "CCONJ"
+        },
+        {
+          "text": "он",
+          "lemma": "он",
+          "morph": "Case=Nom|Gender=Masc|Number=Sing|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": "ещё",
+          "lemma": "ещё",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "занимается",
+          "lemma": "заниматься",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Mid",
+          "pos": "VERB"
+        },
+        {
+          "text": "спортом",
+          "lemma": "спорт",
+          "morph": "Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "Now he doesn't play hockey anymore, but he still plays sports."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "У него есть жена.",
+      "audio": "Семья спортсменов.translated.json.audio\\15.ogg",
+      "spacy_tokens": [
+        {
+          "text": "У",
+          "lemma": "у",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "него",
+          "lemma": "него",
+          "morph": "Case=Gen|Gender=Masc|Number=Sing|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": "есть",
+          "lemma": "быть",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "жена",
+          "lemma": "жена",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "He has a wife."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Ееё зовут Кендис Кэмерон.",
+      "audio": "Семья спортсменов.translated.json.audio\\16.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Ееё",
+          "lemma": "ееё",
+          "morph": "Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": "зовут",
+          "lemma": "звать",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Plur|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "Кендис",
+          "lemma": "кендис",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": "Кэмерон",
+          "lemma": "кэмерон",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "Her name is Candace Cameron."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Она из Америки.",
+      "audio": "Семья спортсменов.translated.json.audio\\17.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Она",
+          "lemma": "она",
+          "morph": "Case=Nom|Gender=Fem|Number=Sing|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": "из",
+          "lemma": "из",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "Америки",
+          "lemma": "америка",
+          "morph": "Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "She's from America."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Ей 36 лет.",
+      "audio": "Семья спортсменов.translated.json.audio\\18.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Ей",
+          "lemma": "ей",
+          "morph": "Case=Dat|Gender=Fem|Number=Sing|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": "36",
+          "lemma": "36",
+          "morph": "",
+          "pos": "NUM"
+        },
+        {
+          "text": "лет",
+          "lemma": "год",
+          "morph": "Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "She's 36 years old."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Жена Валерия – актриса.",
+      "audio": "Семья спортсменов.translated.json.audio\\19.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Жена",
+          "lemma": "жена",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "Валерия",
+          "lemma": "валерия",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": "–",
+          "lemma": "–",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "актриса",
+          "lemma": "актриса",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "Valery's wife is an actress."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "У них есть дети: два сына и дочь.",
+      "audio": "Семья спортсменов.translated.json.audio\\20.ogg",
+      "spacy_tokens": [
+        {
+          "text": "У",
+          "lemma": "у",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "них",
+          "lemma": "них",
+          "morph": "Case=Gen|Number=Plur|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": "есть",
+          "lemma": "быть",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Plur|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "дети",
+          "lemma": "ребёнок",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur",
+          "pos": "NOUN"
+        },
+        {
+          "text": ":",
+          "lemma": ":",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "два",
+          "lemma": "два",
+          "morph": "Case=Nom|Gender=Masc",
+          "pos": "NUM"
+        },
+        {
+          "text": "сына",
+          "lemma": "сын",
+          "morph": "Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "и",
+          "lemma": "и",
+          "morph": "",
+          "pos": "CCONJ"
+        },
+        {
+          "text": "дочь",
+          "lemma": "дочь",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "They have children: two sons and a daughter."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Их старшая дочь Наташа – школьница.",
+      "audio": "Семья спортсменов.translated.json.audio\\21.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Их",
+          "lemma": "их",
+          "morph": "Case=Gen|Number=Plur|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": "старшая",
+          "lemma": "старший",
+          "morph": "Case=Nom|Degree=Pos|Gender=Fem|Number=Sing",
+          "pos": "ADJ"
+        },
+        {
+          "text": "дочь",
+          "lemma": "дочь",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "Наташа",
+          "lemma": "наташа",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": "–",
+          "lemma": "–",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "школьница",
+          "lemma": "школьница",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "Their eldest daughter Natasha is a schoolgirl."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Ей 14 лет.",
+      "audio": "Семья спортсменов.translated.json.audio\\22.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Ей",
+          "lemma": "ей",
+          "morph": "Case=Dat|Gender=Fem|Number=Sing|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": "14",
+          "lemma": "14",
+          "morph": "",
+          "pos": "NUM"
+        },
+        {
+          "text": "лет",
+          "lemma": "год",
+          "morph": "Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "She is 14 years old."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Отец Павла и Валерия тоже спортсмен.",
+      "audio": "Семья спортсменов.translated.json.audio\\23.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Отец",
+          "lemma": "отец",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "Павла",
+          "lemma": "павел",
+          "morph": "Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": "и",
+          "lemma": "и",
+          "morph": "",
+          "pos": "CCONJ"
+        },
+        {
+          "text": "Валерия",
+          "lemma": "валерий",
+          "morph": "Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": "тоже",
+          "lemma": "тоже",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "спортсмен",
+          "lemma": "спортсмен",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "The father of Paul and Valery is also an athlete."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Его зовут Владимир.",
+      "audio": "Семья спортсменов.translated.json.audio\\24.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Его",
+          "lemma": "его",
+          "morph": "Case=Acc|Gender=Masc|Number=Sing|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": "зовут",
+          "lemma": "звать",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Plur|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "Владимир",
+          "lemma": "владимир",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "His name is Vladimir."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Ему 62 года.",
+      "audio": "Семья спортсменов.translated.json.audio\\25.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Ему",
+          "lemma": "ему",
+          "morph": "Case=Dat|Gender=Masc|Number=Sing|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": "62",
+          "lemma": "62",
+          "morph": "",
+          "pos": "NUM"
+        },
+        {
+          "text": "года",
+          "lemma": "год",
+          "morph": "Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "He is 62 years old."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Он сейчас тренер.",
+      "audio": "Семья спортсменов.translated.json.audio\\26.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Он",
+          "lemma": "он",
+          "morph": "Case=Nom|Gender=Masc|Number=Sing|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": "сейчас",
+          "lemma": "сейчас",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "тренер",
+          "lemma": "тренер",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "He is now a coach."
+    }
+  }
+]

@@ -1,0 +1,1101 @@
+[
+  {
+    "ru": {
+      "sentence": "Андрей любит мечтать.",
+      "audio": "Дольче Вита.translated.json.audio\\0.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Андрей",
+          "lemma": "андрей",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": "любит",
+          "lemma": "любить",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "мечтать",
+          "lemma": "мечтать",
+          "morph": "Aspect=Imp|VerbForm=Inf|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "Andrei likes to dream."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Вот его дом… Два… нет, три этажа.",
+      "audio": "Дольче Вита.translated.json.audio\\1.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Вот",
+          "lemma": "вот",
+          "morph": "",
+          "pos": "PART"
+        },
+        {
+          "text": "его",
+          "lemma": "его",
+          "morph": "",
+          "pos": "DET"
+        },
+        {
+          "text": "дом",
+          "lemma": "дом",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "…",
+          "lemma": "…",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "Два",
+          "lemma": "два",
+          "morph": "Case=Nom|Gender=Masc",
+          "pos": "NUM"
+        },
+        {
+          "text": "…",
+          "lemma": "…",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "нет",
+          "lemma": "нет",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "три",
+          "lemma": "три",
+          "morph": "Case=Nom",
+          "pos": "NUM"
+        },
+        {
+          "text": "этажа",
+          "lemma": "этаж",
+          "morph": "Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "Here's his house... Two... no, three floors."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Он на балконе.",
+      "audio": "Дольче Вита.translated.json.audio\\2.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Он",
+          "lemma": "он",
+          "morph": "Case=Nom|Gender=Masc|Number=Sing|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": "на",
+          "lemma": "на",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "балконе",
+          "lemma": "балкон",
+          "morph": "Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "He's on the balcony."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Нет, он в бассейне.",
+      "audio": "Дольче Вита.translated.json.audio\\3.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Нет",
+          "lemma": "нет",
+          "morph": "Polarity=Neg",
+          "pos": "PART"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "он",
+          "lemma": "он",
+          "morph": "Case=Nom|Gender=Masc|Number=Sing|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": "в",
+          "lemma": "в",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "бассейне",
+          "lemma": "бассейн",
+          "morph": "Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "No, he's in the pool."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Нет, не так…",
+      "audio": "Дольче Вита.translated.json.audio\\4.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Нет",
+          "lemma": "нет",
+          "morph": "Polarity=Neg",
+          "pos": "PART"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "не",
+          "lemma": "не",
+          "morph": "Polarity=Neg",
+          "pos": "PART"
+        },
+        {
+          "text": "так",
+          "lemma": "так",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "…",
+          "lemma": "…",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "No, he's not..."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Вот его яхта… Он стоит на яхте.",
+      "audio": "Дольче Вита.translated.json.audio\\5.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Вот",
+          "lemma": "вот",
+          "morph": "",
+          "pos": "PART"
+        },
+        {
+          "text": "его",
+          "lemma": "его",
+          "morph": "",
+          "pos": "DET"
+        },
+        {
+          "text": "яхта",
+          "lemma": "яхта",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "…",
+          "lemma": "…",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "Он",
+          "lemma": "он",
+          "morph": "Case=Nom|Gender=Masc|Number=Sing|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": "стоит",
+          "lemma": "стоить",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "на",
+          "lemma": "на",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "яхте",
+          "lemma": "яхта",
+          "morph": "Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "Here's his yacht... He's standing on a yacht."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "А яхта в море.",
+      "audio": "Дольче Вита.translated.json.audio\\6.ogg",
+      "spacy_tokens": [
+        {
+          "text": "А",
+          "lemma": "а",
+          "morph": "",
+          "pos": "CCONJ"
+        },
+        {
+          "text": "яхта",
+          "lemma": "яхта",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "в",
+          "lemma": "в",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "море",
+          "lemma": "море",
+          "morph": "Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "And the yacht is at sea."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Нет, в океане.",
+      "audio": "Дольче Вита.translated.json.audio\\7.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Нет",
+          "lemma": "нет",
+          "morph": "Polarity=Neg",
+          "pos": "PART"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "в",
+          "lemma": "в",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "океане",
+          "lemma": "океан",
+          "morph": "Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "No, the ocean."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "На яхте мотоцикл (он давно о нем мечтал).",
+      "audio": "Дольче Вита.translated.json.audio\\8.ogg",
+      "spacy_tokens": [
+        {
+          "text": "На",
+          "lemma": "на",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "яхте",
+          "lemma": "яхта",
+          "morph": "Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "мотоцикл",
+          "lemma": "мотоцикл",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "(",
+          "lemma": "(",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "он",
+          "lemma": "он",
+          "morph": "Case=Nom|Gender=Masc|Number=Sing|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": "давно",
+          "lemma": "давно",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "о",
+          "lemma": "о",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "нем",
+          "lemma": "нем",
+          "morph": "Case=Loc|Gender=Neut|Number=Sing|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": "мечтал",
+          "lemma": "мечтать",
+          "morph": "Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": ")",
+          "lemma": ")",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "There's a motorcycle on the yacht (he's been dreaming about it for a long time)."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Новая модель “Харлей-Дэвидсон”.",
+      "audio": "Дольче Вита.translated.json.audio\\9.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Новая",
+          "lemma": "новый",
+          "morph": "Case=Nom|Degree=Pos|Gender=Fem|Number=Sing",
+          "pos": "ADJ"
+        },
+        {
+          "text": "модель",
+          "lemma": "модель",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "“",
+          "lemma": "“",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "Харлей",
+          "lemma": "харлей",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": "-",
+          "lemma": "-",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": "Дэвидсон",
+          "lemma": "дэвидсон",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": "”",
+          "lemma": "”",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "A new Harley-Davidson."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Рядом красивая блондинка.",
+      "audio": "Дольче Вита.translated.json.audio\\10.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Рядом",
+          "lemma": "рядом",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "красивая",
+          "lemma": "красивый",
+          "morph": "Case=Nom|Degree=Pos|Gender=Fem|Number=Sing",
+          "pos": "ADJ"
+        },
+        {
+          "text": "блондинка",
+          "lemma": "блондинка",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "Next to the beautiful blonde."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Это популярная теннисистка Мария Шарапова.",
+      "audio": "Дольче Вита.translated.json.audio\\11.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Это",
+          "lemma": "это",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing",
+          "pos": "PRON"
+        },
+        {
+          "text": "популярная",
+          "lemma": "популярный",
+          "morph": "Case=Nom|Degree=Pos|Gender=Fem|Number=Sing",
+          "pos": "ADJ"
+        },
+        {
+          "text": "теннисистка",
+          "lemma": "теннисистка",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "Мария",
+          "lemma": "мария",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": "Шарапова",
+          "lemma": "шарапов",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "This is the popular tennis player Maria Sharapova."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "На столе шампанское и клубника…",
+      "audio": "Дольче Вита.translated.json.audio\\12.ogg",
+      "spacy_tokens": [
+        {
+          "text": "На",
+          "lemma": "на",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "столе",
+          "lemma": "стол",
+          "morph": "Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "шампанское",
+          "lemma": "шампанское",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "и",
+          "lemma": "и",
+          "morph": "",
+          "pos": "CCONJ"
+        },
+        {
+          "text": "клубника",
+          "lemma": "клубника",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "…",
+          "lemma": "…",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "There's champagne and strawberries on the table..."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "– Андрей, иди обедать!",
+      "audio": "Дольче Вита.translated.json.audio\\13.ogg",
+      "spacy_tokens": [
+        {
+          "text": "–",
+          "lemma": "–",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "Андрей",
+          "lemma": "андрей",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "иди",
+          "lemma": "идти",
+          "morph": "Aspect=Imp|Mood=Imp|Number=Sing|Person=Second|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "обедать",
+          "lemma": "обедать",
+          "morph": "Aspect=Imp|VerbForm=Inf|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "!",
+          "lemma": "!",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "- Andrei, come to lunch!"
+    }
+  },
+  {
+    "ru": {
+      "sentence": "– Да, мама, сейчас!",
+      "audio": "Дольче Вита.translated.json.audio\\14.ogg",
+      "spacy_tokens": [
+        {
+          "text": "–",
+          "lemma": "–",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "Да",
+          "lemma": "да",
+          "morph": "",
+          "pos": "PART"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "мама",
+          "lemma": "мама",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "сейчас",
+          "lemma": "сейчас",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "!",
+          "lemma": "!",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "- Yes, Mom, now!"
+    }
+  },
+  {
+    "ru": {
+      "sentence": "– Что ты делал?",
+      "audio": "Дольче Вита.translated.json.audio\\15.ogg",
+      "spacy_tokens": [
+        {
+          "text": "–",
+          "lemma": "–",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "Что",
+          "lemma": "что",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing",
+          "pos": "PRON"
+        },
+        {
+          "text": "ты",
+          "lemma": "ты",
+          "morph": "Case=Nom|Number=Sing|Person=Second",
+          "pos": "PRON"
+        },
+        {
+          "text": "делал",
+          "lemma": "делать",
+          "morph": "Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "?",
+          "lemma": "?",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "- What were you doing?"
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Ты уже сделал домашнее задание?",
+      "audio": "Дольче Вита.translated.json.audio\\16.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Ты",
+          "lemma": "ты",
+          "morph": "Case=Nom|Number=Sing|Person=Second",
+          "pos": "PRON"
+        },
+        {
+          "text": "уже",
+          "lemma": "уже",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "сделал",
+          "lemma": "сделать",
+          "morph": "Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "домашнее",
+          "lemma": "домашний",
+          "morph": "Animacy=Inan|Case=Acc|Degree=Pos|Gender=Neut|Number=Sing",
+          "pos": "ADJ"
+        },
+        {
+          "text": "задание",
+          "lemma": "задание",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "?",
+          "lemma": "?",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "Have you done your homework yet?"
+    }
+  },
+  {
+    "ru": {
+      "sentence": "– Нет, ещё не сделал.",
+      "audio": "Дольче Вита.translated.json.audio\\17.ogg",
+      "spacy_tokens": [
+        {
+          "text": "–",
+          "lemma": "–",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "Нет",
+          "lemma": "нет",
+          "morph": "Polarity=Neg",
+          "pos": "PART"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "ещё",
+          "lemma": "ещё",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "не",
+          "lemma": "не",
+          "morph": "Polarity=Neg",
+          "pos": "PART"
+        },
+        {
+          "text": "сделал",
+          "lemma": "сделать",
+          "morph": "Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "- No, I haven't done it yet."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Я читал.",
+      "audio": "Дольче Вита.translated.json.audio\\18.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Я",
+          "lemma": "я",
+          "morph": "Case=Nom|Number=Sing|Person=First",
+          "pos": "PRON"
+        },
+        {
+          "text": "читал",
+          "lemma": "читать",
+          "morph": "Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "I was reading."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Очень интересная книга – “Жизнь Рокфеллера”.",
+      "audio": "Дольче Вита.translated.json.audio\\19.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Очень",
+          "lemma": "очень",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "интересная",
+          "lemma": "интересный",
+          "morph": "Case=Nom|Degree=Pos|Gender=Fem|Number=Sing",
+          "pos": "ADJ"
+        },
+        {
+          "text": "книга",
+          "lemma": "книга",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "–",
+          "lemma": "–",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "“",
+          "lemma": "“",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "Жизнь",
+          "lemma": "жизнь",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "Рокфеллера",
+          "lemma": "рокфеллера",
+          "morph": "Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": "”",
+          "lemma": "”",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "It's a very interesting book, \"Rockefeller's Life.\""
+    }
+  },
+  {
+    "ru": {
+      "sentence": "А потом я мечтал…",
+      "audio": "Дольче Вита.translated.json.audio\\20.ogg",
+      "spacy_tokens": [
+        {
+          "text": "А",
+          "lemma": "а",
+          "morph": "",
+          "pos": "CCONJ"
+        },
+        {
+          "text": "потом",
+          "lemma": "потом",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "я",
+          "lemma": "я",
+          "morph": "Case=Nom|Number=Sing|Person=First",
+          "pos": "PRON"
+        },
+        {
+          "text": "мечтал",
+          "lemma": "мечтать",
+          "morph": "Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "…",
+          "lemma": "…",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "And then I was dreaming..."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "– О чём?",
+      "audio": "Дольче Вита.translated.json.audio\\21.ogg",
+      "spacy_tokens": [
+        {
+          "text": "–",
+          "lemma": "–",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "О",
+          "lemma": "о",
+          "morph": "",
+          "pos": "INTJ"
+        },
+        {
+          "text": "чём",
+          "lemma": "чём",
+          "morph": "Animacy=Anim|Case=Loc|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "?",
+          "lemma": "?",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "- About what?"
+    }
+  },
+  {
+    "ru": {
+      "sentence": "– О красивой жизни..",
+      "audio": "Дольче Вита.translated.json.audio\\22.ogg",
+      "spacy_tokens": [
+        {
+          "text": "–",
+          "lemma": "–",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "О",
+          "lemma": "о",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "красивой",
+          "lemma": "красивый",
+          "morph": "Case=Loc|Degree=Pos|Gender=Fem|Number=Sing",
+          "pos": "ADJ"
+        },
+        {
+          "text": "жизни",
+          "lemma": "жизнь",
+          "morph": "Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "..",
+          "lemma": "..",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "- A beautiful life..."
+    }
+  }
+]

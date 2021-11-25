@@ -1,0 +1,2370 @@
+[
+  {
+    "ru": {
+      "sentence": "Рейчел Браун (США)",
+      "audio": "Отзывы о русских блюдах.translated.json.audio\\0.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Рейчел",
+          "lemma": "рейчел",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": "Браун",
+          "lemma": "браун",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": "(",
+          "lemma": "(",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "США",
+          "lemma": "сша",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur",
+          "pos": "PROPN"
+        },
+        {
+          "text": ")",
+          "lemma": ")",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "Rachel Brown (USA)"
+    }
+  },
+  {
+    "ru": {
+      "sentence": "В России очень много вкусных блюд, я не могу сказать, какое моё любимое.",
+      "audio": "Отзывы о русских блюдах.translated.json.audio\\1.ogg",
+      "spacy_tokens": [
+        {
+          "text": "В",
+          "lemma": "в",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "России",
+          "lemma": "россия",
+          "morph": "Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": "очень",
+          "lemma": "очень",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "много",
+          "lemma": "много",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "вкусных",
+          "lemma": "вкусный",
+          "morph": "Case=Gen|Degree=Pos|Number=Plur",
+          "pos": "ADJ"
+        },
+        {
+          "text": "блюд",
+          "lemma": "блюдо",
+          "morph": "Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur",
+          "pos": "NOUN"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "я",
+          "lemma": "я",
+          "morph": "Case=Nom|Number=Sing|Person=First",
+          "pos": "PRON"
+        },
+        {
+          "text": "не",
+          "lemma": "не",
+          "morph": "Polarity=Neg",
+          "pos": "PART"
+        },
+        {
+          "text": "могу",
+          "lemma": "мочь",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=First|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "сказать",
+          "lemma": "сказать",
+          "morph": "Aspect=Perf|VerbForm=Inf|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "какое",
+          "lemma": "какой",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing",
+          "pos": "DET"
+        },
+        {
+          "text": "моё",
+          "lemma": "моё",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "любимое",
+          "lemma": "любимый",
+          "morph": "Case=Nom|Degree=Pos|Gender=Neut|Number=Sing",
+          "pos": "ADJ"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "There are so many delicious dishes in Russia, I can't tell you which is my favorite."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Самым необычным блюдом я считаю голубцы.",
+      "audio": "Отзывы о русских блюдах.translated.json.audio\\2.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Самым",
+          "lemma": "самым",
+          "morph": "Case=Ins|Degree=Pos|Gender=Masc|Number=Sing",
+          "pos": "ADJ"
+        },
+        {
+          "text": "необычным",
+          "lemma": "необычный",
+          "morph": "Case=Ins|Degree=Pos|Gender=Neut|Number=Sing",
+          "pos": "ADJ"
+        },
+        {
+          "text": "блюдом",
+          "lemma": "блюдо",
+          "morph": "Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "я",
+          "lemma": "я",
+          "morph": "Case=Nom|Number=Sing|Person=First",
+          "pos": "PRON"
+        },
+        {
+          "text": "считаю",
+          "lemma": "считать",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=First|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "голубцы",
+          "lemma": "голубец",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "I think the most unusual dish is stuffed cabbage rolls."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Голубцы – это большой лист капусты, внутри которого мясо и рис. Если вы вегетарианец, то вы можете взять грибы, а не мясо.",
+      "audio": "Отзывы о русских блюдах.translated.json.audio\\3.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Голубцы",
+          "lemma": "голубец",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur",
+          "pos": "NOUN"
+        },
+        {
+          "text": "–",
+          "lemma": "–",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "это",
+          "lemma": "это",
+          "morph": "",
+          "pos": "PART"
+        },
+        {
+          "text": "большой",
+          "lemma": "большой",
+          "morph": "Case=Nom|Degree=Pos|Gender=Masc|Number=Sing",
+          "pos": "ADJ"
+        },
+        {
+          "text": "лист",
+          "lemma": "лист",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "капусты",
+          "lemma": "капуста",
+          "morph": "Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "внутри",
+          "lemma": "внутри",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "которого",
+          "lemma": "которого",
+          "morph": "Case=Gen|Gender=Masc|Number=Sing",
+          "pos": "PRON"
+        },
+        {
+          "text": "мясо",
+          "lemma": "мясо",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "и",
+          "lemma": "и",
+          "morph": "",
+          "pos": "CCONJ"
+        },
+        {
+          "text": "рис",
+          "lemma": "рис",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "Если",
+          "lemma": "если",
+          "morph": "",
+          "pos": "SCONJ"
+        },
+        {
+          "text": "вы",
+          "lemma": "вы",
+          "morph": "Case=Nom|Number=Plur|Person=Second",
+          "pos": "PRON"
+        },
+        {
+          "text": "вегетарианец",
+          "lemma": "вегетарианец",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "то",
+          "lemma": "то",
+          "morph": "",
+          "pos": "SCONJ"
+        },
+        {
+          "text": "вы",
+          "lemma": "вы",
+          "morph": "Case=Nom|Number=Plur|Person=Second",
+          "pos": "PRON"
+        },
+        {
+          "text": "можете",
+          "lemma": "мочь",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Plur|Person=Second|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "взять",
+          "lemma": "взять",
+          "morph": "Aspect=Perf|VerbForm=Inf|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "грибы",
+          "lemma": "гриб",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur",
+          "pos": "NOUN"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "а",
+          "lemma": "а",
+          "morph": "",
+          "pos": "CCONJ"
+        },
+        {
+          "text": "не",
+          "lemma": "не",
+          "morph": "Polarity=Neg",
+          "pos": "PART"
+        },
+        {
+          "text": "мясо",
+          "lemma": "мясо",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "Stuffed cabbage rolls are a large sheet of cabbage with meat and rice inside. If you are a vegetarian, you can have mushrooms instead of meat."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Готовить их долго, но это отличный вариант, так как его едят даже люди на диете.",
+      "audio": "Отзывы о русских блюдах.translated.json.audio\\4.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Готовить",
+          "lemma": "готовить",
+          "morph": "Aspect=Imp|VerbForm=Inf|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "их",
+          "lemma": "их",
+          "morph": "Animacy=Inan|Case=Acc|Number=Plur|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": "долго",
+          "lemma": "долго",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "но",
+          "lemma": "но",
+          "morph": "",
+          "pos": "CCONJ"
+        },
+        {
+          "text": "это",
+          "lemma": "это",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing",
+          "pos": "PRON"
+        },
+        {
+          "text": "отличный",
+          "lemma": "отличный",
+          "morph": "Case=Nom|Degree=Pos|Gender=Masc|Number=Sing",
+          "pos": "ADJ"
+        },
+        {
+          "text": "вариант",
+          "lemma": "вариант",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "так",
+          "lemma": "так",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "как",
+          "lemma": "как",
+          "morph": "",
+          "pos": "SCONJ"
+        },
+        {
+          "text": "его",
+          "lemma": "его",
+          "morph": "Case=Acc|Gender=Masc|Number=Sing|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": "едят",
+          "lemma": "есть",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Plur|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "даже",
+          "lemma": "даже",
+          "morph": "",
+          "pos": "PART"
+        },
+        {
+          "text": "люди",
+          "lemma": "человек",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur",
+          "pos": "NOUN"
+        },
+        {
+          "text": "на",
+          "lemma": "на",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "диете",
+          "lemma": "диета",
+          "morph": "Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "It takes a long time to cook them, but it's a great option because even people on a diet eat it."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "А для нас, девушек, это очень важно!",
+      "audio": "Отзывы о русских блюдах.translated.json.audio\\5.ogg",
+      "spacy_tokens": [
+        {
+          "text": "А",
+          "lemma": "а",
+          "morph": "",
+          "pos": "CCONJ"
+        },
+        {
+          "text": "для",
+          "lemma": "для",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "нас",
+          "lemma": "нас",
+          "morph": "Case=Gen|Number=Plur|Person=First",
+          "pos": "PRON"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "девушек",
+          "lemma": "девушка",
+          "morph": "Animacy=Anim|Case=Gen|Gender=Fem|Number=Plur",
+          "pos": "NOUN"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "это",
+          "lemma": "это",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing",
+          "pos": "PRON"
+        },
+        {
+          "text": "очень",
+          "lemma": "очень",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "важно",
+          "lemma": "важный",
+          "morph": "Degree=Pos|Gender=Neut|Number=Sing|StyleVariant=Short",
+          "pos": "ADJ"
+        },
+        {
+          "text": "!",
+          "lemma": "!",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "And for us girls, that's very important!"
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Авелин Лакост (Франция)",
+      "audio": "Отзывы о русских блюдах.translated.json.audio\\6.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Авелин",
+          "lemma": "авелин",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": "Лакост",
+          "lemma": "лакост",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": "(",
+          "lemma": "(",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "Франция",
+          "lemma": "франция",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": ")",
+          "lemma": ")",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "Aveline Lacoste (France)"
+    }
+  },
+  {
+    "ru": {
+      "sentence": "После моего переезда в Россию я не ела русскую еду три года, потому что она очень необычная и отличается от нашей.",
+      "audio": "Отзывы о русских блюдах.translated.json.audio\\7.ogg",
+      "spacy_tokens": [
+        {
+          "text": "После",
+          "lemma": "после",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "моего",
+          "lemma": "мой",
+          "morph": "Case=Gen|Gender=Masc|Number=Sing",
+          "pos": "DET"
+        },
+        {
+          "text": "переезда",
+          "lemma": "переезд",
+          "morph": "Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "в",
+          "lemma": "в",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "Россию",
+          "lemma": "россия",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": "я",
+          "lemma": "я",
+          "morph": "Case=Nom|Number=Sing|Person=First",
+          "pos": "PRON"
+        },
+        {
+          "text": "не",
+          "lemma": "не",
+          "morph": "Polarity=Neg",
+          "pos": "PART"
+        },
+        {
+          "text": "ела",
+          "lemma": "есть",
+          "morph": "Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "русскую",
+          "lemma": "русский",
+          "morph": "Case=Acc|Degree=Pos|Gender=Fem|Number=Sing",
+          "pos": "ADJ"
+        },
+        {
+          "text": "еду",
+          "lemma": "еда",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "три",
+          "lemma": "три",
+          "morph": "Animacy=Inan|Case=Acc",
+          "pos": "NUM"
+        },
+        {
+          "text": "года",
+          "lemma": "год",
+          "morph": "Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "потому",
+          "lemma": "потому",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "что",
+          "lemma": "что",
+          "morph": "",
+          "pos": "SCONJ"
+        },
+        {
+          "text": "она",
+          "lemma": "она",
+          "morph": "Case=Nom|Gender=Fem|Number=Sing|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": "очень",
+          "lemma": "очень",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "необычная",
+          "lemma": "необычный",
+          "morph": "Case=Nom|Degree=Pos|Gender=Fem|Number=Sing",
+          "pos": "ADJ"
+        },
+        {
+          "text": "и",
+          "lemma": "и",
+          "morph": "",
+          "pos": "CCONJ"
+        },
+        {
+          "text": "отличается",
+          "lemma": "отличаться",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Mid",
+          "pos": "VERB"
+        },
+        {
+          "text": "от",
+          "lemma": "от",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "нашей",
+          "lemma": "наш",
+          "morph": "Case=Gen|Gender=Fem|Number=Sing",
+          "pos": "DET"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "After my move to Russia I did not eat Russian food for three years because it is very unusual and different from ours."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Но мои друзья однажды приготовили окрошку, это холодный суп с квасом или кефиром.",
+      "audio": "Отзывы о русских блюдах.translated.json.audio\\8.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Но",
+          "lemma": "но",
+          "morph": "",
+          "pos": "CCONJ"
+        },
+        {
+          "text": "мои",
+          "lemma": "мой",
+          "morph": "Case=Nom|Number=Plur",
+          "pos": "DET"
+        },
+        {
+          "text": "друзья",
+          "lemma": "друг",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur",
+          "pos": "NOUN"
+        },
+        {
+          "text": "однажды",
+          "lemma": "однажды",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "приготовили",
+          "lemma": "приготовить",
+          "morph": "Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "окрошку",
+          "lemma": "окрошка",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "это",
+          "lemma": "это",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing",
+          "pos": "PRON"
+        },
+        {
+          "text": "холодный",
+          "lemma": "холодный",
+          "morph": "Case=Nom|Degree=Pos|Gender=Masc|Number=Sing",
+          "pos": "ADJ"
+        },
+        {
+          "text": "суп",
+          "lemma": "суп",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "с",
+          "lemma": "с",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "квасом",
+          "lemma": "квас",
+          "morph": "Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "или",
+          "lemma": "или",
+          "morph": "",
+          "pos": "CCONJ"
+        },
+        {
+          "text": "кефиром",
+          "lemma": "кефир",
+          "morph": "Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "But my friends once made okroshka, it is a cold soup with kvass or kefir."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "И… сейчас это одно из моих любимых блюд!",
+      "audio": "Отзывы о русских блюдах.translated.json.audio\\9.ogg",
+      "spacy_tokens": [
+        {
+          "text": "И",
+          "lemma": "и",
+          "morph": "",
+          "pos": "CCONJ"
+        },
+        {
+          "text": "…",
+          "lemma": "…",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "сейчас",
+          "lemma": "сейчас",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "это",
+          "lemma": "это",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing",
+          "pos": "PRON"
+        },
+        {
+          "text": "одно",
+          "lemma": "одно",
+          "morph": "Case=Nom|Gender=Neut|Number=Sing",
+          "pos": "NUM"
+        },
+        {
+          "text": "из",
+          "lemma": "из",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "моих",
+          "lemma": "мой",
+          "morph": "Case=Gen|Number=Plur",
+          "pos": "DET"
+        },
+        {
+          "text": "любимых",
+          "lemma": "любимый",
+          "morph": "Case=Gen|Degree=Pos|Number=Plur",
+          "pos": "ADJ"
+        },
+        {
+          "text": "блюд",
+          "lemma": "блюдо",
+          "morph": "Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur",
+          "pos": "NOUN"
+        },
+        {
+          "text": "!",
+          "lemma": "!",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "And... now it's one of my favorite dishes!"
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Я всегда заказываю окрошку в ресторанах, а иногда и сама готовлю её дома.",
+      "audio": "Отзывы о русских блюдах.translated.json.audio\\10.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Я",
+          "lemma": "я",
+          "morph": "Case=Nom|Number=Sing|Person=First",
+          "pos": "PRON"
+        },
+        {
+          "text": "всегда",
+          "lemma": "всегда",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "заказываю",
+          "lemma": "заказывать",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=First|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "окрошку",
+          "lemma": "окрошка",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "в",
+          "lemma": "в",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "ресторанах",
+          "lemma": "ресторан",
+          "morph": "Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur",
+          "pos": "NOUN"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "а",
+          "lemma": "а",
+          "morph": "",
+          "pos": "CCONJ"
+        },
+        {
+          "text": "иногда",
+          "lemma": "иногда",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "и",
+          "lemma": "и",
+          "morph": "",
+          "pos": "PART"
+        },
+        {
+          "text": "сама",
+          "lemma": "сама",
+          "morph": "Case=Nom|Degree=Pos|Gender=Fem|Number=Sing",
+          "pos": "ADJ"
+        },
+        {
+          "text": "готовлю",
+          "lemma": "готовить",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=First|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "её",
+          "lemma": "её",
+          "morph": "Case=Acc|Gender=Fem|Number=Sing|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": "дома",
+          "lemma": "дома",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "I always order okroshka in restaurants, and sometimes I make it myself at home."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Реза Хомани (Иран)",
+      "audio": "Отзывы о русских блюдах.translated.json.audio\\11.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Реза",
+          "lemma": "реза",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": "Хомани",
+          "lemma": "хомани",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": "(",
+          "lemma": "(",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "Иран",
+          "lemma": "иран",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": ")",
+          "lemma": ")",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "Reza Khomani (Iran)"
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Мне нравится борщ со сметаной, не вегетарианский, а с мясом.",
+      "audio": "Отзывы о русских блюдах.translated.json.audio\\12.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Мне",
+          "lemma": "мне",
+          "morph": "Case=Dat|Number=Sing|Person=First",
+          "pos": "PRON"
+        },
+        {
+          "text": "нравится",
+          "lemma": "нравиться",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Mid",
+          "pos": "VERB"
+        },
+        {
+          "text": "борщ",
+          "lemma": "борщ",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "со",
+          "lemma": "со",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "сметаной",
+          "lemma": "сметана",
+          "morph": "Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "не",
+          "lemma": "не",
+          "morph": "Polarity=Neg",
+          "pos": "PART"
+        },
+        {
+          "text": "вегетарианский",
+          "lemma": "вегетарианский",
+          "morph": "Case=Nom|Degree=Pos|Gender=Masc|Number=Sing",
+          "pos": "ADJ"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "а",
+          "lemma": "а",
+          "morph": "",
+          "pos": "CCONJ"
+        },
+        {
+          "text": "с",
+          "lemma": "с",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "мясом",
+          "lemma": "мясо",
+          "morph": "Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "I like borscht with sour cream, not vegetarian, but with meat."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Также я люблю котлеты, пельмени, салат «Оливье».",
+      "audio": "Отзывы о русских блюдах.translated.json.audio\\13.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Также",
+          "lemma": "также",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "я",
+          "lemma": "я",
+          "morph": "Case=Nom|Number=Sing|Person=First",
+          "pos": "PRON"
+        },
+        {
+          "text": "люблю",
+          "lemma": "любить",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=First|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "котлеты",
+          "lemma": "котлета",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur",
+          "pos": "NOUN"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "пельмени",
+          "lemma": "пельмени",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur",
+          "pos": "NOUN"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "салат",
+          "lemma": "салат",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "«",
+          "lemma": "\"",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "Оливье",
+          "lemma": "оливье",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "»",
+          "lemma": "\"",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "I also like cutlets, dumplings, and \"Olivier\" salad."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "У нас есть иранский вариант этого салата, но с мясом, а не с колбасой, поэтому я быстро привык к русской кухне.",
+      "audio": "Отзывы о русских блюдах.translated.json.audio\\14.ogg",
+      "spacy_tokens": [
+        {
+          "text": "У",
+          "lemma": "у",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "нас",
+          "lemma": "нас",
+          "morph": "Case=Gen|Number=Plur|Person=First",
+          "pos": "PRON"
+        },
+        {
+          "text": "есть",
+          "lemma": "быть",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "иранский",
+          "lemma": "иранский",
+          "morph": "Case=Nom|Degree=Pos|Gender=Masc|Number=Sing",
+          "pos": "ADJ"
+        },
+        {
+          "text": "вариант",
+          "lemma": "вариант",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "этого",
+          "lemma": "этот",
+          "morph": "Case=Gen|Gender=Masc|Number=Sing",
+          "pos": "DET"
+        },
+        {
+          "text": "салата",
+          "lemma": "салат",
+          "morph": "Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "но",
+          "lemma": "но",
+          "morph": "",
+          "pos": "CCONJ"
+        },
+        {
+          "text": "с",
+          "lemma": "с",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "мясом",
+          "lemma": "мясо",
+          "morph": "Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "а",
+          "lemma": "а",
+          "morph": "",
+          "pos": "CCONJ"
+        },
+        {
+          "text": "не",
+          "lemma": "не",
+          "morph": "Polarity=Neg",
+          "pos": "PART"
+        },
+        {
+          "text": "с",
+          "lemma": "с",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "колбасой",
+          "lemma": "колбаса",
+          "morph": "Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "поэтому",
+          "lemma": "поэтому",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "я",
+          "lemma": "я",
+          "morph": "Case=Nom|Number=Sing|Person=First",
+          "pos": "PRON"
+        },
+        {
+          "text": "быстро",
+          "lemma": "быстро",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "привык",
+          "lemma": "привыкнуть",
+          "morph": "Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "к",
+          "lemma": "к",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "русской",
+          "lemma": "русский",
+          "morph": "Case=Dat|Degree=Pos|Gender=Fem|Number=Sing",
+          "pos": "ADJ"
+        },
+        {
+          "text": "кухне",
+          "lemma": "кухня",
+          "morph": "Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "We have an Iranian version of this salad, but with meat rather than sausage, so I quickly got used to Russian cuisine."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Коен Ламберт (Нидерланды)",
+      "audio": "Отзывы о русских блюдах.translated.json.audio\\15.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Коен",
+          "lemma": "коен",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": "Ламберт",
+          "lemma": "ламберт",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": "(",
+          "lemma": "(",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "Нидерланды",
+          "lemma": "нидерланды",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur",
+          "pos": "PROPN"
+        },
+        {
+          "text": ")",
+          "lemma": ")",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "Coen Lambert (Netherlands)."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Самое необычное блюдо в России – это холодец.",
+      "audio": "Отзывы о русских блюдах.translated.json.audio\\16.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Самое",
+          "lemma": "самое",
+          "morph": "Case=Nom|Degree=Pos|Gender=Neut|Number=Sing",
+          "pos": "ADJ"
+        },
+        {
+          "text": "необычное",
+          "lemma": "необычный",
+          "morph": "Case=Nom|Degree=Pos|Gender=Neut|Number=Sing",
+          "pos": "ADJ"
+        },
+        {
+          "text": "блюдо",
+          "lemma": "блюдо",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "в",
+          "lemma": "в",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "России",
+          "lemma": "россия",
+          "morph": "Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": "–",
+          "lemma": "–",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "это",
+          "lemma": "это",
+          "morph": "",
+          "pos": "PART"
+        },
+        {
+          "text": "холодец",
+          "lemma": "холодец",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "The most unusual dish in Russia is chłodets."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "И не потому, что он всегда очень вкусный, а потому, что он выглядит очень оригинально.",
+      "audio": "Отзывы о русских блюдах.translated.json.audio\\17.ogg",
+      "spacy_tokens": [
+        {
+          "text": "И",
+          "lemma": "и",
+          "morph": "",
+          "pos": "CCONJ"
+        },
+        {
+          "text": "не",
+          "lemma": "не",
+          "morph": "Polarity=Neg",
+          "pos": "PART"
+        },
+        {
+          "text": "потому",
+          "lemma": "потому",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "что",
+          "lemma": "что",
+          "morph": "",
+          "pos": "SCONJ"
+        },
+        {
+          "text": "он",
+          "lemma": "он",
+          "morph": "Case=Nom|Gender=Masc|Number=Sing|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": "всегда",
+          "lemma": "всегда",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "очень",
+          "lemma": "очень",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "вкусный",
+          "lemma": "вкусный",
+          "morph": "Case=Nom|Degree=Pos|Gender=Masc|Number=Sing",
+          "pos": "ADJ"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "а",
+          "lemma": "а",
+          "morph": "",
+          "pos": "CCONJ"
+        },
+        {
+          "text": "потому",
+          "lemma": "потому",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "что",
+          "lemma": "что",
+          "morph": "",
+          "pos": "SCONJ"
+        },
+        {
+          "text": "он",
+          "lemma": "он",
+          "morph": "Case=Nom|Gender=Masc|Number=Sing|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": "выглядит",
+          "lemma": "выглядеть",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "очень",
+          "lemma": "очень",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "оригинально",
+          "lemma": "оригинально",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "And not because it's always delicious, but because it looks very original."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Это желе, но не фруктовое, а мясное.",
+      "audio": "Отзывы о русских блюдах.translated.json.audio\\18.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Это",
+          "lemma": "это",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing",
+          "pos": "PRON"
+        },
+        {
+          "text": "желе",
+          "lemma": "желе",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "но",
+          "lemma": "но",
+          "morph": "",
+          "pos": "CCONJ"
+        },
+        {
+          "text": "не",
+          "lemma": "не",
+          "morph": "Polarity=Neg",
+          "pos": "PART"
+        },
+        {
+          "text": "фруктовое",
+          "lemma": "фруктовый",
+          "morph": "Case=Nom|Degree=Pos|Gender=Neut|Number=Sing",
+          "pos": "ADJ"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "а",
+          "lemma": "а",
+          "morph": "",
+          "pos": "CCONJ"
+        },
+        {
+          "text": "мясное",
+          "lemma": "мясной",
+          "morph": "Case=Nom|Degree=Pos|Gender=Neut|Number=Sing",
+          "pos": "ADJ"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "It is a jelly, but not a fruit jelly, but a meat jelly."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Многим моим друзьям это блюдо не нравится, но для меня это самое лучшее угощение в России.",
+      "audio": "Отзывы о русских блюдах.translated.json.audio\\19.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Многим",
+          "lemma": "многим",
+          "morph": "Case=Dat",
+          "pos": "NUM"
+        },
+        {
+          "text": "моим",
+          "lemma": "мой",
+          "morph": "Case=Dat|Number=Plur",
+          "pos": "DET"
+        },
+        {
+          "text": "друзьям",
+          "lemma": "друг",
+          "morph": "Animacy=Anim|Case=Dat|Gender=Masc|Number=Plur",
+          "pos": "NOUN"
+        },
+        {
+          "text": "это",
+          "lemma": "этот",
+          "morph": "Case=Nom|Gender=Neut|Number=Sing",
+          "pos": "DET"
+        },
+        {
+          "text": "блюдо",
+          "lemma": "блюдо",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "не",
+          "lemma": "не",
+          "morph": "Polarity=Neg",
+          "pos": "PART"
+        },
+        {
+          "text": "нравится",
+          "lemma": "нравиться",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Mid",
+          "pos": "VERB"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "но",
+          "lemma": "но",
+          "morph": "",
+          "pos": "CCONJ"
+        },
+        {
+          "text": "для",
+          "lemma": "для",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "меня",
+          "lemma": "меня",
+          "morph": "Case=Gen|Number=Sing|Person=First",
+          "pos": "PRON"
+        },
+        {
+          "text": "это",
+          "lemma": "это",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing",
+          "pos": "PRON"
+        },
+        {
+          "text": "самое",
+          "lemma": "самое",
+          "morph": "Case=Nom|Degree=Pos|Gender=Neut|Number=Sing",
+          "pos": "ADJ"
+        },
+        {
+          "text": "лучшее",
+          "lemma": "хороший",
+          "morph": "Case=Nom|Degree=Pos|Gender=Neut|Number=Sing",
+          "pos": "ADJ"
+        },
+        {
+          "text": "угощение",
+          "lemma": "угощение",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "в",
+          "lemma": "в",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "России",
+          "lemma": "россия",
+          "morph": "Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "Many of my friends don't like this dish, but to me it is the best treat in Russia."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Жалко, что оно есть не во всех ресторанах.",
+      "audio": "Отзывы о русских блюдах.translated.json.audio\\20.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Жалко",
+          "lemma": "жалко",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "что",
+          "lemma": "что",
+          "morph": "",
+          "pos": "SCONJ"
+        },
+        {
+          "text": "оно",
+          "lemma": "оно",
+          "morph": "Case=Nom|Gender=Neut|Number=Sing|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": "есть",
+          "lemma": "есть",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "AUX"
+        },
+        {
+          "text": "не",
+          "lemma": "не",
+          "morph": "Polarity=Neg",
+          "pos": "PART"
+        },
+        {
+          "text": "во",
+          "lemma": "во",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "всех",
+          "lemma": "весь",
+          "morph": "Case=Loc|Number=Plur",
+          "pos": "DET"
+        },
+        {
+          "text": "ресторанах",
+          "lemma": "ресторан",
+          "morph": "Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "It's a pity it's not available in all restaurants."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Агнет Детлеф (Германия)",
+      "audio": "Отзывы о русских блюдах.translated.json.audio\\21.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Агнет",
+          "lemma": "агнет",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": "Детлеф",
+          "lemma": "детлеф",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": "(",
+          "lemma": "(",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "Германия",
+          "lemma": "германия",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": ")",
+          "lemma": ")",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "Agnet Detlef (Germany)"
+    }
+  },
+  {
+    "ru": {
+      "sentence": "В России очень много вкусных блюд, но для меня было сюрпризом, что многие из них не русские, а пришли в страну из других соседних стран.",
+      "audio": "Отзывы о русских блюдах.translated.json.audio\\22.ogg",
+      "spacy_tokens": [
+        {
+          "text": "В",
+          "lemma": "в",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "России",
+          "lemma": "россия",
+          "morph": "Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": "очень",
+          "lemma": "очень",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "много",
+          "lemma": "много",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "вкусных",
+          "lemma": "вкусный",
+          "morph": "Case=Gen|Degree=Pos|Number=Plur",
+          "pos": "ADJ"
+        },
+        {
+          "text": "блюд",
+          "lemma": "блюдо",
+          "morph": "Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur",
+          "pos": "NOUN"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "но",
+          "lemma": "но",
+          "morph": "",
+          "pos": "CCONJ"
+        },
+        {
+          "text": "для",
+          "lemma": "для",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "меня",
+          "lemma": "меня",
+          "morph": "Case=Gen|Number=Sing|Person=First",
+          "pos": "PRON"
+        },
+        {
+          "text": "было",
+          "lemma": "было",
+          "morph": "Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "AUX"
+        },
+        {
+          "text": "сюрпризом",
+          "lemma": "сюрприз",
+          "morph": "Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "что",
+          "lemma": "что",
+          "morph": "",
+          "pos": "SCONJ"
+        },
+        {
+          "text": "многие",
+          "lemma": "многие",
+          "morph": "Case=Nom|Degree=Pos|Number=Plur",
+          "pos": "ADJ"
+        },
+        {
+          "text": "из",
+          "lemma": "из",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "них",
+          "lemma": "них",
+          "morph": "Case=Gen|Number=Plur|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": "не",
+          "lemma": "не",
+          "morph": "Polarity=Neg",
+          "pos": "PART"
+        },
+        {
+          "text": "русские",
+          "lemma": "русские",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur",
+          "pos": "NOUN"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "а",
+          "lemma": "а",
+          "morph": "",
+          "pos": "CCONJ"
+        },
+        {
+          "text": "пришли",
+          "lemma": "прийти",
+          "morph": "Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "в",
+          "lemma": "в",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "страну",
+          "lemma": "страна",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "из",
+          "lemma": "из",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "других",
+          "lemma": "других",
+          "morph": "Case=Gen|Degree=Pos|Number=Plur",
+          "pos": "ADJ"
+        },
+        {
+          "text": "соседних",
+          "lemma": "соседний",
+          "morph": "Case=Gen|Degree=Pos|Number=Plur",
+          "pos": "ADJ"
+        },
+        {
+          "text": "стран",
+          "lemma": "страна",
+          "morph": "Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "There are a lot of delicious dishes in Russia, but it was a surprise to me that many of them are not Russian, but came to the country from other neighboring countries."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Например, пельмени, шашлыки, плов.",
+      "audio": "Отзывы о русских блюдах.translated.json.audio\\23.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Например",
+          "lemma": "например",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "пельмени",
+          "lemma": "пельмени",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur",
+          "pos": "NOUN"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "шашлыки",
+          "lemma": "шашлык",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur",
+          "pos": "NOUN"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "плов",
+          "lemma": "плов",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "For example, dumplings, kebabs, pilaf."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Это отличная еда, но главное – она показывает связь России с другими странами Центральной Азии и Кавказа.",
+      "audio": "Отзывы о русских блюдах.translated.json.audio\\24.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Это",
+          "lemma": "это",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing",
+          "pos": "PRON"
+        },
+        {
+          "text": "отличная",
+          "lemma": "отличный",
+          "morph": "Case=Nom|Degree=Pos|Gender=Fem|Number=Sing",
+          "pos": "ADJ"
+        },
+        {
+          "text": "еда",
+          "lemma": "еда",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "но",
+          "lemma": "но",
+          "morph": "",
+          "pos": "CCONJ"
+        },
+        {
+          "text": "главное",
+          "lemma": "главный",
+          "morph": "Case=Nom|Degree=Pos|Gender=Neut|Number=Sing",
+          "pos": "ADJ"
+        },
+        {
+          "text": "–",
+          "lemma": "–",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "она",
+          "lemma": "она",
+          "morph": "Case=Nom|Gender=Fem|Number=Sing|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": "показывает",
+          "lemma": "показывать",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "связь",
+          "lemma": "связь",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "России",
+          "lemma": "россия",
+          "morph": "Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": "с",
+          "lemma": "с",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "другими",
+          "lemma": "другими",
+          "morph": "Case=Ins|Degree=Pos|Number=Plur",
+          "pos": "ADJ"
+        },
+        {
+          "text": "странами",
+          "lemma": "страна",
+          "morph": "Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur",
+          "pos": "NOUN"
+        },
+        {
+          "text": "Центральной",
+          "lemma": "центральный",
+          "morph": "Case=Gen|Degree=Pos|Gender=Fem|Number=Sing",
+          "pos": "ADJ"
+        },
+        {
+          "text": "Азии",
+          "lemma": "азия",
+          "morph": "Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": "и",
+          "lemma": "и",
+          "morph": "",
+          "pos": "CCONJ"
+        },
+        {
+          "text": "Кавказа",
+          "lemma": "кавказ",
+          "morph": "Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "It's great food, but most importantly, it shows Russia's connection to other countries in Central Asia and the Caucasus."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Это характеризует Россию как многокультурную страну с разнообразными традициями",
+      "audio": "Отзывы о русских блюдах.translated.json.audio\\25.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Это",
+          "lemma": "это",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing",
+          "pos": "PRON"
+        },
+        {
+          "text": "характеризует",
+          "lemma": "характеризовать",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "Россию",
+          "lemma": "россия",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": "как",
+          "lemma": "как",
+          "morph": "",
+          "pos": "SCONJ"
+        },
+        {
+          "text": "многокультурную",
+          "lemma": "многокультурную",
+          "morph": "Case=Acc|Degree=Pos|Gender=Fem|Number=Sing",
+          "pos": "ADJ"
+        },
+        {
+          "text": "страну",
+          "lemma": "страна",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "с",
+          "lemma": "с",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "разнообразными",
+          "lemma": "разнообразный",
+          "morph": "Case=Ins|Degree=Pos|Number=Plur",
+          "pos": "ADJ"
+        },
+        {
+          "text": "традициями",
+          "lemma": "традиция",
+          "morph": "Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur",
+          "pos": "NOUN"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "It characterizes Russia as a multicultural country with diverse traditions"
+    }
+  }
+]

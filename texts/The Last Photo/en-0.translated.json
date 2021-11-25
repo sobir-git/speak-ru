@@ -1,0 +1,7081 @@
+[
+  {
+    "en": {
+      "sentence": "It is Saturday afternoon."
+    },
+    "ru": {
+      "sentence": "Сегодня субботний день.",
+      "audio": "en-0.translated.json.audio\\0.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Сегодня",
+          "lemma": "сегодня",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "субботний",
+          "lemma": "субботний",
+          "morph": "Case=Nom|Degree=Pos|Gender=Masc|Number=Sing",
+          "pos": "ADJ"
+        },
+        {
+          "text": "день",
+          "lemma": "день",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    }
+  },
+  {
+    "en": {
+      "sentence": "Martin and his sister Pam are in Cambridge for the day."
+    },
+    "ru": {
+      "sentence": "Мартин и его сестра Пэм приехали на день в Кембридж.",
+      "audio": "en-0.translated.json.audio\\1.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Мартин",
+          "lemma": "мартин",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": "и",
+          "lemma": "и",
+          "morph": "",
+          "pos": "CCONJ"
+        },
+        {
+          "text": "его",
+          "lemma": "его",
+          "morph": "Case=Gen|Gender=Masc|Number=Sing|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": "сестра",
+          "lemma": "сестра",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "Пэм",
+          "lemma": "пэм",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": "приехали",
+          "lemma": "приехать",
+          "morph": "Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "на",
+          "lemma": "на",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "день",
+          "lemma": "день",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "в",
+          "lemma": "в",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "Кембридж",
+          "lemma": "кембридж",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    }
+  },
+  {
+    "en": {
+      "sentence": "They are looking at the beautiful old buildings of this University City."
+    },
+    "ru": {
+      "sentence": "Они рассматривают красивые старинные здания этого университетского города.",
+      "audio": "en-0.translated.json.audio\\2.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Они",
+          "lemma": "они",
+          "morph": "Case=Nom|Number=Plur|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": "рассматривают",
+          "lemma": "рассматривать",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Plur|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "красивые",
+          "lemma": "красивый",
+          "morph": "Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur",
+          "pos": "ADJ"
+        },
+        {
+          "text": "старинные",
+          "lemma": "старинный",
+          "morph": "Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur",
+          "pos": "ADJ"
+        },
+        {
+          "text": "здания",
+          "lemma": "здание",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur",
+          "pos": "NOUN"
+        },
+        {
+          "text": "этого",
+          "lemma": "этот",
+          "morph": "Case=Gen|Gender=Masc|Number=Sing",
+          "pos": "DET"
+        },
+        {
+          "text": "университетского",
+          "lemma": "университетский",
+          "morph": "Case=Gen|Degree=Pos|Gender=Masc|Number=Sing",
+          "pos": "ADJ"
+        },
+        {
+          "text": "города",
+          "lemma": "город",
+          "morph": "Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    }
+  },
+  {
+    "en": {
+      "sentence": "Pam has a camera with her."
+    },
+    "ru": {
+      "sentence": "У Пэм с собой фотоаппарат.",
+      "audio": "en-0.translated.json.audio\\3.ogg",
+      "spacy_tokens": [
+        {
+          "text": "У",
+          "lemma": "у",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "Пэм",
+          "lemma": "пэм",
+          "morph": "Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": "с",
+          "lemma": "с",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "собой",
+          "lemma": "себя",
+          "morph": "Case=Ins",
+          "pos": "PRON"
+        },
+        {
+          "text": "фотоаппарат",
+          "lemma": "фотоаппарат",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    }
+  },
+  {
+    "en": {
+      "sentence": "She likes taking photos and sometimes they are very good."
+    },
+    "ru": {
+      "sentence": "Она любит фотографировать, и иногда снимки получаются очень хорошими.",
+      "audio": "en-0.translated.json.audio\\4.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Она",
+          "lemma": "она",
+          "morph": "Case=Nom|Gender=Fem|Number=Sing|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": "любит",
+          "lemma": "любить",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "фотографировать",
+          "lemma": "фотографировать",
+          "morph": "Aspect=Imp|VerbForm=Inf|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "и",
+          "lemma": "и",
+          "morph": "",
+          "pos": "CCONJ"
+        },
+        {
+          "text": "иногда",
+          "lemma": "иногда",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "снимки",
+          "lemma": "снимок",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur",
+          "pos": "NOUN"
+        },
+        {
+          "text": "получаются",
+          "lemma": "получаться",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Plur|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Mid",
+          "pos": "VERB"
+        },
+        {
+          "text": "очень",
+          "lemma": "очень",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "хорошими",
+          "lemma": "хороший",
+          "morph": "Case=Ins|Degree=Pos|Number=Plur",
+          "pos": "ADJ"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    }
+  },
+  {
+    "en": {
+      "sentence": "But sometimes they are not very good and Martin laughs at them."
+    },
+    "ru": {
+      "sentence": "Но иногда они получаются не очень хорошими, и Мартин смеется над ними.",
+      "audio": "en-0.translated.json.audio\\5.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Но",
+          "lemma": "но",
+          "morph": "",
+          "pos": "CCONJ"
+        },
+        {
+          "text": "иногда",
+          "lemma": "иногда",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "они",
+          "lemma": "они",
+          "morph": "Case=Nom|Number=Plur|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": "получаются",
+          "lemma": "получаться",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Plur|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Mid",
+          "pos": "VERB"
+        },
+        {
+          "text": "не",
+          "lemma": "не",
+          "morph": "Polarity=Neg",
+          "pos": "PART"
+        },
+        {
+          "text": "очень",
+          "lemma": "очень",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "хорошими",
+          "lemma": "хороший",
+          "morph": "Case=Ins|Degree=Pos|Number=Plur",
+          "pos": "ADJ"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "и",
+          "lemma": "и",
+          "morph": "",
+          "pos": "CCONJ"
+        },
+        {
+          "text": "Мартин",
+          "lemma": "мартин",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": "смеется",
+          "lemma": "смеяться",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Mid",
+          "pos": "VERB"
+        },
+        {
+          "text": "над",
+          "lemma": "над",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "ними",
+          "lemma": "ними",
+          "morph": "Case=Ins|Number=Plur|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    }
+  },
+  {
+    "en": {
+      "sentence": "It is five o'clock."
+    },
+    "ru": {
+      "sentence": "Сейчас пять часов.",
+      "audio": "en-0.translated.json.audio\\6.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Сейчас",
+          "lemma": "сейчас",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "пять",
+          "lemma": "пять",
+          "morph": "Case=Acc",
+          "pos": "NUM"
+        },
+        {
+          "text": "часов",
+          "lemma": "час",
+          "morph": "Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    }
+  },
+  {
+    "en": {
+      "sentence": "Pam and Martin are going home now."
+    },
+    "ru": {
+      "sentence": "Пэм и Мартин собираются домой.",
+      "audio": "en-0.translated.json.audio\\7.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Пэм",
+          "lemma": "пэм",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": "и",
+          "lemma": "и",
+          "morph": "",
+          "pos": "CCONJ"
+        },
+        {
+          "text": "Мартин",
+          "lemma": "мартин",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": "собираются",
+          "lemma": "собираться",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Plur|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Mid",
+          "pos": "VERB"
+        },
+        {
+          "text": "домой",
+          "lemma": "домой",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    }
+  },
+  {
+    "en": {
+      "sentence": "They are tired after their long day."
+    },
+    "ru": {
+      "sentence": "Они устали после долгого дня.",
+      "audio": "en-0.translated.json.audio\\8.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Они",
+          "lemma": "они",
+          "morph": "Case=Nom|Number=Plur|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": "устали",
+          "lemma": "устать",
+          "morph": "Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "после",
+          "lemma": "после",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "долгого",
+          "lemma": "долгий",
+          "morph": "Case=Gen|Degree=Pos|Gender=Masc|Number=Sing",
+          "pos": "ADJ"
+        },
+        {
+          "text": "дня",
+          "lemma": "день",
+          "morph": "Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    }
+  },
+  {
+    "en": {
+      "sentence": "They are in the garden near the bus station."
+    },
+    "ru": {
+      "sentence": "Они находятся в саду возле автобусной станции.",
+      "audio": "en-0.translated.json.audio\\9.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Они",
+          "lemma": "они",
+          "morph": "Case=Nom|Number=Plur|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": "находятся",
+          "lemma": "находиться",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Plur|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Mid",
+          "pos": "VERB"
+        },
+        {
+          "text": "в",
+          "lemma": "в",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "саду",
+          "lemma": "сад",
+          "morph": "Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "возле",
+          "lemma": "возле",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "автобусной",
+          "lemma": "автобусный",
+          "morph": "Case=Gen|Degree=Pos|Gender=Fem|Number=Sing",
+          "pos": "ADJ"
+        },
+        {
+          "text": "станции",
+          "lemma": "станция",
+          "morph": "Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    }
+  },
+  {
+    "en": {
+      "sentence": "\"Let's have a last photo of you,\" says Pam."
+    },
+    "ru": {
+      "sentence": "\"Давай сфотографируемся с тобой напоследок\", - говорит Пэм.",
+      "audio": "en-0.translated.json.audio\\10.ogg",
+      "spacy_tokens": [
+        {
+          "text": "\"",
+          "lemma": "\"",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "Давай",
+          "lemma": "давать",
+          "morph": "Aspect=Imp|Mood=Imp|Number=Sing|Person=Second|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "сфотографируемся",
+          "lemma": "сфотографироваться",
+          "morph": "Aspect=Perf|Mood=Ind|Number=Plur|Person=First|Tense=Fut|VerbForm=Fin|Voice=Mid",
+          "pos": "VERB"
+        },
+        {
+          "text": "с",
+          "lemma": "с",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "тобой",
+          "lemma": "тобой",
+          "morph": "Case=Ins|Number=Sing|Person=Second",
+          "pos": "PRON"
+        },
+        {
+          "text": "напоследок",
+          "lemma": "напоследок",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "\"",
+          "lemma": "\"",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "-",
+          "lemma": "-",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "говорит",
+          "lemma": "говорить",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "Пэм",
+          "lemma": "пэм",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    }
+  },
+  {
+    "en": {
+      "sentence": "\"Oh no, not again,\" says Martin."
+    },
+    "ru": {
+      "sentence": "\"О нет, только не это\", - говорит Мартин.",
+      "audio": "en-0.translated.json.audio\\11.ogg",
+      "spacy_tokens": [
+        {
+          "text": "\"",
+          "lemma": "\"",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "О",
+          "lemma": "о",
+          "morph": "",
+          "pos": "INTJ"
+        },
+        {
+          "text": "нет",
+          "lemma": "нет",
+          "morph": "",
+          "pos": "PART"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "только",
+          "lemma": "только",
+          "morph": "",
+          "pos": "PART"
+        },
+        {
+          "text": "не",
+          "lemma": "не",
+          "morph": "Polarity=Neg",
+          "pos": "PART"
+        },
+        {
+          "text": "это",
+          "lemma": "это",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing",
+          "pos": "PRON"
+        },
+        {
+          "text": "\"",
+          "lemma": "\"",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "-",
+          "lemma": "-",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "говорит",
+          "lemma": "говорить",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "Мартин",
+          "lemma": "мартин",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    }
+  },
+  {
+    "en": {
+      "sentence": "\"Come on,\" says Pam."
+    },
+    "ru": {
+      "sentence": "\"Давай\", - говорит Пэм.",
+      "audio": "en-0.translated.json.audio\\12.ogg",
+      "spacy_tokens": [
+        {
+          "text": "\"",
+          "lemma": "\"",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "Давай",
+          "lemma": "давать",
+          "morph": "Aspect=Imp|Mood=Imp|Number=Sing|Person=Second|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "\"",
+          "lemma": "\"",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "-",
+          "lemma": "-",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "говорит",
+          "lemma": "говорить",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "Пэм",
+          "lemma": "пэм",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    }
+  },
+  {
+    "en": {
+      "sentence": "\"It's the last one, I want to finish the film in my camera.\""
+    },
+    "ru": {
+      "sentence": "\"Это последняя, я хочу закончить пленку в своем фотоаппарате\".",
+      "audio": "en-0.translated.json.audio\\13.ogg",
+      "spacy_tokens": [
+        {
+          "text": "\"",
+          "lemma": "\"",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "Это",
+          "lemma": "это",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing",
+          "pos": "PRON"
+        },
+        {
+          "text": "последняя",
+          "lemma": "последний",
+          "morph": "Case=Nom|Degree=Pos|Gender=Fem|Number=Sing",
+          "pos": "ADJ"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "я",
+          "lemma": "я",
+          "morph": "Case=Nom|Number=Sing|Person=First",
+          "pos": "PRON"
+        },
+        {
+          "text": "хочу",
+          "lemma": "хотеть",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=First|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "закончить",
+          "lemma": "закончить",
+          "morph": "Aspect=Perf|VerbForm=Inf|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "пленку",
+          "lemma": "плёнка",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "в",
+          "lemma": "в",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "своем",
+          "lemma": "свой",
+          "morph": "Case=Loc|Gender=Masc|Number=Sing",
+          "pos": "DET"
+        },
+        {
+          "text": "фотоаппарате",
+          "lemma": "фотоаппарат",
+          "morph": "Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "\"",
+          "lemma": "\"",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    }
+  },
+  {
+    "en": {
+      "sentence": "\"Oh, all right,\" says Martin,"
+    },
+    "ru": {
+      "sentence": "\"О, хорошо\", - говорит Мартин,",
+      "audio": "en-0.translated.json.audio\\14.ogg",
+      "spacy_tokens": [
+        {
+          "text": "\"",
+          "lemma": "\"",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "О",
+          "lemma": "о",
+          "morph": "",
+          "pos": "INTJ"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "хорошо",
+          "lemma": "хороший",
+          "morph": "Degree=Pos|Gender=Neut|Number=Sing|StyleVariant=Short",
+          "pos": "ADJ"
+        },
+        {
+          "text": "\"",
+          "lemma": "\"",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "-",
+          "lemma": "-",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "говорит",
+          "lemma": "говорить",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "Мартин",
+          "lemma": "мартин",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    }
+  },
+  {
+    "en": {
+      "sentence": "He stands in front of the flowers."
+    },
+    "ru": {
+      "sentence": "Он встает перед цветами.",
+      "audio": "en-0.translated.json.audio\\15.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Он",
+          "lemma": "он",
+          "morph": "Case=Nom|Gender=Masc|Number=Sing|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": "встает",
+          "lemma": "вставать",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "перед",
+          "lemma": "перед",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "цветами",
+          "lemma": "цвет",
+          "morph": "Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    }
+  },
+  {
+    "en": {
+      "sentence": "\"Look at me,\" says Pam and takes a photo."
+    },
+    "ru": {
+      "sentence": "\"Посмотри на меня\", - говорит Пэм и делает снимок.",
+      "audio": "en-0.translated.json.audio\\16.ogg",
+      "spacy_tokens": [
+        {
+          "text": "\"",
+          "lemma": "\"",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "Посмотри",
+          "lemma": "посмотреть",
+          "morph": "Aspect=Perf|Mood=Imp|Number=Sing|Person=Second|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "на",
+          "lemma": "на",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "меня",
+          "lemma": "меня",
+          "morph": "Case=Acc|Number=Sing|Person=First",
+          "pos": "PRON"
+        },
+        {
+          "text": "\"",
+          "lemma": "\"",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "-",
+          "lemma": "-",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "говорит",
+          "lemma": "говорить",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "Пэм",
+          "lemma": "пэм",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": "и",
+          "lemma": "и",
+          "morph": "",
+          "pos": "CCONJ"
+        },
+        {
+          "text": "делает",
+          "lemma": "делать",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "снимок",
+          "lemma": "снимок",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    }
+  },
+  {
+    "en": {
+      "sentence": "A man with a big rucksack on his back walks between Pam and Martin."
+    },
+    "ru": {
+      "sentence": "Между Пэм и Мартином проходит человек с большим рюкзаком на спине.",
+      "audio": "en-0.translated.json.audio\\17.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Между",
+          "lemma": "между",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "Пэм",
+          "lemma": "пэм",
+          "morph": "Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": "и",
+          "lemma": "и",
+          "morph": "",
+          "pos": "CCONJ"
+        },
+        {
+          "text": "Мартином",
+          "lemma": "мартин",
+          "morph": "Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": "проходит",
+          "lemma": "проходить",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "человек",
+          "lemma": "человек",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "с",
+          "lemma": "с",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "большим",
+          "lemma": "больший",
+          "morph": "Case=Ins|Degree=Pos|Gender=Masc|Number=Sing",
+          "pos": "ADJ"
+        },
+        {
+          "text": "рюкзаком",
+          "lemma": "рюкзак",
+          "morph": "Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "на",
+          "lemma": "на",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "спине",
+          "lemma": "спина",
+          "morph": "Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    }
+  },
+  {
+    "en": {
+      "sentence": "\"Oh no,\" says Pam."
+    },
+    "ru": {
+      "sentence": "\"О нет\", - говорит Пэм.",
+      "audio": "en-0.translated.json.audio\\18.ogg",
+      "spacy_tokens": [
+        {
+          "text": "\"",
+          "lemma": "\"",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "О",
+          "lemma": "о",
+          "morph": "",
+          "pos": "INTJ"
+        },
+        {
+          "text": "нет",
+          "lemma": "нет",
+          "morph": "",
+          "pos": "PART"
+        },
+        {
+          "text": "\"",
+          "lemma": "\"",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "-",
+          "lemma": "-",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "говорит",
+          "lemma": "говорить",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "Пэм",
+          "lemma": "пэм",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    }
+  },
+  {
+    "en": {
+      "sentence": "\"Now I've got a picture of that man, not of you, Martin.\""
+    },
+    "ru": {
+      "sentence": "\"Теперь у меня есть фотография этого человека, а не тебя, Мартин\".",
+      "audio": "en-0.translated.json.audio\\19.ogg",
+      "spacy_tokens": [
+        {
+          "text": "\"",
+          "lemma": "\"",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "Теперь",
+          "lemma": "теперь",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "у",
+          "lemma": "у",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "меня",
+          "lemma": "меня",
+          "morph": "Case=Gen|Number=Sing|Person=First",
+          "pos": "PRON"
+        },
+        {
+          "text": "есть",
+          "lemma": "быть",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "фотография",
+          "lemma": "фотография",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "этого",
+          "lemma": "этот",
+          "morph": "Case=Gen|Gender=Masc|Number=Sing",
+          "pos": "DET"
+        },
+        {
+          "text": "человека",
+          "lemma": "человек",
+          "morph": "Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "а",
+          "lemma": "а",
+          "morph": "",
+          "pos": "CCONJ"
+        },
+        {
+          "text": "не",
+          "lemma": "не",
+          "morph": "Polarity=Neg",
+          "pos": "PART"
+        },
+        {
+          "text": "тебя",
+          "lemma": "тебя",
+          "morph": "Case=Acc|Number=Sing|Person=Second",
+          "pos": "PRON"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "Мартин",
+          "lemma": "мартин",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": "\"",
+          "lemma": "\"",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    }
+  },
+  {
+    "en": {
+      "sentence": "The man looks at Pam."
+    },
+    "ru": {
+      "sentence": "Мужчина смотрит на Пэм.",
+      "audio": "en-0.translated.json.audio\\20.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Мужчина",
+          "lemma": "мужчина",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "смотрит",
+          "lemma": "смотреть",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "на",
+          "lemma": "на",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "Пэм",
+          "lemma": "пэм",
+          "morph": "Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    }
+  },
+  {
+    "en": {
+      "sentence": "He is angry."
+    },
+    "ru": {
+      "sentence": "Он зол.",
+      "audio": "en-0.translated.json.audio\\21.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Он",
+          "lemma": "он",
+          "morph": "Case=Nom|Gender=Masc|Number=Sing|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": "зол",
+          "lemma": "злой",
+          "morph": "Degree=Pos|Gender=Masc|Number=Sing|StyleVariant=Short",
+          "pos": "ADJ"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    }
+  },
+  {
+    "en": {
+      "sentence": "He goes across the road without a word."
+    },
+    "ru": {
+      "sentence": "Он переходит дорогу, не говоря ни слова.",
+      "audio": "en-0.translated.json.audio\\22.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Он",
+          "lemma": "он",
+          "morph": "Case=Nom|Gender=Masc|Number=Sing|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": "переходит",
+          "lemma": "переходить",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "дорогу",
+          "lemma": "дорога",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "не",
+          "lemma": "не",
+          "morph": "Polarity=Neg",
+          "pos": "PART"
+        },
+        {
+          "text": "говоря",
+          "lemma": "говорить",
+          "morph": "Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "ни",
+          "lemma": "ни",
+          "morph": "Polarity=Neg",
+          "pos": "PART"
+        },
+        {
+          "text": "слова",
+          "lemma": "слово",
+          "morph": "Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    }
+  },
+  {
+    "en": {
+      "sentence": "\"That man isn't very nice, is he?\" says Martin."
+    },
+    "ru": {
+      "sentence": "\"Этот человек не очень хороший, да?\" - говорит Мартин.",
+      "audio": "en-0.translated.json.audio\\23.ogg",
+      "spacy_tokens": [
+        {
+          "text": "\"",
+          "lemma": "\"",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "Этот",
+          "lemma": "этот",
+          "morph": "Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "DET"
+        },
+        {
+          "text": "человек",
+          "lemma": "человек",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "не",
+          "lemma": "не",
+          "morph": "Polarity=Neg",
+          "pos": "PART"
+        },
+        {
+          "text": "очень",
+          "lemma": "очень",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "хороший",
+          "lemma": "хороший",
+          "morph": "Case=Nom|Degree=Pos|Gender=Masc|Number=Sing",
+          "pos": "ADJ"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "да",
+          "lemma": "да",
+          "morph": "",
+          "pos": "PART"
+        },
+        {
+          "text": "?",
+          "lemma": "?",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "\"",
+          "lemma": "\"",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "-",
+          "lemma": "-",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "говорит",
+          "lemma": "говорить",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "Мартин",
+          "lemma": "мартин",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    }
+  },
+  {
+    "en": {
+      "sentence": "\"No,\" says Pam."
+    },
+    "ru": {
+      "sentence": "\"Нет\", - говорит Пэм.",
+      "audio": "en-0.translated.json.audio\\24.ogg",
+      "spacy_tokens": [
+        {
+          "text": "\"",
+          "lemma": "\"",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "Нет",
+          "lemma": "нет",
+          "morph": "",
+          "pos": "PART"
+        },
+        {
+          "text": "\"",
+          "lemma": "\"",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "-",
+          "lemma": "-",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "говорит",
+          "lemma": "говорить",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "Пэм",
+          "lemma": "пэм",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    }
+  },
+  {
+    "en": {
+      "sentence": "\"And that was the last picture on the film, too.\""
+    },
+    "ru": {
+      "sentence": "\"И это была последняя фотография на пленке\".",
+      "audio": "en-0.translated.json.audio\\25.ogg",
+      "spacy_tokens": [
+        {
+          "text": "\"",
+          "lemma": "\"",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "И",
+          "lemma": "и",
+          "morph": "",
+          "pos": "CCONJ"
+        },
+        {
+          "text": "это",
+          "lemma": "это",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing",
+          "pos": "PRON"
+        },
+        {
+          "text": "была",
+          "lemma": "была",
+          "morph": "Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "AUX"
+        },
+        {
+          "text": "последняя",
+          "lemma": "последний",
+          "morph": "Case=Nom|Degree=Pos|Gender=Fem|Number=Sing",
+          "pos": "ADJ"
+        },
+        {
+          "text": "фотография",
+          "lemma": "фотография",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "на",
+          "lemma": "на",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "пленке",
+          "lemma": "плёнка",
+          "morph": "Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "\"",
+          "lemma": "\"",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    }
+  },
+  {
+    "en": {
+      "sentence": "The man with the rucksack on his back goes into the bus station."
+    },
+    "ru": {
+      "sentence": "Человек с рюкзаком на спине заходит на автобусную станцию.",
+      "audio": "en-0.translated.json.audio\\26.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Человек",
+          "lemma": "человек",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "с",
+          "lemma": "с",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "рюкзаком",
+          "lemma": "рюкзак",
+          "morph": "Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "на",
+          "lemma": "на",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "спине",
+          "lemma": "спина",
+          "morph": "Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "заходит",
+          "lemma": "заходить",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "на",
+          "lemma": "на",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "автобусную",
+          "lemma": "автобусный",
+          "morph": "Case=Acc|Degree=Pos|Gender=Fem|Number=Sing",
+          "pos": "ADJ"
+        },
+        {
+          "text": "станцию",
+          "lemma": "станция",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    }
+  },
+  {
+    "en": {
+      "sentence": "He has got sunglasses and a blue hat."
+    },
+    "ru": {
+      "sentence": "У него солнцезащитные очки и синяя шляпа.",
+      "audio": "en-0.translated.json.audio\\27.ogg",
+      "spacy_tokens": [
+        {
+          "text": "У",
+          "lemma": "у",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "него",
+          "lemma": "него",
+          "morph": "Case=Gen|Gender=Masc|Number=Sing|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": "солнцезащитные",
+          "lemma": "солнцезащитный",
+          "morph": "Case=Nom|Degree=Pos|Number=Plur",
+          "pos": "ADJ"
+        },
+        {
+          "text": "очки",
+          "lemma": "очки",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur",
+          "pos": "NOUN"
+        },
+        {
+          "text": "и",
+          "lemma": "и",
+          "morph": "",
+          "pos": "CCONJ"
+        },
+        {
+          "text": "синяя",
+          "lemma": "синий",
+          "morph": "Case=Nom|Degree=Pos|Gender=Fem|Number=Sing",
+          "pos": "ADJ"
+        },
+        {
+          "text": "шляпа",
+          "lemma": "шляпа",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    }
+  },
+  {
+    "en": {
+      "sentence": "\"Come on,\" says Martin."
+    },
+    "ru": {
+      "sentence": "\"Пойдем\", - говорит Мартин.",
+      "audio": "en-0.translated.json.audio\\28.ogg",
+      "spacy_tokens": [
+        {
+          "text": "\"",
+          "lemma": "\"",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "Пойдем",
+          "lemma": "пойдем",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "\"",
+          "lemma": "\"",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "-",
+          "lemma": "-",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "говорит",
+          "lemma": "говорить",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "Мартин",
+          "lemma": "мартин",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    }
+  },
+  {
+    "en": {
+      "sentence": "\"Let's find our bus.\""
+    },
+    "ru": {
+      "sentence": "\"Давай найдем наш автобус\".",
+      "audio": "en-0.translated.json.audio\\29.ogg",
+      "spacy_tokens": [
+        {
+          "text": "\"",
+          "lemma": "\"",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "Давай",
+          "lemma": "давать",
+          "morph": "Aspect=Imp|Mood=Imp|Number=Sing|Person=Second|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "найдем",
+          "lemma": "найти",
+          "morph": "Aspect=Perf|Mood=Ind|Number=Plur|Person=First|Tense=Fut|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "наш",
+          "lemma": "наш",
+          "morph": "Case=Acc|Gender=Masc|Number=Sing",
+          "pos": "DET"
+        },
+        {
+          "text": "автобус",
+          "lemma": "автобус",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "\"",
+          "lemma": "\"",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    }
+  },
+  {
+    "en": {
+      "sentence": "They go into the bus station."
+    },
+    "ru": {
+      "sentence": "Они заходят на автовокзал.",
+      "audio": "en-0.translated.json.audio\\30.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Они",
+          "lemma": "они",
+          "morph": "Case=Nom|Number=Plur|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": "заходят",
+          "lemma": "заходить",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Plur|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "на",
+          "lemma": "на",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "автовокзал",
+          "lemma": "автовокзал",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    }
+  },
+  {
+    "en": {
+      "sentence": "\"Look,\" says Martin."
+    },
+    "ru": {
+      "sentence": "\"Смотри\", - говорит Мартин.",
+      "audio": "en-0.translated.json.audio\\31.ogg",
+      "spacy_tokens": [
+        {
+          "text": "\"",
+          "lemma": "\"",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "Смотри",
+          "lemma": "смотри",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "\"",
+          "lemma": "\"",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "-",
+          "lemma": "-",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "говорит",
+          "lemma": "говорить",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "Мартин",
+          "lemma": "мартин",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    }
+  },
+  {
+    "en": {
+      "sentence": "\"There's that man again."
+    },
+    "ru": {
+      "sentence": "\"Опять этот человек.",
+      "audio": "en-0.translated.json.audio\\32.ogg",
+      "spacy_tokens": [
+        {
+          "text": "\"",
+          "lemma": "\"",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "Опять",
+          "lemma": "опять",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "этот",
+          "lemma": "этот",
+          "morph": "Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "DET"
+        },
+        {
+          "text": "человек",
+          "lemma": "человек",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    }
+  },
+  {
+    "en": {
+      "sentence": "He's getting into that bus."
+    },
+    "ru": {
+      "sentence": "Он садится в этот автобус.",
+      "audio": "en-0.translated.json.audio\\33.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Он",
+          "lemma": "он",
+          "morph": "Case=Nom|Gender=Masc|Number=Sing|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": "садится",
+          "lemma": "садиться",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Mid",
+          "pos": "VERB"
+        },
+        {
+          "text": "в",
+          "lemma": "в",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "этот",
+          "lemma": "этот",
+          "morph": "Case=Acc|Gender=Masc|Number=Sing",
+          "pos": "DET"
+        },
+        {
+          "text": "автобус",
+          "lemma": "автобус",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    }
+  },
+  {
+    "en": {
+      "sentence": "He's going to Aberdeen."
+    },
+    "ru": {
+      "sentence": "Он едет в Абердин.",
+      "audio": "en-0.translated.json.audio\\34.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Он",
+          "lemma": "он",
+          "morph": "Case=Nom|Gender=Masc|Number=Sing|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": "едет",
+          "lemma": "ехать",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "в",
+          "lemma": "в",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "Абердин",
+          "lemma": "абердин",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    }
+  },
+  {
+    "en": {
+      "sentence": "That's in Scotland.\""
+    },
+    "ru": {
+      "sentence": "Это в Шотландии\".",
+      "audio": "en-0.translated.json.audio\\35.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Это",
+          "lemma": "это",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing",
+          "pos": "PRON"
+        },
+        {
+          "text": "в",
+          "lemma": "в",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "Шотландии",
+          "lemma": "шотландия",
+          "morph": "Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": "\"",
+          "lemma": "\"",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    }
+  },
+  {
+    "en": {
+      "sentence": "\"Good,\" says Pam."
+    },
+    "ru": {
+      "sentence": "\"Хорошо\", - говорит Пэм.",
+      "audio": "en-0.translated.json.audio\\36.ogg",
+      "spacy_tokens": [
+        {
+          "text": "\"",
+          "lemma": "\"",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "Хорошо",
+          "lemma": "хороший",
+          "morph": "Degree=Pos|Gender=Neut|Number=Sing|StyleVariant=Short",
+          "pos": "ADJ"
+        },
+        {
+          "text": "\"",
+          "lemma": "\"",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "-",
+          "lemma": "-",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "говорит",
+          "lemma": "говорить",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "Пэм",
+          "lemma": "пэм",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    }
+  },
+  {
+    "en": {
+      "sentence": "\"Far from here and far from me!\""
+    },
+    "ru": {
+      "sentence": "\"Далеко отсюда и далеко от меня!\".",
+      "audio": "en-0.translated.json.audio\\37.ogg",
+      "spacy_tokens": [
+        {
+          "text": "\"",
+          "lemma": "\"",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "Далеко",
+          "lemma": "далеко",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "отсюда",
+          "lemma": "отсюда",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "и",
+          "lemma": "и",
+          "morph": "",
+          "pos": "CCONJ"
+        },
+        {
+          "text": "далеко",
+          "lemma": "далеко",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "от",
+          "lemma": "от",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "меня",
+          "lemma": "меня",
+          "morph": "Case=Gen|Number=Sing|Person=First",
+          "pos": "PRON"
+        },
+        {
+          "text": "!",
+          "lemma": "!",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "\"",
+          "lemma": "\"",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    }
+  },
+  {
+    "en": {
+      "sentence": "She is angry with the man."
+    },
+    "ru": {
+      "sentence": "Она сердится на этого человека.",
+      "audio": "en-0.translated.json.audio\\38.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Она",
+          "lemma": "она",
+          "morph": "Case=Nom|Gender=Fem|Number=Sing|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": "сердится",
+          "lemma": "сердиться",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Mid",
+          "pos": "VERB"
+        },
+        {
+          "text": "на",
+          "lemma": "на",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "этого",
+          "lemma": "этот",
+          "morph": "Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing",
+          "pos": "DET"
+        },
+        {
+          "text": "человека",
+          "lemma": "человек",
+          "morph": "Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    }
+  },
+  {
+    "en": {
+      "sentence": "Three days later, on Tuesday, Pam has got her photos from the shop."
+    },
+    "ru": {
+      "sentence": "Три дня спустя, во вторник, Пэм получила свои фотографии из магазина.",
+      "audio": "en-0.translated.json.audio\\39.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Три",
+          "lemma": "три",
+          "morph": "Animacy=Inan|Case=Acc",
+          "pos": "NUM"
+        },
+        {
+          "text": "дня",
+          "lemma": "день",
+          "morph": "Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "спустя",
+          "lemma": "спустя",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "во",
+          "lemma": "во",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "вторник",
+          "lemma": "вторник",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "Пэм",
+          "lemma": "пэм",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": "получила",
+          "lemma": "получить",
+          "morph": "Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "свои",
+          "lemma": "свой",
+          "morph": "Animacy=Inan|Case=Acc|Number=Plur",
+          "pos": "DET"
+        },
+        {
+          "text": "фотографии",
+          "lemma": "фотография",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur",
+          "pos": "NOUN"
+        },
+        {
+          "text": "из",
+          "lemma": "из",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "магазина",
+          "lemma": "магазин",
+          "morph": "Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    }
+  },
+  {
+    "en": {
+      "sentence": "\"Look at these,\" she says to Martin."
+    },
+    "ru": {
+      "sentence": "\"Посмотри на них\", - говорит она Мартину.",
+      "audio": "en-0.translated.json.audio\\40.ogg",
+      "spacy_tokens": [
+        {
+          "text": "\"",
+          "lemma": "\"",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "Посмотри",
+          "lemma": "посмотреть",
+          "morph": "Aspect=Perf|Mood=Imp|Number=Sing|Person=Second|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "на",
+          "lemma": "на",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "них",
+          "lemma": "них",
+          "morph": "Animacy=Inan|Case=Acc|Number=Plur|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": "\"",
+          "lemma": "\"",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "-",
+          "lemma": "-",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "говорит",
+          "lemma": "говорить",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "она",
+          "lemma": "она",
+          "morph": "Case=Nom|Gender=Fem|Number=Sing|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": "Мартину",
+          "lemma": "мартину",
+          "morph": "Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    }
+  },
+  {
+    "en": {
+      "sentence": "\"They're the photos of us in Cambridge.\""
+    },
+    "ru": {
+      "sentence": "\"Это наши фотографии в Кембридже\".",
+      "audio": "en-0.translated.json.audio\\41.ogg",
+      "spacy_tokens": [
+        {
+          "text": "\"",
+          "lemma": "\"",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "Это",
+          "lemma": "это",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing",
+          "pos": "PRON"
+        },
+        {
+          "text": "наши",
+          "lemma": "наш",
+          "morph": "Case=Nom|Number=Plur",
+          "pos": "DET"
+        },
+        {
+          "text": "фотографии",
+          "lemma": "фотография",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur",
+          "pos": "NOUN"
+        },
+        {
+          "text": "в",
+          "lemma": "в",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "Кембридже",
+          "lemma": "кембридж",
+          "morph": "Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": "\"",
+          "lemma": "\"",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    }
+  },
+  {
+    "en": {
+      "sentence": "\"Oh, these are all very good,\" says Martin."
+    },
+    "ru": {
+      "sentence": "\"О, они все очень хорошие\", - говорит Мартин.",
+      "audio": "en-0.translated.json.audio\\42.ogg",
+      "spacy_tokens": [
+        {
+          "text": "\"",
+          "lemma": "\"",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "О",
+          "lemma": "о",
+          "morph": "",
+          "pos": "INTJ"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "они",
+          "lemma": "они",
+          "morph": "Case=Nom|Number=Plur|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": "все",
+          "lemma": "весь",
+          "morph": "Case=Nom|Number=Plur",
+          "pos": "DET"
+        },
+        {
+          "text": "очень",
+          "lemma": "очень",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "хорошие",
+          "lemma": "хороший",
+          "morph": "Case=Nom|Degree=Pos|Number=Plur",
+          "pos": "ADJ"
+        },
+        {
+          "text": "\"",
+          "lemma": "\"",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "-",
+          "lemma": "-",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "говорит",
+          "lemma": "говорить",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "Мартин",
+          "lemma": "мартин",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    }
+  },
+  {
+    "en": {
+      "sentence": "\"But not this last one,\" says Pam."
+    },
+    "ru": {
+      "sentence": "\"Но не эта последняя\", - говорит Пэм.",
+      "audio": "en-0.translated.json.audio\\43.ogg",
+      "spacy_tokens": [
+        {
+          "text": "\"",
+          "lemma": "\"",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "Но",
+          "lemma": "но",
+          "morph": "",
+          "pos": "CCONJ"
+        },
+        {
+          "text": "не",
+          "lemma": "не",
+          "morph": "Polarity=Neg",
+          "pos": "PART"
+        },
+        {
+          "text": "эта",
+          "lemma": "этот",
+          "morph": "Case=Nom|Gender=Fem|Number=Sing",
+          "pos": "DET"
+        },
+        {
+          "text": "последняя",
+          "lemma": "последний",
+          "morph": "Case=Nom|Degree=Pos|Gender=Fem|Number=Sing",
+          "pos": "ADJ"
+        },
+        {
+          "text": "\"",
+          "lemma": "\"",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "-",
+          "lemma": "-",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "говорит",
+          "lemma": "говорить",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "Пэм",
+          "lemma": "пэм",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    }
+  },
+  {
+    "en": {
+      "sentence": "\"Look, it's that man with the rucksack.\""
+    },
+    "ru": {
+      "sentence": "\"Смотри, это тот мужчина с рюкзаком\".",
+      "audio": "en-0.translated.json.audio\\44.ogg",
+      "spacy_tokens": [
+        {
+          "text": "\"",
+          "lemma": "\"",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "Смотри",
+          "lemma": "смотреть",
+          "morph": "Aspect=Imp|Mood=Imp|Number=Sing|Person=Second|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "это",
+          "lemma": "это",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing",
+          "pos": "PRON"
+        },
+        {
+          "text": "тот",
+          "lemma": "тот",
+          "morph": "Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "DET"
+        },
+        {
+          "text": "мужчина",
+          "lemma": "мужчина",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "с",
+          "lemma": "с",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "рюкзаком",
+          "lemma": "рюкзак",
+          "morph": "Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "\"",
+          "lemma": "\"",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    }
+  },
+  {
+    "en": {
+      "sentence": "In the photo, the man is in front of Martin."
+    },
+    "ru": {
+      "sentence": "На фотографии мужчина стоит перед Мартином.",
+      "audio": "en-0.translated.json.audio\\45.ogg",
+      "spacy_tokens": [
+        {
+          "text": "На",
+          "lemma": "на",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "фотографии",
+          "lemma": "фотография",
+          "morph": "Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "мужчина",
+          "lemma": "мужчина",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "стоит",
+          "lemma": "стоить",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "перед",
+          "lemma": "перед",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "Мартином",
+          "lemma": "мартин",
+          "morph": "Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    }
+  },
+  {
+    "en": {
+      "sentence": "You cannot see Martin behind the man's rucksack."
+    },
+    "ru": {
+      "sentence": "Мартина не видно за рюкзаком мужчины.",
+      "audio": "en-0.translated.json.audio\\46.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Мартина",
+          "lemma": "мартина",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": "не",
+          "lemma": "не",
+          "morph": "Polarity=Neg",
+          "pos": "PART"
+        },
+        {
+          "text": "видно",
+          "lemma": "видно",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "за",
+          "lemma": "за",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "рюкзаком",
+          "lemma": "рюкзак",
+          "morph": "Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "мужчины",
+          "lemma": "мужчина",
+          "morph": "Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    }
+  },
+  {
+    "en": {
+      "sentence": "\"Wait a minute,\" says Martin."
+    },
+    "ru": {
+      "sentence": "\"Подождите минутку\", - говорит Мартин.",
+      "audio": "en-0.translated.json.audio\\47.ogg",
+      "spacy_tokens": [
+        {
+          "text": "\"",
+          "lemma": "\"",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "Подождите",
+          "lemma": "подождать",
+          "morph": "Aspect=Perf|Mood=Imp|Number=Plur|Person=Second|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "минутку",
+          "lemma": "минутка",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "\"",
+          "lemma": "\"",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "-",
+          "lemma": "-",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "говорит",
+          "lemma": "говорить",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "Мартин",
+          "lemma": "мартин",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    }
+  },
+  {
+    "en": {
+      "sentence": "\"I know that face."
+    },
+    "ru": {
+      "sentence": "\"Я знаю это лицо.",
+      "audio": "en-0.translated.json.audio\\48.ogg",
+      "spacy_tokens": [
+        {
+          "text": "\"",
+          "lemma": "\"",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "Я",
+          "lemma": "я",
+          "morph": "Case=Nom|Number=Sing|Person=First",
+          "pos": "PRON"
+        },
+        {
+          "text": "знаю",
+          "lemma": "знать",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=First|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "это",
+          "lemma": "этот",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing",
+          "pos": "DET"
+        },
+        {
+          "text": "лицо",
+          "lemma": "лицо",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    }
+  },
+  {
+    "en": {
+      "sentence": "It's in the newspaper."
+    },
+    "ru": {
+      "sentence": "Оно есть в газете.",
+      "audio": "en-0.translated.json.audio\\49.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Оно",
+          "lemma": "оно",
+          "morph": "Case=Nom|Gender=Neut|Number=Sing|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": "есть",
+          "lemma": "есть",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "AUX"
+        },
+        {
+          "text": "в",
+          "lemma": "в",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "газете",
+          "lemma": "газета",
+          "morph": "Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    }
+  },
+  {
+    "en": {
+      "sentence": "Have you got it?\""
+    },
+    "ru": {
+      "sentence": "Она у тебя есть?\"",
+      "audio": "en-0.translated.json.audio\\50.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Она",
+          "lemma": "она",
+          "morph": "Case=Nom|Gender=Fem|Number=Sing|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": "у",
+          "lemma": "у",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "тебя",
+          "lemma": "тебя",
+          "morph": "Case=Gen|Number=Sing|Person=Second",
+          "pos": "PRON"
+        },
+        {
+          "text": "есть",
+          "lemma": "быть",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "?",
+          "lemma": "?",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "\"",
+          "lemma": "\"",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    }
+  },
+  {
+    "en": {
+      "sentence": "\"Today's newspaper?\" says Pam."
+    },
+    "ru": {
+      "sentence": "\"Сегодняшняя газета?\" - спрашивает Пэм.",
+      "audio": "en-0.translated.json.audio\\51.ogg",
+      "spacy_tokens": [
+        {
+          "text": "\"",
+          "lemma": "\"",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "Сегодняшняя",
+          "lemma": "сегодняшний",
+          "morph": "Case=Nom|Degree=Pos|Gender=Fem|Number=Sing",
+          "pos": "ADJ"
+        },
+        {
+          "text": "газета",
+          "lemma": "газета",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "?",
+          "lemma": "?",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "\"",
+          "lemma": "\"",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "-",
+          "lemma": "-",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "спрашивает",
+          "lemma": "спрашивать",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "Пэм",
+          "lemma": "пэм",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    }
+  },
+  {
+    "en": {
+      "sentence": "\"Yes, it's here."
+    },
+    "ru": {
+      "sentence": "\"Да, она здесь.",
+      "audio": "en-0.translated.json.audio\\52.ogg",
+      "spacy_tokens": [
+        {
+          "text": "\"",
+          "lemma": "\"",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "Да",
+          "lemma": "да",
+          "morph": "",
+          "pos": "PART"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "она",
+          "lemma": "она",
+          "morph": "Case=Nom|Gender=Fem|Number=Sing|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": "здесь",
+          "lemma": "здесь",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    }
+  },
+  {
+    "en": {
+      "sentence": "Why?\""
+    },
+    "ru": {
+      "sentence": "А что?\"",
+      "audio": "en-0.translated.json.audio\\53.ogg",
+      "spacy_tokens": [
+        {
+          "text": "А",
+          "lemma": "а",
+          "morph": "",
+          "pos": "CCONJ"
+        },
+        {
+          "text": "что",
+          "lemma": "что",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing",
+          "pos": "PRON"
+        },
+        {
+          "text": "?",
+          "lemma": "?",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "\"",
+          "lemma": "\"",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    }
+  },
+  {
+    "en": {
+      "sentence": "\"Yes, here he is."
+    },
+    "ru": {
+      "sentence": "\"Да, вот он.",
+      "audio": "en-0.translated.json.audio\\54.ogg",
+      "spacy_tokens": [
+        {
+          "text": "\"",
+          "lemma": "\"",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "Да",
+          "lemma": "да",
+          "morph": "",
+          "pos": "PART"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "вот",
+          "lemma": "вот",
+          "morph": "",
+          "pos": "PART"
+        },
+        {
+          "text": "он",
+          "lemma": "он",
+          "morph": "Case=Nom|Gender=Masc|Number=Sing|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    }
+  },
+  {
+    "en": {
+      "sentence": "Look at this picture,\" says Martin."
+    },
+    "ru": {
+      "sentence": "Посмотри на эту фотографию\", - говорит Мартин.",
+      "audio": "en-0.translated.json.audio\\55.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Посмотри",
+          "lemma": "посмотреть",
+          "morph": "Aspect=Perf|Mood=Imp|Number=Sing|Person=Second|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "на",
+          "lemma": "на",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "эту",
+          "lemma": "этот",
+          "morph": "Case=Acc|Gender=Fem|Number=Sing",
+          "pos": "DET"
+        },
+        {
+          "text": "фотографию",
+          "lemma": "фотография",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "\"",
+          "lemma": "\"",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "-",
+          "lemma": "-",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "говорит",
+          "lemma": "говорить",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "Мартин",
+          "lemma": "мартин",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    }
+  },
+  {
+    "en": {
+      "sentence": "Pam looks at the photo in the newspaper."
+    },
+    "ru": {
+      "sentence": "Пэм смотрит на фотографию в газете.",
+      "audio": "en-0.translated.json.audio\\56.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Пэм",
+          "lemma": "пэм",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": "смотрит",
+          "lemma": "смотреть",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "на",
+          "lemma": "на",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "фотографию",
+          "lemma": "фотография",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "в",
+          "lemma": "в",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "газете",
+          "lemma": "газета",
+          "morph": "Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    }
+  },
+  {
+    "en": {
+      "sentence": "\"Who's that?\" she asks."
+    },
+    "ru": {
+      "sentence": "\"Кто это?\" - спрашивает она.",
+      "audio": "en-0.translated.json.audio\\57.ogg",
+      "spacy_tokens": [
+        {
+          "text": "\"",
+          "lemma": "\"",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "Кто",
+          "lemma": "кто",
+          "morph": "Case=Nom",
+          "pos": "PRON"
+        },
+        {
+          "text": "это",
+          "lemma": "это",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing",
+          "pos": "PRON"
+        },
+        {
+          "text": "?",
+          "lemma": "?",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "\"",
+          "lemma": "\"",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "-",
+          "lemma": "-",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "спрашивает",
+          "lemma": "спрашивать",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "она",
+          "lemma": "она",
+          "morph": "Case=Nom|Gender=Fem|Number=Sing|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    }
+  },
+  {
+    "en": {
+      "sentence": "\"It says in the paper his name's Alan Rook,\" says Martin."
+    },
+    "ru": {
+      "sentence": "\"В газете написано, что его зовут Алан Рук\", - говорит Мартин.",
+      "audio": "en-0.translated.json.audio\\58.ogg",
+      "spacy_tokens": [
+        {
+          "text": "\"",
+          "lemma": "\"",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "В",
+          "lemma": "в",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "газете",
+          "lemma": "газета",
+          "morph": "Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "написано",
+          "lemma": "написать",
+          "morph": "Aspect=Perf|Gender=Neut|Number=Sing|StyleVariant=Short|Tense=Past|VerbForm=Part|Voice=Pass",
+          "pos": "VERB"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "что",
+          "lemma": "что",
+          "morph": "",
+          "pos": "SCONJ"
+        },
+        {
+          "text": "его",
+          "lemma": "его",
+          "morph": "Case=Acc|Gender=Masc|Number=Sing|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": "зовут",
+          "lemma": "звать",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Plur|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "Алан",
+          "lemma": "алан",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": "Рук",
+          "lemma": "рук",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": "\"",
+          "lemma": "\"",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "-",
+          "lemma": "-",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "говорит",
+          "lemma": "говорить",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "Мартин",
+          "lemma": "мартин",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    }
+  },
+  {
+    "en": {
+      "sentence": "\"And he works in a bank in London."
+    },
+    "ru": {
+      "sentence": "\"И он работает в банке в Лондоне.",
+      "audio": "en-0.translated.json.audio\\59.ogg",
+      "spacy_tokens": [
+        {
+          "text": "\"",
+          "lemma": "\"",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "И",
+          "lemma": "и",
+          "morph": "",
+          "pos": "CCONJ"
+        },
+        {
+          "text": "он",
+          "lemma": "он",
+          "morph": "Case=Nom|Gender=Masc|Number=Sing|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": "работает",
+          "lemma": "работать",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "в",
+          "lemma": "в",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "банке",
+          "lemma": "банк",
+          "morph": "Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "в",
+          "lemma": "в",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "Лондоне",
+          "lemma": "лондон",
+          "morph": "Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    }
+  },
+  {
+    "en": {
+      "sentence": "But on Monday morning - yesterday morning - no Alan Rook!"
+    },
+    "ru": {
+      "sentence": "Но в понедельник утром - вчера утром - никакого Алана Рука нет!",
+      "audio": "en-0.translated.json.audio\\60.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Но",
+          "lemma": "но",
+          "morph": "",
+          "pos": "CCONJ"
+        },
+        {
+          "text": "в",
+          "lemma": "в",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "понедельник",
+          "lemma": "понедельник",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "утром",
+          "lemma": "утро",
+          "morph": "Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "-",
+          "lemma": "-",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "вчера",
+          "lemma": "вчера",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "утром",
+          "lemma": "утро",
+          "morph": "Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "-",
+          "lemma": "-",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "никакого",
+          "lemma": "никакой",
+          "morph": "Case=Gen|Gender=Masc|Number=Sing",
+          "pos": "DET"
+        },
+        {
+          "text": "Алана",
+          "lemma": "алан",
+          "morph": "Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": "Рука",
+          "lemma": "рука",
+          "morph": "Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": "нет",
+          "lemma": "нет",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "!",
+          "lemma": "!",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    }
+  },
+  {
+    "en": {
+      "sentence": "The people at the bank don't know where he is."
+    },
+    "ru": {
+      "sentence": "Люди в банке не знают, где он.",
+      "audio": "en-0.translated.json.audio\\61.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Люди",
+          "lemma": "человек",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur",
+          "pos": "NOUN"
+        },
+        {
+          "text": "в",
+          "lemma": "в",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "банке",
+          "lemma": "банк",
+          "morph": "Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "не",
+          "lemma": "не",
+          "morph": "Polarity=Neg",
+          "pos": "PART"
+        },
+        {
+          "text": "знают",
+          "lemma": "знать",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Plur|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "где",
+          "lemma": "где",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "он",
+          "lemma": "он",
+          "morph": "Case=Nom|Gender=Masc|Number=Sing|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    }
+  },
+  {
+    "en": {
+      "sentence": "And they say he's got a hundred thousand pounds with him."
+    },
+    "ru": {
+      "sentence": "А они говорят, что у него с собой сто тысяч фунтов.",
+      "audio": "en-0.translated.json.audio\\62.ogg",
+      "spacy_tokens": [
+        {
+          "text": "А",
+          "lemma": "а",
+          "morph": "",
+          "pos": "CCONJ"
+        },
+        {
+          "text": "они",
+          "lemma": "они",
+          "morph": "Case=Nom|Number=Plur|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": "говорят",
+          "lemma": "говорить",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Plur|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "что",
+          "lemma": "что",
+          "morph": "",
+          "pos": "SCONJ"
+        },
+        {
+          "text": "у",
+          "lemma": "у",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "него",
+          "lemma": "него",
+          "morph": "Case=Gen|Gender=Masc|Number=Sing|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": "с",
+          "lemma": "с",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "собой",
+          "lemma": "себя",
+          "morph": "Case=Ins",
+          "pos": "PRON"
+        },
+        {
+          "text": "сто",
+          "lemma": "сто",
+          "morph": "Case=Acc",
+          "pos": "NUM"
+        },
+        {
+          "text": "тысяч",
+          "lemma": "тысяча",
+          "morph": "Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur",
+          "pos": "NOUN"
+        },
+        {
+          "text": "фунтов",
+          "lemma": "фунт",
+          "morph": "Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    }
+  },
+  {
+    "en": {
+      "sentence": "The police are looking for him, too.\""
+    },
+    "ru": {
+      "sentence": "Полиция тоже его ищет\".",
+      "audio": "en-0.translated.json.audio\\63.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Полиция",
+          "lemma": "полиция",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "тоже",
+          "lemma": "тоже",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "его",
+          "lemma": "его",
+          "morph": "Case=Acc|Gender=Masc|Number=Sing|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": "ищет",
+          "lemma": "искать",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "\"",
+          "lemma": "\"",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    }
+  },
+  {
+    "en": {
+      "sentence": "\"But is that the man in my photo?\" asks Pam."
+    },
+    "ru": {
+      "sentence": "\"Но это тот человек на моей фотографии?\" - спрашивает Пэм.",
+      "audio": "en-0.translated.json.audio\\64.ogg",
+      "spacy_tokens": [
+        {
+          "text": "\"",
+          "lemma": "\"",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "Но",
+          "lemma": "но",
+          "morph": "",
+          "pos": "CCONJ"
+        },
+        {
+          "text": "это",
+          "lemma": "это",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing",
+          "pos": "PRON"
+        },
+        {
+          "text": "тот",
+          "lemma": "тот",
+          "morph": "Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "DET"
+        },
+        {
+          "text": "человек",
+          "lemma": "человек",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "на",
+          "lemma": "на",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "моей",
+          "lemma": "мой",
+          "morph": "Case=Loc|Gender=Fem|Number=Sing",
+          "pos": "DET"
+        },
+        {
+          "text": "фотографии",
+          "lemma": "фотография",
+          "morph": "Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "?",
+          "lemma": "?",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "\"",
+          "lemma": "\"",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "-",
+          "lemma": "-",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "спрашивает",
+          "lemma": "спрашивать",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "Пэм",
+          "lemma": "пэм",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    }
+  },
+  {
+    "en": {
+      "sentence": "\"He hasn't got a beard and he hasn't any hair.\""
+    },
+    "ru": {
+      "sentence": "\"У него нет бороды и волос\".",
+      "audio": "en-0.translated.json.audio\\65.ogg",
+      "spacy_tokens": [
+        {
+          "text": "\"",
+          "lemma": "\"",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "У",
+          "lemma": "у",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "него",
+          "lemma": "него",
+          "morph": "Case=Gen|Gender=Masc|Number=Sing|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": "нет",
+          "lemma": "нет",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "бороды",
+          "lemma": "борода",
+          "morph": "Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "и",
+          "lemma": "и",
+          "morph": "",
+          "pos": "CCONJ"
+        },
+        {
+          "text": "волос",
+          "lemma": "волос",
+          "morph": "Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur",
+          "pos": "NOUN"
+        },
+        {
+          "text": "\"",
+          "lemma": "\"",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    }
+  },
+  {
+    "en": {
+      "sentence": "\"Look at his ears."
+    },
+    "ru": {
+      "sentence": "\"Посмотрите на его уши.",
+      "audio": "en-0.translated.json.audio\\66.ogg",
+      "spacy_tokens": [
+        {
+          "text": "\"",
+          "lemma": "\"",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "Посмотрите",
+          "lemma": "посмотреть",
+          "morph": "Aspect=Perf|Mood=Imp|Number=Plur|Person=Second|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "на",
+          "lemma": "на",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "его",
+          "lemma": "его",
+          "morph": "",
+          "pos": "DET"
+        },
+        {
+          "text": "уши",
+          "lemma": "ухо",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    }
+  },
+  {
+    "en": {
+      "sentence": "Look at his nose,\" says Martin."
+    },
+    "ru": {
+      "sentence": "Посмотрите на его нос\", - говорит Мартин.",
+      "audio": "en-0.translated.json.audio\\67.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Посмотрите",
+          "lemma": "посмотреть",
+          "morph": "Aspect=Perf|Mood=Imp|Number=Plur|Person=Second|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "на",
+          "lemma": "на",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "его",
+          "lemma": "его",
+          "morph": "",
+          "pos": "DET"
+        },
+        {
+          "text": "нос",
+          "lemma": "нос",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "\"",
+          "lemma": "\"",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "-",
+          "lemma": "-",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "говорит",
+          "lemma": "говорить",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "Мартин",
+          "lemma": "мартин",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    }
+  },
+  {
+    "en": {
+      "sentence": "\"It's him."
+    },
+    "ru": {
+      "sentence": "\"Это он.",
+      "audio": "en-0.translated.json.audio\\68.ogg",
+      "spacy_tokens": [
+        {
+          "text": "\"",
+          "lemma": "\"",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "Это",
+          "lemma": "это",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing",
+          "pos": "PRON"
+        },
+        {
+          "text": "он",
+          "lemma": "он",
+          "morph": "Case=Nom|Gender=Masc|Number=Sing|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    }
+  },
+  {
+    "en": {
+      "sentence": "I know it is.\""
+    },
+    "ru": {
+      "sentence": "Я знаю, что это он\".",
+      "audio": "en-0.translated.json.audio\\69.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Я",
+          "lemma": "я",
+          "morph": "Case=Nom|Number=Sing|Person=First",
+          "pos": "PRON"
+        },
+        {
+          "text": "знаю",
+          "lemma": "знать",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=First|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "что",
+          "lemma": "что",
+          "morph": "",
+          "pos": "SCONJ"
+        },
+        {
+          "text": "это",
+          "lemma": "это",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing",
+          "pos": "PRON"
+        },
+        {
+          "text": "он",
+          "lemma": "он",
+          "morph": "Case=Nom|Gender=Masc|Number=Sing|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": "\"",
+          "lemma": "\"",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    }
+  },
+  {
+    "en": {
+      "sentence": "Martin has an idea."
+    },
+    "ru": {
+      "sentence": "У Мартина появляется идея.",
+      "audio": "en-0.translated.json.audio\\70.ogg",
+      "spacy_tokens": [
+        {
+          "text": "У",
+          "lemma": "у",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "Мартина",
+          "lemma": "мартин",
+          "morph": "Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": "появляется",
+          "lemma": "появляться",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Mid",
+          "pos": "VERB"
+        },
+        {
+          "text": "идея",
+          "lemma": "идея",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    }
+  },
+  {
+    "en": {
+      "sentence": "He takes a pencil and starts to draw on the newspaper."
+    },
+    "ru": {
+      "sentence": "Он берет карандаш и начинает рисовать на газете.",
+      "audio": "en-0.translated.json.audio\\71.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Он",
+          "lemma": "он",
+          "morph": "Case=Nom|Gender=Masc|Number=Sing|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": "берет",
+          "lemma": "брать",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "карандаш",
+          "lemma": "карандаш",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "и",
+          "lemma": "и",
+          "morph": "",
+          "pos": "CCONJ"
+        },
+        {
+          "text": "начинает",
+          "lemma": "начинать",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "рисовать",
+          "lemma": "рисовать",
+          "morph": "Aspect=Imp|VerbForm=Inf|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "на",
+          "lemma": "на",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "газете",
+          "lemma": "газета",
+          "morph": "Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    }
+  },
+  {
+    "en": {
+      "sentence": "\"What are you doing?\" asks Pam."
+    },
+    "ru": {
+      "sentence": "\"Что ты делаешь?\" - спрашивает Пэм.",
+      "audio": "en-0.translated.json.audio\\72.ogg",
+      "spacy_tokens": [
+        {
+          "text": "\"",
+          "lemma": "\"",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "Что",
+          "lemma": "что",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing",
+          "pos": "PRON"
+        },
+        {
+          "text": "ты",
+          "lemma": "ты",
+          "morph": "Case=Nom|Number=Sing|Person=Second",
+          "pos": "PRON"
+        },
+        {
+          "text": "делаешь",
+          "lemma": "делать",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Second|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "?",
+          "lemma": "?",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "\"",
+          "lemma": "\"",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "-",
+          "lemma": "-",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "спрашивает",
+          "lemma": "спрашивать",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "Пэм",
+          "lemma": "пэм",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    }
+  },
+  {
+    "en": {
+      "sentence": "\"Look,\" says Martin."
+    },
+    "ru": {
+      "sentence": "\"Смотри\", - говорит Мартин.",
+      "audio": "en-0.translated.json.audio\\73.ogg",
+      "spacy_tokens": [
+        {
+          "text": "\"",
+          "lemma": "\"",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "Смотри",
+          "lemma": "смотри",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "\"",
+          "lemma": "\"",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "-",
+          "lemma": "-",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "говорит",
+          "lemma": "говорить",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "Мартин",
+          "lemma": "мартин",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    }
+  },
+  {
+    "en": {
+      "sentence": "\"I'm putting dark glasses and a two-day beard on the man in this photo."
+    },
+    "ru": {
+      "sentence": "\"Я надел на мужчину на этой фотографии темные очки и двухдневную бороду.",
+      "audio": "en-0.translated.json.audio\\74.ogg",
+      "spacy_tokens": [
+        {
+          "text": "\"",
+          "lemma": "\"",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "Я",
+          "lemma": "я",
+          "morph": "Case=Nom|Number=Sing|Person=First",
+          "pos": "PRON"
+        },
+        {
+          "text": "надел",
+          "lemma": "надеть",
+          "morph": "Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "на",
+          "lemma": "на",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "мужчину",
+          "lemma": "мужчина",
+          "morph": "Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "на",
+          "lemma": "на",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "этой",
+          "lemma": "этот",
+          "morph": "Case=Loc|Gender=Fem|Number=Sing",
+          "pos": "DET"
+        },
+        {
+          "text": "фотографии",
+          "lemma": "фотография",
+          "morph": "Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "темные",
+          "lemma": "тёмный",
+          "morph": "Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur",
+          "pos": "ADJ"
+        },
+        {
+          "text": "очки",
+          "lemma": "очки",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur",
+          "pos": "NOUN"
+        },
+        {
+          "text": "и",
+          "lemma": "и",
+          "morph": "",
+          "pos": "CCONJ"
+        },
+        {
+          "text": "двухдневную",
+          "lemma": "двухдневный",
+          "morph": "Case=Acc|Degree=Pos|Gender=Fem|Number=Sing",
+          "pos": "ADJ"
+        },
+        {
+          "text": "бороду",
+          "lemma": "борода",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    }
+  },
+  {
+    "en": {
+      "sentence": "Now I'm drawing a hat on his head."
+    },
+    "ru": {
+      "sentence": "А теперь я рисую шляпу на его голове.",
+      "audio": "en-0.translated.json.audio\\75.ogg",
+      "spacy_tokens": [
+        {
+          "text": "А",
+          "lemma": "а",
+          "morph": "",
+          "pos": "CCONJ"
+        },
+        {
+          "text": "теперь",
+          "lemma": "теперь",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "я",
+          "lemma": "я",
+          "morph": "Case=Nom|Number=Sing|Person=First",
+          "pos": "PRON"
+        },
+        {
+          "text": "рисую",
+          "lemma": "рисовать",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=First|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "шляпу",
+          "lemma": "шляпа",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "на",
+          "lemma": "на",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "его",
+          "lemma": "его",
+          "morph": "",
+          "pos": "DET"
+        },
+        {
+          "text": "голове",
+          "lemma": "голова",
+          "morph": "Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    }
+  },
+  {
+    "en": {
+      "sentence": "See?"
+    },
+    "ru": {
+      "sentence": "Видишь?",
+      "audio": "en-0.translated.json.audio\\76.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Видишь",
+          "lemma": "видеть",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Second|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "?",
+          "lemma": "?",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    }
+  },
+  {
+    "en": {
+      "sentence": "Now look at the two pictures.\""
+    },
+    "ru": {
+      "sentence": "А теперь посмотрите на эти две фотографии\".",
+      "audio": "en-0.translated.json.audio\\77.ogg",
+      "spacy_tokens": [
+        {
+          "text": "А",
+          "lemma": "а",
+          "morph": "",
+          "pos": "CCONJ"
+        },
+        {
+          "text": "теперь",
+          "lemma": "теперь",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "посмотрите",
+          "lemma": "посмотреть",
+          "morph": "Aspect=Perf|Mood=Imp|Number=Plur|Person=Second|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "на",
+          "lemma": "на",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "эти",
+          "lemma": "этот",
+          "morph": "Animacy=Inan|Case=Acc|Number=Plur",
+          "pos": "DET"
+        },
+        {
+          "text": "две",
+          "lemma": "два",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Fem",
+          "pos": "NUM"
+        },
+        {
+          "text": "фотографии",
+          "lemma": "фотография",
+          "morph": "Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "\"",
+          "lemma": "\"",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    }
+  },
+  {
+    "en": {
+      "sentence": "\"You're right,\" says Pam."
+    },
+    "ru": {
+      "sentence": "\"Ты прав\", - говорит Пэм.",
+      "audio": "en-0.translated.json.audio\\78.ogg",
+      "spacy_tokens": [
+        {
+          "text": "\"",
+          "lemma": "\"",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "Ты",
+          "lemma": "ты",
+          "morph": "Case=Nom|Number=Sing|Person=Second",
+          "pos": "PRON"
+        },
+        {
+          "text": "прав",
+          "lemma": "правый",
+          "morph": "Degree=Pos|Gender=Masc|Number=Sing|StyleVariant=Short",
+          "pos": "ADJ"
+        },
+        {
+          "text": "\"",
+          "lemma": "\"",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "-",
+          "lemma": "-",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "говорит",
+          "lemma": "говорить",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "Пэм",
+          "lemma": "пэм",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    }
+  },
+  {
+    "en": {
+      "sentence": "\"It's him."
+    },
+    "ru": {
+      "sentence": "\"Это он.",
+      "audio": "en-0.translated.json.audio\\79.ogg",
+      "spacy_tokens": [
+        {
+          "text": "\"",
+          "lemma": "\"",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "Это",
+          "lemma": "это",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing",
+          "pos": "PRON"
+        },
+        {
+          "text": "он",
+          "lemma": "он",
+          "morph": "Case=Nom|Gender=Masc|Number=Sing|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    }
+  },
+  {
+    "en": {
+      "sentence": "It's Alan Rook.\""
+    },
+    "ru": {
+      "sentence": "Это Алан Рук\".",
+      "audio": "en-0.translated.json.audio\\80.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Это",
+          "lemma": "это",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing",
+          "pos": "PRON"
+        },
+        {
+          "text": "Алан",
+          "lemma": "алан",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": "Рук",
+          "lemma": "рук",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": "\"",
+          "lemma": "\"",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    }
+  },
+  {
+    "en": {
+      "sentence": "\"Come on,\" says Martin."
+    },
+    "ru": {
+      "sentence": "\"Пойдем\", - говорит Мартин.",
+      "audio": "en-0.translated.json.audio\\81.ogg",
+      "spacy_tokens": [
+        {
+          "text": "\"",
+          "lemma": "\"",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "Пойдем",
+          "lemma": "пойдем",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "\"",
+          "lemma": "\"",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "-",
+          "lemma": "-",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "говорит",
+          "lemma": "говорить",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "Мартин",
+          "lemma": "мартин",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    }
+  },
+  {
+    "en": {
+      "sentence": "\"Let's take these pictures to the police.\""
+    },
+    "ru": {
+      "sentence": "\"Давай отнесем эти фотографии в полицию\".",
+      "audio": "en-0.translated.json.audio\\82.ogg",
+      "spacy_tokens": [
+        {
+          "text": "\"",
+          "lemma": "\"",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "Давай",
+          "lemma": "давать",
+          "morph": "Aspect=Imp|Mood=Imp|Number=Sing|Person=Second|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "отнесем",
+          "lemma": "отнести",
+          "morph": "Aspect=Perf|Mood=Ind|Number=Plur|Person=First|Tense=Fut|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "эти",
+          "lemma": "этот",
+          "morph": "Animacy=Inan|Case=Acc|Number=Plur",
+          "pos": "DET"
+        },
+        {
+          "text": "фотографии",
+          "lemma": "фотография",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur",
+          "pos": "NOUN"
+        },
+        {
+          "text": "в",
+          "lemma": "в",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "полицию",
+          "lemma": "полиция",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "\"",
+          "lemma": "\"",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    }
+  },
+  {
+    "en": {
+      "sentence": "At the police station Pam and Martin, speak to a policeman."
+    },
+    "ru": {
+      "sentence": "В полицейском участке Пэм и Мартин разговаривают с полицейским.",
+      "audio": "en-0.translated.json.audio\\83.ogg",
+      "spacy_tokens": [
+        {
+          "text": "В",
+          "lemma": "в",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "полицейском",
+          "lemma": "полицейский",
+          "morph": "Case=Loc|Degree=Pos|Gender=Masc|Number=Sing",
+          "pos": "ADJ"
+        },
+        {
+          "text": "участке",
+          "lemma": "участок",
+          "morph": "Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "Пэм",
+          "lemma": "пэм",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": "и",
+          "lemma": "и",
+          "morph": "",
+          "pos": "CCONJ"
+        },
+        {
+          "text": "Мартин",
+          "lemma": "мартин",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": "разговаривают",
+          "lemma": "разговаривать",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Plur|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "с",
+          "lemma": "с",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "полицейским",
+          "lemma": "полицейский",
+          "morph": "Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    }
+  },
+  {
+    "en": {
+      "sentence": "They put Pam's photo and the newspaper on the table and they tell their story."
+    },
+    "ru": {
+      "sentence": "Они кладут на стол фотографию Пэм и газету и рассказывают свою историю.",
+      "audio": "en-0.translated.json.audio\\84.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Они",
+          "lemma": "они",
+          "morph": "Case=Nom|Number=Plur|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": "кладут",
+          "lemma": "класть",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Plur|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "на",
+          "lemma": "на",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "стол",
+          "lemma": "стол",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "фотографию",
+          "lemma": "фотография",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "Пэм",
+          "lemma": "пэм",
+          "morph": "Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": "и",
+          "lemma": "и",
+          "morph": "",
+          "pos": "CCONJ"
+        },
+        {
+          "text": "газету",
+          "lemma": "газета",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "и",
+          "lemma": "и",
+          "morph": "",
+          "pos": "CCONJ"
+        },
+        {
+          "text": "рассказывают",
+          "lemma": "рассказывать",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Plur|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "свою",
+          "lemma": "свой",
+          "morph": "Case=Acc|Gender=Fem|Number=Sing",
+          "pos": "DET"
+        },
+        {
+          "text": "историю",
+          "lemma": "история",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    }
+  },
+  {
+    "en": {
+      "sentence": "\"That's Alan Rook,\" says the policeman, \"In Cambridge at 5 o'clock on Saturday."
+    },
+    "ru": {
+      "sentence": "\"Это Алан Рук, - говорит полицейский, - в Кембридже в 5 часов в субботу.",
+      "audio": "en-0.translated.json.audio\\85.ogg",
+      "spacy_tokens": [
+        {
+          "text": "\"",
+          "lemma": "\"",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "Это",
+          "lemma": "это",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing",
+          "pos": "PRON"
+        },
+        {
+          "text": "Алан",
+          "lemma": "алан",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": "Рук",
+          "lemma": "рук",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "-",
+          "lemma": "-",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "говорит",
+          "lemma": "говорить",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "полицейский",
+          "lemma": "полицейский",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "-",
+          "lemma": "-",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "в",
+          "lemma": "в",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "Кембридже",
+          "lemma": "кембридж",
+          "morph": "Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": "в",
+          "lemma": "в",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "5",
+          "lemma": "5",
+          "morph": "",
+          "pos": "NUM"
+        },
+        {
+          "text": "часов",
+          "lemma": "час",
+          "morph": "Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur",
+          "pos": "NOUN"
+        },
+        {
+          "text": "в",
+          "lemma": "в",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "субботу",
+          "lemma": "суббота",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    }
+  },
+  {
+    "en": {
+      "sentence": "The big question is - where is he now?\""
+    },
+    "ru": {
+      "sentence": "Главный вопрос - где он сейчас?\".",
+      "audio": "en-0.translated.json.audio\\86.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Главный",
+          "lemma": "главный",
+          "morph": "Case=Nom|Degree=Pos|Gender=Masc|Number=Sing",
+          "pos": "ADJ"
+        },
+        {
+          "text": "вопрос",
+          "lemma": "вопрос",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "-",
+          "lemma": "-",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "где",
+          "lemma": "где",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "он",
+          "lemma": "он",
+          "morph": "Case=Nom|Gender=Masc|Number=Sing|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": "сейчас",
+          "lemma": "сейчас",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "?",
+          "lemma": "?",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "\"",
+          "lemma": "\"",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    }
+  },
+  {
+    "en": {
+      "sentence": "\"We think we know."
+    },
+    "ru": {
+      "sentence": "\"Мы думаем, что знаем.",
+      "audio": "en-0.translated.json.audio\\87.ogg",
+      "spacy_tokens": [
+        {
+          "text": "\"",
+          "lemma": "\"",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "Мы",
+          "lemma": "мы",
+          "morph": "Case=Nom|Number=Plur|Person=First",
+          "pos": "PRON"
+        },
+        {
+          "text": "думаем",
+          "lemma": "думать",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Plur|Person=First|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "что",
+          "lemma": "что",
+          "morph": "",
+          "pos": "SCONJ"
+        },
+        {
+          "text": "знаем",
+          "lemma": "знать",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Plur|Person=First|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    }
+  },
+  {
+    "en": {
+      "sentence": "He's in Scotland, in Aberdeen,\" says Pam, \"Or he's near there.\""
+    },
+    "ru": {
+      "sentence": "Он в Шотландии, в Абердине, - говорит Пэм, - или недалеко от него\".",
+      "audio": "en-0.translated.json.audio\\88.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Он",
+          "lemma": "он",
+          "morph": "Case=Nom|Gender=Masc|Number=Sing|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": "в",
+          "lemma": "в",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "Шотландии",
+          "lemma": "шотландия",
+          "morph": "Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "в",
+          "lemma": "в",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "Абердине",
+          "lemma": "абердин",
+          "morph": "Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "-",
+          "lemma": "-",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "говорит",
+          "lemma": "говорить",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "Пэм",
+          "lemma": "пэм",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "-",
+          "lemma": "-",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "или",
+          "lemma": "или",
+          "morph": "",
+          "pos": "CCONJ"
+        },
+        {
+          "text": "недалеко",
+          "lemma": "недалеко",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "от",
+          "lemma": "от",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "него",
+          "lemma": "него",
+          "morph": "Case=Gen|Gender=Masc|Number=Sing|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": "\"",
+          "lemma": "\"",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    }
+  },
+  {
+    "en": {
+      "sentence": "They tell the policeman about the man and the bus to Aberdeen."
+    },
+    "ru": {
+      "sentence": "Они рассказывают полицейскому о мужчине и автобусе до Абердина.",
+      "audio": "en-0.translated.json.audio\\89.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Они",
+          "lemma": "они",
+          "morph": "Case=Nom|Number=Plur|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": "рассказывают",
+          "lemma": "рассказывать",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Plur|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "полицейскому",
+          "lemma": "полицейский",
+          "morph": "Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "о",
+          "lemma": "о",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "мужчине",
+          "lemma": "мужчина",
+          "morph": "Animacy=Anim|Case=Loc|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "и",
+          "lemma": "и",
+          "morph": "",
+          "pos": "CCONJ"
+        },
+        {
+          "text": "автобусе",
+          "lemma": "автобус",
+          "morph": "Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "до",
+          "lemma": "до",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "Абердина",
+          "lemma": "абердин",
+          "morph": "Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    }
+  },
+  {
+    "en": {
+      "sentence": "\"He's got a rucksack and a tent on his back in the photo,\" says the policeman."
+    },
+    "ru": {
+      "sentence": "\"На фотографии у него рюкзак и палатка на спине\", - говорит полицейский.",
+      "audio": "en-0.translated.json.audio\\90.ogg",
+      "spacy_tokens": [
+        {
+          "text": "\"",
+          "lemma": "\"",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "На",
+          "lemma": "на",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "фотографии",
+          "lemma": "фотография",
+          "morph": "Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "у",
+          "lemma": "у",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "него",
+          "lemma": "него",
+          "morph": "Case=Gen|Gender=Masc|Number=Sing|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": "рюкзак",
+          "lemma": "рюкзак",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "и",
+          "lemma": "и",
+          "morph": "",
+          "pos": "CCONJ"
+        },
+        {
+          "text": "палатка",
+          "lemma": "палатка",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "на",
+          "lemma": "на",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "спине",
+          "lemma": "спина",
+          "morph": "Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "\"",
+          "lemma": "\"",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "-",
+          "lemma": "-",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "говорит",
+          "lemma": "говорить",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "полицейский",
+          "lemma": "полицейский",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    }
+  },
+  {
+    "en": {
+      "sentence": "\"He Isn't living in a hotel."
+    },
+    "ru": {
+      "sentence": "\"Он не живет в отеле.",
+      "audio": "en-0.translated.json.audio\\91.ogg",
+      "spacy_tokens": [
+        {
+          "text": "\"",
+          "lemma": "\"",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "Он",
+          "lemma": "он",
+          "morph": "Case=Nom|Gender=Masc|Number=Sing|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": "не",
+          "lemma": "не",
+          "morph": "Polarity=Neg",
+          "pos": "PART"
+        },
+        {
+          "text": "живет",
+          "lemma": "жить",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "в",
+          "lemma": "в",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "отеле",
+          "lemma": "отель",
+          "morph": "Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    }
+  },
+  {
+    "en": {
+      "sentence": "He's camping."
+    },
+    "ru": {
+      "sentence": "Он живет в кемпинге.",
+      "audio": "en-0.translated.json.audio\\92.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Он",
+          "lemma": "он",
+          "morph": "Case=Nom|Gender=Masc|Number=Sing|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": "живет",
+          "lemma": "жить",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "в",
+          "lemma": "в",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "кемпинге",
+          "lemma": "кемпинг",
+          "morph": "Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    }
+  },
+  {
+    "en": {
+      "sentence": "If we're lucky, he's still in Scotland."
+    },
+    "ru": {
+      "sentence": "Если нам повезет, он все еще в Шотландии.",
+      "audio": "en-0.translated.json.audio\\93.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Если",
+          "lemma": "если",
+          "morph": "",
+          "pos": "SCONJ"
+        },
+        {
+          "text": "нам",
+          "lemma": "нам",
+          "morph": "Case=Dat|Number=Plur|Person=First",
+          "pos": "PRON"
+        },
+        {
+          "text": "повезет",
+          "lemma": "повезти",
+          "morph": "Aspect=Perf|Mood=Ind|Number=Sing|Person=Third|Tense=Fut|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "он",
+          "lemma": "он",
+          "morph": "Case=Nom|Gender=Masc|Number=Sing|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": "все",
+          "lemma": "все",
+          "morph": "",
+          "pos": "PART"
+        },
+        {
+          "text": "еще",
+          "lemma": "еще",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "в",
+          "lemma": "в",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "Шотландии",
+          "lemma": "шотландия",
+          "morph": "Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    }
+  },
+  {
+    "en": {
+      "sentence": "I must make a telephone call.\""
+    },
+    "ru": {
+      "sentence": "Я должен позвонить\".",
+      "audio": "en-0.translated.json.audio\\94.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Я",
+          "lemma": "я",
+          "morph": "Case=Nom|Number=Sing|Person=First",
+          "pos": "PRON"
+        },
+        {
+          "text": "должен",
+          "lemma": "должный",
+          "morph": "Degree=Pos|Gender=Masc|Number=Sing|StyleVariant=Short",
+          "pos": "ADJ"
+        },
+        {
+          "text": "позвонить",
+          "lemma": "позвонить",
+          "morph": "Aspect=Perf|VerbForm=Inf|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "\"",
+          "lemma": "\"",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    }
+  },
+  {
+    "en": {
+      "sentence": "The policeman telephones the police station in Aberdeen."
+    },
+    "ru": {
+      "sentence": "Полицейский звонит в полицейский участок в Абердине.",
+      "audio": "en-0.translated.json.audio\\95.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Полицейский",
+          "lemma": "полицейский",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "звонит",
+          "lemma": "звонить",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "в",
+          "lemma": "в",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "полицейский",
+          "lemma": "полицейский",
+          "morph": "Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing",
+          "pos": "ADJ"
+        },
+        {
+          "text": "участок",
+          "lemma": "участок",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "в",
+          "lemma": "в",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "Абердине",
+          "lemma": "абердин",
+          "morph": "Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    }
+  },
+  {
+    "en": {
+      "sentence": "\"Alan Rook's in Scotland,\" he says."
+    },
+    "ru": {
+      "sentence": "\"Алан Рук в Шотландии\", - говорит он.",
+      "audio": "en-0.translated.json.audio\\96.ogg",
+      "spacy_tokens": [
+        {
+          "text": "\"",
+          "lemma": "\"",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "Алан",
+          "lemma": "алан",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": "Рук",
+          "lemma": "рук",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": "в",
+          "lemma": "в",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "Шотландии",
+          "lemma": "шотландия",
+          "morph": "Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": "\"",
+          "lemma": "\"",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "-",
+          "lemma": "-",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "говорит",
+          "lemma": "говорить",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "он",
+          "lemma": "он",
+          "morph": "Case=Nom|Gender=Masc|Number=Sing|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    }
+  },
+  {
+    "en": {
+      "sentence": "\"We think he's camping near Aberdeen."
+    },
+    "ru": {
+      "sentence": "\"Мы думаем, что он разбил лагерь недалеко от Абердина.",
+      "audio": "en-0.translated.json.audio\\97.ogg",
+      "spacy_tokens": [
+        {
+          "text": "\"",
+          "lemma": "\"",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "Мы",
+          "lemma": "мы",
+          "morph": "Case=Nom|Number=Plur|Person=First",
+          "pos": "PRON"
+        },
+        {
+          "text": "думаем",
+          "lemma": "думать",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Plur|Person=First|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "что",
+          "lemma": "что",
+          "morph": "",
+          "pos": "SCONJ"
+        },
+        {
+          "text": "он",
+          "lemma": "он",
+          "morph": "Case=Nom|Gender=Masc|Number=Sing|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": "разбил",
+          "lemma": "разбить",
+          "morph": "Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "лагерь",
+          "lemma": "лагерь",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "недалеко",
+          "lemma": "недалеко",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "от",
+          "lemma": "от",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "Абердина",
+          "lemma": "абердин",
+          "morph": "Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    }
+  },
+  {
+    "en": {
+      "sentence": "He's got a short beard now,\" The next day the police in Aberdeen find Alan Rook in a tent in the mountains near Aberdeen."
+    },
+    "ru": {
+      "sentence": "У него теперь короткая борода\". На следующий день полиция в Абердине находит Алана Рука в палатке в горах недалеко от Абердина.",
+      "audio": "en-0.translated.json.audio\\98.ogg",
+      "spacy_tokens": [
+        {
+          "text": "У",
+          "lemma": "у",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "него",
+          "lemma": "него",
+          "morph": "Case=Gen|Gender=Masc|Number=Sing|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": "теперь",
+          "lemma": "теперь",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "короткая",
+          "lemma": "короткий",
+          "morph": "Case=Nom|Degree=Pos|Gender=Fem|Number=Sing",
+          "pos": "ADJ"
+        },
+        {
+          "text": "борода",
+          "lemma": "борода",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "\"",
+          "lemma": "\"",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "На",
+          "lemma": "на",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "следующий",
+          "lemma": "следующий",
+          "morph": "Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing",
+          "pos": "ADJ"
+        },
+        {
+          "text": "день",
+          "lemma": "день",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "полиция",
+          "lemma": "полиция",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "в",
+          "lemma": "в",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "Абердине",
+          "lemma": "абердин",
+          "morph": "Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": "находит",
+          "lemma": "находить",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "Алана",
+          "lemma": "алан",
+          "morph": "Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": "Рука",
+          "lemma": "рука",
+          "morph": "Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": "в",
+          "lemma": "в",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "палатке",
+          "lemma": "палатка",
+          "morph": "Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "в",
+          "lemma": "в",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "горах",
+          "lemma": "гора",
+          "morph": "Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur",
+          "pos": "NOUN"
+        },
+        {
+          "text": "недалеко",
+          "lemma": "недалеко",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "от",
+          "lemma": "от",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "Абердина",
+          "lemma": "абердин",
+          "morph": "Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    }
+  },
+  {
+    "en": {
+      "sentence": "The money from the bank is in his rucksack."
+    },
+    "ru": {
+      "sentence": "Деньги из банка находятся в его рюкзаке.",
+      "audio": "en-0.translated.json.audio\\99.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Деньги",
+          "lemma": "деньга",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur",
+          "pos": "NOUN"
+        },
+        {
+          "text": "из",
+          "lemma": "из",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "банка",
+          "lemma": "банк",
+          "morph": "Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "находятся",
+          "lemma": "находиться",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Plur|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Mid",
+          "pos": "VERB"
+        },
+        {
+          "text": "в",
+          "lemma": "в",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "его",
+          "lemma": "его",
+          "morph": "",
+          "pos": "DET"
+        },
+        {
+          "text": "рюкзаке",
+          "lemma": "рюкзак",
+          "morph": "Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    }
+  },
+  {
+    "en": {
+      "sentence": "The next morning Pam and Martin's story is in all the newspapers."
+    },
+    "ru": {
+      "sentence": "На следующее утро история Пэм и Мартина попадает во все газеты.",
+      "audio": "en-0.translated.json.audio\\100.ogg",
+      "spacy_tokens": [
+        {
+          "text": "На",
+          "lemma": "на",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "следующее",
+          "lemma": "следующий",
+          "morph": "Animacy=Inan|Case=Acc|Degree=Pos|Gender=Neut|Number=Sing",
+          "pos": "ADJ"
+        },
+        {
+          "text": "утро",
+          "lemma": "утро",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "история",
+          "lemma": "история",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "Пэм",
+          "lemma": "пэм",
+          "morph": "Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": "и",
+          "lemma": "и",
+          "morph": "",
+          "pos": "CCONJ"
+        },
+        {
+          "text": "Мартина",
+          "lemma": "мартин",
+          "morph": "Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": "попадает",
+          "lemma": "попадать",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "во",
+          "lemma": "во",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "все",
+          "lemma": "весь",
+          "morph": "Animacy=Inan|Case=Acc|Number=Plur",
+          "pos": "DET"
+        },
+        {
+          "text": "газеты",
+          "lemma": "газета",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    }
+  },
+  {
+    "en": {
+      "sentence": "There is Pam's photo of Alan Rook at the bus station."
+    },
+    "ru": {
+      "sentence": "Есть фотография Пэм с Аланом Руком на автобусной станции.",
+      "audio": "en-0.translated.json.audio\\101.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Есть",
+          "lemma": "быть",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "фотография",
+          "lemma": "фотография",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "Пэм",
+          "lemma": "пэм",
+          "morph": "Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": "с",
+          "lemma": "с",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "Аланом",
+          "lemma": "алан",
+          "morph": "Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": "Руком",
+          "lemma": "руком",
+          "morph": "Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": "на",
+          "lemma": "на",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "автобусной",
+          "lemma": "автобусный",
+          "morph": "Case=Loc|Degree=Pos|Gender=Fem|Number=Sing",
+          "pos": "ADJ"
+        },
+        {
+          "text": "станции",
+          "lemma": "станция",
+          "morph": "Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    }
+  },
+  {
+    "en": {
+      "sentence": "There is a picture of Martin and Pam, too."
+    },
+    "ru": {
+      "sentence": "Есть и фотография Мартина и Пэм.",
+      "audio": "en-0.translated.json.audio\\102.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Есть",
+          "lemma": "быть",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "и",
+          "lemma": "и",
+          "morph": "",
+          "pos": "PART"
+        },
+        {
+          "text": "фотография",
+          "lemma": "фотография",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "Мартина",
+          "lemma": "мартин",
+          "morph": "Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": "и",
+          "lemma": "и",
+          "morph": "",
+          "pos": "CCONJ"
+        },
+        {
+          "text": "Пэм",
+          "lemma": "пэм",
+          "morph": "Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    }
+  },
+  {
+    "en": {
+      "sentence": "In the newspaper, it says:"
+    },
+    "ru": {
+      "sentence": "В газете написано:",
+      "audio": "en-0.translated.json.audio\\103.ogg",
+      "spacy_tokens": [
+        {
+          "text": "В",
+          "lemma": "в",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "газете",
+          "lemma": "газета",
+          "morph": "Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "написано",
+          "lemma": "написать",
+          "morph": "Aspect=Perf|Gender=Neut|Number=Sing|StyleVariant=Short|Tense=Past|VerbForm=Part|Voice=Pass",
+          "pos": "VERB"
+        },
+        {
+          "text": ":",
+          "lemma": ":",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    }
+  },
+  {
+    "en": {
+      "sentence": "CAMERA GIRL GETS PHOTO OF ROOK POLICE IN ABERDEEN FIND BANK MONEY"
+    },
+    "ru": {
+      "sentence": "ДЕВУШКА С ФОТОАППАРАТОМ ПОЛУЧИЛА ФОТОГРАФИЮ РУКА ПОЛИЦИЯ АБЕРДИНА НАШЛА ДЕНЬГИ БАНКА",
+      "audio": "en-0.translated.json.audio\\104.ogg",
+      "spacy_tokens": [
+        {
+          "text": "ДЕВУШКА",
+          "lemma": "девушка",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "С",
+          "lemma": "с",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "ФОТОАППАРАТОМ",
+          "lemma": "фотоаппарат",
+          "morph": "Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": "ПОЛУЧИЛА",
+          "lemma": "получила",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": "ФОТОГРАФИЮ",
+          "lemma": "фотографию",
+          "morph": "Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": "РУКА",
+          "lemma": "рука",
+          "morph": "Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": "ПОЛИЦИЯ",
+          "lemma": "полиция",
+          "morph": "Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": "АБЕРДИНА",
+          "lemma": "абердин",
+          "morph": "Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": "НАШЛА",
+          "lemma": "нашла",
+          "morph": "Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": "ДЕНЬГИ",
+          "lemma": "деньги",
+          "morph": "Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": "БАНКА",
+          "lemma": "банк",
+          "morph": "Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing",
+          "pos": "PROPN"
+        }
+      ]
+    }
+  },
+  {
+    "en": {
+      "sentence": "The people at the bank are very happy."
+    },
+    "ru": {
+      "sentence": "Люди в банке очень счастливы.",
+      "audio": "en-0.translated.json.audio\\105.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Люди",
+          "lemma": "человек",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur",
+          "pos": "NOUN"
+        },
+        {
+          "text": "в",
+          "lemma": "в",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "банке",
+          "lemma": "банк",
+          "morph": "Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "очень",
+          "lemma": "очень",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "счастливы",
+          "lemma": "счастливый",
+          "morph": "Degree=Pos|Number=Plur|StyleVariant=Short",
+          "pos": "ADJ"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    }
+  },
+  {
+    "en": {
+      "sentence": "They give Pam and Martin a thousand pounds."
+    },
+    "ru": {
+      "sentence": "Они дают Пэм и Мартину тысячу фунтов.",
+      "audio": "en-0.translated.json.audio\\106.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Они",
+          "lemma": "они",
+          "morph": "Case=Nom|Number=Plur|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": "дают",
+          "lemma": "давать",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Plur|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "Пэм",
+          "lemma": "пэм",
+          "morph": "Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": "и",
+          "lemma": "и",
+          "morph": "",
+          "pos": "CCONJ"
+        },
+        {
+          "text": "Мартину",
+          "lemma": "мартин",
+          "morph": "Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": "тысячу",
+          "lemma": "тысяча",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "фунтов",
+          "lemma": "фунт",
+          "morph": "Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    }
+  },
+  {
+    "en": {
+      "sentence": "\"My last photo's a good one after all,\" laughs Pam."
+    },
+    "ru": {
+      "sentence": "\"Моя последняя фотография все-таки удачная\", - смеется Пэм.",
+      "audio": "en-0.translated.json.audio\\107.ogg",
+      "spacy_tokens": [
+        {
+          "text": "\"",
+          "lemma": "\"",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "Моя",
+          "lemma": "мой",
+          "morph": "Case=Nom|Gender=Fem|Number=Sing",
+          "pos": "DET"
+        },
+        {
+          "text": "последняя",
+          "lemma": "последний",
+          "morph": "Case=Nom|Degree=Pos|Gender=Fem|Number=Sing",
+          "pos": "ADJ"
+        },
+        {
+          "text": "фотография",
+          "lemma": "фотография",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "все",
+          "lemma": "все",
+          "morph": "",
+          "pos": "PART"
+        },
+        {
+          "text": "-",
+          "lemma": "-",
+          "morph": "",
+          "pos": "PART"
+        },
+        {
+          "text": "таки",
+          "lemma": "таки",
+          "morph": "",
+          "pos": "PART"
+        },
+        {
+          "text": "удачная",
+          "lemma": "удачный",
+          "morph": "Case=Nom|Degree=Pos|Gender=Fem|Number=Sing",
+          "pos": "ADJ"
+        },
+        {
+          "text": "\"",
+          "lemma": "\"",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "-",
+          "lemma": "-",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "смеется",
+          "lemma": "смеяться",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Mid",
+          "pos": "VERB"
+        },
+        {
+          "text": "Пэм",
+          "lemma": "пэм",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    }
+  },
+  {
+    "en": {
+      "sentence": "\"Now I can buy a very good new camera.\""
+    },
+    "ru": {
+      "sentence": "\"Теперь я смогу купить очень хорошую новую камеру\".",
+      "audio": "en-0.translated.json.audio\\108.ogg",
+      "spacy_tokens": [
+        {
+          "text": "\"",
+          "lemma": "\"",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "Теперь",
+          "lemma": "теперь",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "я",
+          "lemma": "я",
+          "morph": "Case=Nom|Number=Sing|Person=First",
+          "pos": "PRON"
+        },
+        {
+          "text": "смогу",
+          "lemma": "смочь",
+          "morph": "Aspect=Perf|Mood=Ind|Number=Sing|Person=First|Tense=Fut|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "купить",
+          "lemma": "купить",
+          "morph": "Aspect=Perf|VerbForm=Inf|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "очень",
+          "lemma": "очень",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "хорошую",
+          "lemma": "хороший",
+          "morph": "Case=Acc|Degree=Pos|Gender=Fem|Number=Sing",
+          "pos": "ADJ"
+        },
+        {
+          "text": "новую",
+          "lemma": "новый",
+          "morph": "Case=Acc|Degree=Pos|Gender=Fem|Number=Sing",
+          "pos": "ADJ"
+        },
+        {
+          "text": "камеру",
+          "lemma": "камера",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "\"",
+          "lemma": "\"",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    }
+  }
+]
