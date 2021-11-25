@@ -1,0 +1,1617 @@
+[
+  {
+    "ru": {
+      "sentence": "В субботу утром мы ездили в магазин.",
+      "audio": "Покупки.translated.json.audio\\0.ogg",
+      "spacy_tokens": [
+        {
+          "text": "В",
+          "lemma": "в",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "субботу",
+          "lemma": "суббота",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "утром",
+          "lemma": "утро",
+          "morph": "Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "мы",
+          "lemma": "мы",
+          "morph": "Case=Nom|Number=Plur|Person=First",
+          "pos": "PRON"
+        },
+        {
+          "text": "ездили",
+          "lemma": "ездить",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "в",
+          "lemma": "в",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "магазин",
+          "lemma": "магазин",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "On Saturday morning we went to the store."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Мы часто ездим в магазин в субботу.",
+      "audio": "Покупки.translated.json.audio\\1.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Мы",
+          "lemma": "мы",
+          "morph": "Case=Nom|Number=Plur|Person=First",
+          "pos": "PRON"
+        },
+        {
+          "text": "часто",
+          "lemma": "часто",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "ездим",
+          "lemma": "ездить",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Plur|Person=First|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "в",
+          "lemma": "в",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "магазин",
+          "lemma": "магазин",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "в",
+          "lemma": "в",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "субботу",
+          "lemma": "суббота",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "We often go to the store on Saturday."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "В рабочие дни ходить в магазин тяжело: мы много работаем и очень устаём.",
+      "audio": "Покупки.translated.json.audio\\2.ogg",
+      "spacy_tokens": [
+        {
+          "text": "В",
+          "lemma": "в",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "рабочие",
+          "lemma": "рабочий",
+          "morph": "Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur",
+          "pos": "ADJ"
+        },
+        {
+          "text": "дни",
+          "lemma": "день",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur",
+          "pos": "NOUN"
+        },
+        {
+          "text": "ходить",
+          "lemma": "ходить",
+          "morph": "Aspect=Imp|VerbForm=Inf|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "в",
+          "lemma": "в",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "магазин",
+          "lemma": "магазин",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "тяжело",
+          "lemma": "тяжёлый",
+          "morph": "Degree=Pos|Gender=Neut|Number=Sing|StyleVariant=Short",
+          "pos": "ADJ"
+        },
+        {
+          "text": ":",
+          "lemma": ":",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "мы",
+          "lemma": "мы",
+          "morph": "Case=Nom|Number=Plur|Person=First",
+          "pos": "PRON"
+        },
+        {
+          "text": "много",
+          "lemma": "много",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "работаем",
+          "lemma": "работать",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Plur|Person=First|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "и",
+          "lemma": "и",
+          "morph": "",
+          "pos": "CCONJ"
+        },
+        {
+          "text": "очень",
+          "lemma": "очень",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "устаём",
+          "lemma": "устаём",
+          "morph": "Aspect=Imp|Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "On weekdays it is hard to go to the store: we work a lot and we are very tired."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "В субботу мы не работаем.",
+      "audio": "Покупки.translated.json.audio\\3.ogg",
+      "spacy_tokens": [
+        {
+          "text": "В",
+          "lemma": "в",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "субботу",
+          "lemma": "суббота",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "мы",
+          "lemma": "мы",
+          "morph": "Case=Nom|Number=Plur|Person=First",
+          "pos": "PRON"
+        },
+        {
+          "text": "не",
+          "lemma": "не",
+          "morph": "Polarity=Neg",
+          "pos": "PART"
+        },
+        {
+          "text": "работаем",
+          "lemma": "работать",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Plur|Person=First|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "We don't work on Saturday."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "В этот день мы часто покупаем продукты на всю неделю.",
+      "audio": "Покупки.translated.json.audio\\4.ogg",
+      "spacy_tokens": [
+        {
+          "text": "В",
+          "lemma": "в",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "этот",
+          "lemma": "этот",
+          "morph": "Case=Acc|Gender=Masc|Number=Sing",
+          "pos": "DET"
+        },
+        {
+          "text": "день",
+          "lemma": "день",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "мы",
+          "lemma": "мы",
+          "morph": "Case=Nom|Number=Plur|Person=First",
+          "pos": "PRON"
+        },
+        {
+          "text": "часто",
+          "lemma": "часто",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "покупаем",
+          "lemma": "покупать",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Plur|Person=First|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "продукты",
+          "lemma": "продукт",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur",
+          "pos": "NOUN"
+        },
+        {
+          "text": "на",
+          "lemma": "на",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "всю",
+          "lemma": "весь",
+          "morph": "Case=Acc|Gender=Fem|Number=Sing",
+          "pos": "DET"
+        },
+        {
+          "text": "неделю",
+          "lemma": "неделя",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "On that day we often buy groceries for the whole week."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "На северо-востоке Москвы есть супермаркет.",
+      "audio": "Покупки.translated.json.audio\\5.ogg",
+      "spacy_tokens": [
+        {
+          "text": "На",
+          "lemma": "на",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "северо",
+          "lemma": "северо",
+          "morph": "Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "-",
+          "lemma": "-",
+          "morph": "Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "востоке",
+          "lemma": "восток",
+          "morph": "Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "Москвы",
+          "lemma": "москва",
+          "morph": "Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": "есть",
+          "lemma": "быть",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "супермаркет",
+          "lemma": "супермаркет",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "There is a supermarket in the north-east of Moscow."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Он называется “Ашан”.",
+      "audio": "Покупки.translated.json.audio\\6.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Он",
+          "lemma": "он",
+          "morph": "Case=Nom|Gender=Masc|Number=Sing|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": "называется",
+          "lemma": "называться",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Mid",
+          "pos": "VERB"
+        },
+        {
+          "text": "“",
+          "lemma": "“",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "Ашан",
+          "lemma": "ашан",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": "”",
+          "lemma": "”",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "It's called \"Auchan\"."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Здесь можно купить почти всё: продукты, одежду, обувь, посуду и даже технику.",
+      "audio": "Покупки.translated.json.audio\\7.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Здесь",
+          "lemma": "здесь",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "можно",
+          "lemma": "можно",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "купить",
+          "lemma": "купить",
+          "morph": "Aspect=Perf|VerbForm=Inf|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "почти",
+          "lemma": "почти",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "всё",
+          "lemma": "всё",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing",
+          "pos": "PRON"
+        },
+        {
+          "text": ":",
+          "lemma": ":",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "продукты",
+          "lemma": "продукт",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur",
+          "pos": "NOUN"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "одежду",
+          "lemma": "одежда",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "обувь",
+          "lemma": "обувь",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "посуду",
+          "lemma": "посуда",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "и",
+          "lemma": "и",
+          "morph": "",
+          "pos": "CCONJ"
+        },
+        {
+          "text": "даже",
+          "lemma": "даже",
+          "morph": "",
+          "pos": "PART"
+        },
+        {
+          "text": "технику",
+          "lemma": "техника",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "Here you can buy almost everything: groceries, clothes, shoes, dishes, and even appliances."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Цены там не очень высокие.",
+      "audio": "Покупки.translated.json.audio\\8.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Цены",
+          "lemma": "цена",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur",
+          "pos": "NOUN"
+        },
+        {
+          "text": "там",
+          "lemma": "там",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "не",
+          "lemma": "не",
+          "morph": "Polarity=Neg",
+          "pos": "PART"
+        },
+        {
+          "text": "очень",
+          "lemma": "очень",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "высокие",
+          "lemma": "высокий",
+          "morph": "Case=Nom|Degree=Pos|Number=Plur",
+          "pos": "ADJ"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "The prices there are not very high."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "В эту субботу мы должны были купить мясо, рыбу, сыр, сахар, муку и другие продукты.",
+      "audio": "Покупки.translated.json.audio\\9.ogg",
+      "spacy_tokens": [
+        {
+          "text": "В",
+          "lemma": "в",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "эту",
+          "lemma": "этот",
+          "morph": "Case=Acc|Gender=Fem|Number=Sing",
+          "pos": "DET"
+        },
+        {
+          "text": "субботу",
+          "lemma": "суббота",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "мы",
+          "lemma": "мы",
+          "morph": "Case=Nom|Number=Plur|Person=First",
+          "pos": "PRON"
+        },
+        {
+          "text": "должны",
+          "lemma": "должный",
+          "morph": "Degree=Pos|Number=Plur|StyleVariant=Short",
+          "pos": "ADJ"
+        },
+        {
+          "text": "были",
+          "lemma": "были",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "AUX"
+        },
+        {
+          "text": "купить",
+          "lemma": "купить",
+          "morph": "Aspect=Perf|VerbForm=Inf|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "мясо",
+          "lemma": "мясо",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "рыбу",
+          "lemma": "рыба",
+          "morph": "Animacy=Anim|Case=Acc|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "сыр",
+          "lemma": "сыр",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "сахар",
+          "lemma": "сахар",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "муку",
+          "lemma": "мука",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "и",
+          "lemma": "и",
+          "morph": "",
+          "pos": "CCONJ"
+        },
+        {
+          "text": "другие",
+          "lemma": "другие",
+          "morph": "Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur",
+          "pos": "ADJ"
+        },
+        {
+          "text": "продукты",
+          "lemma": "продукт",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "This Saturday we had to buy meat, fish, cheese, sugar, flour and other products."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Сначала я не хотела покупать колбасу, но увидела, что колбаса стоит не очень дорого.",
+      "audio": "Покупки.translated.json.audio\\10.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Сначала",
+          "lemma": "сначала",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "я",
+          "lemma": "я",
+          "morph": "Case=Nom|Number=Sing|Person=First",
+          "pos": "PRON"
+        },
+        {
+          "text": "не",
+          "lemma": "не",
+          "morph": "Polarity=Neg",
+          "pos": "PART"
+        },
+        {
+          "text": "хотела",
+          "lemma": "хотеть",
+          "morph": "Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "покупать",
+          "lemma": "покупать",
+          "morph": "Aspect=Imp|VerbForm=Inf|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "колбасу",
+          "lemma": "колбаса",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "но",
+          "lemma": "но",
+          "morph": "",
+          "pos": "CCONJ"
+        },
+        {
+          "text": "увидела",
+          "lemma": "увидеть",
+          "morph": "Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "что",
+          "lemma": "что",
+          "morph": "",
+          "pos": "SCONJ"
+        },
+        {
+          "text": "колбаса",
+          "lemma": "колбаса",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "стоит",
+          "lemma": "стоить",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "не",
+          "lemma": "не",
+          "morph": "Polarity=Neg",
+          "pos": "PART"
+        },
+        {
+          "text": "очень",
+          "lemma": "очень",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "дорого",
+          "lemma": "дорого",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "At first I didn't want to buy sausage, but I saw that sausage wasn't very expensive."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "И мы купили килограмм колбасы, сахар, 2 кг бананов, 1 кг мяса, бутылку растительного масла, 1 кг рыбы и молоко.",
+      "audio": "Покупки.translated.json.audio\\11.ogg",
+      "spacy_tokens": [
+        {
+          "text": "И",
+          "lemma": "и",
+          "morph": "",
+          "pos": "CCONJ"
+        },
+        {
+          "text": "мы",
+          "lemma": "мы",
+          "morph": "Case=Nom|Number=Plur|Person=First",
+          "pos": "PRON"
+        },
+        {
+          "text": "купили",
+          "lemma": "купить",
+          "morph": "Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "килограмм",
+          "lemma": "килограмм",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "колбасы",
+          "lemma": "колбаса",
+          "morph": "Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "сахар",
+          "lemma": "сахар",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "2",
+          "lemma": "2",
+          "morph": "",
+          "pos": "NUM"
+        },
+        {
+          "text": "кг",
+          "lemma": "кг",
+          "morph": "Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "бананов",
+          "lemma": "банан",
+          "morph": "Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur",
+          "pos": "NOUN"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "1",
+          "lemma": "1",
+          "morph": "",
+          "pos": "NUM"
+        },
+        {
+          "text": "кг",
+          "lemma": "кг",
+          "morph": "Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "мяса",
+          "lemma": "мясо",
+          "morph": "Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "бутылку",
+          "lemma": "бутылка",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "растительного",
+          "lemma": "растительный",
+          "morph": "Case=Gen|Degree=Pos|Gender=Neut|Number=Sing",
+          "pos": "ADJ"
+        },
+        {
+          "text": "масла",
+          "lemma": "масло",
+          "morph": "Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "1",
+          "lemma": "1",
+          "morph": "",
+          "pos": "NUM"
+        },
+        {
+          "text": "кг",
+          "lemma": "кг",
+          "morph": "Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "рыбы",
+          "lemma": "рыба",
+          "morph": "Animacy=Anim|Case=Gen|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "и",
+          "lemma": "и",
+          "morph": "",
+          "pos": "CCONJ"
+        },
+        {
+          "text": "молоко",
+          "lemma": "молоко",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "So we bought a kilo of sausage, sugar, 2 kg of bananas, 1 kg of meat, a bottle of vegetable oil, 1 kg of fish and milk."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Да, я совсем забыла.",
+      "audio": "Покупки.translated.json.audio\\12.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Да",
+          "lemma": "да",
+          "morph": "",
+          "pos": "PART"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "я",
+          "lemma": "я",
+          "morph": "Case=Nom|Number=Sing|Person=First",
+          "pos": "PRON"
+        },
+        {
+          "text": "совсем",
+          "lemma": "совсем",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "забыла",
+          "lemma": "забыть",
+          "morph": "Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "Yes, I completely forgot."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Ещё мы купили муку для пиццы.",
+      "audio": "Покупки.translated.json.audio\\13.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Ещё",
+          "lemma": "ещё",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "мы",
+          "lemma": "мы",
+          "morph": "Case=Nom|Number=Plur|Person=First",
+          "pos": "PRON"
+        },
+        {
+          "text": "купили",
+          "lemma": "купить",
+          "morph": "Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "муку",
+          "lemma": "мука",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "для",
+          "lemma": "для",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "пиццы",
+          "lemma": "пицца",
+          "morph": "Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "We also bought pizza flour."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Дети очень любят пиццу.",
+      "audio": "Покупки.translated.json.audio\\14.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Дети",
+          "lemma": "ребёнок",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur",
+          "pos": "NOUN"
+        },
+        {
+          "text": "очень",
+          "lemma": "очень",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "любят",
+          "lemma": "любить",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Plur|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "пиццу",
+          "lemma": "пицца",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "The kids really like pizza."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Они даже могут сами её приготовить.",
+      "audio": "Покупки.translated.json.audio\\15.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Они",
+          "lemma": "они",
+          "morph": "Case=Nom|Number=Plur|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": "даже",
+          "lemma": "даже",
+          "morph": "",
+          "pos": "PART"
+        },
+        {
+          "text": "могут",
+          "lemma": "мочь",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Plur|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "сами",
+          "lemma": "сами",
+          "morph": "Case=Nom|Degree=Pos|Number=Plur",
+          "pos": "ADJ"
+        },
+        {
+          "text": "её",
+          "lemma": "её",
+          "morph": "Case=Acc|Gender=Fem|Number=Sing|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": "приготовить",
+          "lemma": "приготовить",
+          "morph": "Aspect=Perf|VerbForm=Inf|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "They can even make it themselves."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Помидоры и капусту мы не купили.",
+      "audio": "Покупки.translated.json.audio\\16.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Помидоры",
+          "lemma": "помидор",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur",
+          "pos": "NOUN"
+        },
+        {
+          "text": "и",
+          "lemma": "и",
+          "morph": "",
+          "pos": "CCONJ"
+        },
+        {
+          "text": "капусту",
+          "lemma": "капуста",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "мы",
+          "lemma": "мы",
+          "morph": "Case=Nom|Number=Plur|Person=First",
+          "pos": "PRON"
+        },
+        {
+          "text": "не",
+          "lemma": "не",
+          "morph": "Polarity=Neg",
+          "pos": "PART"
+        },
+        {
+          "text": "купили",
+          "lemma": "купить",
+          "morph": "Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "We didn't buy tomatoes and cabbage."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "У нас дома есть, и помидоры, и капуста, и лук.",
+      "audio": "Покупки.translated.json.audio\\17.ogg",
+      "spacy_tokens": [
+        {
+          "text": "У",
+          "lemma": "у",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "нас",
+          "lemma": "нас",
+          "morph": "Case=Gen|Number=Plur|Person=First",
+          "pos": "PRON"
+        },
+        {
+          "text": "дома",
+          "lemma": "дома",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "есть",
+          "lemma": "быть",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Plur|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "и",
+          "lemma": "и",
+          "morph": "",
+          "pos": "CCONJ"
+        },
+        {
+          "text": "помидоры",
+          "lemma": "помидор",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur",
+          "pos": "NOUN"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "и",
+          "lemma": "и",
+          "morph": "",
+          "pos": "CCONJ"
+        },
+        {
+          "text": "капуста",
+          "lemma": "капуста",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "и",
+          "lemma": "и",
+          "morph": "",
+          "pos": "CCONJ"
+        },
+        {
+          "text": "лук",
+          "lemma": "лук",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "We have tomatoes, cabbage, and onions at home."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Мы покупаем овощи или в магазине у дома, или на рынке.",
+      "audio": "Покупки.translated.json.audio\\18.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Мы",
+          "lemma": "мы",
+          "morph": "Case=Nom|Number=Plur|Person=First",
+          "pos": "PRON"
+        },
+        {
+          "text": "покупаем",
+          "lemma": "покупать",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Plur|Person=First|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "овощи",
+          "lemma": "овощ",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur",
+          "pos": "NOUN"
+        },
+        {
+          "text": "или",
+          "lemma": "или",
+          "morph": "",
+          "pos": "CCONJ"
+        },
+        {
+          "text": "в",
+          "lemma": "в",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "магазине",
+          "lemma": "магазин",
+          "morph": "Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "у",
+          "lemma": "у",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "дома",
+          "lemma": "дом",
+          "morph": "Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "или",
+          "lemma": "или",
+          "morph": "",
+          "pos": "CCONJ"
+        },
+        {
+          "text": "на",
+          "lemma": "на",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "рынке",
+          "lemma": "рынок",
+          "morph": "Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "We buy vegetables either at the store by the house or at the market."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "А еще мы купили настольную лампу.",
+      "audio": "Покупки.translated.json.audio\\19.ogg",
+      "spacy_tokens": [
+        {
+          "text": "А",
+          "lemma": "а",
+          "morph": "",
+          "pos": "CCONJ"
+        },
+        {
+          "text": "еще",
+          "lemma": "еще",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "мы",
+          "lemma": "мы",
+          "morph": "Case=Nom|Number=Plur|Person=First",
+          "pos": "PRON"
+        },
+        {
+          "text": "купили",
+          "lemma": "купить",
+          "morph": "Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "настольную",
+          "lemma": "настольный",
+          "morph": "Case=Acc|Degree=Pos|Gender=Fem|Number=Sing",
+          "pos": "ADJ"
+        },
+        {
+          "text": "лампу",
+          "lemma": "лампа",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "We also bought a table lamp."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Заплатили за всё 2000 рублей.",
+      "audio": "Покупки.translated.json.audio\\20.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Заплатили",
+          "lemma": "заплатить",
+          "morph": "Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "за",
+          "lemma": "за",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "всё",
+          "lemma": "всё",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing",
+          "pos": "PRON"
+        },
+        {
+          "text": "2000",
+          "lemma": "2000",
+          "morph": "",
+          "pos": "NUM"
+        },
+        {
+          "text": "рублей",
+          "lemma": "рубль",
+          "morph": "Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "We paid 2,000 rubles for everything."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Много.",
+      "audio": "Покупки.translated.json.audio\\21.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Много",
+          "lemma": "много",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "A lot."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Но всё это нужно.",
+      "audio": "Покупки.translated.json.audio\\22.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Но",
+          "lemma": "но",
+          "morph": "",
+          "pos": "CCONJ"
+        },
+        {
+          "text": "всё",
+          "lemma": "весь",
+          "morph": "Case=Nom|Gender=Neut|Number=Sing",
+          "pos": "DET"
+        },
+        {
+          "text": "это",
+          "lemma": "это",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing",
+          "pos": "PRON"
+        },
+        {
+          "text": "нужно",
+          "lemma": "нужный",
+          "morph": "Degree=Pos|Gender=Neut|Number=Sing|StyleVariant=Short",
+          "pos": "ADJ"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "But we need it all."
+    }
+  }
+]

@@ -1,0 +1,1004 @@
+[
+  {
+    "ru": {
+      "sentence": "Ночью меня разбудил телефон.",
+      "audio": "Реванш.translated.json.audio\\0.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Ночью",
+          "lemma": "ночь",
+          "morph": "Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "меня",
+          "lemma": "меня",
+          "morph": "Case=Acc|Number=Sing|Person=First",
+          "pos": "PRON"
+        },
+        {
+          "text": "разбудил",
+          "lemma": "разбудить",
+          "morph": "Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "телефон",
+          "lemma": "телефон",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "At night the phone woke me up."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Я посмотрел на часы.",
+      "audio": "Реванш.translated.json.audio\\1.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Я",
+          "lemma": "я",
+          "morph": "Case=Nom|Number=Sing|Person=First",
+          "pos": "PRON"
+        },
+        {
+          "text": "посмотрел",
+          "lemma": "посмотреть",
+          "morph": "Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "на",
+          "lemma": "на",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "часы",
+          "lemma": "час",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "I looked at my watch."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Было ровно 3 часа ночи.",
+      "audio": "Реванш.translated.json.audio\\2.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Было",
+          "lemma": "было",
+          "morph": "Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "AUX"
+        },
+        {
+          "text": "ровно",
+          "lemma": "ровно",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "3",
+          "lemma": "3",
+          "morph": "",
+          "pos": "NUM"
+        },
+        {
+          "text": "часа",
+          "lemma": "час",
+          "morph": "Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "ночи",
+          "lemma": "ночь",
+          "morph": "Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "It was exactly 3:00 in the morning."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Телефон звонил и звонил.",
+      "audio": "Реванш.translated.json.audio\\3.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Телефон",
+          "lemma": "телефон",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "звонил",
+          "lemma": "звонить",
+          "morph": "Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "и",
+          "lemma": "и",
+          "morph": "",
+          "pos": "CCONJ"
+        },
+        {
+          "text": "звонил",
+          "lemma": "звонить",
+          "morph": "Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "The phone rang and rang."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "“Кто это так поздно?”",
+      "audio": "Реванш.translated.json.audio\\4.ogg",
+      "spacy_tokens": [
+        {
+          "text": "“",
+          "lemma": "“",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "Кто",
+          "lemma": "кто",
+          "morph": "Case=Nom",
+          "pos": "PRON"
+        },
+        {
+          "text": "это",
+          "lemma": "это",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing",
+          "pos": "PRON"
+        },
+        {
+          "text": "так",
+          "lemma": "так",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "поздно",
+          "lemma": "поздно",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "?",
+          "lemma": "?",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "”",
+          "lemma": "”",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "\"Who's that so late?\""
+    }
+  },
+  {
+    "ru": {
+      "sentence": "– подумал я, взял трубку и услышал голос мамы.",
+      "audio": "Реванш.translated.json.audio\\5.ogg",
+      "spacy_tokens": [
+        {
+          "text": "–",
+          "lemma": "–",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "подумал",
+          "lemma": "подумать",
+          "morph": "Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "я",
+          "lemma": "я",
+          "morph": "Case=Nom|Number=Sing|Person=First",
+          "pos": "PRON"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "взял",
+          "lemma": "взять",
+          "morph": "Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "трубку",
+          "lemma": "трубка",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "и",
+          "lemma": "и",
+          "morph": "",
+          "pos": "CCONJ"
+        },
+        {
+          "text": "услышал",
+          "lemma": "услышать",
+          "morph": "Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "голос",
+          "lemma": "голос",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "мамы",
+          "lemma": "мама",
+          "morph": "Animacy=Anim|Case=Gen|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "- I thought, picked up the phone and heard my mother's voice."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "– Сынок, это ты?",
+      "audio": "Реванш.translated.json.audio\\6.ogg",
+      "spacy_tokens": [
+        {
+          "text": "–",
+          "lemma": "–",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "Сынок",
+          "lemma": "сынок",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "это",
+          "lemma": "это",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing",
+          "pos": "PRON"
+        },
+        {
+          "text": "ты",
+          "lemma": "ты",
+          "morph": "Case=Nom|Number=Sing|Person=Second",
+          "pos": "PRON"
+        },
+        {
+          "text": "?",
+          "lemma": "?",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "- Son, is that you?"
+    }
+  },
+  {
+    "ru": {
+      "sentence": "– Да, мама, это я.",
+      "audio": "Реванш.translated.json.audio\\7.ogg",
+      "spacy_tokens": [
+        {
+          "text": "–",
+          "lemma": "–",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "Да",
+          "lemma": "да",
+          "morph": "",
+          "pos": "PART"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "мама",
+          "lemma": "мама",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "это",
+          "lemma": "это",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing",
+          "pos": "PRON"
+        },
+        {
+          "text": "я",
+          "lemma": "я",
+          "morph": "Case=Nom|Number=Sing|Person=First",
+          "pos": "PRON"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "- Yes, Mom, it's me."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Что случилось?",
+      "audio": "Реванш.translated.json.audio\\8.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Что",
+          "lemma": "что",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing",
+          "pos": "PRON"
+        },
+        {
+          "text": "случилось",
+          "lemma": "случиться",
+          "morph": "Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid",
+          "pos": "VERB"
+        },
+        {
+          "text": "?",
+          "lemma": "?",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "What's wrong?"
+    }
+  },
+  {
+    "ru": {
+      "sentence": "– Ничего.",
+      "audio": "Реванш.translated.json.audio\\9.ogg",
+      "spacy_tokens": [
+        {
+          "text": "–",
+          "lemma": "–",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "Ничего",
+          "lemma": "ничто",
+          "morph": "Case=Gen",
+          "pos": "PRON"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "- Nothing."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Сегодня у тебя день рождения.",
+      "audio": "Реванш.translated.json.audio\\10.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Сегодня",
+          "lemma": "сегодня",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "у",
+          "lemma": "у",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "тебя",
+          "lemma": "тебя",
+          "morph": "Case=Gen|Number=Sing|Person=Second",
+          "pos": "PRON"
+        },
+        {
+          "text": "день",
+          "lemma": "день",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "рождения",
+          "lemma": "рождение",
+          "morph": "Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "It's your birthday today."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Ты помнишь?",
+      "audio": "Реванш.translated.json.audio\\11.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Ты",
+          "lemma": "ты",
+          "morph": "Case=Nom|Number=Sing|Person=Second",
+          "pos": "PRON"
+        },
+        {
+          "text": "помнишь",
+          "lemma": "помнить",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Second|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "?",
+          "lemma": "?",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "Do you remember?"
+    }
+  },
+  {
+    "ru": {
+      "sentence": "– Конечно, я помню.",
+      "audio": "Реванш.translated.json.audio\\12.ogg",
+      "spacy_tokens": [
+        {
+          "text": "–",
+          "lemma": "–",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "Конечно",
+          "lemma": "конечно",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "я",
+          "lemma": "я",
+          "morph": "Case=Nom|Number=Sing|Person=First",
+          "pos": "PRON"
+        },
+        {
+          "text": "помню",
+          "lemma": "помнить",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=First|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "- Of course I remember."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "А почему ты звонишь мне так поздно?",
+      "audio": "Реванш.translated.json.audio\\13.ogg",
+      "spacy_tokens": [
+        {
+          "text": "А",
+          "lemma": "а",
+          "morph": "",
+          "pos": "CCONJ"
+        },
+        {
+          "text": "почему",
+          "lemma": "почему",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "ты",
+          "lemma": "ты",
+          "morph": "Case=Nom|Number=Sing|Person=Second",
+          "pos": "PRON"
+        },
+        {
+          "text": "звонишь",
+          "lemma": "звонить",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Second|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "мне",
+          "lemma": "мне",
+          "morph": "Case=Dat|Number=Sing|Person=First",
+          "pos": "PRON"
+        },
+        {
+          "text": "так",
+          "lemma": "так",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "поздно",
+          "lemma": "поздно",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "?",
+          "lemma": "?",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "Why are you calling me so late?"
+    }
+  },
+  {
+    "ru": {
+      "sentence": "– Я хочу поздравить тебя с днем рождения.",
+      "audio": "Реванш.translated.json.audio\\14.ogg",
+      "spacy_tokens": [
+        {
+          "text": "–",
+          "lemma": "–",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "Я",
+          "lemma": "я",
+          "morph": "Case=Nom|Number=Sing|Person=First",
+          "pos": "PRON"
+        },
+        {
+          "text": "хочу",
+          "lemma": "хотеть",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=First|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "поздравить",
+          "lemma": "поздравить",
+          "morph": "Aspect=Perf|VerbForm=Inf|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "тебя",
+          "lemma": "тебя",
+          "morph": "Case=Acc|Number=Sing|Person=Second",
+          "pos": "PRON"
+        },
+        {
+          "text": "с",
+          "lemma": "с",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "днем",
+          "lemma": "день",
+          "morph": "Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "рождения",
+          "lemma": "рождение",
+          "morph": "Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "- I want to wish you a happy birthday."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "– Ты звонишь мне в 3 часа ночи, чтобы поздравить с днем рождения?!",
+      "audio": "Реванш.translated.json.audio\\15.ogg",
+      "spacy_tokens": [
+        {
+          "text": "–",
+          "lemma": "–",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "Ты",
+          "lemma": "ты",
+          "morph": "Case=Nom|Number=Sing|Person=Second",
+          "pos": "PRON"
+        },
+        {
+          "text": "звонишь",
+          "lemma": "звонить",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Second|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "мне",
+          "lemma": "мне",
+          "morph": "Case=Dat|Number=Sing|Person=First",
+          "pos": "PRON"
+        },
+        {
+          "text": "в",
+          "lemma": "в",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "3",
+          "lemma": "3",
+          "morph": "",
+          "pos": "NUM"
+        },
+        {
+          "text": "часа",
+          "lemma": "час",
+          "morph": "Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "ночи",
+          "lemma": "ночь",
+          "morph": "Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "чтобы",
+          "lemma": "чтобы",
+          "morph": "",
+          "pos": "SCONJ"
+        },
+        {
+          "text": "поздравить",
+          "lemma": "поздравить",
+          "morph": "Aspect=Perf|VerbForm=Inf|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "с",
+          "lemma": "с",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "днем",
+          "lemma": "день",
+          "morph": "Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "рождения",
+          "lemma": "рождение",
+          "morph": "Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "?",
+          "lemma": "?",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "!",
+          "lemma": "!",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "- You're calling me at 3:00 in the morning to wish me a happy birthday?!"
+    }
+  },
+  {
+    "ru": {
+      "sentence": "– Да, потому что 30 лет назад ты тоже разбудил меня в 3 часа ночи.",
+      "audio": "Реванш.translated.json.audio\\16.ogg",
+      "spacy_tokens": [
+        {
+          "text": "–",
+          "lemma": "–",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "Да",
+          "lemma": "да",
+          "morph": "",
+          "pos": "PART"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "потому",
+          "lemma": "потому",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "что",
+          "lemma": "что",
+          "morph": "",
+          "pos": "SCONJ"
+        },
+        {
+          "text": "30",
+          "lemma": "30",
+          "morph": "",
+          "pos": "NUM"
+        },
+        {
+          "text": "лет",
+          "lemma": "год",
+          "morph": "Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur",
+          "pos": "NOUN"
+        },
+        {
+          "text": "назад",
+          "lemma": "назад",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "ты",
+          "lemma": "ты",
+          "morph": "Case=Nom|Number=Sing|Person=Second",
+          "pos": "PRON"
+        },
+        {
+          "text": "тоже",
+          "lemma": "тоже",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "разбудил",
+          "lemma": "разбудить",
+          "morph": "Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "меня",
+          "lemma": "меня",
+          "morph": "Case=Acc|Number=Sing|Person=First",
+          "pos": "PRON"
+        },
+        {
+          "text": "в",
+          "lemma": "в",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "3",
+          "lemma": "3",
+          "morph": "",
+          "pos": "NUM"
+        },
+        {
+          "text": "часа",
+          "lemma": "час",
+          "morph": "Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "ночи",
+          "lemma": "ночь",
+          "morph": "Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "- Yes, because 30 years ago you woke me up at 3:00 a.m. too."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Вот я и звоню тебе, чтобы взять реванш.",
+      "audio": "Реванш.translated.json.audio\\17.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Вот",
+          "lemma": "вот",
+          "morph": "",
+          "pos": "PART"
+        },
+        {
+          "text": "я",
+          "lemma": "я",
+          "morph": "Case=Nom|Number=Sing|Person=First",
+          "pos": "PRON"
+        },
+        {
+          "text": "и",
+          "lemma": "и",
+          "morph": "",
+          "pos": "PART"
+        },
+        {
+          "text": "звоню",
+          "lemma": "звонить",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=First|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "тебе",
+          "lemma": "тебе",
+          "morph": "Case=Dat|Number=Sing|Person=Second",
+          "pos": "PRON"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "чтобы",
+          "lemma": "чтобы",
+          "morph": "",
+          "pos": "SCONJ"
+        },
+        {
+          "text": "взять",
+          "lemma": "взять",
+          "morph": "Aspect=Perf|VerbForm=Inf|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "реванш",
+          "lemma": "реванш",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "So I'm calling you to get revenge."
+    }
+  }
+]

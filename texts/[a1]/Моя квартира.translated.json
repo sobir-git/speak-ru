@@ -1,0 +1,1048 @@
+[
+  {
+    "ru": {
+      "sentence": "Я живу в центре Киева.",
+      "audio": "Моя квартира.translated.json.audio\\0.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Я",
+          "lemma": "я",
+          "morph": "Case=Nom|Number=Sing|Person=First",
+          "pos": "PRON"
+        },
+        {
+          "text": "живу",
+          "lemma": "жить",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=First|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "в",
+          "lemma": "в",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "центре",
+          "lemma": "центр",
+          "morph": "Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "Киева",
+          "lemma": "киев",
+          "morph": "Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "I live in the center of Kiev."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Моя квартира находится на пятом этаже.",
+      "audio": "Моя квартира.translated.json.audio\\1.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Моя",
+          "lemma": "мой",
+          "morph": "Case=Nom|Gender=Fem|Number=Sing",
+          "pos": "DET"
+        },
+        {
+          "text": "квартира",
+          "lemma": "квартира",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "находится",
+          "lemma": "находиться",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Mid",
+          "pos": "VERB"
+        },
+        {
+          "text": "на",
+          "lemma": "на",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "пятом",
+          "lemma": "пятый",
+          "morph": "Case=Loc|Degree=Pos|Gender=Masc|Number=Sing",
+          "pos": "ADJ"
+        },
+        {
+          "text": "этаже",
+          "lemma": "этаж",
+          "morph": "Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "My apartment is on the fifth floor."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Это небольшая однокомнатная квартира – комната, кухня, коридор, ванная и туалет.",
+      "audio": "Моя квартира.translated.json.audio\\2.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Это",
+          "lemma": "это",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing",
+          "pos": "PRON"
+        },
+        {
+          "text": "небольшая",
+          "lemma": "небольшой",
+          "morph": "Case=Nom|Degree=Pos|Gender=Fem|Number=Sing",
+          "pos": "ADJ"
+        },
+        {
+          "text": "однокомнатная",
+          "lemma": "однокомнатный",
+          "morph": "Case=Nom|Degree=Pos|Gender=Fem|Number=Sing",
+          "pos": "ADJ"
+        },
+        {
+          "text": "квартира",
+          "lemma": "квартира",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "–",
+          "lemma": "–",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "комната",
+          "lemma": "комната",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "кухня",
+          "lemma": "кухня",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "коридор",
+          "lemma": "коридор",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "ванная",
+          "lemma": "ванная",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "и",
+          "lemma": "и",
+          "morph": "",
+          "pos": "CCONJ"
+        },
+        {
+          "text": "туалет",
+          "lemma": "туалет",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "It is a small studio apartment - room, kitchen, corridor, bathroom and toilet."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "В комнате есть 2 окна и балкон.",
+      "audio": "Моя квартира.translated.json.audio\\3.ogg",
+      "spacy_tokens": [
+        {
+          "text": "В",
+          "lemma": "в",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "комнате",
+          "lemma": "комната",
+          "morph": "Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "есть",
+          "lemma": "быть",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "2",
+          "lemma": "2",
+          "morph": "",
+          "pos": "NUM"
+        },
+        {
+          "text": "окна",
+          "lemma": "окно",
+          "morph": "Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "и",
+          "lemma": "и",
+          "morph": "",
+          "pos": "CCONJ"
+        },
+        {
+          "text": "балкон",
+          "lemma": "балкон",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "The room has two windows and a balcony."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Окна выходят на улицу, а балкон – во двор.",
+      "audio": "Моя квартира.translated.json.audio\\4.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Окна",
+          "lemma": "окно",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur",
+          "pos": "NOUN"
+        },
+        {
+          "text": "выходят",
+          "lemma": "выходить",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Plur|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "на",
+          "lemma": "на",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "улицу",
+          "lemma": "улица",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "а",
+          "lemma": "а",
+          "morph": "",
+          "pos": "CCONJ"
+        },
+        {
+          "text": "балкон",
+          "lemma": "балкон",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "–",
+          "lemma": "–",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "во",
+          "lemma": "во",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "двор",
+          "lemma": "двор",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "The windows face the street and the balcony faces the yard."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Стены голубые, потолок белый.",
+      "audio": "Моя квартира.translated.json.audio\\5.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Стены",
+          "lemma": "стена",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur",
+          "pos": "NOUN"
+        },
+        {
+          "text": "голубые",
+          "lemma": "голубой",
+          "morph": "Case=Nom|Degree=Pos|Number=Plur",
+          "pos": "ADJ"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "потолок",
+          "lemma": "потолок",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "белый",
+          "lemma": "белый",
+          "morph": "Case=Nom|Degree=Pos|Gender=Masc|Number=Sing",
+          "pos": "ADJ"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "The walls are blue, the ceiling is white."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "На полу лежит синий ковёр.",
+      "audio": "Моя квартира.translated.json.audio\\6.ogg",
+      "spacy_tokens": [
+        {
+          "text": "На",
+          "lemma": "на",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "полу",
+          "lemma": "пол",
+          "morph": "Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "лежит",
+          "lemma": "лежать",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "синий",
+          "lemma": "синий",
+          "morph": "Case=Nom|Degree=Pos|Gender=Masc|Number=Sing",
+          "pos": "ADJ"
+        },
+        {
+          "text": "ковёр",
+          "lemma": "ковёр",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "There is a blue carpet on the floor."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "На стене висит картина.",
+      "audio": "Моя квартира.translated.json.audio\\7.ogg",
+      "spacy_tokens": [
+        {
+          "text": "На",
+          "lemma": "на",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "стене",
+          "lemma": "стена",
+          "morph": "Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "висит",
+          "lemma": "висеть",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "картина",
+          "lemma": "картина",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "On the wall hangs a picture."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "В центре комнаты стоит квадратный стол и 2 стула.",
+      "audio": "Моя квартира.translated.json.audio\\8.ogg",
+      "spacy_tokens": [
+        {
+          "text": "В",
+          "lemma": "в",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "центре",
+          "lemma": "центр",
+          "morph": "Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "комнаты",
+          "lemma": "комната",
+          "morph": "Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "стоит",
+          "lemma": "стоить",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "квадратный",
+          "lemma": "квадратный",
+          "morph": "Case=Nom|Degree=Pos|Gender=Masc|Number=Sing",
+          "pos": "ADJ"
+        },
+        {
+          "text": "стол",
+          "lemma": "стол",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "и",
+          "lemma": "и",
+          "morph": "",
+          "pos": "CCONJ"
+        },
+        {
+          "text": "2",
+          "lemma": "2",
+          "morph": "",
+          "pos": "NUM"
+        },
+        {
+          "text": "стула",
+          "lemma": "стул",
+          "morph": "Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "In the center of the room is a square table and two chairs."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Слева телевизор и DVD-плейер.",
+      "audio": "Моя квартира.translated.json.audio\\9.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Слева",
+          "lemma": "слева",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "телевизор",
+          "lemma": "телевизор",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "и",
+          "lemma": "и",
+          "morph": "",
+          "pos": "CCONJ"
+        },
+        {
+          "text": "DVD",
+          "lemma": "dvd",
+          "morph": "Foreign=Yes",
+          "pos": "PROPN"
+        },
+        {
+          "text": "-",
+          "lemma": "-",
+          "morph": "Foreign=Yes",
+          "pos": "PROPN"
+        },
+        {
+          "text": "плейер",
+          "lemma": "плейер",
+          "morph": "Foreign=Yes",
+          "pos": "PROPN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "On the left there is a TV and a DVD player."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Напротив телевизора стоит диван и два кресла.",
+      "audio": "Моя квартира.translated.json.audio\\10.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Напротив",
+          "lemma": "напротив",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "телевизора",
+          "lemma": "телевизор",
+          "morph": "Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "стоит",
+          "lemma": "стоить",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "диван",
+          "lemma": "диван",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "и",
+          "lemma": "и",
+          "morph": "",
+          "pos": "CCONJ"
+        },
+        {
+          "text": "два",
+          "lemma": "два",
+          "morph": "Case=Nom|Gender=Neut",
+          "pos": "NUM"
+        },
+        {
+          "text": "кресла",
+          "lemma": "кресло",
+          "morph": "Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "Opposite the TV is a sofa and two armchairs."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Рядом книжный шкаф, там очень много книг.",
+      "audio": "Моя квартира.translated.json.audio\\11.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Рядом",
+          "lemma": "рядом",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "книжный",
+          "lemma": "книжный",
+          "morph": "Case=Nom|Degree=Pos|Gender=Masc|Number=Sing",
+          "pos": "ADJ"
+        },
+        {
+          "text": "шкаф",
+          "lemma": "шкаф",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "там",
+          "lemma": "там",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "очень",
+          "lemma": "очень",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "много",
+          "lemma": "много",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "книг",
+          "lemma": "книга",
+          "morph": "Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "Next to the bookcase, there are a lot of books."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Моё любимое место в квартире – кухня.",
+      "audio": "Моя квартира.translated.json.audio\\12.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Моё",
+          "lemma": "мой",
+          "morph": "Case=Nom|Gender=Neut|Number=Sing",
+          "pos": "DET"
+        },
+        {
+          "text": "любимое",
+          "lemma": "любимый",
+          "morph": "Case=Nom|Degree=Pos|Gender=Neut|Number=Sing",
+          "pos": "ADJ"
+        },
+        {
+          "text": "место",
+          "lemma": "место",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "в",
+          "lemma": "в",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "квартире",
+          "lemma": "квартира",
+          "morph": "Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "–",
+          "lemma": "–",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "кухня",
+          "lemma": "кухня",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "My favorite place in the apartment is the kitchen."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Я люблю пить чай там и читать новости.",
+      "audio": "Моя квартира.translated.json.audio\\13.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Я",
+          "lemma": "я",
+          "morph": "Case=Nom|Number=Sing|Person=First",
+          "pos": "PRON"
+        },
+        {
+          "text": "люблю",
+          "lemma": "любить",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=First|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "пить",
+          "lemma": "пить",
+          "morph": "Aspect=Imp|VerbForm=Inf|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "чай",
+          "lemma": "чай",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "там",
+          "lemma": "там",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "и",
+          "lemma": "и",
+          "morph": "",
+          "pos": "CCONJ"
+        },
+        {
+          "text": "читать",
+          "lemma": "читать",
+          "morph": "Aspect=Imp|VerbForm=Inf|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "новости",
+          "lemma": "новость",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "I like to drink tea there and read the news."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Там есть холодильник, плита, круглый стол, микроволновая печь, кофеварка, тостер.",
+      "audio": "Моя квартира.translated.json.audio\\14.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Там",
+          "lemma": "там",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "есть",
+          "lemma": "быть",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "холодильник",
+          "lemma": "холодильник",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "плита",
+          "lemma": "плита",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "круглый",
+          "lemma": "круглый",
+          "morph": "Case=Nom|Degree=Pos|Gender=Masc|Number=Sing",
+          "pos": "ADJ"
+        },
+        {
+          "text": "стол",
+          "lemma": "стол",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "микроволновая",
+          "lemma": "микроволновый",
+          "morph": "Case=Nom|Degree=Pos|Gender=Fem|Number=Sing",
+          "pos": "ADJ"
+        },
+        {
+          "text": "печь",
+          "lemma": "печь",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "кофеварка",
+          "lemma": "кофеварка",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "тостер",
+          "lemma": "тостер",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "There is a refrigerator, a stove, a round table, a microwave, a coffee maker, and a toaster."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Как вы думаете, а что у меня есть в коридоре и ванной?",
+      "audio": "Моя квартира.translated.json.audio\\15.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Как",
+          "lemma": "как",
+          "morph": "",
+          "pos": "SCONJ"
+        },
+        {
+          "text": "вы",
+          "lemma": "вы",
+          "morph": "Case=Nom|Number=Plur|Person=Second",
+          "pos": "PRON"
+        },
+        {
+          "text": "думаете",
+          "lemma": "думать",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Plur|Person=Second|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "а",
+          "lemma": "а",
+          "morph": "",
+          "pos": "CCONJ"
+        },
+        {
+          "text": "что",
+          "lemma": "что",
+          "morph": "",
+          "pos": "SCONJ"
+        },
+        {
+          "text": "у",
+          "lemma": "у",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "меня",
+          "lemma": "меня",
+          "morph": "Case=Gen|Number=Sing|Person=First",
+          "pos": "PRON"
+        },
+        {
+          "text": "есть",
+          "lemma": "быть",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "в",
+          "lemma": "в",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "коридоре",
+          "lemma": "коридор",
+          "morph": "Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "и",
+          "lemma": "и",
+          "morph": "",
+          "pos": "CCONJ"
+        },
+        {
+          "text": "ванной",
+          "lemma": "ванная",
+          "morph": "Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "?",
+          "lemma": "?",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "What do you think I have in the hallway and bathroom?"
+    }
+  }
+]

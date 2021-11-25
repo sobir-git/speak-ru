@@ -1,0 +1,1458 @@
+[
+  {
+    "ru": {
+      "sentence": "Я студент.",
+      "audio": "Русский язык. Быстро и легко.translated.json.audio\\0.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Я",
+          "lemma": "я",
+          "morph": "Case=Nom|Number=Sing|Person=First",
+          "pos": "PRON"
+        },
+        {
+          "text": "студент",
+          "lemma": "студент",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "I am a student."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Живу в Москве уже две недели.",
+      "audio": "Русский язык. Быстро и легко.translated.json.audio\\1.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Живу",
+          "lemma": "жить",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=First|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "в",
+          "lemma": "в",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "Москве",
+          "lemma": "москва",
+          "morph": "Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": "уже",
+          "lemma": "уже",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "две",
+          "lemma": "два",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Fem",
+          "pos": "NUM"
+        },
+        {
+          "text": "недели",
+          "lemma": "неделя",
+          "morph": "Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "I've been living in Moscow for two weeks now."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Утром я еду в университет. я изучаю русский язык.",
+      "audio": "Русский язык. Быстро и легко.translated.json.audio\\2.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Утром",
+          "lemma": "утро",
+          "morph": "Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "я",
+          "lemma": "я",
+          "morph": "Case=Nom|Number=Sing|Person=First",
+          "pos": "PRON"
+        },
+        {
+          "text": "еду",
+          "lemma": "ехать",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=First|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "в",
+          "lemma": "в",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "университет",
+          "lemma": "университет",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "я",
+          "lemma": "я",
+          "morph": "Case=Nom|Number=Sing|Person=First",
+          "pos": "PRON"
+        },
+        {
+          "text": "изучаю",
+          "lemma": "изучать",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=First|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "русский",
+          "lemma": "русский",
+          "morph": "Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing",
+          "pos": "ADJ"
+        },
+        {
+          "text": "язык",
+          "lemma": "язык",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "I go to university in the morning. I'm studying Russian."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Каждый день у меня шесть уроков русского языка.",
+      "audio": "Русский язык. Быстро и легко.translated.json.audio\\3.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Каждый",
+          "lemma": "каждый",
+          "morph": "Case=Acc|Gender=Masc|Number=Sing",
+          "pos": "DET"
+        },
+        {
+          "text": "день",
+          "lemma": "день",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "у",
+          "lemma": "у",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "меня",
+          "lemma": "меня",
+          "morph": "Case=Gen|Number=Sing|Person=First",
+          "pos": "PRON"
+        },
+        {
+          "text": "шесть",
+          "lemma": "шесть",
+          "morph": "Case=Nom",
+          "pos": "NUM"
+        },
+        {
+          "text": "уроков",
+          "lemma": "урок",
+          "morph": "Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur",
+          "pos": "NOUN"
+        },
+        {
+          "text": "русского",
+          "lemma": "русский",
+          "morph": "Case=Gen|Degree=Pos|Gender=Masc|Number=Sing",
+          "pos": "ADJ"
+        },
+        {
+          "text": "языка",
+          "lemma": "язык",
+          "morph": "Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "Every day I have six Russian lessons."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Мой учебник называется “Русский язык – очень просто”, но я думаю, это неправда.",
+      "audio": "Русский язык. Быстро и легко.translated.json.audio\\4.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Мой",
+          "lemma": "мой",
+          "morph": "Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "DET"
+        },
+        {
+          "text": "учебник",
+          "lemma": "учебник",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "называется",
+          "lemma": "называться",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Mid",
+          "pos": "VERB"
+        },
+        {
+          "text": "“",
+          "lemma": "“",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "Русский",
+          "lemma": "русский",
+          "morph": "Case=Nom|Degree=Pos|Gender=Masc|Number=Sing",
+          "pos": "ADJ"
+        },
+        {
+          "text": "язык",
+          "lemma": "язык",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "–",
+          "lemma": "–",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "очень",
+          "lemma": "очень",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "просто",
+          "lemma": "простой",
+          "morph": "Degree=Pos|Gender=Neut|Number=Sing|StyleVariant=Short",
+          "pos": "ADJ"
+        },
+        {
+          "text": "”",
+          "lemma": "”",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "но",
+          "lemma": "но",
+          "morph": "",
+          "pos": "CCONJ"
+        },
+        {
+          "text": "я",
+          "lemma": "я",
+          "morph": "Case=Nom|Number=Sing|Person=First",
+          "pos": "PRON"
+        },
+        {
+          "text": "думаю",
+          "lemma": "думать",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=First|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "это",
+          "lemma": "это",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing",
+          "pos": "PRON"
+        },
+        {
+          "text": "неправда",
+          "lemma": "неправда",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "My textbook is called \"Russian is very easy\", but I don't think that's true."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Русский язык – очень трудный.",
+      "audio": "Русский язык. Быстро и легко.translated.json.audio\\5.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Русский",
+          "lemma": "русский",
+          "morph": "Case=Nom|Degree=Pos|Gender=Masc|Number=Sing",
+          "pos": "ADJ"
+        },
+        {
+          "text": "язык",
+          "lemma": "язык",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "–",
+          "lemma": "–",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "очень",
+          "lemma": "очень",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "трудный",
+          "lemma": "трудный",
+          "morph": "Case=Nom|Degree=Pos|Gender=Masc|Number=Sing",
+          "pos": "ADJ"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "Russian is a very difficult language."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "У меня есть ещё книги “Читаем без проблем” и “Русский язык без труда”.",
+      "audio": "Русский язык. Быстро и легко.translated.json.audio\\6.ogg",
+      "spacy_tokens": [
+        {
+          "text": "У",
+          "lemma": "у",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "меня",
+          "lemma": "меня",
+          "morph": "Case=Gen|Number=Sing|Person=First",
+          "pos": "PRON"
+        },
+        {
+          "text": "есть",
+          "lemma": "быть",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "ещё",
+          "lemma": "ещё",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "книги",
+          "lemma": "книга",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur",
+          "pos": "NOUN"
+        },
+        {
+          "text": "“",
+          "lemma": "“",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "Читаем",
+          "lemma": "читать",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Plur|Person=First|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "без",
+          "lemma": "без",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "проблем",
+          "lemma": "проблема",
+          "morph": "Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur",
+          "pos": "NOUN"
+        },
+        {
+          "text": "”",
+          "lemma": "”",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "и",
+          "lemma": "и",
+          "morph": "",
+          "pos": "CCONJ"
+        },
+        {
+          "text": "“",
+          "lemma": "“",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "Русский",
+          "lemma": "русский",
+          "morph": "Case=Nom|Degree=Pos|Gender=Masc|Number=Sing",
+          "pos": "ADJ"
+        },
+        {
+          "text": "язык",
+          "lemma": "язык",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "без",
+          "lemma": "без",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "труда",
+          "lemma": "труд",
+          "morph": "Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "”",
+          "lemma": "”",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "I also have books \"Reading Without Problems\" and \"Russian Language Without Difficulty.\""
+    }
+  },
+  {
+    "ru": {
+      "sentence": "А у меня только проблемы, много труда и никакого результата.",
+      "audio": "Русский язык. Быстро и легко.translated.json.audio\\7.ogg",
+      "spacy_tokens": [
+        {
+          "text": "А",
+          "lemma": "а",
+          "morph": "",
+          "pos": "CCONJ"
+        },
+        {
+          "text": "у",
+          "lemma": "у",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "меня",
+          "lemma": "меня",
+          "morph": "Case=Gen|Number=Sing|Person=First",
+          "pos": "PRON"
+        },
+        {
+          "text": "только",
+          "lemma": "только",
+          "morph": "",
+          "pos": "PART"
+        },
+        {
+          "text": "проблемы",
+          "lemma": "проблема",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur",
+          "pos": "NOUN"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "много",
+          "lemma": "много",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "труда",
+          "lemma": "труд",
+          "morph": "Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "и",
+          "lemma": "и",
+          "morph": "",
+          "pos": "CCONJ"
+        },
+        {
+          "text": "никакого",
+          "lemma": "никакой",
+          "morph": "Case=Gen|Gender=Masc|Number=Sing",
+          "pos": "DET"
+        },
+        {
+          "text": "результата",
+          "lemma": "результат",
+          "morph": "Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "And I have only problems, a lot of work and no results."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Днём я еду домой.",
+      "audio": "Русский язык. Быстро и легко.translated.json.audio\\8.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Днём",
+          "lemma": "днём",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": "я",
+          "lemma": "я",
+          "morph": "Case=Nom|Number=Sing|Person=First",
+          "pos": "PRON"
+        },
+        {
+          "text": "еду",
+          "lemma": "ехать",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=First|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "домой",
+          "lemma": "домой",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "In the afternoon I go home."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Дома я обедаю, потом делаю домашнее задание.",
+      "audio": "Русский язык. Быстро и легко.translated.json.audio\\9.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Дома",
+          "lemma": "дом",
+          "morph": "Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "я",
+          "lemma": "я",
+          "morph": "Case=Nom|Number=Sing|Person=First",
+          "pos": "PRON"
+        },
+        {
+          "text": "обедаю",
+          "lemma": "обедать",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=First|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "потом",
+          "lemma": "потом",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "делаю",
+          "lemma": "делать",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=First|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "домашнее",
+          "lemma": "домашний",
+          "morph": "Animacy=Inan|Case=Acc|Degree=Pos|Gender=Neut|Number=Sing",
+          "pos": "ADJ"
+        },
+        {
+          "text": "задание",
+          "lemma": "задание",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "At home I have lunch, then I do my homework."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Обычно я пишу упражнение, читаю текст из книги “Читаем без проблем”, учу новые слова из книги “Русский язык: мгновенный результат”.",
+      "audio": "Русский язык. Быстро и легко.translated.json.audio\\10.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Обычно",
+          "lemma": "обычно",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "я",
+          "lemma": "я",
+          "morph": "Case=Nom|Number=Sing|Person=First",
+          "pos": "PRON"
+        },
+        {
+          "text": "пишу",
+          "lemma": "писать",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=First|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "упражнение",
+          "lemma": "упражнение",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "читаю",
+          "lemma": "читать",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=First|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "текст",
+          "lemma": "текст",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "из",
+          "lemma": "из",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "книги",
+          "lemma": "книга",
+          "morph": "Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "“",
+          "lemma": "“",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "Читаем",
+          "lemma": "читать",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Plur|Person=First|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "без",
+          "lemma": "без",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "проблем",
+          "lemma": "проблема",
+          "morph": "Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur",
+          "pos": "NOUN"
+        },
+        {
+          "text": "”",
+          "lemma": "”",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "учу",
+          "lemma": "учить",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=First|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "новые",
+          "lemma": "новый",
+          "morph": "Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur",
+          "pos": "ADJ"
+        },
+        {
+          "text": "слова",
+          "lemma": "слово",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur",
+          "pos": "NOUN"
+        },
+        {
+          "text": "из",
+          "lemma": "из",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "книги",
+          "lemma": "книга",
+          "morph": "Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "“",
+          "lemma": "“",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "Русский",
+          "lemma": "русский",
+          "morph": "Case=Nom|Degree=Pos|Gender=Masc|Number=Sing",
+          "pos": "ADJ"
+        },
+        {
+          "text": "язык",
+          "lemma": "язык",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ":",
+          "lemma": ":",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "мгновенный",
+          "lemma": "мгновенный",
+          "morph": "Case=Nom|Degree=Pos|Gender=Masc|Number=Sing",
+          "pos": "ADJ"
+        },
+        {
+          "text": "результат",
+          "lemma": "результат",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "”",
+          "lemma": "”",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "Usually I write an exercise, read a text from the book \"Reading Without Problems\", and learn new words from the book \"Russian: Instant Result\"."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Потом я немного отдыхаю.",
+      "audio": "Русский язык. Быстро и легко.translated.json.audio\\11.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Потом",
+          "lemma": "потом",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "я",
+          "lemma": "я",
+          "morph": "Case=Nom|Number=Sing|Person=First",
+          "pos": "PRON"
+        },
+        {
+          "text": "немного",
+          "lemma": "немного",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "отдыхаю",
+          "lemma": "отдыхать",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=First|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "Then I have a little rest."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Вечером я слушаю диалоги и тексты (аудиокурс на диске называется ” Русский язык за один час”), потом изучаю русский язык по компьютерной программе.",
+      "audio": "Русский язык. Быстро и легко.translated.json.audio\\12.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Вечером",
+          "lemma": "вечер",
+          "morph": "Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "я",
+          "lemma": "я",
+          "morph": "Case=Nom|Number=Sing|Person=First",
+          "pos": "PRON"
+        },
+        {
+          "text": "слушаю",
+          "lemma": "слушать",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=First|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "диалоги",
+          "lemma": "диалог",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur",
+          "pos": "NOUN"
+        },
+        {
+          "text": "и",
+          "lemma": "и",
+          "morph": "",
+          "pos": "CCONJ"
+        },
+        {
+          "text": "тексты",
+          "lemma": "текст",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur",
+          "pos": "NOUN"
+        },
+        {
+          "text": "(",
+          "lemma": "(",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "аудиокурс",
+          "lemma": "аудиокурс",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "на",
+          "lemma": "на",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "диске",
+          "lemma": "диск",
+          "morph": "Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "называется",
+          "lemma": "называться",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Mid",
+          "pos": "VERB"
+        },
+        {
+          "text": "”",
+          "lemma": "”",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "Русский",
+          "lemma": "русский",
+          "morph": "Case=Nom|Degree=Pos|Gender=Masc|Number=Sing",
+          "pos": "ADJ"
+        },
+        {
+          "text": "язык",
+          "lemma": "язык",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "за",
+          "lemma": "за",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "один",
+          "lemma": "один",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Masc",
+          "pos": "NUM"
+        },
+        {
+          "text": "час",
+          "lemma": "час",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "”",
+          "lemma": "”",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": ")",
+          "lemma": ")",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "потом",
+          "lemma": "потом",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "изучаю",
+          "lemma": "изучать",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=First|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "русский",
+          "lemma": "русский",
+          "morph": "Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing",
+          "pos": "ADJ"
+        },
+        {
+          "text": "язык",
+          "lemma": "язык",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "по",
+          "lemma": "по",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "компьютерной",
+          "lemma": "компьютерный",
+          "morph": "Case=Dat|Degree=Pos|Gender=Fem|Number=Sing",
+          "pos": "ADJ"
+        },
+        {
+          "text": "программе",
+          "lemma": "программа",
+          "morph": "Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "In the evening I listen to dialogues and texts (on the CD \"Russian in an hour\") and then I learn Russian with the help of the computer program."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Она называется “Русский язык?",
+      "audio": "Русский язык. Быстро и легко.translated.json.audio\\13.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Она",
+          "lemma": "она",
+          "morph": "Case=Nom|Gender=Fem|Number=Sing|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": "называется",
+          "lemma": "называться",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Mid",
+          "pos": "VERB"
+        },
+        {
+          "text": "“",
+          "lemma": "“",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "Русский",
+          "lemma": "русский",
+          "morph": "Case=Nom|Degree=Pos|Gender=Masc|Number=Sing",
+          "pos": "ADJ"
+        },
+        {
+          "text": "язык",
+          "lemma": "язык",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "?",
+          "lemma": "?",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "It's called \"Russian?"
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Быстро и легко!”",
+      "audio": "Русский язык. Быстро и легко.translated.json.audio\\14.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Быстро",
+          "lemma": "быстро",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "и",
+          "lemma": "и",
+          "morph": "",
+          "pos": "CCONJ"
+        },
+        {
+          "text": "легко",
+          "lemma": "лёгкий",
+          "morph": "Degree=Pos|Gender=Neut|Number=Sing|StyleVariant=Short",
+          "pos": "ADJ"
+        },
+        {
+          "text": "!",
+          "lemma": "!",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "”",
+          "lemma": "”",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "Quick and Easy!\""
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Опять неправда.",
+      "audio": "Русский язык. Быстро и легко.translated.json.audio\\15.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Опять",
+          "lemma": "опять",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "неправда",
+          "lemma": "неправда",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "Wrong again."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Быстро?",
+      "audio": "Русский язык. Быстро и легко.translated.json.audio\\16.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Быстро",
+          "lemma": "быстро",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "?",
+          "lemma": "?",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "Fast?"
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Я уже две недели изучаю русский язык, я очень много читаю, говорю пишу.",
+      "audio": "Русский язык. Быстро и легко.translated.json.audio\\17.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Я",
+          "lemma": "я",
+          "morph": "Case=Nom|Number=Sing|Person=First",
+          "pos": "PRON"
+        },
+        {
+          "text": "уже",
+          "lemma": "уже",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "две",
+          "lemma": "два",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Fem",
+          "pos": "NUM"
+        },
+        {
+          "text": "недели",
+          "lemma": "неделя",
+          "morph": "Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "изучаю",
+          "lemma": "изучать",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=First|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "русский",
+          "lemma": "русский",
+          "morph": "Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing",
+          "pos": "ADJ"
+        },
+        {
+          "text": "язык",
+          "lemma": "язык",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "я",
+          "lemma": "я",
+          "morph": "Case=Nom|Number=Sing|Person=First",
+          "pos": "PRON"
+        },
+        {
+          "text": "очень",
+          "lemma": "очень",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "много",
+          "lemma": "много",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "читаю",
+          "lemma": "читать",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=First|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "говорю",
+          "lemma": "говорить",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=First|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "пишу",
+          "lemma": "писать",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=First|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "I've been learning Russian for two weeks now, I read a lot, and I speak and write a lot."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Почему, когда я смотрю телевизор, я ничего не понимаю?",
+      "audio": "Русский язык. Быстро и легко.translated.json.audio\\18.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Почему",
+          "lemma": "почему",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "когда",
+          "lemma": "когда",
+          "morph": "",
+          "pos": "SCONJ"
+        },
+        {
+          "text": "я",
+          "lemma": "я",
+          "morph": "Case=Nom|Number=Sing|Person=First",
+          "pos": "PRON"
+        },
+        {
+          "text": "смотрю",
+          "lemma": "смотреть",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=First|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "телевизор",
+          "lemma": "телевизор",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "я",
+          "lemma": "я",
+          "morph": "Case=Nom|Number=Sing|Person=First",
+          "pos": "PRON"
+        },
+        {
+          "text": "ничего",
+          "lemma": "ничто",
+          "morph": "Case=Gen",
+          "pos": "PRON"
+        },
+        {
+          "text": "не",
+          "lemma": "не",
+          "morph": "Polarity=Neg",
+          "pos": "PART"
+        },
+        {
+          "text": "понимаю",
+          "lemma": "понимать",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=First|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "?",
+          "lemma": "?",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "Why is it that when I watch TV, I don't understand anything?"
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Что делать?",
+      "audio": "Русский язык. Быстро и легко.translated.json.audio\\19.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Что",
+          "lemma": "что",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing",
+          "pos": "PRON"
+        },
+        {
+          "text": "делать",
+          "lemma": "делать",
+          "morph": "Aspect=Imp|VerbForm=Inf|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "?",
+          "lemma": "?",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "What to do?"
+    }
+  }
+]

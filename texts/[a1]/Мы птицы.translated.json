@@ -1,0 +1,1071 @@
+[
+  {
+    "ru": {
+      "sentence": "Это мальчик Коля.",
+      "audio": "Мы птицы.translated.json.audio\\0.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Это",
+          "lemma": "это",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing",
+          "pos": "PRON"
+        },
+        {
+          "text": "мальчик",
+          "lemma": "мальчик",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "Коля",
+          "lemma": "коля",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "This is the boy Kolya."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Ему тринадцать лет.",
+      "audio": "Мы птицы.translated.json.audio\\1.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Ему",
+          "lemma": "ему",
+          "morph": "Case=Dat|Gender=Masc|Number=Sing|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": "тринадцать",
+          "lemma": "тринадцать",
+          "morph": "Case=Acc",
+          "pos": "NUM"
+        },
+        {
+          "text": "лет",
+          "lemma": "год",
+          "morph": "Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "He is thirteen years old."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Это девочка Варя.",
+      "audio": "Мы птицы.translated.json.audio\\2.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Это",
+          "lemma": "это",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing",
+          "pos": "PRON"
+        },
+        {
+          "text": "девочка",
+          "lemma": "девочка",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "Варя",
+          "lemma": "варя",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "This is a girl, Varya."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Ей четыре года.",
+      "audio": "Мы птицы.translated.json.audio\\3.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Ей",
+          "lemma": "ей",
+          "morph": "Case=Dat|Gender=Fem|Number=Sing|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": "четыре",
+          "lemma": "четыре",
+          "morph": "Animacy=Inan|Case=Acc",
+          "pos": "NUM"
+        },
+        {
+          "text": "года",
+          "lemma": "год",
+          "morph": "Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "She is four years old."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Они брат и сестра, но они очень разные.",
+      "audio": "Мы птицы.translated.json.audio\\4.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Они",
+          "lemma": "они",
+          "morph": "Case=Nom|Number=Plur|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": "брат",
+          "lemma": "брат",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "и",
+          "lemma": "и",
+          "morph": "",
+          "pos": "CCONJ"
+        },
+        {
+          "text": "сестра",
+          "lemma": "сестра",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "но",
+          "lemma": "но",
+          "morph": "",
+          "pos": "CCONJ"
+        },
+        {
+          "text": "они",
+          "lemma": "они",
+          "morph": "Case=Nom|Number=Plur|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": "очень",
+          "lemma": "очень",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "разные",
+          "lemma": "разный",
+          "morph": "Case=Nom|Degree=Pos|Number=Plur",
+          "pos": "ADJ"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "They are brother and sister, but they are very different."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Коля любит есть, спать и читать.",
+      "audio": "Мы птицы.translated.json.audio\\5.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Коля",
+          "lemma": "коля",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "любит",
+          "lemma": "любить",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "есть",
+          "lemma": "есть",
+          "morph": "Aspect=Imp|VerbForm=Inf|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "спать",
+          "lemma": "спать",
+          "morph": "Aspect=Imp|VerbForm=Inf|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "и",
+          "lemma": "и",
+          "morph": "",
+          "pos": "CCONJ"
+        },
+        {
+          "text": "читать",
+          "lemma": "читать",
+          "morph": "Aspect=Imp|VerbForm=Inf|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "Kolya likes to eat, sleep, and read."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Он всегда поздно ложится спать и утром поздно встаёт.",
+      "audio": "Мы птицы.translated.json.audio\\6.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Он",
+          "lemma": "он",
+          "morph": "Case=Nom|Gender=Masc|Number=Sing|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": "всегда",
+          "lemma": "всегда",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "поздно",
+          "lemma": "поздно",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "ложится",
+          "lemma": "ложиться",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Mid",
+          "pos": "VERB"
+        },
+        {
+          "text": "спать",
+          "lemma": "спать",
+          "morph": "Aspect=Imp|VerbForm=Inf|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "и",
+          "lemma": "и",
+          "morph": "",
+          "pos": "CCONJ"
+        },
+        {
+          "text": "утром",
+          "lemma": "утро",
+          "morph": "Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "поздно",
+          "lemma": "поздно",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "встаёт",
+          "lemma": "вставать",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "He always goes to bed late and gets up late in the morning."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Варя не любит есть и не любит спать, она любит бегать, прыгать и гулять.",
+      "audio": "Мы птицы.translated.json.audio\\7.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Варя",
+          "lemma": "варя",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "не",
+          "lemma": "не",
+          "morph": "Polarity=Neg",
+          "pos": "PART"
+        },
+        {
+          "text": "любит",
+          "lemma": "любить",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "есть",
+          "lemma": "есть",
+          "morph": "Aspect=Imp|VerbForm=Inf|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "и",
+          "lemma": "и",
+          "morph": "",
+          "pos": "CCONJ"
+        },
+        {
+          "text": "не",
+          "lemma": "не",
+          "morph": "Polarity=Neg",
+          "pos": "PART"
+        },
+        {
+          "text": "любит",
+          "lemma": "любить",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "спать",
+          "lemma": "спать",
+          "morph": "Aspect=Imp|VerbForm=Inf|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "она",
+          "lemma": "она",
+          "morph": "Case=Nom|Gender=Fem|Number=Sing|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": "любит",
+          "lemma": "любить",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "бегать",
+          "lemma": "бегать",
+          "morph": "Aspect=Imp|VerbForm=Inf|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "прыгать",
+          "lemma": "прыгать",
+          "morph": "Aspect=Imp|VerbForm=Inf|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "и",
+          "lemma": "и",
+          "morph": "",
+          "pos": "CCONJ"
+        },
+        {
+          "text": "гулять",
+          "lemma": "гулять",
+          "morph": "Aspect=Imp|VerbForm=Inf|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "Varya doesn't like to eat and doesn't like to sleep, she likes to run, jump and walk."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Утром она встаёт рано.",
+      "audio": "Мы птицы.translated.json.audio\\8.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Утром",
+          "lemma": "утро",
+          "morph": "Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "она",
+          "lemma": "она",
+          "morph": "Case=Nom|Gender=Fem|Number=Sing|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": "встаёт",
+          "lemma": "вставать",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "рано",
+          "lemma": "рано",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "She gets up early in the morning."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Мама говорит:",
+      "audio": "Мы птицы.translated.json.audio\\9.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Мама",
+          "lemma": "мама",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "говорит",
+          "lemma": "говорить",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": ":",
+          "lemma": ":",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "Mom says:"
+    }
+  },
+  {
+    "ru": {
+      "sentence": "– Коля сова, а Варя жаворонок",
+      "audio": "Мы птицы.translated.json.audio\\10.ogg",
+      "spacy_tokens": [
+        {
+          "text": "–",
+          "lemma": "–",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "Коля",
+          "lemma": "коля",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": "сова",
+          "lemma": "сова",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "а",
+          "lemma": "а",
+          "morph": "",
+          "pos": "CCONJ"
+        },
+        {
+          "text": "Варя",
+          "lemma": "варя",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": "жаворонок",
+          "lemma": "жаворонок",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "- Kolya is a night owl and Varya a lark."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "– Почему Коля сова, а я жаворонок?",
+      "audio": "Мы птицы.translated.json.audio\\11.ogg",
+      "spacy_tokens": [
+        {
+          "text": "–",
+          "lemma": "–",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "Почему",
+          "lemma": "почему",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "Коля",
+          "lemma": "коля",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": "сова",
+          "lemma": "сова",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "а",
+          "lemma": "а",
+          "morph": "",
+          "pos": "CCONJ"
+        },
+        {
+          "text": "я",
+          "lemma": "я",
+          "morph": "Case=Nom|Number=Sing|Person=First",
+          "pos": "PRON"
+        },
+        {
+          "text": "жаворонок",
+          "lemma": "жаворонок",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "?",
+          "lemma": "?",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "- Why is Kolya a night owl and I a skylark?"
+    }
+  },
+  {
+    "ru": {
+      "sentence": "– спрашивает маленькая Варя",
+      "audio": "Мы птицы.translated.json.audio\\12.ogg",
+      "spacy_tokens": [
+        {
+          "text": "–",
+          "lemma": "–",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "спрашивает",
+          "lemma": "спрашивать",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "маленькая",
+          "lemma": "маленький",
+          "morph": "Case=Nom|Degree=Pos|Gender=Fem|Number=Sing",
+          "pos": "ADJ"
+        },
+        {
+          "text": "Варя",
+          "lemma": "варя",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing",
+          "pos": "PROPN"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "- Little Varya asks."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "– Потому что Коля большой, как сова, а я маленькая, как жаворонок?",
+      "audio": "Мы птицы.translated.json.audio\\13.ogg",
+      "spacy_tokens": [
+        {
+          "text": "–",
+          "lemma": "–",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "Потому",
+          "lemma": "потому",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "что",
+          "lemma": "что",
+          "morph": "",
+          "pos": "SCONJ"
+        },
+        {
+          "text": "Коля",
+          "lemma": "коля",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": "большой",
+          "lemma": "большой",
+          "morph": "Case=Nom|Degree=Pos|Gender=Masc|Number=Sing",
+          "pos": "ADJ"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "как",
+          "lemma": "как",
+          "morph": "",
+          "pos": "SCONJ"
+        },
+        {
+          "text": "сова",
+          "lemma": "сова",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "а",
+          "lemma": "а",
+          "morph": "",
+          "pos": "CCONJ"
+        },
+        {
+          "text": "я",
+          "lemma": "я",
+          "morph": "Case=Nom|Number=Sing|Person=First",
+          "pos": "PRON"
+        },
+        {
+          "text": "маленькая",
+          "lemma": "маленький",
+          "morph": "Case=Nom|Degree=Pos|Gender=Fem|Number=Sing",
+          "pos": "ADJ"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "как",
+          "lemma": "как",
+          "morph": "",
+          "pos": "SCONJ"
+        },
+        {
+          "text": "жаворонок",
+          "lemma": "жаворонок",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "?",
+          "lemma": "?",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "- Is it because Kolya is big like an owl and I am small like a skylark?"
+    }
+  },
+  {
+    "ru": {
+      "sentence": "– Нет, – отвечает мама, – Коля поздно ложится спать и поздно встаёт, как сова, а ты ложишься рано и встаёшь рано, как жаворонок.",
+      "audio": "Мы птицы.translated.json.audio\\14.ogg",
+      "spacy_tokens": [
+        {
+          "text": "–",
+          "lemma": "–",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "Нет",
+          "lemma": "нет",
+          "morph": "Polarity=Neg",
+          "pos": "PART"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "–",
+          "lemma": "–",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "отвечает",
+          "lemma": "отвечать",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "мама",
+          "lemma": "мама",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "–",
+          "lemma": "–",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "Коля",
+          "lemma": "коля",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": "поздно",
+          "lemma": "поздно",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "ложится",
+          "lemma": "ложиться",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Mid",
+          "pos": "VERB"
+        },
+        {
+          "text": "спать",
+          "lemma": "спать",
+          "morph": "Aspect=Imp|VerbForm=Inf|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "и",
+          "lemma": "и",
+          "morph": "",
+          "pos": "CCONJ"
+        },
+        {
+          "text": "поздно",
+          "lemma": "поздно",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "встаёт",
+          "lemma": "вставать",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "как",
+          "lemma": "как",
+          "morph": "",
+          "pos": "SCONJ"
+        },
+        {
+          "text": "сова",
+          "lemma": "сова",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "а",
+          "lemma": "а",
+          "morph": "",
+          "pos": "CCONJ"
+        },
+        {
+          "text": "ты",
+          "lemma": "ты",
+          "morph": "Case=Nom|Number=Sing|Person=Second",
+          "pos": "PRON"
+        },
+        {
+          "text": "ложишься",
+          "lemma": "ложиться",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Second|Tense=Pres|VerbForm=Fin|Voice=Mid",
+          "pos": "VERB"
+        },
+        {
+          "text": "рано",
+          "lemma": "рано",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "и",
+          "lemma": "и",
+          "morph": "",
+          "pos": "CCONJ"
+        },
+        {
+          "text": "встаёшь",
+          "lemma": "встаёшь",
+          "morph": "Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "рано",
+          "lemma": "рано",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "как",
+          "lemma": "как",
+          "morph": "",
+          "pos": "SCONJ"
+        },
+        {
+          "text": "жаворонок",
+          "lemma": "жаворонок",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "- No,\" says Mama, \"Kolya goes to bed late and gets up late, like an owl, and you go to bed early and get up early, like a lark."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Понимаешь?",
+      "audio": "Мы птицы.translated.json.audio\\15.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Понимаешь",
+          "lemma": "понимать",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Second|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "?",
+          "lemma": "?",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "Do you understand?"
+    }
+  },
+  {
+    "ru": {
+      "sentence": "– Понимаю, – говорит Варя, – мы птицы",
+      "audio": "Мы птицы.translated.json.audio\\16.ogg",
+      "spacy_tokens": [
+        {
+          "text": "–",
+          "lemma": "–",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "Понимаю",
+          "lemma": "понимать",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=First|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "–",
+          "lemma": "–",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "говорит",
+          "lemma": "говорить",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "Варя",
+          "lemma": "варя",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "–",
+          "lemma": "–",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "мы",
+          "lemma": "мы",
+          "morph": "Case=Nom|Number=Plur|Person=First",
+          "pos": "PRON"
+        },
+        {
+          "text": "птицы",
+          "lemma": "птица",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Fem|Number=Plur",
+          "pos": "NOUN"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "- I understand,\" says Varya, \"we are birds."
+    }
+  }
+]

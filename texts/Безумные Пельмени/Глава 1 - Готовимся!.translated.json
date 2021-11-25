@@ -1,0 +1,5737 @@
+[
+ {
+  "ru": {
+   "sentence": "– Даниэль, иди сюда!",
+   "spacy_tokens": [
+    {
+     "text": "–",
+     "lemma": "–",
+     "morph": "",
+     "pos": "PUNCT"
+    },
+    {
+     "text": "Даниэль",
+     "lemma": "даниэль",
+     "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing",
+     "pos": "PROPN"
+    },
+    {
+     "text": ",",
+     "lemma": ",",
+     "morph": "",
+     "pos": "PUNCT"
+    },
+    {
+     "text": "иди",
+     "lemma": "идти",
+     "morph": "Aspect=Imp|Mood=Imp|Number=Sing|Person=Second|VerbForm=Fin|Voice=Act",
+     "pos": "VERB"
+    },
+    {
+     "text": "сюда",
+     "lemma": "сюда",
+     "morph": "Degree=Pos",
+     "pos": "ADV"
+    },
+    {
+     "text": "!",
+     "lemma": "!",
+     "morph": "",
+     "pos": "PUNCT"
+    }
+   ],
+   "audio": "Глава 1 - Готовимся!.translated.json.audio\\0.ogg"
+  },
+  "en": {
+   "sentence": "- Danielle, come here!"
+  }
+ },
+ {
+  "ru": {
+   "sentence": "– зовёт меня Джулия.",
+   "spacy_tokens": [
+    {
+     "text": "–",
+     "lemma": "–",
+     "morph": "",
+     "pos": "PUNCT"
+    },
+    {
+     "text": "зовёт",
+     "lemma": "звать",
+     "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+     "pos": "VERB"
+    },
+    {
+     "text": "меня",
+     "lemma": "меня",
+     "morph": "Case=Acc|Number=Sing|Person=First",
+     "pos": "PRON"
+    },
+    {
+     "text": "Джулия",
+     "lemma": "джулия",
+     "morph": "Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing",
+     "pos": "PROPN"
+    },
+    {
+     "text": ".",
+     "lemma": ".",
+     "morph": "",
+     "pos": "PUNCT"
+    }
+   ],
+   "audio": "Глава 1 - Готовимся!.translated.json.audio\\1.ogg"
+  },
+  "en": {
+   "sentence": "- Julia calls me."
+  }
+ },
+ {
+  "ru": {
+   "sentence": "Она стоит в дверях.",
+   "spacy_tokens": [
+    {
+     "text": "Она",
+     "lemma": "она",
+     "morph": "Case=Nom|Gender=Fem|Number=Sing|Person=Third",
+     "pos": "PRON"
+    },
+    {
+     "text": "стоит",
+     "lemma": "стоить",
+     "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+     "pos": "VERB"
+    },
+    {
+     "text": "в",
+     "lemma": "в",
+     "morph": "",
+     "pos": "ADP"
+    },
+    {
+     "text": "дверях",
+     "lemma": "дверь",
+     "morph": "Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur",
+     "pos": "NOUN"
+    },
+    {
+     "text": ".",
+     "lemma": ".",
+     "morph": "",
+     "pos": "PUNCT"
+    }
+   ],
+   "audio": "Глава 1 - Готовимся!.translated.json.audio\\2.ogg"
+  },
+  "en": {
+   "sentence": "She's standing in the doorway."
+  }
+ },
+ {
+  "ru": {
+   "sentence": "– Что, Джулия?",
+   "spacy_tokens": [
+    {
+     "text": "–",
+     "lemma": "–",
+     "morph": "",
+     "pos": "PUNCT"
+    },
+    {
+     "text": "Что",
+     "lemma": "что",
+     "morph": "Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing",
+     "pos": "PRON"
+    },
+    {
+     "text": ",",
+     "lemma": ",",
+     "morph": "",
+     "pos": "PUNCT"
+    },
+    {
+     "text": "Джулия",
+     "lemma": "джулия",
+     "morph": "Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing",
+     "pos": "PROPN"
+    },
+    {
+     "text": "?",
+     "lemma": "?",
+     "morph": "",
+     "pos": "PUNCT"
+    }
+   ],
+   "audio": "Глава 1 - Готовимся!.translated.json.audio\\3.ogg"
+  },
+  "en": {
+   "sentence": "- What, Julia?"
+  }
+ },
+ {
+  "ru": {
+   "sentence": "– отвечаю я.",
+   "spacy_tokens": [
+    {
+     "text": "–",
+     "lemma": "–",
+     "morph": "",
+     "pos": "PUNCT"
+    },
+    {
+     "text": "отвечаю",
+     "lemma": "отвечать",
+     "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=First|Tense=Pres|VerbForm=Fin|Voice=Act",
+     "pos": "VERB"
+    },
+    {
+     "text": "я",
+     "lemma": "я",
+     "morph": "Case=Nom|Number=Sing|Person=First",
+     "pos": "PRON"
+    },
+    {
+     "text": ".",
+     "lemma": ".",
+     "morph": "",
+     "pos": "PUNCT"
+    }
+   ],
+   "audio": "Глава 1 - Готовимся!.translated.json.audio\\4.ogg"
+  },
+  "en": {
+   "sentence": "- I answer."
+  }
+ },
+ {
+  "ru": {
+   "sentence": "– Ты не забыл, что сегодня мы летим в Россию?",
+   "spacy_tokens": [
+    {
+     "text": "–",
+     "lemma": "–",
+     "morph": "",
+     "pos": "PUNCT"
+    },
+    {
+     "text": "Ты",
+     "lemma": "ты",
+     "morph": "Case=Nom|Number=Sing|Person=Second",
+     "pos": "PRON"
+    },
+    {
+     "text": "не",
+     "lemma": "не",
+     "morph": "Polarity=Neg",
+     "pos": "PART"
+    },
+    {
+     "text": "забыл",
+     "lemma": "забыть",
+     "morph": "Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+     "pos": "VERB"
+    },
+    {
+     "text": ",",
+     "lemma": ",",
+     "morph": "",
+     "pos": "PUNCT"
+    },
+    {
+     "text": "что",
+     "lemma": "что",
+     "morph": "",
+     "pos": "SCONJ"
+    },
+    {
+     "text": "сегодня",
+     "lemma": "сегодня",
+     "morph": "Degree=Pos",
+     "pos": "ADV"
+    },
+    {
+     "text": "мы",
+     "lemma": "мы",
+     "morph": "Case=Nom|Number=Plur|Person=First",
+     "pos": "PRON"
+    },
+    {
+     "text": "летим",
+     "lemma": "лететь",
+     "morph": "Aspect=Imp|Mood=Ind|Number=Plur|Person=First|Tense=Pres|VerbForm=Fin|Voice=Act",
+     "pos": "VERB"
+    },
+    {
+     "text": "в",
+     "lemma": "в",
+     "morph": "",
+     "pos": "ADP"
+    },
+    {
+     "text": "Россию",
+     "lemma": "россия",
+     "morph": "Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing",
+     "pos": "PROPN"
+    },
+    {
+     "text": "?",
+     "lemma": "?",
+     "morph": "",
+     "pos": "PUNCT"
+    }
+   ],
+   "audio": "Глава 1 - Готовимся!.translated.json.audio\\5.ogg"
+  },
+  "en": {
+   "sentence": "- Have you forgotten that we're going to Russia today?"
+  }
+ },
+ {
+  "ru": {
+   "sentence": "– Конечно, не забыл.",
+   "spacy_tokens": [
+    {
+     "text": "–",
+     "lemma": "–",
+     "morph": "",
+     "pos": "PUNCT"
+    },
+    {
+     "text": "Конечно",
+     "lemma": "конечно",
+     "morph": "Degree=Pos",
+     "pos": "ADV"
+    },
+    {
+     "text": ",",
+     "lemma": ",",
+     "morph": "",
+     "pos": "PUNCT"
+    },
+    {
+     "text": "не",
+     "lemma": "не",
+     "morph": "Polarity=Neg",
+     "pos": "PART"
+    },
+    {
+     "text": "забыл",
+     "lemma": "забыть",
+     "morph": "Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+     "pos": "VERB"
+    },
+    {
+     "text": ".",
+     "lemma": ".",
+     "morph": "",
+     "pos": "PUNCT"
+    }
+   ],
+   "audio": "Глава 1 - Готовимся!.translated.json.audio\\6.ogg"
+  },
+  "en": {
+   "sentence": "- Of course I remembered."
+  }
+ },
+ {
+  "ru": {
+   "sentence": "Я уже собираюсь.",
+   "spacy_tokens": [
+    {
+     "text": "Я",
+     "lemma": "я",
+     "morph": "Case=Nom|Number=Sing|Person=First",
+     "pos": "PRON"
+    },
+    {
+     "text": "уже",
+     "lemma": "уже",
+     "morph": "Degree=Pos",
+     "pos": "ADV"
+    },
+    {
+     "text": "собираюсь",
+     "lemma": "собираться",
+     "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=First|Tense=Pres|VerbForm=Fin|Voice=Mid",
+     "pos": "VERB"
+    },
+    {
+     "text": ".",
+     "lemma": ".",
+     "morph": "",
+     "pos": "PUNCT"
+    }
+   ],
+   "audio": "Глава 1 - Готовимся!.translated.json.audio\\7.ogg"
+  },
+  "en": {
+   "sentence": "I'm already getting ready."
+  }
+ },
+ {
+  "ru": {
+   "sentence": "Меня зовут Даниэль.",
+   "spacy_tokens": [
+    {
+     "text": "Меня",
+     "lemma": "меня",
+     "morph": "Case=Acc|Number=Sing|Person=First",
+     "pos": "PRON"
+    },
+    {
+     "text": "зовут",
+     "lemma": "звать",
+     "morph": "Aspect=Imp|Mood=Ind|Number=Plur|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+     "pos": "VERB"
+    },
+    {
+     "text": "Даниэль",
+     "lemma": "даниэль",
+     "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing",
+     "pos": "PROPN"
+    },
+    {
+     "text": ".",
+     "lemma": ".",
+     "morph": "",
+     "pos": "PUNCT"
+    }
+   ],
+   "audio": "Глава 1 - Готовимся!.translated.json.audio\\8.ogg"
+  },
+  "en": {
+   "sentence": "My name is Daniel."
+  }
+ },
+ {
+  "ru": {
+   "sentence": "Мне 24 года.",
+   "spacy_tokens": [
+    {
+     "text": "Мне",
+     "lemma": "мне",
+     "morph": "Case=Dat|Number=Sing|Person=First",
+     "pos": "PRON"
+    },
+    {
+     "text": "24",
+     "lemma": "24",
+     "morph": "",
+     "pos": "NUM"
+    },
+    {
+     "text": "года",
+     "lemma": "год",
+     "morph": "Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing",
+     "pos": "NOUN"
+    },
+    {
+     "text": ".",
+     "lemma": ".",
+     "morph": "",
+     "pos": "PUNCT"
+    }
+   ],
+   "audio": "Глава 1 - Готовимся!.translated.json.audio\\9.ogg"
+  },
+  "en": {
+   "sentence": "I'm twenty-four years old."
+  }
+ },
+ {
+  "ru": {
+   "sentence": "Джулия — моя сестра.",
+   "spacy_tokens": [
+    {
+     "text": "Джулия",
+     "lemma": "джулия",
+     "morph": "Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing",
+     "pos": "PROPN"
+    },
+    {
+     "text": "—",
+     "lemma": "—",
+     "morph": "",
+     "pos": "PUNCT"
+    },
+    {
+     "text": "моя",
+     "lemma": "мой",
+     "morph": "Case=Nom|Gender=Fem|Number=Sing",
+     "pos": "DET"
+    },
+    {
+     "text": "сестра",
+     "lemma": "сестра",
+     "morph": "Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing",
+     "pos": "NOUN"
+    },
+    {
+     "text": ".",
+     "lemma": ".",
+     "morph": "",
+     "pos": "PUNCT"
+    }
+   ],
+   "audio": "Глава 1 - Готовимся!.translated.json.audio\\10.ogg"
+  },
+  "en": {
+   "sentence": "Julia is my sister."
+  }
+ },
+ {
+  "ru": {
+   "sentence": "Мы живём в Лондоне вместе с родителями.",
+   "spacy_tokens": [
+    {
+     "text": "Мы",
+     "lemma": "мы",
+     "morph": "Case=Nom|Number=Plur|Person=First",
+     "pos": "PRON"
+    },
+    {
+     "text": "живём",
+     "lemma": "жить",
+     "morph": "Aspect=Imp|Mood=Ind|Number=Plur|Person=First|Tense=Pres|VerbForm=Fin|Voice=Act",
+     "pos": "VERB"
+    },
+    {
+     "text": "в",
+     "lemma": "в",
+     "morph": "",
+     "pos": "ADP"
+    },
+    {
+     "text": "Лондоне",
+     "lemma": "лондон",
+     "morph": "Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing",
+     "pos": "PROPN"
+    },
+    {
+     "text": "вместе",
+     "lemma": "вместе",
+     "morph": "Degree=Pos",
+     "pos": "ADV"
+    },
+    {
+     "text": "с",
+     "lemma": "с",
+     "morph": "",
+     "pos": "ADP"
+    },
+    {
+     "text": "родителями",
+     "lemma": "родитель",
+     "morph": "Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur",
+     "pos": "NOUN"
+    },
+    {
+     "text": ".",
+     "lemma": ".",
+     "morph": "",
+     "pos": "PUNCT"
+    }
+   ],
+   "audio": "Глава 1 - Готовимся!.translated.json.audio\\11.ogg"
+  },
+  "en": {
+   "sentence": "We live in London with my parents."
+  }
+ },
+ {
+  "ru": {
+   "sentence": "Ей 23 года.",
+   "spacy_tokens": [
+    {
+     "text": "Ей",
+     "lemma": "ей",
+     "morph": "Case=Dat|Gender=Fem|Number=Sing|Person=Third",
+     "pos": "PRON"
+    },
+    {
+     "text": "23",
+     "lemma": "23",
+     "morph": "",
+     "pos": "NUM"
+    },
+    {
+     "text": "года",
+     "lemma": "год",
+     "morph": "Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing",
+     "pos": "NOUN"
+    },
+    {
+     "text": ".",
+     "lemma": ".",
+     "morph": "",
+     "pos": "PUNCT"
+    }
+   ],
+   "audio": "Глава 1 - Готовимся!.translated.json.audio\\12.ogg"
+  },
+  "en": {
+   "sentence": "She's 23 years old."
+  }
+ },
+ {
+  "ru": {
+   "sentence": "Нашего отца зовут Артур, а мать — Наташа.",
+   "spacy_tokens": [
+    {
+     "text": "Нашего",
+     "lemma": "наш",
+     "morph": "Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing",
+     "pos": "DET"
+    },
+    {
+     "text": "отца",
+     "lemma": "отец",
+     "morph": "Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing",
+     "pos": "NOUN"
+    },
+    {
+     "text": "зовут",
+     "lemma": "звать",
+     "morph": "Aspect=Imp|Mood=Ind|Number=Plur|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+     "pos": "VERB"
+    },
+    {
+     "text": "Артур",
+     "lemma": "артур",
+     "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing",
+     "pos": "PROPN"
+    },
+    {
+     "text": ",",
+     "lemma": ",",
+     "morph": "",
+     "pos": "PUNCT"
+    },
+    {
+     "text": "а",
+     "lemma": "а",
+     "morph": "",
+     "pos": "CCONJ"
+    },
+    {
+     "text": "мать",
+     "lemma": "мать",
+     "morph": "Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing",
+     "pos": "NOUN"
+    },
+    {
+     "text": "—",
+     "lemma": "—",
+     "morph": "",
+     "pos": "PUNCT"
+    },
+    {
+     "text": "Наташа",
+     "lemma": "наташа",
+     "morph": "Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing",
+     "pos": "PROPN"
+    },
+    {
+     "text": ".",
+     "lemma": ".",
+     "morph": "",
+     "pos": "PUNCT"
+    }
+   ],
+   "audio": "Глава 1 - Готовимся!.translated.json.audio\\13.ogg"
+  },
+  "en": {
+   "sentence": "Our father's name is Arthur and our mother is Natasha."
+  }
+ },
+ {
+  "ru": {
+   "sentence": "Она родом из Владивостока, а в Англию приехала учиться в институте, когда ей было 22 года.",
+   "spacy_tokens": [
+    {
+     "text": "Она",
+     "lemma": "она",
+     "morph": "Case=Nom|Gender=Fem|Number=Sing|Person=Third",
+     "pos": "PRON"
+    },
+    {
+     "text": "родом",
+     "lemma": "родом",
+     "morph": "Degree=Pos",
+     "pos": "ADV"
+    },
+    {
+     "text": "из",
+     "lemma": "из",
+     "morph": "",
+     "pos": "ADP"
+    },
+    {
+     "text": "Владивостока",
+     "lemma": "владивосток",
+     "morph": "Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing",
+     "pos": "PROPN"
+    },
+    {
+     "text": ",",
+     "lemma": ",",
+     "morph": "",
+     "pos": "PUNCT"
+    },
+    {
+     "text": "а",
+     "lemma": "а",
+     "morph": "",
+     "pos": "CCONJ"
+    },
+    {
+     "text": "в",
+     "lemma": "в",
+     "morph": "",
+     "pos": "ADP"
+    },
+    {
+     "text": "Англию",
+     "lemma": "англия",
+     "morph": "Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing",
+     "pos": "PROPN"
+    },
+    {
+     "text": "приехала",
+     "lemma": "приехать",
+     "morph": "Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+     "pos": "VERB"
+    },
+    {
+     "text": "учиться",
+     "lemma": "учиться",
+     "morph": "Aspect=Imp|VerbForm=Inf|Voice=Mid",
+     "pos": "VERB"
+    },
+    {
+     "text": "в",
+     "lemma": "в",
+     "morph": "",
+     "pos": "ADP"
+    },
+    {
+     "text": "институте",
+     "lemma": "институт",
+     "morph": "Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing",
+     "pos": "NOUN"
+    },
+    {
+     "text": ",",
+     "lemma": ",",
+     "morph": "",
+     "pos": "PUNCT"
+    },
+    {
+     "text": "когда",
+     "lemma": "когда",
+     "morph": "",
+     "pos": "SCONJ"
+    },
+    {
+     "text": "ей",
+     "lemma": "ей",
+     "morph": "Case=Dat|Gender=Fem|Number=Sing|Person=Third",
+     "pos": "PRON"
+    },
+    {
+     "text": "было",
+     "lemma": "быть",
+     "morph": "Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+     "pos": "VERB"
+    },
+    {
+     "text": "22",
+     "lemma": "22",
+     "morph": "",
+     "pos": "NUM"
+    },
+    {
+     "text": "года",
+     "lemma": "год",
+     "morph": "Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing",
+     "pos": "NOUN"
+    },
+    {
+     "text": ".",
+     "lemma": ".",
+     "morph": "",
+     "pos": "PUNCT"
+    }
+   ],
+   "audio": "Глава 1 - Готовимся!.translated.json.audio\\14.ogg"
+  },
+  "en": {
+   "sentence": "She is originally from Vladivostok, and she came to England to study at the institute when she was 22 years old."
+  }
+ },
+ {
+  "ru": {
+   "sentence": "Там они с папой и познакомились.",
+   "spacy_tokens": [
+    {
+     "text": "Там",
+     "lemma": "там",
+     "morph": "Degree=Pos",
+     "pos": "ADV"
+    },
+    {
+     "text": "они",
+     "lemma": "они",
+     "morph": "Case=Nom|Number=Plur|Person=Third",
+     "pos": "PRON"
+    },
+    {
+     "text": "с",
+     "lemma": "с",
+     "morph": "",
+     "pos": "ADP"
+    },
+    {
+     "text": "папой",
+     "lemma": "папа",
+     "morph": "Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing",
+     "pos": "NOUN"
+    },
+    {
+     "text": "и",
+     "lemma": "и",
+     "morph": "",
+     "pos": "CCONJ"
+    },
+    {
+     "text": "познакомились",
+     "lemma": "познакомиться",
+     "morph": "Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid",
+     "pos": "VERB"
+    },
+    {
+     "text": ".",
+     "lemma": ".",
+     "morph": "",
+     "pos": "PUNCT"
+    }
+   ],
+   "audio": "Глава 1 - Готовимся!.translated.json.audio\\15.ogg"
+  },
+  "en": {
+   "sentence": "That's where she and my dad met."
+  }
+ },
+ {
+  "ru": {
+   "sentence": "Сегодня мы с Джулией собираемся в поездку в Россию по программе обмена студентами.",
+   "spacy_tokens": [
+    {
+     "text": "Сегодня",
+     "lemma": "сегодня",
+     "morph": "Degree=Pos",
+     "pos": "ADV"
+    },
+    {
+     "text": "мы",
+     "lemma": "мы",
+     "morph": "Case=Nom|Number=Plur|Person=First",
+     "pos": "PRON"
+    },
+    {
+     "text": "с",
+     "lemma": "с",
+     "morph": "",
+     "pos": "ADP"
+    },
+    {
+     "text": "Джулией",
+     "lemma": "джулия",
+     "morph": "Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing",
+     "pos": "PROPN"
+    },
+    {
+     "text": "собираемся",
+     "lemma": "собираться",
+     "morph": "Aspect=Imp|Mood=Ind|Number=Plur|Person=First|Tense=Pres|VerbForm=Fin|Voice=Mid",
+     "pos": "VERB"
+    },
+    {
+     "text": "в",
+     "lemma": "в",
+     "morph": "",
+     "pos": "ADP"
+    },
+    {
+     "text": "поездку",
+     "lemma": "поездка",
+     "morph": "Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing",
+     "pos": "NOUN"
+    },
+    {
+     "text": "в",
+     "lemma": "в",
+     "morph": "",
+     "pos": "ADP"
+    },
+    {
+     "text": "Россию",
+     "lemma": "россия",
+     "morph": "Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing",
+     "pos": "PROPN"
+    },
+    {
+     "text": "по",
+     "lemma": "по",
+     "morph": "",
+     "pos": "ADP"
+    },
+    {
+     "text": "программе",
+     "lemma": "программа",
+     "morph": "Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing",
+     "pos": "NOUN"
+    },
+    {
+     "text": "обмена",
+     "lemma": "обмен",
+     "morph": "Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing",
+     "pos": "NOUN"
+    },
+    {
+     "text": "студентами",
+     "lemma": "студент",
+     "morph": "Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur",
+     "pos": "NOUN"
+    },
+    {
+     "text": ".",
+     "lemma": ".",
+     "morph": "",
+     "pos": "PUNCT"
+    }
+   ],
+   "audio": "Глава 1 - Готовимся!.translated.json.audio\\16.ogg"
+  },
+  "en": {
+   "sentence": "Today Julia and I are going on a student exchange trip to Russia."
+  }
+ },
+ {
+  "ru": {
+   "sentence": "Будет очень интересно, так как я очень мало знаю о российской системе образования.",
+   "spacy_tokens": [
+    {
+     "text": "Будет",
+     "lemma": "будет",
+     "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+     "pos": "AUX"
+    },
+    {
+     "text": "очень",
+     "lemma": "очень",
+     "morph": "Degree=Pos",
+     "pos": "ADV"
+    },
+    {
+     "text": "интересно",
+     "lemma": "интересный",
+     "morph": "Degree=Pos|Gender=Neut|Number=Sing|StyleVariant=Short",
+     "pos": "ADJ"
+    },
+    {
+     "text": ",",
+     "lemma": ",",
+     "morph": "",
+     "pos": "PUNCT"
+    },
+    {
+     "text": "так",
+     "lemma": "так",
+     "morph": "Degree=Pos",
+     "pos": "ADV"
+    },
+    {
+     "text": "как",
+     "lemma": "как",
+     "morph": "",
+     "pos": "SCONJ"
+    },
+    {
+     "text": "я",
+     "lemma": "я",
+     "morph": "Case=Nom|Number=Sing|Person=First",
+     "pos": "PRON"
+    },
+    {
+     "text": "очень",
+     "lemma": "очень",
+     "morph": "Degree=Pos",
+     "pos": "ADV"
+    },
+    {
+     "text": "мало",
+     "lemma": "мало",
+     "morph": "Degree=Pos",
+     "pos": "ADV"
+    },
+    {
+     "text": "знаю",
+     "lemma": "знать",
+     "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=First|Tense=Pres|VerbForm=Fin|Voice=Act",
+     "pos": "VERB"
+    },
+    {
+     "text": "о",
+     "lemma": "о",
+     "morph": "",
+     "pos": "ADP"
+    },
+    {
+     "text": "российской",
+     "lemma": "российский",
+     "morph": "Case=Loc|Degree=Pos|Gender=Fem|Number=Sing",
+     "pos": "ADJ"
+    },
+    {
+     "text": "системе",
+     "lemma": "система",
+     "morph": "Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing",
+     "pos": "NOUN"
+    },
+    {
+     "text": "образования",
+     "lemma": "образование",
+     "morph": "Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing",
+     "pos": "NOUN"
+    },
+    {
+     "text": ".",
+     "lemma": ".",
+     "morph": "",
+     "pos": "PUNCT"
+    }
+   ],
+   "audio": "Глава 1 - Готовимся!.translated.json.audio\\17.ogg"
+  },
+  "en": {
+   "sentence": "It will be very interesting, because I know very little about the Russian education system."
+  }
+ },
+ {
+  "ru": {
+   "sentence": "Я высокий: мой рост 1 метр 87 сантиметров.",
+   "spacy_tokens": [
+    {
+     "text": "Я",
+     "lemma": "я",
+     "morph": "Case=Nom|Number=Sing|Person=First",
+     "pos": "PRON"
+    },
+    {
+     "text": "высокий",
+     "lemma": "высокий",
+     "morph": "Case=Nom|Degree=Pos|Gender=Masc|Number=Sing",
+     "pos": "ADJ"
+    },
+    {
+     "text": ":",
+     "lemma": ":",
+     "morph": "",
+     "pos": "PUNCT"
+    },
+    {
+     "text": "мой",
+     "lemma": "мой",
+     "morph": "Case=Nom|Gender=Masc|Number=Sing",
+     "pos": "DET"
+    },
+    {
+     "text": "рост",
+     "lemma": "рост",
+     "morph": "Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing",
+     "pos": "NOUN"
+    },
+    {
+     "text": "1",
+     "lemma": "1",
+     "morph": "",
+     "pos": "NUM"
+    },
+    {
+     "text": "метр",
+     "lemma": "метр",
+     "morph": "Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing",
+     "pos": "NOUN"
+    },
+    {
+     "text": "87",
+     "lemma": "87",
+     "morph": "",
+     "pos": "NUM"
+    },
+    {
+     "text": "сантиметров",
+     "lemma": "сантиметр",
+     "morph": "Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur",
+     "pos": "NOUN"
+    },
+    {
+     "text": ".",
+     "lemma": ".",
+     "morph": "",
+     "pos": "PUNCT"
+    }
+   ],
+   "audio": "Глава 1 - Готовимся!.translated.json.audio\\18.ogg"
+  },
+  "en": {
+   "sentence": "I'm tall: I'm 1 meter 87 centimeters tall."
+  }
+ },
+ {
+  "ru": {
+   "sentence": "У меня достаточно длинные тёмные волосы.",
+   "spacy_tokens": [
+    {
+     "text": "У",
+     "lemma": "у",
+     "morph": "",
+     "pos": "ADP"
+    },
+    {
+     "text": "меня",
+     "lemma": "меня",
+     "morph": "Case=Gen|Number=Sing|Person=First",
+     "pos": "PRON"
+    },
+    {
+     "text": "достаточно",
+     "lemma": "достаточно",
+     "morph": "Degree=Pos",
+     "pos": "ADV"
+    },
+    {
+     "text": "длинные",
+     "lemma": "длинный",
+     "morph": "Case=Nom|Degree=Pos|Number=Plur",
+     "pos": "ADJ"
+    },
+    {
+     "text": "тёмные",
+     "lemma": "тёмный",
+     "morph": "Case=Nom|Degree=Pos|Number=Plur",
+     "pos": "ADJ"
+    },
+    {
+     "text": "волосы",
+     "lemma": "волос",
+     "morph": "Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur",
+     "pos": "NOUN"
+    },
+    {
+     "text": ".",
+     "lemma": ".",
+     "morph": "",
+     "pos": "PUNCT"
+    }
+   ],
+   "audio": "Глава 1 - Готовимся!.translated.json.audio\\19.ogg"
+  },
+  "en": {
+   "sentence": "I have quite long dark hair."
+  }
+ },
+ {
+  "ru": {
+   "sentence": "У меня зелёные глаза и большой рот.",
+   "spacy_tokens": [
+    {
+     "text": "У",
+     "lemma": "у",
+     "morph": "",
+     "pos": "ADP"
+    },
+    {
+     "text": "меня",
+     "lemma": "меня",
+     "morph": "Case=Gen|Number=Sing|Person=First",
+     "pos": "PRON"
+    },
+    {
+     "text": "зелёные",
+     "lemma": "зелёный",
+     "morph": "Case=Nom|Degree=Pos|Number=Plur",
+     "pos": "ADJ"
+    },
+    {
+     "text": "глаза",
+     "lemma": "глаз",
+     "morph": "Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur",
+     "pos": "NOUN"
+    },
+    {
+     "text": "и",
+     "lemma": "и",
+     "morph": "",
+     "pos": "CCONJ"
+    },
+    {
+     "text": "большой",
+     "lemma": "большой",
+     "morph": "Case=Nom|Degree=Pos|Gender=Masc|Number=Sing",
+     "pos": "ADJ"
+    },
+    {
+     "text": "рот",
+     "lemma": "рот",
+     "morph": "Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing",
+     "pos": "NOUN"
+    },
+    {
+     "text": ".",
+     "lemma": ".",
+     "morph": "",
+     "pos": "PUNCT"
+    }
+   ],
+   "audio": "Глава 1 - Готовимся!.translated.json.audio\\20.ogg"
+  },
+  "en": {
+   "sentence": "I have green eyes and a big mouth."
+  }
+ },
+ {
+  "ru": {
+   "sentence": "Я часто занимаюсь спортом и регулярно бегаю по утрам, поэтому у меня сильные ноги.",
+   "spacy_tokens": [
+    {
+     "text": "Я",
+     "lemma": "я",
+     "morph": "Case=Nom|Number=Sing|Person=First",
+     "pos": "PRON"
+    },
+    {
+     "text": "часто",
+     "lemma": "часто",
+     "morph": "Degree=Pos",
+     "pos": "ADV"
+    },
+    {
+     "text": "занимаюсь",
+     "lemma": "заниматься",
+     "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=First|Tense=Pres|VerbForm=Fin|Voice=Mid",
+     "pos": "VERB"
+    },
+    {
+     "text": "спортом",
+     "lemma": "спорт",
+     "morph": "Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing",
+     "pos": "NOUN"
+    },
+    {
+     "text": "и",
+     "lemma": "и",
+     "morph": "",
+     "pos": "CCONJ"
+    },
+    {
+     "text": "регулярно",
+     "lemma": "регулярно",
+     "morph": "Degree=Pos",
+     "pos": "ADV"
+    },
+    {
+     "text": "бегаю",
+     "lemma": "бегать",
+     "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=First|Tense=Pres|VerbForm=Fin|Voice=Act",
+     "pos": "VERB"
+    },
+    {
+     "text": "по",
+     "lemma": "по",
+     "morph": "",
+     "pos": "ADP"
+    },
+    {
+     "text": "утрам",
+     "lemma": "утро",
+     "morph": "Animacy=Inan|Case=Dat|Gender=Neut|Number=Plur",
+     "pos": "NOUN"
+    },
+    {
+     "text": ",",
+     "lemma": ",",
+     "morph": "",
+     "pos": "PUNCT"
+    },
+    {
+     "text": "поэтому",
+     "lemma": "поэтому",
+     "morph": "Degree=Pos",
+     "pos": "ADV"
+    },
+    {
+     "text": "у",
+     "lemma": "у",
+     "morph": "",
+     "pos": "ADP"
+    },
+    {
+     "text": "меня",
+     "lemma": "меня",
+     "morph": "Case=Gen|Number=Sing|Person=First",
+     "pos": "PRON"
+    },
+    {
+     "text": "сильные",
+     "lemma": "сильный",
+     "morph": "Case=Nom|Degree=Pos|Number=Plur",
+     "pos": "ADJ"
+    },
+    {
+     "text": "ноги",
+     "lemma": "нога",
+     "morph": "Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur",
+     "pos": "NOUN"
+    },
+    {
+     "text": ".",
+     "lemma": ".",
+     "morph": "",
+     "pos": "PUNCT"
+    }
+   ],
+   "audio": "Глава 1 - Готовимся!.translated.json.audio\\21.ogg"
+  },
+  "en": {
+   "sentence": "I often do sports and run regularly in the morning, so I have strong legs."
+  }
+ },
+ {
+  "ru": {
+   "sentence": "У моей сестры Джулии тоже тёмные волосы, но длиннее, чем у меня.",
+   "spacy_tokens": [
+    {
+     "text": "У",
+     "lemma": "у",
+     "morph": "",
+     "pos": "ADP"
+    },
+    {
+     "text": "моей",
+     "lemma": "мой",
+     "morph": "Case=Gen|Gender=Fem|Number=Sing",
+     "pos": "DET"
+    },
+    {
+     "text": "сестры",
+     "lemma": "сестра",
+     "morph": "Animacy=Anim|Case=Gen|Gender=Fem|Number=Sing",
+     "pos": "NOUN"
+    },
+    {
+     "text": "Джулии",
+     "lemma": "джулия",
+     "morph": "Animacy=Anim|Case=Gen|Gender=Fem|Number=Sing",
+     "pos": "PROPN"
+    },
+    {
+     "text": "тоже",
+     "lemma": "тоже",
+     "morph": "Degree=Pos",
+     "pos": "ADV"
+    },
+    {
+     "text": "тёмные",
+     "lemma": "тёмный",
+     "morph": "Case=Nom|Degree=Pos|Number=Plur",
+     "pos": "ADJ"
+    },
+    {
+     "text": "волосы",
+     "lemma": "волос",
+     "morph": "Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur",
+     "pos": "NOUN"
+    },
+    {
+     "text": ",",
+     "lemma": ",",
+     "morph": "",
+     "pos": "PUNCT"
+    },
+    {
+     "text": "но",
+     "lemma": "но",
+     "morph": "",
+     "pos": "CCONJ"
+    },
+    {
+     "text": "длиннее",
+     "lemma": "длинный",
+     "morph": "Degree=Cmp",
+     "pos": "ADJ"
+    },
+    {
+     "text": ",",
+     "lemma": ",",
+     "morph": "",
+     "pos": "PUNCT"
+    },
+    {
+     "text": "чем",
+     "lemma": "чем",
+     "morph": "",
+     "pos": "SCONJ"
+    },
+    {
+     "text": "у",
+     "lemma": "у",
+     "morph": "",
+     "pos": "ADP"
+    },
+    {
+     "text": "меня",
+     "lemma": "меня",
+     "morph": "Case=Gen|Number=Sing|Person=First",
+     "pos": "PRON"
+    },
+    {
+     "text": ".",
+     "lemma": ".",
+     "morph": "",
+     "pos": "PUNCT"
+    }
+   ],
+   "audio": "Глава 1 - Готовимся!.translated.json.audio\\22.ogg"
+  },
+  "en": {
+   "sentence": "My sister Julia also has dark hair, but it's longer than mine."
+  }
+ },
+ {
+  "ru": {
+   "sentence": "Глаза у неё не зелёные, а карие, как у нашего папы.",
+   "spacy_tokens": [
+    {
+     "text": "Глаза",
+     "lemma": "глаза",
+     "morph": "Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing",
+     "pos": "NOUN"
+    },
+    {
+     "text": "у",
+     "lemma": "у",
+     "morph": "",
+     "pos": "ADP"
+    },
+    {
+     "text": "неё",
+     "lemma": "неё",
+     "morph": "Case=Gen|Gender=Fem|Number=Sing|Person=Third",
+     "pos": "PRON"
+    },
+    {
+     "text": "не",
+     "lemma": "не",
+     "morph": "Polarity=Neg",
+     "pos": "PART"
+    },
+    {
+     "text": "зелёные",
+     "lemma": "зелёный",
+     "morph": "Case=Nom|Degree=Pos|Number=Plur",
+     "pos": "ADJ"
+    },
+    {
+     "text": ",",
+     "lemma": ",",
+     "morph": "",
+     "pos": "PUNCT"
+    },
+    {
+     "text": "а",
+     "lemma": "а",
+     "morph": "",
+     "pos": "CCONJ"
+    },
+    {
+     "text": "карие",
+     "lemma": "карий",
+     "morph": "Case=Nom|Degree=Pos|Number=Plur",
+     "pos": "ADJ"
+    },
+    {
+     "text": ",",
+     "lemma": ",",
+     "morph": "",
+     "pos": "PUNCT"
+    },
+    {
+     "text": "как",
+     "lemma": "как",
+     "morph": "",
+     "pos": "SCONJ"
+    },
+    {
+     "text": "у",
+     "lemma": "у",
+     "morph": "",
+     "pos": "ADP"
+    },
+    {
+     "text": "нашего",
+     "lemma": "наш",
+     "morph": "Case=Gen|Gender=Masc|Number=Sing",
+     "pos": "DET"
+    },
+    {
+     "text": "папы",
+     "lemma": "папа",
+     "morph": "Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing",
+     "pos": "NOUN"
+    },
+    {
+     "text": ".",
+     "lemma": ".",
+     "morph": "",
+     "pos": "PUNCT"
+    }
+   ],
+   "audio": "Глава 1 - Готовимся!.translated.json.audio\\23.ogg"
+  },
+  "en": {
+   "sentence": "Her eyes are not green, but brown like our dad's."
+  }
+ },
+ {
+  "ru": {
+   "sentence": "У меня глаза такого же цвета, как у мамы.",
+   "spacy_tokens": [
+    {
+     "text": "У",
+     "lemma": "у",
+     "morph": "",
+     "pos": "ADP"
+    },
+    {
+     "text": "меня",
+     "lemma": "меня",
+     "morph": "Case=Gen|Number=Sing|Person=First",
+     "pos": "PRON"
+    },
+    {
+     "text": "глаза",
+     "lemma": "глаз",
+     "morph": "Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur",
+     "pos": "NOUN"
+    },
+    {
+     "text": "такого",
+     "lemma": "такой",
+     "morph": "Case=Gen|Gender=Masc|Number=Sing",
+     "pos": "DET"
+    },
+    {
+     "text": "же",
+     "lemma": "же",
+     "morph": "",
+     "pos": "PART"
+    },
+    {
+     "text": "цвета",
+     "lemma": "цвет",
+     "morph": "Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing",
+     "pos": "NOUN"
+    },
+    {
+     "text": ",",
+     "lemma": ",",
+     "morph": "",
+     "pos": "PUNCT"
+    },
+    {
+     "text": "как",
+     "lemma": "как",
+     "morph": "",
+     "pos": "SCONJ"
+    },
+    {
+     "text": "у",
+     "lemma": "у",
+     "morph": "",
+     "pos": "ADP"
+    },
+    {
+     "text": "мамы",
+     "lemma": "мама",
+     "morph": "Animacy=Anim|Case=Gen|Gender=Fem|Number=Sing",
+     "pos": "NOUN"
+    },
+    {
+     "text": ".",
+     "lemma": ".",
+     "morph": "",
+     "pos": "PUNCT"
+    }
+   ],
+   "audio": "Глава 1 - Готовимся!.translated.json.audio\\24.ogg"
+  },
+  "en": {
+   "sentence": "My eyes are the same color as my mom's."
+  }
+ },
+ {
+  "ru": {
+   "sentence": "У Джулии полные губы.",
+   "spacy_tokens": [
+    {
+     "text": "У",
+     "lemma": "у",
+     "morph": "",
+     "pos": "ADP"
+    },
+    {
+     "text": "Джулии",
+     "lemma": "джулия",
+     "morph": "Animacy=Anim|Case=Gen|Gender=Fem|Number=Sing",
+     "pos": "PROPN"
+    },
+    {
+     "text": "полные",
+     "lemma": "полный",
+     "morph": "Case=Nom|Degree=Pos|Number=Plur",
+     "pos": "ADJ"
+    },
+    {
+     "text": "губы",
+     "lemma": "губа",
+     "morph": "Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur",
+     "pos": "NOUN"
+    },
+    {
+     "text": ".",
+     "lemma": ".",
+     "morph": "",
+     "pos": "PUNCT"
+    }
+   ],
+   "audio": "Глава 1 - Готовимся!.translated.json.audio\\25.ogg"
+  },
+  "en": {
+   "sentence": "Julia has full lips."
+  }
+ },
+ {
+  "ru": {
+   "sentence": "Она очень красивая.",
+   "spacy_tokens": [
+    {
+     "text": "Она",
+     "lemma": "она",
+     "morph": "Case=Nom|Gender=Fem|Number=Sing|Person=Third",
+     "pos": "PRON"
+    },
+    {
+     "text": "очень",
+     "lemma": "очень",
+     "morph": "Degree=Pos",
+     "pos": "ADV"
+    },
+    {
+     "text": "красивая",
+     "lemma": "красивый",
+     "morph": "Case=Nom|Degree=Pos|Gender=Fem|Number=Sing",
+     "pos": "ADJ"
+    },
+    {
+     "text": ".",
+     "lemma": ".",
+     "morph": "",
+     "pos": "PUNCT"
+    }
+   ],
+   "audio": "Глава 1 - Готовимся!.translated.json.audio\\26.ogg"
+  },
+  "en": {
+   "sentence": "She's very pretty."
+  }
+ },
+ {
+  "ru": {
+   "sentence": "Мои родители работают.",
+   "spacy_tokens": [
+    {
+     "text": "Мои",
+     "lemma": "мой",
+     "morph": "Case=Nom|Number=Plur",
+     "pos": "DET"
+    },
+    {
+     "text": "родители",
+     "lemma": "родитель",
+     "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur",
+     "pos": "NOUN"
+    },
+    {
+     "text": "работают",
+     "lemma": "работать",
+     "morph": "Aspect=Imp|Mood=Ind|Number=Plur|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+     "pos": "VERB"
+    },
+    {
+     "text": ".",
+     "lemma": ".",
+     "morph": "",
+     "pos": "PUNCT"
+    }
+   ],
+   "audio": "Глава 1 - Готовимся!.translated.json.audio\\27.ogg"
+  },
+  "en": {
+   "sentence": "My parents work."
+  }
+ },
+ {
+  "ru": {
+   "sentence": "Мой отец Артур работает художником по костюмам в театре.",
+   "spacy_tokens": [
+    {
+     "text": "Мой",
+     "lemma": "мой",
+     "morph": "Case=Nom|Gender=Masc|Number=Sing",
+     "pos": "DET"
+    },
+    {
+     "text": "отец",
+     "lemma": "отец",
+     "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing",
+     "pos": "NOUN"
+    },
+    {
+     "text": "Артур",
+     "lemma": "артур",
+     "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing",
+     "pos": "PROPN"
+    },
+    {
+     "text": "работает",
+     "lemma": "работать",
+     "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+     "pos": "VERB"
+    },
+    {
+     "text": "художником",
+     "lemma": "художник",
+     "morph": "Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing",
+     "pos": "NOUN"
+    },
+    {
+     "text": "по",
+     "lemma": "по",
+     "morph": "",
+     "pos": "ADP"
+    },
+    {
+     "text": "костюмам",
+     "lemma": "костюм",
+     "morph": "Animacy=Inan|Case=Dat|Gender=Masc|Number=Plur",
+     "pos": "NOUN"
+    },
+    {
+     "text": "в",
+     "lemma": "в",
+     "morph": "",
+     "pos": "ADP"
+    },
+    {
+     "text": "театре",
+     "lemma": "театр",
+     "morph": "Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing",
+     "pos": "NOUN"
+    },
+    {
+     "text": ".",
+     "lemma": ".",
+     "morph": "",
+     "pos": "PUNCT"
+    }
+   ],
+   "audio": "Глава 1 - Готовимся!.translated.json.audio\\28.ogg"
+  },
+  "en": {
+   "sentence": "My father Arthur works as a costume designer in the theater."
+  }
+ },
+ {
+  "ru": {
+   "sentence": "У матери своё предприятие по продаже книг в жанре научной фантастики.",
+   "spacy_tokens": [
+    {
+     "text": "У",
+     "lemma": "у",
+     "morph": "",
+     "pos": "ADP"
+    },
+    {
+     "text": "матери",
+     "lemma": "мать",
+     "morph": "Animacy=Anim|Case=Gen|Gender=Fem|Number=Sing",
+     "pos": "NOUN"
+    },
+    {
+     "text": "своё",
+     "lemma": "свой",
+     "morph": "Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing",
+     "pos": "DET"
+    },
+    {
+     "text": "предприятие",
+     "lemma": "предприятие",
+     "morph": "Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing",
+     "pos": "NOUN"
+    },
+    {
+     "text": "по",
+     "lemma": "по",
+     "morph": "",
+     "pos": "ADP"
+    },
+    {
+     "text": "продаже",
+     "lemma": "продажа",
+     "morph": "Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing",
+     "pos": "NOUN"
+    },
+    {
+     "text": "книг",
+     "lemma": "книга",
+     "morph": "Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur",
+     "pos": "NOUN"
+    },
+    {
+     "text": "в",
+     "lemma": "в",
+     "morph": "",
+     "pos": "ADP"
+    },
+    {
+     "text": "жанре",
+     "lemma": "жанр",
+     "morph": "Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing",
+     "pos": "NOUN"
+    },
+    {
+     "text": "научной",
+     "lemma": "научный",
+     "morph": "Case=Gen|Degree=Pos|Gender=Fem|Number=Sing",
+     "pos": "ADJ"
+    },
+    {
+     "text": "фантастики",
+     "lemma": "фантастика",
+     "morph": "Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing",
+     "pos": "NOUN"
+    },
+    {
+     "text": ".",
+     "lemma": ".",
+     "morph": "",
+     "pos": "PUNCT"
+    }
+   ],
+   "audio": "Глава 1 - Готовимся!.translated.json.audio\\29.ogg"
+  },
+  "en": {
+   "sentence": "My mother has her own business selling science fiction books."
+  }
+ },
+ {
+  "ru": {
+   "sentence": "Папа неплохо говорит на русском языке, и дома мы разговариваем на двух языках: на русском и на английском.",
+   "spacy_tokens": [
+    {
+     "text": "Папа",
+     "lemma": "папа",
+     "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing",
+     "pos": "NOUN"
+    },
+    {
+     "text": "неплохо",
+     "lemma": "неплохо",
+     "morph": "Degree=Pos",
+     "pos": "ADV"
+    },
+    {
+     "text": "говорит",
+     "lemma": "говорить",
+     "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+     "pos": "VERB"
+    },
+    {
+     "text": "на",
+     "lemma": "на",
+     "morph": "",
+     "pos": "ADP"
+    },
+    {
+     "text": "русском",
+     "lemma": "русский",
+     "morph": "Case=Loc|Degree=Pos|Gender=Masc|Number=Sing",
+     "pos": "ADJ"
+    },
+    {
+     "text": "языке",
+     "lemma": "язык",
+     "morph": "Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing",
+     "pos": "NOUN"
+    },
+    {
+     "text": ",",
+     "lemma": ",",
+     "morph": "",
+     "pos": "PUNCT"
+    },
+    {
+     "text": "и",
+     "lemma": "и",
+     "morph": "",
+     "pos": "CCONJ"
+    },
+    {
+     "text": "дома",
+     "lemma": "дома",
+     "morph": "Degree=Pos",
+     "pos": "ADV"
+    },
+    {
+     "text": "мы",
+     "lemma": "мы",
+     "morph": "Case=Nom|Number=Plur|Person=First",
+     "pos": "PRON"
+    },
+    {
+     "text": "разговариваем",
+     "lemma": "разговаривать",
+     "morph": "Aspect=Imp|Mood=Ind|Number=Plur|Person=First|Tense=Pres|VerbForm=Fin|Voice=Act",
+     "pos": "VERB"
+    },
+    {
+     "text": "на",
+     "lemma": "на",
+     "morph": "",
+     "pos": "ADP"
+    },
+    {
+     "text": "двух",
+     "lemma": "два",
+     "morph": "Case=Loc",
+     "pos": "NUM"
+    },
+    {
+     "text": "языках",
+     "lemma": "язык",
+     "morph": "Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur",
+     "pos": "NOUN"
+    },
+    {
+     "text": ":",
+     "lemma": ":",
+     "morph": "",
+     "pos": "PUNCT"
+    },
+    {
+     "text": "на",
+     "lemma": "на",
+     "morph": "",
+     "pos": "ADP"
+    },
+    {
+     "text": "русском",
+     "lemma": "русский",
+     "morph": "Case=Loc|Degree=Pos|Gender=Masc|Number=Sing",
+     "pos": "ADJ"
+    },
+    {
+     "text": "и",
+     "lemma": "и",
+     "morph": "",
+     "pos": "CCONJ"
+    },
+    {
+     "text": "на",
+     "lemma": "на",
+     "morph": "",
+     "pos": "ADP"
+    },
+    {
+     "text": "английском",
+     "lemma": "английский",
+     "morph": "Case=Loc|Degree=Pos|Gender=Masc|Number=Sing",
+     "pos": "ADJ"
+    },
+    {
+     "text": ".",
+     "lemma": ".",
+     "morph": "",
+     "pos": "PUNCT"
+    }
+   ],
+   "audio": "Глава 1 - Готовимся!.translated.json.audio\\30.ogg"
+  },
+  "en": {
+   "sentence": "Dad speaks Russian quite well, and we speak two languages at home: Russian and English."
+  }
+ },
+ {
+  "ru": {
+   "sentence": "Папа смотрит на меня и видит, что я ещё не одет.",
+   "spacy_tokens": [
+    {
+     "text": "Папа",
+     "lemma": "папа",
+     "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing",
+     "pos": "NOUN"
+    },
+    {
+     "text": "смотрит",
+     "lemma": "смотреть",
+     "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+     "pos": "VERB"
+    },
+    {
+     "text": "на",
+     "lemma": "на",
+     "morph": "",
+     "pos": "ADP"
+    },
+    {
+     "text": "меня",
+     "lemma": "меня",
+     "morph": "Case=Acc|Number=Sing|Person=First",
+     "pos": "PRON"
+    },
+    {
+     "text": "и",
+     "lemma": "и",
+     "morph": "",
+     "pos": "CCONJ"
+    },
+    {
+     "text": "видит",
+     "lemma": "видеть",
+     "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+     "pos": "VERB"
+    },
+    {
+     "text": ",",
+     "lemma": ",",
+     "morph": "",
+     "pos": "PUNCT"
+    },
+    {
+     "text": "что",
+     "lemma": "что",
+     "morph": "",
+     "pos": "SCONJ"
+    },
+    {
+     "text": "я",
+     "lemma": "я",
+     "morph": "Case=Nom|Number=Sing|Person=First",
+     "pos": "PRON"
+    },
+    {
+     "text": "ещё",
+     "lemma": "ещё",
+     "morph": "Degree=Pos",
+     "pos": "ADV"
+    },
+    {
+     "text": "не",
+     "lemma": "не",
+     "morph": "Polarity=Neg",
+     "pos": "PART"
+    },
+    {
+     "text": "одет",
+     "lemma": "одеть",
+     "morph": "Aspect=Perf|Gender=Masc|Number=Sing|StyleVariant=Short|Tense=Past|VerbForm=Part|Voice=Pass",
+     "pos": "VERB"
+    },
+    {
+     "text": ".",
+     "lemma": ".",
+     "morph": "",
+     "pos": "PUNCT"
+    }
+   ],
+   "audio": "Глава 1 - Готовимся!.translated.json.audio\\31.ogg"
+  },
+  "en": {
+   "sentence": "Dad looks at me and sees that I'm not dressed yet."
+  }
+ },
+ {
+  "ru": {
+   "sentence": "– Даниэль!",
+   "spacy_tokens": [
+    {
+     "text": "–",
+     "lemma": "–",
+     "morph": "",
+     "pos": "PUNCT"
+    },
+    {
+     "text": "Даниэль",
+     "lemma": "даниэль",
+     "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing",
+     "pos": "PROPN"
+    },
+    {
+     "text": "!",
+     "lemma": "!",
+     "morph": "",
+     "pos": "PUNCT"
+    }
+   ],
+   "audio": "Глава 1 - Готовимся!.translated.json.audio\\32.ogg"
+  },
+  "en": {
+   "sentence": "- Daniel!"
+  }
+ },
+ {
+  "ru": {
+   "sentence": "Почему ты не одет?",
+   "spacy_tokens": [
+    {
+     "text": "Почему",
+     "lemma": "почему",
+     "morph": "Degree=Pos",
+     "pos": "ADV"
+    },
+    {
+     "text": "ты",
+     "lemma": "ты",
+     "morph": "Case=Nom|Number=Sing|Person=Second",
+     "pos": "PRON"
+    },
+    {
+     "text": "не",
+     "lemma": "не",
+     "morph": "Polarity=Neg",
+     "pos": "PART"
+    },
+    {
+     "text": "одет",
+     "lemma": "одеть",
+     "morph": "Aspect=Perf|Gender=Masc|Number=Sing|StyleVariant=Short|Tense=Past|VerbForm=Part|Voice=Pass",
+     "pos": "VERB"
+    },
+    {
+     "text": "?",
+     "lemma": "?",
+     "morph": "",
+     "pos": "PUNCT"
+    }
+   ],
+   "audio": "Глава 1 - Готовимся!.translated.json.audio\\33.ogg"
+  },
+  "en": {
+   "sentence": "Why aren't you dressed?"
+  }
+ },
+ {
+  "ru": {
+   "sentence": "– Я недавно встал, но мой чемодан уже готов!",
+   "spacy_tokens": [
+    {
+     "text": "–",
+     "lemma": "–",
+     "morph": "",
+     "pos": "PUNCT"
+    },
+    {
+     "text": "Я",
+     "lemma": "я",
+     "morph": "Case=Nom|Number=Sing|Person=First",
+     "pos": "PRON"
+    },
+    {
+     "text": "недавно",
+     "lemma": "недавно",
+     "morph": "Degree=Pos",
+     "pos": "ADV"
+    },
+    {
+     "text": "встал",
+     "lemma": "встать",
+     "morph": "Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+     "pos": "VERB"
+    },
+    {
+     "text": ",",
+     "lemma": ",",
+     "morph": "",
+     "pos": "PUNCT"
+    },
+    {
+     "text": "но",
+     "lemma": "но",
+     "morph": "",
+     "pos": "CCONJ"
+    },
+    {
+     "text": "мой",
+     "lemma": "мой",
+     "morph": "Case=Nom|Gender=Masc|Number=Sing",
+     "pos": "DET"
+    },
+    {
+     "text": "чемодан",
+     "lemma": "чемодан",
+     "morph": "Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing",
+     "pos": "NOUN"
+    },
+    {
+     "text": "уже",
+     "lemma": "уже",
+     "morph": "Degree=Pos",
+     "pos": "ADV"
+    },
+    {
+     "text": "готов",
+     "lemma": "готовый",
+     "morph": "Degree=Pos|Gender=Masc|Number=Sing|StyleVariant=Short",
+     "pos": "ADJ"
+    },
+    {
+     "text": "!",
+     "lemma": "!",
+     "morph": "",
+     "pos": "PUNCT"
+    }
+   ],
+   "audio": "Глава 1 - Готовимся!.translated.json.audio\\34.ogg"
+  },
+  "en": {
+   "sentence": "- I just got up, but my suitcase is ready!"
+  }
+ },
+ {
+  "ru": {
+   "sentence": "– Скорее!",
+   "spacy_tokens": [
+    {
+     "text": "–",
+     "lemma": "–",
+     "morph": "",
+     "pos": "PUNCT"
+    },
+    {
+     "text": "Скорее",
+     "lemma": "скорее",
+     "morph": "Degree=Pos",
+     "pos": "ADV"
+    },
+    {
+     "text": "!",
+     "lemma": "!",
+     "morph": "",
+     "pos": "PUNCT"
+    }
+   ],
+   "audio": "Глава 1 - Готовимся!.translated.json.audio\\35.ogg"
+  },
+  "en": {
+   "sentence": "- Hurry up!"
+  }
+ },
+ {
+  "ru": {
+   "sentence": "Нам пора ехать в аэропорт, а потом мне нужно быстро идти на работу.",
+   "spacy_tokens": [
+    {
+     "text": "Нам",
+     "lemma": "нам",
+     "morph": "Case=Dat|Number=Plur|Person=First",
+     "pos": "PRON"
+    },
+    {
+     "text": "пора",
+     "lemma": "пора",
+     "morph": "Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing",
+     "pos": "NOUN"
+    },
+    {
+     "text": "ехать",
+     "lemma": "ехать",
+     "morph": "Aspect=Imp|VerbForm=Inf|Voice=Act",
+     "pos": "VERB"
+    },
+    {
+     "text": "в",
+     "lemma": "в",
+     "morph": "",
+     "pos": "ADP"
+    },
+    {
+     "text": "аэропорт",
+     "lemma": "аэропорт",
+     "morph": "Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing",
+     "pos": "NOUN"
+    },
+    {
+     "text": ",",
+     "lemma": ",",
+     "morph": "",
+     "pos": "PUNCT"
+    },
+    {
+     "text": "а",
+     "lemma": "а",
+     "morph": "",
+     "pos": "CCONJ"
+    },
+    {
+     "text": "потом",
+     "lemma": "потом",
+     "morph": "Degree=Pos",
+     "pos": "ADV"
+    },
+    {
+     "text": "мне",
+     "lemma": "мне",
+     "morph": "Case=Dat|Number=Sing|Person=First",
+     "pos": "PRON"
+    },
+    {
+     "text": "нужно",
+     "lemma": "нужный",
+     "morph": "Degree=Pos|Gender=Neut|Number=Sing|StyleVariant=Short",
+     "pos": "ADJ"
+    },
+    {
+     "text": "быстро",
+     "lemma": "быстро",
+     "morph": "Degree=Pos",
+     "pos": "ADV"
+    },
+    {
+     "text": "идти",
+     "lemma": "идти",
+     "morph": "Aspect=Imp|VerbForm=Inf|Voice=Act",
+     "pos": "VERB"
+    },
+    {
+     "text": "на",
+     "lemma": "на",
+     "morph": "",
+     "pos": "ADP"
+    },
+    {
+     "text": "работу",
+     "lemma": "работа",
+     "morph": "Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing",
+     "pos": "NOUN"
+    },
+    {
+     "text": ".",
+     "lemma": ".",
+     "morph": "",
+     "pos": "PUNCT"
+    }
+   ],
+   "audio": "Глава 1 - Готовимся!.translated.json.audio\\36.ogg"
+  },
+  "en": {
+   "sentence": "We have to go to the airport and then I have to go to work quickly."
+  }
+ },
+ {
+  "ru": {
+   "sentence": "У меня мало времени.",
+   "spacy_tokens": [
+    {
+     "text": "У",
+     "lemma": "у",
+     "morph": "",
+     "pos": "ADP"
+    },
+    {
+     "text": "меня",
+     "lemma": "меня",
+     "morph": "Case=Gen|Number=Sing|Person=First",
+     "pos": "PRON"
+    },
+    {
+     "text": "мало",
+     "lemma": "мало",
+     "morph": "Degree=Pos",
+     "pos": "ADV"
+    },
+    {
+     "text": "времени",
+     "lemma": "время",
+     "morph": "Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing",
+     "pos": "NOUN"
+    },
+    {
+     "text": ".",
+     "lemma": ".",
+     "morph": "",
+     "pos": "PUNCT"
+    }
+   ],
+   "audio": "Глава 1 - Готовимся!.translated.json.audio\\37.ogg"
+  },
+  "en": {
+   "sentence": "I don't have much time."
+  }
+ },
+ {
+  "ru": {
+   "sentence": "– Не волнуйся, папа.",
+   "spacy_tokens": [
+    {
+     "text": "–",
+     "lemma": "–",
+     "morph": "",
+     "pos": "PUNCT"
+    },
+    {
+     "text": "Не",
+     "lemma": "не",
+     "morph": "Polarity=Neg",
+     "pos": "PART"
+    },
+    {
+     "text": "волнуйся",
+     "lemma": "волноваться",
+     "morph": "Aspect=Imp|Mood=Imp|Number=Sing|Person=Second|VerbForm=Fin|Voice=Mid",
+     "pos": "VERB"
+    },
+    {
+     "text": ",",
+     "lemma": ",",
+     "morph": "",
+     "pos": "PUNCT"
+    },
+    {
+     "text": "папа",
+     "lemma": "папа",
+     "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing",
+     "pos": "NOUN"
+    },
+    {
+     "text": ".",
+     "lemma": ".",
+     "morph": "",
+     "pos": "PUNCT"
+    }
+   ],
+   "audio": "Глава 1 - Готовимся!.translated.json.audio\\38.ogg"
+  },
+  "en": {
+   "sentence": "- Don't worry, Dad."
+  }
+ },
+ {
+  "ru": {
+   "sentence": "Я сейчас оденусь.",
+   "spacy_tokens": [
+    {
+     "text": "Я",
+     "lemma": "я",
+     "morph": "Case=Nom|Number=Sing|Person=First",
+     "pos": "PRON"
+    },
+    {
+     "text": "сейчас",
+     "lemma": "сейчас",
+     "morph": "Degree=Pos",
+     "pos": "ADV"
+    },
+    {
+     "text": "оденусь",
+     "lemma": "одеться",
+     "morph": "Aspect=Perf|Mood=Ind|Number=Sing|Person=First|Tense=Fut|VerbForm=Fin|Voice=Mid",
+     "pos": "VERB"
+    },
+    {
+     "text": ".",
+     "lemma": ".",
+     "morph": "",
+     "pos": "PUNCT"
+    }
+   ],
+   "audio": "Глава 1 - Готовимся!.translated.json.audio\\39.ogg"
+  },
+  "en": {
+   "sentence": "I'll get dressed."
+  }
+ },
+ {
+  "ru": {
+   "sentence": "– Где твоя сестра?",
+   "spacy_tokens": [
+    {
+     "text": "–",
+     "lemma": "–",
+     "morph": "",
+     "pos": "PUNCT"
+    },
+    {
+     "text": "Где",
+     "lemma": "где",
+     "morph": "Degree=Pos",
+     "pos": "ADV"
+    },
+    {
+     "text": "твоя",
+     "lemma": "твой",
+     "morph": "Case=Nom|Gender=Fem|Number=Sing",
+     "pos": "DET"
+    },
+    {
+     "text": "сестра",
+     "lemma": "сестра",
+     "morph": "Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing",
+     "pos": "NOUN"
+    },
+    {
+     "text": "?",
+     "lemma": "?",
+     "morph": "",
+     "pos": "PUNCT"
+    }
+   ],
+   "audio": "Глава 1 - Готовимся!.translated.json.audio\\40.ogg"
+  },
+  "en": {
+   "sentence": "- Where's your sister?"
+  }
+ },
+ {
+  "ru": {
+   "sentence": "– Она у себя в комнате.",
+   "spacy_tokens": [
+    {
+     "text": "–",
+     "lemma": "–",
+     "morph": "",
+     "pos": "PUNCT"
+    },
+    {
+     "text": "Она",
+     "lemma": "она",
+     "morph": "Case=Nom|Gender=Fem|Number=Sing|Person=Third",
+     "pos": "PRON"
+    },
+    {
+     "text": "у",
+     "lemma": "у",
+     "morph": "",
+     "pos": "ADP"
+    },
+    {
+     "text": "себя",
+     "lemma": "себя",
+     "morph": "Case=Gen",
+     "pos": "PRON"
+    },
+    {
+     "text": "в",
+     "lemma": "в",
+     "morph": "",
+     "pos": "ADP"
+    },
+    {
+     "text": "комнате",
+     "lemma": "комната",
+     "morph": "Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing",
+     "pos": "NOUN"
+    },
+    {
+     "text": ".",
+     "lemma": ".",
+     "morph": "",
+     "pos": "PUNCT"
+    }
+   ],
+   "audio": "Глава 1 - Готовимся!.translated.json.audio\\41.ogg"
+  },
+  "en": {
+   "sentence": "- She's in her room."
+  }
+ },
+ {
+  "ru": {
+   "sentence": "Папа идёт в комнату сестры.",
+   "spacy_tokens": [
+    {
+     "text": "Папа",
+     "lemma": "папа",
+     "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing",
+     "pos": "NOUN"
+    },
+    {
+     "text": "идёт",
+     "lemma": "идти",
+     "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+     "pos": "VERB"
+    },
+    {
+     "text": "в",
+     "lemma": "в",
+     "morph": "",
+     "pos": "ADP"
+    },
+    {
+     "text": "комнату",
+     "lemma": "комната",
+     "morph": "Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing",
+     "pos": "NOUN"
+    },
+    {
+     "text": "сестры",
+     "lemma": "сестра",
+     "morph": "Animacy=Anim|Case=Gen|Gender=Fem|Number=Sing",
+     "pos": "NOUN"
+    },
+    {
+     "text": ".",
+     "lemma": ".",
+     "morph": "",
+     "pos": "PUNCT"
+    }
+   ],
+   "audio": "Глава 1 - Готовимся!.translated.json.audio\\42.ogg"
+  },
+  "en": {
+   "sentence": "Daddy's going to his sister's room."
+  }
+ },
+ {
+  "ru": {
+   "sentence": "Он хочет поговорить с ней.",
+   "spacy_tokens": [
+    {
+     "text": "Он",
+     "lemma": "он",
+     "morph": "Case=Nom|Gender=Masc|Number=Sing|Person=Third",
+     "pos": "PRON"
+    },
+    {
+     "text": "хочет",
+     "lemma": "хотеть",
+     "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+     "pos": "VERB"
+    },
+    {
+     "text": "поговорить",
+     "lemma": "поговорить",
+     "morph": "Aspect=Perf|VerbForm=Inf|Voice=Act",
+     "pos": "VERB"
+    },
+    {
+     "text": "с",
+     "lemma": "с",
+     "morph": "",
+     "pos": "ADP"
+    },
+    {
+     "text": "ней",
+     "lemma": "ней",
+     "morph": "Case=Ins|Gender=Fem|Number=Sing|Person=Third",
+     "pos": "PRON"
+    },
+    {
+     "text": ".",
+     "lemma": ".",
+     "morph": "",
+     "pos": "PUNCT"
+    }
+   ],
+   "audio": "Глава 1 - Готовимся!.translated.json.audio\\43.ogg"
+  },
+  "en": {
+   "sentence": "He wants to talk to her."
+  }
+ },
+ {
+  "ru": {
+   "sentence": "Джулия смотрит на него.",
+   "spacy_tokens": [
+    {
+     "text": "Джулия",
+     "lemma": "джулия",
+     "morph": "Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing",
+     "pos": "PROPN"
+    },
+    {
+     "text": "смотрит",
+     "lemma": "смотреть",
+     "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+     "pos": "VERB"
+    },
+    {
+     "text": "на",
+     "lemma": "на",
+     "morph": "",
+     "pos": "ADP"
+    },
+    {
+     "text": "него",
+     "lemma": "него",
+     "morph": "Case=Acc|Gender=Masc|Number=Sing|Person=Third",
+     "pos": "PRON"
+    },
+    {
+     "text": ".",
+     "lemma": ".",
+     "morph": "",
+     "pos": "PUNCT"
+    }
+   ],
+   "audio": "Глава 1 - Готовимся!.translated.json.audio\\44.ogg"
+  },
+  "en": {
+   "sentence": "Julia looks at him."
+  }
+ },
+ {
+  "ru": {
+   "sentence": "– Доброе утро, папа.",
+   "spacy_tokens": [
+    {
+     "text": "–",
+     "lemma": "–",
+     "morph": "",
+     "pos": "PUNCT"
+    },
+    {
+     "text": "Доброе",
+     "lemma": "добрый",
+     "morph": "Case=Nom|Degree=Pos|Gender=Neut|Number=Sing",
+     "pos": "ADJ"
+    },
+    {
+     "text": "утро",
+     "lemma": "утро",
+     "morph": "Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing",
+     "pos": "NOUN"
+    },
+    {
+     "text": ",",
+     "lemma": ",",
+     "morph": "",
+     "pos": "PUNCT"
+    },
+    {
+     "text": "папа",
+     "lemma": "папа",
+     "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing",
+     "pos": "NOUN"
+    },
+    {
+     "text": ".",
+     "lemma": ".",
+     "morph": "",
+     "pos": "PUNCT"
+    }
+   ],
+   "audio": "Глава 1 - Готовимся!.translated.json.audio\\45.ogg"
+  },
+  "en": {
+   "sentence": "- Good morning, Papa."
+  }
+ },
+ {
+  "ru": {
+   "sentence": "Тебе что-то нужно?",
+   "spacy_tokens": [
+    {
+     "text": "Тебе",
+     "lemma": "тебе",
+     "morph": "Case=Dat|Number=Sing|Person=Second",
+     "pos": "PRON"
+    },
+    {
+     "text": "что",
+     "lemma": "что",
+     "morph": "Case=Nom",
+     "pos": "PRON"
+    },
+    {
+     "text": "-",
+     "lemma": "-",
+     "morph": "Case=Nom",
+     "pos": "PRON"
+    },
+    {
+     "text": "то",
+     "lemma": "то",
+     "morph": "Case=Nom",
+     "pos": "PRON"
+    },
+    {
+     "text": "нужно",
+     "lemma": "нужный",
+     "morph": "Degree=Pos|Gender=Neut|Number=Sing|StyleVariant=Short",
+     "pos": "ADJ"
+    },
+    {
+     "text": "?",
+     "lemma": "?",
+     "morph": "",
+     "pos": "PUNCT"
+    }
+   ],
+   "audio": "Глава 1 - Готовимся!.translated.json.audio\\46.ogg"
+  },
+  "en": {
+   "sentence": "Do you need something?"
+  }
+ },
+ {
+  "ru": {
+   "sentence": "– Да, Джулия.",
+   "spacy_tokens": [
+    {
+     "text": "–",
+     "lemma": "–",
+     "morph": "",
+     "pos": "PUNCT"
+    },
+    {
+     "text": "Да",
+     "lemma": "да",
+     "morph": "",
+     "pos": "PART"
+    },
+    {
+     "text": ",",
+     "lemma": ",",
+     "morph": "",
+     "pos": "PUNCT"
+    },
+    {
+     "text": "Джулия",
+     "lemma": "джулия",
+     "morph": "Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing",
+     "pos": "PROPN"
+    },
+    {
+     "text": ".",
+     "lemma": ".",
+     "morph": "",
+     "pos": "PUNCT"
+    }
+   ],
+   "audio": "Глава 1 - Готовимся!.translated.json.audio\\47.ogg"
+  },
+  "en": {
+   "sentence": "- Yes, Julia."
+  }
+ },
+ {
+  "ru": {
+   "sentence": "Твой брат уже одевается.",
+   "spacy_tokens": [
+    {
+     "text": "Твой",
+     "lemma": "твой",
+     "morph": "Case=Nom|Gender=Masc|Number=Sing",
+     "pos": "DET"
+    },
+    {
+     "text": "брат",
+     "lemma": "брат",
+     "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing",
+     "pos": "NOUN"
+    },
+    {
+     "text": "уже",
+     "lemma": "уже",
+     "morph": "Degree=Pos",
+     "pos": "ADV"
+    },
+    {
+     "text": "одевается",
+     "lemma": "одеваться",
+     "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Mid",
+     "pos": "VERB"
+    },
+    {
+     "text": ".",
+     "lemma": ".",
+     "morph": "",
+     "pos": "PUNCT"
+    }
+   ],
+   "audio": "Глава 1 - Готовимся!.translated.json.audio\\48.ogg"
+  },
+  "en": {
+   "sentence": "Your brother is already getting dressed."
+  }
+ },
+ {
+  "ru": {
+   "sentence": "Я хочу, чтобы вы взяли с собой это.",
+   "spacy_tokens": [
+    {
+     "text": "Я",
+     "lemma": "я",
+     "morph": "Case=Nom|Number=Sing|Person=First",
+     "pos": "PRON"
+    },
+    {
+     "text": "хочу",
+     "lemma": "хотеть",
+     "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=First|Tense=Pres|VerbForm=Fin|Voice=Act",
+     "pos": "VERB"
+    },
+    {
+     "text": ",",
+     "lemma": ",",
+     "morph": "",
+     "pos": "PUNCT"
+    },
+    {
+     "text": "чтобы",
+     "lemma": "чтобы",
+     "morph": "Mood=Cnd",
+     "pos": "SCONJ"
+    },
+    {
+     "text": "вы",
+     "lemma": "вы",
+     "morph": "Case=Nom|Number=Plur|Person=Second",
+     "pos": "PRON"
+    },
+    {
+     "text": "взяли",
+     "lemma": "взять",
+     "morph": "Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act",
+     "pos": "VERB"
+    },
+    {
+     "text": "с",
+     "lemma": "с",
+     "morph": "",
+     "pos": "ADP"
+    },
+    {
+     "text": "собой",
+     "lemma": "себя",
+     "morph": "Case=Ins",
+     "pos": "PRON"
+    },
+    {
+     "text": "это",
+     "lemma": "это",
+     "morph": "Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing",
+     "pos": "PRON"
+    },
+    {
+     "text": ".",
+     "lemma": ".",
+     "morph": "",
+     "pos": "PUNCT"
+    }
+   ],
+   "audio": "Глава 1 - Готовимся!.translated.json.audio\\49.ogg"
+  },
+  "en": {
+   "sentence": "I want you to take this with you."
+  }
+ },
+ {
+  "ru": {
+   "sentence": "Папа показывает ей пачку рублей.",
+   "spacy_tokens": [
+    {
+     "text": "Папа",
+     "lemma": "папа",
+     "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing",
+     "pos": "NOUN"
+    },
+    {
+     "text": "показывает",
+     "lemma": "показывать",
+     "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+     "pos": "VERB"
+    },
+    {
+     "text": "ей",
+     "lemma": "ей",
+     "morph": "Case=Dat|Gender=Fem|Number=Sing|Person=Third",
+     "pos": "PRON"
+    },
+    {
+     "text": "пачку",
+     "lemma": "пачка",
+     "morph": "Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing",
+     "pos": "NOUN"
+    },
+    {
+     "text": "рублей",
+     "lemma": "рубль",
+     "morph": "Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur",
+     "pos": "NOUN"
+    },
+    {
+     "text": ".",
+     "lemma": ".",
+     "morph": "",
+     "pos": "PUNCT"
+    }
+   ],
+   "audio": "Глава 1 - Готовимся!.translated.json.audio\\50.ogg"
+  },
+  "en": {
+   "sentence": "Daddy shows her a wad of rubles."
+  }
+ },
+ {
+  "ru": {
+   "sentence": "Джулия очень удивляется.",
+   "spacy_tokens": [
+    {
+     "text": "Джулия",
+     "lemma": "джулия",
+     "morph": "Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing",
+     "pos": "PROPN"
+    },
+    {
+     "text": "очень",
+     "lemma": "очень",
+     "morph": "Degree=Pos",
+     "pos": "ADV"
+    },
+    {
+     "text": "удивляется",
+     "lemma": "удивляться",
+     "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Mid",
+     "pos": "VERB"
+    },
+    {
+     "text": ".",
+     "lemma": ".",
+     "morph": "",
+     "pos": "PUNCT"
+    }
+   ],
+   "audio": "Глава 1 - Готовимся!.translated.json.audio\\51.ogg"
+  },
+  "en": {
+   "sentence": "Julia is very surprised."
+  }
+ },
+ {
+  "ru": {
+   "sentence": "– Тут много денег!",
+   "spacy_tokens": [
+    {
+     "text": "–",
+     "lemma": "–",
+     "morph": "",
+     "pos": "PUNCT"
+    },
+    {
+     "text": "Тут",
+     "lemma": "тут",
+     "morph": "Degree=Pos",
+     "pos": "ADV"
+    },
+    {
+     "text": "много",
+     "lemma": "много",
+     "morph": "Degree=Pos",
+     "pos": "ADV"
+    },
+    {
+     "text": "денег",
+     "lemma": "деньга",
+     "morph": "Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur",
+     "pos": "NOUN"
+    },
+    {
+     "text": "!",
+     "lemma": "!",
+     "morph": "",
+     "pos": "PUNCT"
+    }
+   ],
+   "audio": "Глава 1 - Готовимся!.translated.json.audio\\52.ogg"
+  },
+  "en": {
+   "sentence": "- It's a lot of money!"
+  }
+ },
+ {
+  "ru": {
+   "sentence": "Наверное, целый миллион!",
+   "spacy_tokens": [
+    {
+     "text": "Наверное",
+     "lemma": "наверное",
+     "morph": "Degree=Pos",
+     "pos": "ADV"
+    },
+    {
+     "text": ",",
+     "lemma": ",",
+     "morph": "",
+     "pos": "PUNCT"
+    },
+    {
+     "text": "целый",
+     "lemma": "целый",
+     "morph": "Case=Nom|Degree=Pos|Gender=Masc|Number=Sing",
+     "pos": "ADJ"
+    },
+    {
+     "text": "миллион",
+     "lemma": "миллион",
+     "morph": "Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing",
+     "pos": "NOUN"
+    },
+    {
+     "text": "!",
+     "lemma": "!",
+     "morph": "",
+     "pos": "PUNCT"
+    }
+   ],
+   "audio": "Глава 1 - Готовимся!.translated.json.audio\\53.ogg"
+  },
+  "en": {
+   "sentence": "It must be a million!"
+  }
+ },
+ {
+  "ru": {
+   "sentence": "– говорит она.",
+   "spacy_tokens": [
+    {
+     "text": "–",
+     "lemma": "–",
+     "morph": "",
+     "pos": "PUNCT"
+    },
+    {
+     "text": "говорит",
+     "lemma": "говорить",
+     "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+     "pos": "VERB"
+    },
+    {
+     "text": "она",
+     "lemma": "она",
+     "morph": "Case=Nom|Gender=Fem|Number=Sing|Person=Third",
+     "pos": "PRON"
+    },
+    {
+     "text": ".",
+     "lemma": ".",
+     "morph": "",
+     "pos": "PUNCT"
+    }
+   ],
+   "audio": "Глава 1 - Готовимся!.translated.json.audio\\54.ogg"
+  },
+  "en": {
+   "sentence": "- she says."
+  }
+ },
+ {
+  "ru": {
+   "sentence": "– Не миллион!",
+   "spacy_tokens": [
+    {
+     "text": "–",
+     "lemma": "–",
+     "morph": "",
+     "pos": "PUNCT"
+    },
+    {
+     "text": "Не",
+     "lemma": "не",
+     "morph": "Polarity=Neg",
+     "pos": "PART"
+    },
+    {
+     "text": "миллион",
+     "lemma": "миллион",
+     "morph": "Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing",
+     "pos": "NOUN"
+    },
+    {
+     "text": "!",
+     "lemma": "!",
+     "morph": "",
+     "pos": "PUNCT"
+    }
+   ],
+   "audio": "Глава 1 - Готовимся!.translated.json.audio\\55.ogg"
+  },
+  "en": {
+   "sentence": "- Not a million!"
+  }
+ },
+ {
+  "ru": {
+   "sentence": "– смеётся папа.",
+   "spacy_tokens": [
+    {
+     "text": "–",
+     "lemma": "–",
+     "morph": "",
+     "pos": "PUNCT"
+    },
+    {
+     "text": "смеётся",
+     "lemma": "смеяться",
+     "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Mid",
+     "pos": "VERB"
+    },
+    {
+     "text": "папа",
+     "lemma": "папа",
+     "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing",
+     "pos": "NOUN"
+    },
+    {
+     "text": ".",
+     "lemma": ".",
+     "morph": "",
+     "pos": "PUNCT"
+    }
+   ],
+   "audio": "Глава 1 - Готовимся!.translated.json.audio\\56.ogg"
+  },
+  "en": {
+   "sentence": "- Daddy laughs."
+  }
+ },
+ {
+  "ru": {
+   "sentence": "– Здесь пятьсот тысяч рублей.",
+   "spacy_tokens": [
+    {
+     "text": "–",
+     "lemma": "–",
+     "morph": "",
+     "pos": "PUNCT"
+    },
+    {
+     "text": "Здесь",
+     "lemma": "здесь",
+     "morph": "Degree=Pos",
+     "pos": "ADV"
+    },
+    {
+     "text": "пятьсот",
+     "lemma": "пятьсот",
+     "morph": "Case=Acc",
+     "pos": "NUM"
+    },
+    {
+     "text": "тысяч",
+     "lemma": "тысяча",
+     "morph": "Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur",
+     "pos": "NOUN"
+    },
+    {
+     "text": "рублей",
+     "lemma": "рубль",
+     "morph": "Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur",
+     "pos": "NOUN"
+    },
+    {
+     "text": ".",
+     "lemma": ".",
+     "morph": "",
+     "pos": "PUNCT"
+    }
+   ],
+   "audio": "Глава 1 - Готовимся!.translated.json.audio\\57.ogg"
+  },
+  "en": {
+   "sentence": "- There's five hundred thousand rubles in here."
+  }
+ },
+ {
+  "ru": {
+   "sentence": "Мы с мамой накопили их для вас.",
+   "spacy_tokens": [
+    {
+     "text": "Мы",
+     "lemma": "мы",
+     "morph": "Case=Nom|Number=Plur|Person=First",
+     "pos": "PRON"
+    },
+    {
+     "text": "с",
+     "lemma": "с",
+     "morph": "",
+     "pos": "ADP"
+    },
+    {
+     "text": "мамой",
+     "lemma": "мама",
+     "morph": "Animacy=Anim|Case=Ins|Gender=Fem|Number=Sing",
+     "pos": "NOUN"
+    },
+    {
+     "text": "накопили",
+     "lemma": "накопить",
+     "morph": "Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act",
+     "pos": "VERB"
+    },
+    {
+     "text": "их",
+     "lemma": "их",
+     "morph": "Animacy=Inan|Case=Acc|Number=Plur|Person=Third",
+     "pos": "PRON"
+    },
+    {
+     "text": "для",
+     "lemma": "для",
+     "morph": "",
+     "pos": "ADP"
+    },
+    {
+     "text": "вас",
+     "lemma": "вас",
+     "morph": "Case=Gen|Number=Plur|Person=Second",
+     "pos": "PRON"
+    },
+    {
+     "text": ".",
+     "lemma": ".",
+     "morph": "",
+     "pos": "PUNCT"
+    }
+   ],
+   "audio": "Глава 1 - Готовимся!.translated.json.audio\\58.ogg"
+  },
+  "en": {
+   "sentence": "Mom and I have saved it for you."
+  }
+ },
+ {
+  "ru": {
+   "sentence": "Мы хотим оплатить часть вашей поездки в Россию.",
+   "spacy_tokens": [
+    {
+     "text": "Мы",
+     "lemma": "мы",
+     "morph": "Case=Nom|Number=Plur|Person=First",
+     "pos": "PRON"
+    },
+    {
+     "text": "хотим",
+     "lemma": "хотеть",
+     "morph": "Aspect=Imp|Mood=Ind|Number=Plur|Person=First|Tense=Pres|VerbForm=Fin|Voice=Act",
+     "pos": "VERB"
+    },
+    {
+     "text": "оплатить",
+     "lemma": "оплатить",
+     "morph": "Aspect=Perf|VerbForm=Inf|Voice=Act",
+     "pos": "VERB"
+    },
+    {
+     "text": "часть",
+     "lemma": "часть",
+     "morph": "Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing",
+     "pos": "NOUN"
+    },
+    {
+     "text": "вашей",
+     "lemma": "ваш",
+     "morph": "Case=Gen|Gender=Fem|Number=Sing",
+     "pos": "DET"
+    },
+    {
+     "text": "поездки",
+     "lemma": "поездка",
+     "morph": "Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing",
+     "pos": "NOUN"
+    },
+    {
+     "text": "в",
+     "lemma": "в",
+     "morph": "",
+     "pos": "ADP"
+    },
+    {
+     "text": "Россию",
+     "lemma": "россия",
+     "morph": "Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing",
+     "pos": "PROPN"
+    },
+    {
+     "text": ".",
+     "lemma": ".",
+     "morph": "",
+     "pos": "PUNCT"
+    }
+   ],
+   "audio": "Глава 1 - Готовимся!.translated.json.audio\\59.ogg"
+  },
+  "en": {
+   "sentence": "We want to pay for part of your trip to Russia."
+  }
+ },
+ {
+  "ru": {
+   "sentence": "– Спасибо, папа.",
+   "spacy_tokens": [
+    {
+     "text": "–",
+     "lemma": "–",
+     "morph": "",
+     "pos": "PUNCT"
+    },
+    {
+     "text": "Спасибо",
+     "lemma": "спасибо",
+     "morph": "Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing",
+     "pos": "NOUN"
+    },
+    {
+     "text": ",",
+     "lemma": ",",
+     "morph": "",
+     "pos": "PUNCT"
+    },
+    {
+     "text": "папа",
+     "lemma": "папа",
+     "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing",
+     "pos": "NOUN"
+    },
+    {
+     "text": ".",
+     "lemma": ".",
+     "morph": "",
+     "pos": "PUNCT"
+    }
+   ],
+   "audio": "Глава 1 - Готовимся!.translated.json.audio\\60.ogg"
+  },
+  "en": {
+   "sentence": "- Thank you, Dad."
+  }
+ },
+ {
+  "ru": {
+   "sentence": "Я скажу Даниэлю.",
+   "spacy_tokens": [
+    {
+     "text": "Я",
+     "lemma": "я",
+     "morph": "Case=Nom|Number=Sing|Person=First",
+     "pos": "PRON"
+    },
+    {
+     "text": "скажу",
+     "lemma": "сказать",
+     "morph": "Aspect=Perf|Mood=Ind|Number=Sing|Person=First|Tense=Fut|VerbForm=Fin|Voice=Act",
+     "pos": "VERB"
+    },
+    {
+     "text": "Даниэлю",
+     "lemma": "даниэль",
+     "morph": "Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing",
+     "pos": "PROPN"
+    },
+    {
+     "text": ".",
+     "lemma": ".",
+     "morph": "",
+     "pos": "PUNCT"
+    }
+   ],
+   "audio": "Глава 1 - Готовимся!.translated.json.audio\\61.ogg"
+  },
+  "en": {
+   "sentence": "I'll tell Daniel."
+  }
+ },
+ {
+  "ru": {
+   "sentence": "Джулия выходит из комнаты в ту минуту, когда я в неё вхожу.",
+   "spacy_tokens": [
+    {
+     "text": "Джулия",
+     "lemma": "джулия",
+     "morph": "Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing",
+     "pos": "PROPN"
+    },
+    {
+     "text": "выходит",
+     "lemma": "выходить",
+     "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+     "pos": "VERB"
+    },
+    {
+     "text": "из",
+     "lemma": "из",
+     "morph": "",
+     "pos": "ADP"
+    },
+    {
+     "text": "комнаты",
+     "lemma": "комната",
+     "morph": "Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing",
+     "pos": "NOUN"
+    },
+    {
+     "text": "в",
+     "lemma": "в",
+     "morph": "",
+     "pos": "ADP"
+    },
+    {
+     "text": "ту",
+     "lemma": "тот",
+     "morph": "Case=Acc|Gender=Fem|Number=Sing",
+     "pos": "DET"
+    },
+    {
+     "text": "минуту",
+     "lemma": "минута",
+     "morph": "Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing",
+     "pos": "NOUN"
+    },
+    {
+     "text": ",",
+     "lemma": ",",
+     "morph": "",
+     "pos": "PUNCT"
+    },
+    {
+     "text": "когда",
+     "lemma": "когда",
+     "morph": "",
+     "pos": "SCONJ"
+    },
+    {
+     "text": "я",
+     "lemma": "я",
+     "morph": "Case=Nom|Number=Sing|Person=First",
+     "pos": "PRON"
+    },
+    {
+     "text": "в",
+     "lemma": "в",
+     "morph": "",
+     "pos": "ADP"
+    },
+    {
+     "text": "неё",
+     "lemma": "неё",
+     "morph": "Case=Acc|Gender=Fem|Number=Sing|Person=Third",
+     "pos": "PRON"
+    },
+    {
+     "text": "вхожу",
+     "lemma": "входить",
+     "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=First|Tense=Pres|VerbForm=Fin|Voice=Act",
+     "pos": "VERB"
+    },
+    {
+     "text": ".",
+     "lemma": ".",
+     "morph": "",
+     "pos": "PUNCT"
+    }
+   ],
+   "audio": "Глава 1 - Готовимся!.translated.json.audio\\62.ogg"
+  },
+  "en": {
+   "sentence": "Julia leaves the room the minute I walk in."
+  }
+ },
+ {
+  "ru": {
+   "sentence": "Мы чуть не сталкиваемся, так как не заметили друг друга.",
+   "spacy_tokens": [
+    {
+     "text": "Мы",
+     "lemma": "мы",
+     "morph": "Case=Nom|Number=Plur|Person=First",
+     "pos": "PRON"
+    },
+    {
+     "text": "чуть",
+     "lemma": "чуть",
+     "morph": "Degree=Pos",
+     "pos": "ADV"
+    },
+    {
+     "text": "не",
+     "lemma": "не",
+     "morph": "Polarity=Neg",
+     "pos": "PART"
+    },
+    {
+     "text": "сталкиваемся",
+     "lemma": "сталкиваться",
+     "morph": "Aspect=Imp|Mood=Ind|Number=Plur|Person=First|Tense=Pres|VerbForm=Fin|Voice=Mid",
+     "pos": "VERB"
+    },
+    {
+     "text": ",",
+     "lemma": ",",
+     "morph": "",
+     "pos": "PUNCT"
+    },
+    {
+     "text": "так",
+     "lemma": "так",
+     "morph": "Degree=Pos",
+     "pos": "ADV"
+    },
+    {
+     "text": "как",
+     "lemma": "как",
+     "morph": "",
+     "pos": "SCONJ"
+    },
+    {
+     "text": "не",
+     "lemma": "не",
+     "morph": "Polarity=Neg",
+     "pos": "PART"
+    },
+    {
+     "text": "заметили",
+     "lemma": "заметить",
+     "morph": "Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act",
+     "pos": "VERB"
+    },
+    {
+     "text": "друг",
+     "lemma": "друг",
+     "morph": "Case=Nom",
+     "pos": "PRON"
+    },
+    {
+     "text": "друга",
+     "lemma": "друга",
+     "morph": "Case=Acc",
+     "pos": "PRON"
+    },
+    {
+     "text": ".",
+     "lemma": ".",
+     "morph": "",
+     "pos": "PUNCT"
+    }
+   ],
+   "audio": "Глава 1 - Готовимся!.translated.json.audio\\63.ogg"
+  },
+  "en": {
+   "sentence": "We almost bump into each other because we didn't notice each other."
+  }
+ },
+ {
+  "ru": {
+   "sentence": "Отец видит меня и говорит:",
+   "spacy_tokens": [
+    {
+     "text": "Отец",
+     "lemma": "отец",
+     "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing",
+     "pos": "NOUN"
+    },
+    {
+     "text": "видит",
+     "lemma": "видеть",
+     "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+     "pos": "VERB"
+    },
+    {
+     "text": "меня",
+     "lemma": "меня",
+     "morph": "Case=Acc|Number=Sing|Person=First",
+     "pos": "PRON"
+    },
+    {
+     "text": "и",
+     "lemma": "и",
+     "morph": "",
+     "pos": "CCONJ"
+    },
+    {
+     "text": "говорит",
+     "lemma": "говорить",
+     "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+     "pos": "VERB"
+    },
+    {
+     "text": ":",
+     "lemma": ":",
+     "morph": "",
+     "pos": "PUNCT"
+    }
+   ],
+   "audio": "Глава 1 - Готовимся!.translated.json.audio\\64.ogg"
+  },
+  "en": {
+   "sentence": "Dad sees me and says:"
+  }
+ },
+ {
+  "ru": {
+   "sentence": "– А, Даниэль!",
+   "spacy_tokens": [
+    {
+     "text": "–",
+     "lemma": "–",
+     "morph": "",
+     "pos": "PUNCT"
+    },
+    {
+     "text": "А",
+     "lemma": "а",
+     "morph": "",
+     "pos": "PROPN"
+    },
+    {
+     "text": ",",
+     "lemma": ",",
+     "morph": "",
+     "pos": "PUNCT"
+    },
+    {
+     "text": "Даниэль",
+     "lemma": "даниэль",
+     "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing",
+     "pos": "PROPN"
+    },
+    {
+     "text": "!",
+     "lemma": "!",
+     "morph": "",
+     "pos": "PUNCT"
+    }
+   ],
+   "audio": "Глава 1 - Готовимся!.translated.json.audio\\65.ogg"
+  },
+  "en": {
+   "sentence": "- Ah, Danielle!"
+  }
+ },
+ {
+  "ru": {
+   "sentence": "Ты здесь!",
+   "spacy_tokens": [
+    {
+     "text": "Ты",
+     "lemma": "ты",
+     "morph": "Case=Nom|Number=Sing|Person=Second",
+     "pos": "PRON"
+    },
+    {
+     "text": "здесь",
+     "lemma": "здесь",
+     "morph": "Degree=Pos",
+     "pos": "ADV"
+    },
+    {
+     "text": "!",
+     "lemma": "!",
+     "morph": "",
+     "pos": "PUNCT"
+    }
+   ],
+   "audio": "Глава 1 - Готовимся!.translated.json.audio\\66.ogg"
+  },
+  "en": {
+   "sentence": "You're here!"
+  }
+ },
+ {
+  "ru": {
+   "sentence": "И уже оделся!",
+   "spacy_tokens": [
+    {
+     "text": "И",
+     "lemma": "и",
+     "morph": "",
+     "pos": "CCONJ"
+    },
+    {
+     "text": "уже",
+     "lemma": "уже",
+     "morph": "Degree=Pos",
+     "pos": "ADV"
+    },
+    {
+     "text": "оделся",
+     "lemma": "одеться",
+     "morph": "Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid",
+     "pos": "VERB"
+    },
+    {
+     "text": "!",
+     "lemma": "!",
+     "morph": "",
+     "pos": "PUNCT"
+    }
+   ],
+   "audio": "Глава 1 - Готовимся!.translated.json.audio\\67.ogg"
+  },
+  "en": {
+   "sentence": "And you're already dressed!"
+  }
+ },
+ {
+  "ru": {
+   "sentence": "Эти деньги вам на поездку.",
+   "spacy_tokens": [
+    {
+     "text": "Эти",
+     "lemma": "этот",
+     "morph": "Case=Nom|Number=Plur",
+     "pos": "DET"
+    },
+    {
+     "text": "деньги",
+     "lemma": "деньга",
+     "morph": "Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur",
+     "pos": "NOUN"
+    },
+    {
+     "text": "вам",
+     "lemma": "вам",
+     "morph": "Case=Dat|Number=Plur|Person=Second",
+     "pos": "PRON"
+    },
+    {
+     "text": "на",
+     "lemma": "на",
+     "morph": "",
+     "pos": "ADP"
+    },
+    {
+     "text": "поездку",
+     "lemma": "поездка",
+     "morph": "Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing",
+     "pos": "NOUN"
+    },
+    {
+     "text": ".",
+     "lemma": ".",
+     "morph": "",
+     "pos": "PUNCT"
+    }
+   ],
+   "audio": "Глава 1 - Готовимся!.translated.json.audio\\68.ogg"
+  },
+  "en": {
+   "sentence": "This money is for your trip."
+  }
+ },
+ {
+  "ru": {
+   "sentence": "– Спасибо, папа.",
+   "spacy_tokens": [
+    {
+     "text": "–",
+     "lemma": "–",
+     "morph": "",
+     "pos": "PUNCT"
+    },
+    {
+     "text": "Спасибо",
+     "lemma": "спасибо",
+     "morph": "Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing",
+     "pos": "NOUN"
+    },
+    {
+     "text": ",",
+     "lemma": ",",
+     "morph": "",
+     "pos": "PUNCT"
+    },
+    {
+     "text": "папа",
+     "lemma": "папа",
+     "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing",
+     "pos": "NOUN"
+    },
+    {
+     "text": ".",
+     "lemma": ".",
+     "morph": "",
+     "pos": "PUNCT"
+    }
+   ],
+   "audio": "Глава 1 - Готовимся!.translated.json.audio\\69.ogg"
+  },
+  "en": {
+   "sentence": "- Thank you, Dad."
+  }
+ },
+ {
+  "ru": {
+   "sentence": "Они нам очень пригодятся.",
+   "spacy_tokens": [
+    {
+     "text": "Они",
+     "lemma": "они",
+     "morph": "Case=Nom|Number=Plur|Person=Third",
+     "pos": "PRON"
+    },
+    {
+     "text": "нам",
+     "lemma": "нам",
+     "morph": "Case=Dat|Number=Plur|Person=First",
+     "pos": "PRON"
+    },
+    {
+     "text": "очень",
+     "lemma": "очень",
+     "morph": "Degree=Pos",
+     "pos": "ADV"
+    },
+    {
+     "text": "пригодятся",
+     "lemma": "пригодиться",
+     "morph": "Aspect=Perf|Mood=Ind|Number=Plur|Person=Third|Tense=Fut|VerbForm=Fin|Voice=Mid",
+     "pos": "VERB"
+    },
+    {
+     "text": ".",
+     "lemma": ".",
+     "morph": "",
+     "pos": "PUNCT"
+    }
+   ],
+   "audio": "Глава 1 - Готовимся!.translated.json.audio\\70.ogg"
+  },
+  "en": {
+   "sentence": "We could really use it."
+  }
+ },
+ {
+  "ru": {
+   "sentence": "– А теперь пора ехать в аэропорт.",
+   "spacy_tokens": [
+    {
+     "text": "–",
+     "lemma": "–",
+     "morph": "",
+     "pos": "PUNCT"
+    },
+    {
+     "text": "А",
+     "lemma": "а",
+     "morph": "",
+     "pos": "CCONJ"
+    },
+    {
+     "text": "теперь",
+     "lemma": "теперь",
+     "morph": "Degree=Pos",
+     "pos": "ADV"
+    },
+    {
+     "text": "пора",
+     "lemma": "пора",
+     "morph": "Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing",
+     "pos": "NOUN"
+    },
+    {
+     "text": "ехать",
+     "lemma": "ехать",
+     "morph": "Aspect=Imp|VerbForm=Inf|Voice=Act",
+     "pos": "VERB"
+    },
+    {
+     "text": "в",
+     "lemma": "в",
+     "morph": "",
+     "pos": "ADP"
+    },
+    {
+     "text": "аэропорт",
+     "lemma": "аэропорт",
+     "morph": "Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing",
+     "pos": "NOUN"
+    },
+    {
+     "text": ".",
+     "lemma": ".",
+     "morph": "",
+     "pos": "PUNCT"
+    }
+   ],
+   "audio": "Глава 1 - Готовимся!.translated.json.audio\\71.ogg"
+  },
+  "en": {
+   "sentence": "- Now it's time to go to the airport."
+  }
+ },
+ {
+  "ru": {
+   "sentence": "Поехали!",
+   "spacy_tokens": [
+    {
+     "text": "Поехали",
+     "lemma": "поехать",
+     "morph": "Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act",
+     "pos": "VERB"
+    },
+    {
+     "text": "!",
+     "lemma": "!",
+     "morph": "",
+     "pos": "PUNCT"
+    }
+   ],
+   "audio": "Глава 1 - Готовимся!.translated.json.audio\\72.ogg"
+  },
+  "en": {
+   "sentence": "Let's go!"
+  }
+ },
+ {
+  "ru": {
+   "sentence": "В восемь часов мы выходим из дома и едем в аэропорт на маминой машине.",
+   "spacy_tokens": [
+    {
+     "text": "В",
+     "lemma": "в",
+     "morph": "",
+     "pos": "ADP"
+    },
+    {
+     "text": "восемь",
+     "lemma": "восемь",
+     "morph": "Case=Acc",
+     "pos": "NUM"
+    },
+    {
+     "text": "часов",
+     "lemma": "час",
+     "morph": "Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur",
+     "pos": "NOUN"
+    },
+    {
+     "text": "мы",
+     "lemma": "мы",
+     "morph": "Case=Nom|Number=Plur|Person=First",
+     "pos": "PRON"
+    },
+    {
+     "text": "выходим",
+     "lemma": "выходить",
+     "morph": "Aspect=Imp|Mood=Ind|Number=Plur|Person=First|Tense=Pres|VerbForm=Fin|Voice=Act",
+     "pos": "VERB"
+    },
+    {
+     "text": "из",
+     "lemma": "из",
+     "morph": "",
+     "pos": "ADP"
+    },
+    {
+     "text": "дома",
+     "lemma": "дом",
+     "morph": "Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing",
+     "pos": "NOUN"
+    },
+    {
+     "text": "и",
+     "lemma": "и",
+     "morph": "",
+     "pos": "CCONJ"
+    },
+    {
+     "text": "едем",
+     "lemma": "ехать",
+     "morph": "Aspect=Imp|Mood=Ind|Number=Plur|Person=First|Tense=Pres|VerbForm=Fin|Voice=Act",
+     "pos": "VERB"
+    },
+    {
+     "text": "в",
+     "lemma": "в",
+     "morph": "",
+     "pos": "ADP"
+    },
+    {
+     "text": "аэропорт",
+     "lemma": "аэропорт",
+     "morph": "Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing",
+     "pos": "NOUN"
+    },
+    {
+     "text": "на",
+     "lemma": "на",
+     "morph": "",
+     "pos": "ADP"
+    },
+    {
+     "text": "маминой",
+     "lemma": "мамин",
+     "morph": "Case=Loc|Degree=Pos|Gender=Fem|Number=Sing",
+     "pos": "ADJ"
+    },
+    {
+     "text": "машине",
+     "lemma": "машина",
+     "morph": "Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing",
+     "pos": "NOUN"
+    },
+    {
+     "text": ".",
+     "lemma": ".",
+     "morph": "",
+     "pos": "PUNCT"
+    }
+   ],
+   "audio": "Глава 1 - Готовимся!.translated.json.audio\\73.ogg"
+  },
+  "en": {
+   "sentence": "At eight o'clock we leave the house and go to the airport in my mother's car."
+  }
+ },
+ {
+  "ru": {
+   "sentence": "Джулия очень волнуется.",
+   "spacy_tokens": [
+    {
+     "text": "Джулия",
+     "lemma": "джулия",
+     "morph": "Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing",
+     "pos": "PROPN"
+    },
+    {
+     "text": "очень",
+     "lemma": "очень",
+     "morph": "Degree=Pos",
+     "pos": "ADV"
+    },
+    {
+     "text": "волнуется",
+     "lemma": "волноваться",
+     "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Mid",
+     "pos": "VERB"
+    },
+    {
+     "text": ".",
+     "lemma": ".",
+     "morph": "",
+     "pos": "PUNCT"
+    }
+   ],
+   "audio": "Глава 1 - Готовимся!.translated.json.audio\\74.ogg"
+  },
+  "en": {
+   "sentence": "Julia is very nervous."
+  }
+ },
+ {
+  "ru": {
+   "sentence": "– Джулия, дорогая, – говорит мама, – с тобой всё в порядке?",
+   "spacy_tokens": [
+    {
+     "text": "–",
+     "lemma": "–",
+     "morph": "",
+     "pos": "PUNCT"
+    },
+    {
+     "text": "Джулия",
+     "lemma": "джулия",
+     "morph": "Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing",
+     "pos": "PROPN"
+    },
+    {
+     "text": ",",
+     "lemma": ",",
+     "morph": "",
+     "pos": "PUNCT"
+    },
+    {
+     "text": "дорогая",
+     "lemma": "дорогой",
+     "morph": "Case=Nom|Degree=Pos|Gender=Fem|Number=Sing",
+     "pos": "ADJ"
+    },
+    {
+     "text": ",",
+     "lemma": ",",
+     "morph": "",
+     "pos": "PUNCT"
+    },
+    {
+     "text": "–",
+     "lemma": "–",
+     "morph": "",
+     "pos": "PUNCT"
+    },
+    {
+     "text": "говорит",
+     "lemma": "говорить",
+     "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+     "pos": "VERB"
+    },
+    {
+     "text": "мама",
+     "lemma": "мама",
+     "morph": "Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing",
+     "pos": "NOUN"
+    },
+    {
+     "text": ",",
+     "lemma": ",",
+     "morph": "",
+     "pos": "PUNCT"
+    },
+    {
+     "text": "–",
+     "lemma": "–",
+     "morph": "",
+     "pos": "PUNCT"
+    },
+    {
+     "text": "с",
+     "lemma": "с",
+     "morph": "",
+     "pos": "ADP"
+    },
+    {
+     "text": "тобой",
+     "lemma": "тобой",
+     "morph": "Case=Ins|Number=Sing|Person=Second",
+     "pos": "PRON"
+    },
+    {
+     "text": "всё",
+     "lemma": "всё",
+     "morph": "Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing",
+     "pos": "PRON"
+    },
+    {
+     "text": "в",
+     "lemma": "в",
+     "morph": "",
+     "pos": "ADP"
+    },
+    {
+     "text": "порядке",
+     "lemma": "порядок",
+     "morph": "Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing",
+     "pos": "NOUN"
+    },
+    {
+     "text": "?",
+     "lemma": "?",
+     "morph": "",
+     "pos": "PUNCT"
+    }
+   ],
+   "audio": "Глава 1 - Готовимся!.translated.json.audio\\75.ogg"
+  },
+  "en": {
+   "sentence": "- Julia, honey,\" says my mother, \"are you all right?"
+  }
+ },
+ {
+  "ru": {
+   "sentence": "– Я очень волнуюсь, – отвечает сестра.",
+   "spacy_tokens": [
+    {
+     "text": "–",
+     "lemma": "–",
+     "morph": "",
+     "pos": "PUNCT"
+    },
+    {
+     "text": "Я",
+     "lemma": "я",
+     "morph": "Case=Nom|Number=Sing|Person=First",
+     "pos": "PRON"
+    },
+    {
+     "text": "очень",
+     "lemma": "очень",
+     "morph": "Degree=Pos",
+     "pos": "ADV"
+    },
+    {
+     "text": "волнуюсь",
+     "lemma": "волноваться",
+     "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=First|Tense=Pres|VerbForm=Fin|Voice=Mid",
+     "pos": "VERB"
+    },
+    {
+     "text": ",",
+     "lemma": ",",
+     "morph": "",
+     "pos": "PUNCT"
+    },
+    {
+     "text": "–",
+     "lemma": "–",
+     "morph": "",
+     "pos": "PUNCT"
+    },
+    {
+     "text": "отвечает",
+     "lemma": "отвечать",
+     "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+     "pos": "VERB"
+    },
+    {
+     "text": "сестра",
+     "lemma": "сестра",
+     "morph": "Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing",
+     "pos": "NOUN"
+    },
+    {
+     "text": ".",
+     "lemma": ".",
+     "morph": "",
+     "pos": "PUNCT"
+    }
+   ],
+   "audio": "Глава 1 - Готовимся!.translated.json.audio\\76.ogg"
+  },
+  "en": {
+   "sentence": "- I'm very worried,\" my sister replies."
+  }
+ },
+ {
+  "ru": {
+   "sentence": "– Почему?",
+   "spacy_tokens": [
+    {
+     "text": "–",
+     "lemma": "–",
+     "morph": "",
+     "pos": "PUNCT"
+    },
+    {
+     "text": "Почему",
+     "lemma": "почему",
+     "morph": "Degree=Pos",
+     "pos": "ADV"
+    },
+    {
+     "text": "?",
+     "lemma": "?",
+     "morph": "",
+     "pos": "PUNCT"
+    }
+   ],
+   "audio": "Глава 1 - Готовимся!.translated.json.audio\\77.ogg"
+  },
+  "en": {
+   "sentence": "- Why?"
+  }
+ },
+ {
+  "ru": {
+   "sentence": "– Я почти никого не знаю в России.",
+   "spacy_tokens": [
+    {
+     "text": "–",
+     "lemma": "–",
+     "morph": "",
+     "pos": "PUNCT"
+    },
+    {
+     "text": "Я",
+     "lemma": "я",
+     "morph": "Case=Nom|Number=Sing|Person=First",
+     "pos": "PRON"
+    },
+    {
+     "text": "почти",
+     "lemma": "почти",
+     "morph": "Degree=Pos",
+     "pos": "ADV"
+    },
+    {
+     "text": "никого",
+     "lemma": "никто",
+     "morph": "Case=Acc",
+     "pos": "PRON"
+    },
+    {
+     "text": "не",
+     "lemma": "не",
+     "morph": "Polarity=Neg",
+     "pos": "PART"
+    },
+    {
+     "text": "знаю",
+     "lemma": "знать",
+     "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=First|Tense=Pres|VerbForm=Fin|Voice=Act",
+     "pos": "VERB"
+    },
+    {
+     "text": "в",
+     "lemma": "в",
+     "morph": "",
+     "pos": "ADP"
+    },
+    {
+     "text": "России",
+     "lemma": "россия",
+     "morph": "Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing",
+     "pos": "PROPN"
+    },
+    {
+     "text": ".",
+     "lemma": ".",
+     "morph": "",
+     "pos": "PUNCT"
+    }
+   ],
+   "audio": "Глава 1 - Готовимся!.translated.json.audio\\78.ogg"
+  },
+  "en": {
+   "sentence": "- I hardly know anyone in Russia."
+  }
+ },
+ {
+  "ru": {
+   "sentence": "Со мной будет только Даниэль.",
+   "spacy_tokens": [
+    {
+     "text": "Со",
+     "lemma": "со",
+     "morph": "",
+     "pos": "ADP"
+    },
+    {
+     "text": "мной",
+     "lemma": "мной",
+     "morph": "Case=Ins|Number=Sing|Person=First",
+     "pos": "PRON"
+    },
+    {
+     "text": "будет",
+     "lemma": "будет",
+     "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+     "pos": "AUX"
+    },
+    {
+     "text": "только",
+     "lemma": "только",
+     "morph": "",
+     "pos": "PART"
+    },
+    {
+     "text": "Даниэль",
+     "lemma": "даниэль",
+     "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing",
+     "pos": "PROPN"
+    },
+    {
+     "text": ".",
+     "lemma": ".",
+     "morph": "",
+     "pos": "PUNCT"
+    }
+   ],
+   "audio": "Глава 1 - Готовимся!.translated.json.audio\\79.ogg"
+  },
+  "en": {
+   "sentence": "Only Danielle will be with me."
+  }
+ },
+ {
+  "ru": {
+   "sentence": "– Не волнуйся.",
+   "spacy_tokens": [
+    {
+     "text": "–",
+     "lemma": "–",
+     "morph": "",
+     "pos": "PUNCT"
+    },
+    {
+     "text": "Не",
+     "lemma": "не",
+     "morph": "Polarity=Neg",
+     "pos": "PART"
+    },
+    {
+     "text": "волнуйся",
+     "lemma": "волноваться",
+     "morph": "Aspect=Imp|Mood=Imp|Number=Sing|Person=Second|VerbForm=Fin|Voice=Mid",
+     "pos": "VERB"
+    },
+    {
+     "text": ".",
+     "lemma": ".",
+     "morph": "",
+     "pos": "PUNCT"
+    }
+   ],
+   "audio": "Глава 1 - Готовимся!.translated.json.audio\\80.ogg"
+  },
+  "en": {
+   "sentence": "- Don't worry."
+  }
+ },
+ {
+  "ru": {
+   "sentence": "В Петербурге много хороших и добрых людей.",
+   "spacy_tokens": [
+    {
+     "text": "В",
+     "lemma": "в",
+     "morph": "",
+     "pos": "ADP"
+    },
+    {
+     "text": "Петербурге",
+     "lemma": "петербург",
+     "morph": "Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing",
+     "pos": "PROPN"
+    },
+    {
+     "text": "много",
+     "lemma": "много",
+     "morph": "Degree=Pos",
+     "pos": "ADV"
+    },
+    {
+     "text": "хороших",
+     "lemma": "хороший",
+     "morph": "Case=Gen|Degree=Pos|Number=Plur",
+     "pos": "ADJ"
+    },
+    {
+     "text": "и",
+     "lemma": "и",
+     "morph": "",
+     "pos": "CCONJ"
+    },
+    {
+     "text": "добрых",
+     "lemma": "добрый",
+     "morph": "Case=Gen|Degree=Pos|Number=Plur",
+     "pos": "ADJ"
+    },
+    {
+     "text": "людей",
+     "lemma": "человек",
+     "morph": "Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur",
+     "pos": "NOUN"
+    },
+    {
+     "text": ".",
+     "lemma": ".",
+     "morph": "",
+     "pos": "PUNCT"
+    }
+   ],
+   "audio": "Глава 1 - Готовимся!.translated.json.audio\\81.ogg"
+  },
+  "en": {
+   "sentence": "There are a lot of good and kind people in St. Petersburg."
+  }
+ },
+ {
+  "ru": {
+   "sentence": "Особенно друг Даниэля Аркадий.",
+   "spacy_tokens": [
+    {
+     "text": "Особенно",
+     "lemma": "особенно",
+     "morph": "Degree=Pos",
+     "pos": "ADV"
+    },
+    {
+     "text": "друг",
+     "lemma": "друг",
+     "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing",
+     "pos": "NOUN"
+    },
+    {
+     "text": "Даниэля",
+     "lemma": "даниэль",
+     "morph": "Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing",
+     "pos": "PROPN"
+    },
+    {
+     "text": "Аркадий",
+     "lemma": "аркадий",
+     "morph": "Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing",
+     "pos": "PROPN"
+    },
+    {
+     "text": ".",
+     "lemma": ".",
+     "morph": "",
+     "pos": "PUNCT"
+    }
+   ],
+   "audio": "Глава 1 - Готовимся!.translated.json.audio\\82.ogg"
+  },
+  "en": {
+   "sentence": "Especially Daniel's friend Arkady."
+  }
+ },
+ {
+  "ru": {
+   "sentence": "– Да, мама.",
+   "spacy_tokens": [
+    {
+     "text": "–",
+     "lemma": "–",
+     "morph": "",
+     "pos": "PUNCT"
+    },
+    {
+     "text": "Да",
+     "lemma": "да",
+     "morph": "",
+     "pos": "PART"
+    },
+    {
+     "text": ",",
+     "lemma": ",",
+     "morph": "",
+     "pos": "PUNCT"
+    },
+    {
+     "text": "мама",
+     "lemma": "мама",
+     "morph": "Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing",
+     "pos": "NOUN"
+    },
+    {
+     "text": ".",
+     "lemma": ".",
+     "morph": "",
+     "pos": "PUNCT"
+    }
+   ],
+   "audio": "Глава 1 - Готовимся!.translated.json.audio\\83.ogg"
+  },
+  "en": {
+   "sentence": "- Yes, Mother."
+  }
+ },
+ {
+  "ru": {
+   "sentence": "Я знаю, Аркадий очень добрый.",
+   "spacy_tokens": [
+    {
+     "text": "Я",
+     "lemma": "я",
+     "morph": "Case=Nom|Number=Sing|Person=First",
+     "pos": "PRON"
+    },
+    {
+     "text": "знаю",
+     "lemma": "знать",
+     "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=First|Tense=Pres|VerbForm=Fin|Voice=Act",
+     "pos": "VERB"
+    },
+    {
+     "text": ",",
+     "lemma": ",",
+     "morph": "",
+     "pos": "PUNCT"
+    },
+    {
+     "text": "Аркадий",
+     "lemma": "аркадий",
+     "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing",
+     "pos": "PROPN"
+    },
+    {
+     "text": "очень",
+     "lemma": "очень",
+     "morph": "Degree=Pos",
+     "pos": "ADV"
+    },
+    {
+     "text": "добрый",
+     "lemma": "добрый",
+     "morph": "Case=Nom|Degree=Pos|Gender=Masc|Number=Sing",
+     "pos": "ADJ"
+    },
+    {
+     "text": ".",
+     "lemma": ".",
+     "morph": "",
+     "pos": "PUNCT"
+    }
+   ],
+   "audio": "Глава 1 - Готовимся!.translated.json.audio\\84.ogg"
+  },
+  "en": {
+   "sentence": "I know Arkady is very kind."
+  }
+ },
+ {
+  "ru": {
+   "sentence": "Но я переживаю, что с нами может что-то случиться.",
+   "spacy_tokens": [
+    {
+     "text": "Но",
+     "lemma": "но",
+     "morph": "",
+     "pos": "CCONJ"
+    },
+    {
+     "text": "я",
+     "lemma": "я",
+     "morph": "Case=Nom|Number=Sing|Person=First",
+     "pos": "PRON"
+    },
+    {
+     "text": "переживаю",
+     "lemma": "переживать",
+     "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=First|Tense=Pres|VerbForm=Fin|Voice=Act",
+     "pos": "VERB"
+    },
+    {
+     "text": ",",
+     "lemma": ",",
+     "morph": "",
+     "pos": "PUNCT"
+    },
+    {
+     "text": "что",
+     "lemma": "что",
+     "morph": "",
+     "pos": "SCONJ"
+    },
+    {
+     "text": "с",
+     "lemma": "с",
+     "morph": "",
+     "pos": "ADP"
+    },
+    {
+     "text": "нами",
+     "lemma": "нами",
+     "morph": "Case=Ins|Number=Plur|Person=First",
+     "pos": "PRON"
+    },
+    {
+     "text": "может",
+     "lemma": "мочь",
+     "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+     "pos": "VERB"
+    },
+    {
+     "text": "что",
+     "lemma": "что",
+     "morph": "Case=Acc",
+     "pos": "PRON"
+    },
+    {
+     "text": "-",
+     "lemma": "-",
+     "morph": "Case=Nom",
+     "pos": "PRON"
+    },
+    {
+     "text": "то",
+     "lemma": "то",
+     "morph": "Case=Acc",
+     "pos": "PRON"
+    },
+    {
+     "text": "случиться",
+     "lemma": "случиться",
+     "morph": "Aspect=Perf|VerbForm=Inf|Voice=Mid",
+     "pos": "VERB"
+    },
+    {
+     "text": ".",
+     "lemma": ".",
+     "morph": "",
+     "pos": "PUNCT"
+    }
+   ],
+   "audio": "Глава 1 - Готовимся!.translated.json.audio\\85.ogg"
+  },
+  "en": {
+   "sentence": "But I'm worried that something might happen to us."
+  }
+ },
+ {
+  "ru": {
+   "sentence": "– Всё будет хорошо.",
+   "spacy_tokens": [
+    {
+     "text": "–",
+     "lemma": "–",
+     "morph": "",
+     "pos": "PUNCT"
+    },
+    {
+     "text": "Всё",
+     "lemma": "всё",
+     "morph": "Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing",
+     "pos": "PRON"
+    },
+    {
+     "text": "будет",
+     "lemma": "будет",
+     "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+     "pos": "AUX"
+    },
+    {
+     "text": "хорошо",
+     "lemma": "хороший",
+     "morph": "Degree=Pos|Gender=Neut|Number=Sing|StyleVariant=Short",
+     "pos": "ADJ"
+    },
+    {
+     "text": ".",
+     "lemma": ".",
+     "morph": "",
+     "pos": "PUNCT"
+    }
+   ],
+   "audio": "Глава 1 - Готовимся!.translated.json.audio\\86.ogg"
+  },
+  "en": {
+   "sentence": "- Everything will be fine."
+  }
+ },
+ {
+  "ru": {
+   "sentence": "В аэропорту очень большая очередь.",
+   "spacy_tokens": [
+    {
+     "text": "В",
+     "lemma": "в",
+     "morph": "",
+     "pos": "ADP"
+    },
+    {
+     "text": "аэропорту",
+     "lemma": "аэропорт",
+     "morph": "Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing",
+     "pos": "NOUN"
+    },
+    {
+     "text": "очень",
+     "lemma": "очень",
+     "morph": "Degree=Pos",
+     "pos": "ADV"
+    },
+    {
+     "text": "большая",
+     "lemma": "больший",
+     "morph": "Case=Nom|Degree=Pos|Gender=Fem|Number=Sing",
+     "pos": "ADJ"
+    },
+    {
+     "text": "очередь",
+     "lemma": "очередь",
+     "morph": "Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing",
+     "pos": "NOUN"
+    },
+    {
+     "text": ".",
+     "lemma": ".",
+     "morph": "",
+     "pos": "PUNCT"
+    }
+   ],
+   "audio": "Глава 1 - Готовимся!.translated.json.audio\\87.ogg"
+  },
+  "en": {
+   "sentence": "There is a very long line at the airport."
+  }
+ },
+ {
+  "ru": {
+   "sentence": "Много людей из разных частей страны регистрируются на самолёт.",
+   "spacy_tokens": [
+    {
+     "text": "Много",
+     "lemma": "много",
+     "morph": "Degree=Pos",
+     "pos": "ADV"
+    },
+    {
+     "text": "людей",
+     "lemma": "человек",
+     "morph": "Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur",
+     "pos": "NOUN"
+    },
+    {
+     "text": "из",
+     "lemma": "из",
+     "morph": "",
+     "pos": "ADP"
+    },
+    {
+     "text": "разных",
+     "lemma": "разный",
+     "morph": "Case=Gen|Degree=Pos|Number=Plur",
+     "pos": "ADJ"
+    },
+    {
+     "text": "частей",
+     "lemma": "часть",
+     "morph": "Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur",
+     "pos": "NOUN"
+    },
+    {
+     "text": "страны",
+     "lemma": "страна",
+     "morph": "Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing",
+     "pos": "NOUN"
+    },
+    {
+     "text": "регистрируются",
+     "lemma": "регистрироваться",
+     "morph": "Aspect=Imp|Mood=Ind|Number=Plur|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Pass",
+     "pos": "VERB"
+    },
+    {
+     "text": "на",
+     "lemma": "на",
+     "morph": "",
+     "pos": "ADP"
+    },
+    {
+     "text": "самолёт",
+     "lemma": "самолёт",
+     "morph": "Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing",
+     "pos": "NOUN"
+    },
+    {
+     "text": ".",
+     "lemma": ".",
+     "morph": "",
+     "pos": "PUNCT"
+    }
+   ],
+   "audio": "Глава 1 - Готовимся!.translated.json.audio\\88.ogg"
+  },
+  "en": {
+   "sentence": "A lot of people from different parts of the country are checking in for the flight."
+  }
+ },
+ {
+  "ru": {
+   "sentence": "Большинство летит по работе, и только некоторые в отпуск.",
+   "spacy_tokens": [
+    {
+     "text": "Большинство",
+     "lemma": "большинство",
+     "morph": "Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing",
+     "pos": "NOUN"
+    },
+    {
+     "text": "летит",
+     "lemma": "лететь",
+     "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+     "pos": "VERB"
+    },
+    {
+     "text": "по",
+     "lemma": "по",
+     "morph": "",
+     "pos": "ADP"
+    },
+    {
+     "text": "работе",
+     "lemma": "работа",
+     "morph": "Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing",
+     "pos": "NOUN"
+    },
+    {
+     "text": ",",
+     "lemma": ",",
+     "morph": "",
+     "pos": "PUNCT"
+    },
+    {
+     "text": "и",
+     "lemma": "и",
+     "morph": "",
+     "pos": "CCONJ"
+    },
+    {
+     "text": "только",
+     "lemma": "только",
+     "morph": "",
+     "pos": "PART"
+    },
+    {
+     "text": "некоторые",
+     "lemma": "некоторый",
+     "morph": "Case=Nom|Number=Plur",
+     "pos": "DET"
+    },
+    {
+     "text": "в",
+     "lemma": "в",
+     "morph": "",
+     "pos": "ADP"
+    },
+    {
+     "text": "отпуск",
+     "lemma": "отпуск",
+     "morph": "Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing",
+     "pos": "NOUN"
+    },
+    {
+     "text": ".",
+     "lemma": ".",
+     "morph": "",
+     "pos": "PUNCT"
+    }
+   ],
+   "audio": "Глава 1 - Готовимся!.translated.json.audio\\89.ogg"
+  },
+  "en": {
+   "sentence": "Most are going to work, and only a few are going on vacation."
+  }
+ },
+ {
+  "ru": {
+   "sentence": "Я подхожу к Джулии и спрашиваю:",
+   "spacy_tokens": [
+    {
+     "text": "Я",
+     "lemma": "я",
+     "morph": "Case=Nom|Number=Sing|Person=First",
+     "pos": "PRON"
+    },
+    {
+     "text": "подхожу",
+     "lemma": "подходить",
+     "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=First|Tense=Pres|VerbForm=Fin|Voice=Act",
+     "pos": "VERB"
+    },
+    {
+     "text": "к",
+     "lemma": "к",
+     "morph": "",
+     "pos": "ADP"
+    },
+    {
+     "text": "Джулии",
+     "lemma": "джулия",
+     "morph": "Animacy=Anim|Case=Dat|Gender=Fem|Number=Sing",
+     "pos": "PROPN"
+    },
+    {
+     "text": "и",
+     "lemma": "и",
+     "morph": "",
+     "pos": "CCONJ"
+    },
+    {
+     "text": "спрашиваю",
+     "lemma": "спрашивать",
+     "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=First|Tense=Pres|VerbForm=Fin|Voice=Act",
+     "pos": "VERB"
+    },
+    {
+     "text": ":",
+     "lemma": ":",
+     "morph": "",
+     "pos": "PUNCT"
+    }
+   ],
+   "audio": "Глава 1 - Готовимся!.translated.json.audio\\90.ogg"
+  },
+  "en": {
+   "sentence": "I walk up to Julia and ask:"
+  }
+ },
+ {
+  "ru": {
+   "sentence": "– Ты в порядке?",
+   "spacy_tokens": [
+    {
+     "text": "–",
+     "lemma": "–",
+     "morph": "",
+     "pos": "PUNCT"
+    },
+    {
+     "text": "Ты",
+     "lemma": "ты",
+     "morph": "Case=Nom|Number=Sing|Person=Second",
+     "pos": "PRON"
+    },
+    {
+     "text": "в",
+     "lemma": "в",
+     "morph": "",
+     "pos": "ADP"
+    },
+    {
+     "text": "порядке",
+     "lemma": "порядок",
+     "morph": "Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing",
+     "pos": "NOUN"
+    },
+    {
+     "text": "?",
+     "lemma": "?",
+     "morph": "",
+     "pos": "PUNCT"
+    }
+   ],
+   "audio": "Глава 1 - Готовимся!.translated.json.audio\\91.ogg"
+  },
+  "en": {
+   "sentence": "- Are you okay?"
+  }
+ },
+ {
+  "ru": {
+   "sentence": "– Да, Даниэль.",
+   "spacy_tokens": [
+    {
+     "text": "–",
+     "lemma": "–",
+     "morph": "",
+     "pos": "PUNCT"
+    },
+    {
+     "text": "Да",
+     "lemma": "да",
+     "morph": "",
+     "pos": "PART"
+    },
+    {
+     "text": ",",
+     "lemma": ",",
+     "morph": "",
+     "pos": "PUNCT"
+    },
+    {
+     "text": "Даниэль",
+     "lemma": "даниэль",
+     "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing",
+     "pos": "PROPN"
+    },
+    {
+     "text": ".",
+     "lemma": ".",
+     "morph": "",
+     "pos": "PUNCT"
+    }
+   ],
+   "audio": "Глава 1 - Готовимся!.translated.json.audio\\92.ogg"
+  },
+  "en": {
+   "sentence": "- Yes, Danielle."
+  }
+ },
+ {
+  "ru": {
+   "sentence": "В машине я очень волновалась.",
+   "spacy_tokens": [
+    {
+     "text": "В",
+     "lemma": "в",
+     "morph": "",
+     "pos": "ADP"
+    },
+    {
+     "text": "машине",
+     "lemma": "машина",
+     "morph": "Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing",
+     "pos": "NOUN"
+    },
+    {
+     "text": "я",
+     "lemma": "я",
+     "morph": "Case=Nom|Number=Sing|Person=First",
+     "pos": "PRON"
+    },
+    {
+     "text": "очень",
+     "lemma": "очень",
+     "morph": "Degree=Pos",
+     "pos": "ADV"
+    },
+    {
+     "text": "волновалась",
+     "lemma": "волноваться",
+     "morph": "Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid",
+     "pos": "VERB"
+    },
+    {
+     "text": ".",
+     "lemma": ".",
+     "morph": "",
+     "pos": "PUNCT"
+    }
+   ],
+   "audio": "Глава 1 - Готовимся!.translated.json.audio\\93.ogg"
+  },
+  "en": {
+   "sentence": "In the car, I was really worried."
+  }
+ },
+ {
+  "ru": {
+   "sentence": "– Это точно.",
+   "spacy_tokens": [
+    {
+     "text": "–",
+     "lemma": "–",
+     "morph": "",
+     "pos": "PUNCT"
+    },
+    {
+     "text": "Это",
+     "lemma": "это",
+     "morph": "Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing",
+     "pos": "PRON"
+    },
+    {
+     "text": "точно",
+     "lemma": "точный",
+     "morph": "Degree=Pos|Gender=Neut|Number=Sing|StyleVariant=Short",
+     "pos": "ADJ"
+    },
+    {
+     "text": ".",
+     "lemma": ".",
+     "morph": "",
+     "pos": "PUNCT"
+    }
+   ],
+   "audio": "Глава 1 - Готовимся!.translated.json.audio\\94.ogg"
+  },
+  "en": {
+   "sentence": "- I sure was."
+  }
+ },
+ {
+  "ru": {
+   "sentence": "Но всё будет хорошо.",
+   "spacy_tokens": [
+    {
+     "text": "Но",
+     "lemma": "но",
+     "morph": "",
+     "pos": "CCONJ"
+    },
+    {
+     "text": "всё",
+     "lemma": "всё",
+     "morph": "Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing",
+     "pos": "PRON"
+    },
+    {
+     "text": "будет",
+     "lemma": "будет",
+     "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+     "pos": "AUX"
+    },
+    {
+     "text": "хорошо",
+     "lemma": "хороший",
+     "morph": "Degree=Pos|Gender=Neut|Number=Sing|StyleVariant=Short",
+     "pos": "ADJ"
+    },
+    {
+     "text": ".",
+     "lemma": ".",
+     "morph": "",
+     "pos": "PUNCT"
+    }
+   ],
+   "audio": "Глава 1 - Готовимся!.translated.json.audio\\95.ogg"
+  },
+  "en": {
+   "sentence": "But everything is going to be fine."
+  }
+ },
+ {
+  "ru": {
+   "sentence": "Мой друг в Петербурге – хороший человек, он часто помогает английским студентам, таким как мы с тобой.",
+   "spacy_tokens": [
+    {
+     "text": "Мой",
+     "lemma": "мой",
+     "morph": "Case=Nom|Gender=Masc|Number=Sing",
+     "pos": "DET"
+    },
+    {
+     "text": "друг",
+     "lemma": "друг",
+     "morph": "Case=Nom",
+     "pos": "PRON"
+    },
+    {
+     "text": "в",
+     "lemma": "в",
+     "morph": "",
+     "pos": "ADP"
+    },
+    {
+     "text": "Петербурге",
+     "lemma": "петербург",
+     "morph": "Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing",
+     "pos": "PROPN"
+    },
+    {
+     "text": "–",
+     "lemma": "–",
+     "morph": "",
+     "pos": "PUNCT"
+    },
+    {
+     "text": "хороший",
+     "lemma": "хороший",
+     "morph": "Case=Nom|Degree=Pos|Gender=Masc|Number=Sing",
+     "pos": "ADJ"
+    },
+    {
+     "text": "человек",
+     "lemma": "человек",
+     "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing",
+     "pos": "NOUN"
+    },
+    {
+     "text": ",",
+     "lemma": ",",
+     "morph": "",
+     "pos": "PUNCT"
+    },
+    {
+     "text": "он",
+     "lemma": "он",
+     "morph": "Case=Nom|Gender=Masc|Number=Sing|Person=Third",
+     "pos": "PRON"
+    },
+    {
+     "text": "часто",
+     "lemma": "часто",
+     "morph": "Degree=Pos",
+     "pos": "ADV"
+    },
+    {
+     "text": "помогает",
+     "lemma": "помогать",
+     "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+     "pos": "VERB"
+    },
+    {
+     "text": "английским",
+     "lemma": "английский",
+     "morph": "Case=Dat|Degree=Pos|Number=Plur",
+     "pos": "ADJ"
+    },
+    {
+     "text": "студентам",
+     "lemma": "студент",
+     "morph": "Animacy=Anim|Case=Dat|Gender=Masc|Number=Plur",
+     "pos": "NOUN"
+    },
+    {
+     "text": ",",
+     "lemma": ",",
+     "morph": "",
+     "pos": "PUNCT"
+    },
+    {
+     "text": "таким",
+     "lemma": "такой",
+     "morph": "Case=Dat|Number=Plur",
+     "pos": "DET"
+    },
+    {
+     "text": "как",
+     "lemma": "как",
+     "morph": "",
+     "pos": "SCONJ"
+    },
+    {
+     "text": "мы",
+     "lemma": "мы",
+     "morph": "Case=Nom|Number=Plur|Person=First",
+     "pos": "PRON"
+    },
+    {
+     "text": "с",
+     "lemma": "с",
+     "morph": "",
+     "pos": "ADP"
+    },
+    {
+     "text": "тобой",
+     "lemma": "тобой",
+     "morph": "Case=Ins|Number=Sing|Person=Second",
+     "pos": "PRON"
+    },
+    {
+     "text": ".",
+     "lemma": ".",
+     "morph": "",
+     "pos": "PUNCT"
+    }
+   ],
+   "audio": "Глава 1 - Готовимся!.translated.json.audio\\96.ogg"
+  },
+  "en": {
+   "sentence": "My friend in St. Petersburg is a good man, he often helps English students like you and me."
+  }
+ },
+ {
+  "ru": {
+   "sentence": "Родители обнимают нас.",
+   "spacy_tokens": [
+    {
+     "text": "Родители",
+     "lemma": "родитель",
+     "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur",
+     "pos": "NOUN"
+    },
+    {
+     "text": "обнимают",
+     "lemma": "обнимать",
+     "morph": "Aspect=Imp|Mood=Ind|Number=Plur|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+     "pos": "VERB"
+    },
+    {
+     "text": "нас",
+     "lemma": "нас",
+     "morph": "Animacy=Inan|Case=Acc|Number=Plur|Person=First",
+     "pos": "PRON"
+    },
+    {
+     "text": ".",
+     "lemma": ".",
+     "morph": "",
+     "pos": "PUNCT"
+    }
+   ],
+   "audio": "Глава 1 - Готовимся!.translated.json.audio\\97.ogg"
+  },
+  "en": {
+   "sentence": "My parents hug us."
+  }
+ },
+ {
+  "ru": {
+   "sentence": "Пока мы идём к предполётному контролю, мы машем им на прощание рукой.",
+   "spacy_tokens": [
+    {
+     "text": "Пока",
+     "lemma": "пока",
+     "morph": "",
+     "pos": "SCONJ"
+    },
+    {
+     "text": "мы",
+     "lemma": "мы",
+     "morph": "Case=Nom|Number=Plur|Person=First",
+     "pos": "PRON"
+    },
+    {
+     "text": "идём",
+     "lemma": "идти",
+     "morph": "Aspect=Imp|Mood=Ind|Number=Plur|Person=First|Tense=Pres|VerbForm=Fin|Voice=Act",
+     "pos": "VERB"
+    },
+    {
+     "text": "к",
+     "lemma": "к",
+     "morph": "",
+     "pos": "ADP"
+    },
+    {
+     "text": "предполётному",
+     "lemma": "предполётный",
+     "morph": "Case=Dat|Degree=Pos|Gender=Masc|Number=Sing",
+     "pos": "ADJ"
+    },
+    {
+     "text": "контролю",
+     "lemma": "контроль",
+     "morph": "Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing",
+     "pos": "NOUN"
+    },
+    {
+     "text": ",",
+     "lemma": ",",
+     "morph": "",
+     "pos": "PUNCT"
+    },
+    {
+     "text": "мы",
+     "lemma": "мы",
+     "morph": "Case=Nom|Number=Plur|Person=First",
+     "pos": "PRON"
+    },
+    {
+     "text": "машем",
+     "lemma": "махать",
+     "morph": "Aspect=Imp|Mood=Ind|Number=Plur|Person=First|Tense=Pres|VerbForm=Fin|Voice=Act",
+     "pos": "VERB"
+    },
+    {
+     "text": "им",
+     "lemma": "им",
+     "morph": "Case=Dat|Number=Plur|Person=Third",
+     "pos": "PRON"
+    },
+    {
+     "text": "на",
+     "lemma": "на",
+     "morph": "",
+     "pos": "ADP"
+    },
+    {
+     "text": "прощание",
+     "lemma": "прощание",
+     "morph": "Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing",
+     "pos": "NOUN"
+    },
+    {
+     "text": "рукой",
+     "lemma": "рука",
+     "morph": "Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing",
+     "pos": "NOUN"
+    },
+    {
+     "text": ".",
+     "lemma": ".",
+     "morph": "",
+     "pos": "PUNCT"
+    }
+   ],
+   "audio": "Глава 1 - Готовимся!.translated.json.audio\\98.ogg"
+  },
+  "en": {
+   "sentence": "As we walk to the pre-flight inspection, we wave goodbye to them."
+  }
+ },
+ {
+  "ru": {
+   "sentence": "– Мы вас любим!",
+   "spacy_tokens": [
+    {
+     "text": "–",
+     "lemma": "–",
+     "morph": "",
+     "pos": "PUNCT"
+    },
+    {
+     "text": "Мы",
+     "lemma": "мы",
+     "morph": "Case=Nom|Number=Plur|Person=First",
+     "pos": "PRON"
+    },
+    {
+     "text": "вас",
+     "lemma": "вас",
+     "morph": "Animacy=Inan|Case=Acc|Number=Plur|Person=Second",
+     "pos": "PRON"
+    },
+    {
+     "text": "любим",
+     "lemma": "любить",
+     "morph": "Aspect=Imp|Mood=Ind|Number=Plur|Person=First|Tense=Pres|VerbForm=Fin|Voice=Act",
+     "pos": "VERB"
+    },
+    {
+     "text": "!",
+     "lemma": "!",
+     "morph": "",
+     "pos": "PUNCT"
+    }
+   ],
+   "audio": "Глава 1 - Готовимся!.translated.json.audio\\99.ogg"
+  },
+  "en": {
+   "sentence": "- We love you!"
+  }
+ },
+ {
+  "ru": {
+   "sentence": "– это последнее, что мы слышим.",
+   "spacy_tokens": [
+    {
+     "text": "–",
+     "lemma": "–",
+     "morph": "",
+     "pos": "PUNCT"
+    },
+    {
+     "text": "это",
+     "lemma": "это",
+     "morph": "",
+     "pos": "PART"
+    },
+    {
+     "text": "последнее",
+     "lemma": "последний",
+     "morph": "Case=Nom|Degree=Pos|Gender=Neut|Number=Sing",
+     "pos": "ADJ"
+    },
+    {
+     "text": ",",
+     "lemma": ",",
+     "morph": "",
+     "pos": "PUNCT"
+    },
+    {
+     "text": "что",
+     "lemma": "что",
+     "morph": "Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing",
+     "pos": "PRON"
+    },
+    {
+     "text": "мы",
+     "lemma": "мы",
+     "morph": "Case=Nom|Number=Plur|Person=First",
+     "pos": "PRON"
+    },
+    {
+     "text": "слышим",
+     "lemma": "слышать",
+     "morph": "Aspect=Imp|Mood=Ind|Number=Plur|Person=First|Tense=Pres|VerbForm=Fin|Voice=Act",
+     "pos": "VERB"
+    },
+    {
+     "text": ".",
+     "lemma": ".",
+     "morph": "",
+     "pos": "PUNCT"
+    }
+   ],
+   "audio": "Глава 1 - Готовимся!.translated.json.audio\\100.ogg"
+  },
+  "en": {
+   "sentence": "- is the last thing we hear."
+  }
+ },
+ {
+  "ru": {
+   "sentence": "Через час и двадцать пять минут самолёт взлетает.",
+   "spacy_tokens": [
+    {
+     "text": "Через",
+     "lemma": "через",
+     "morph": "",
+     "pos": "ADP"
+    },
+    {
+     "text": "час",
+     "lemma": "час",
+     "morph": "Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing",
+     "pos": "NOUN"
+    },
+    {
+     "text": "и",
+     "lemma": "и",
+     "morph": "",
+     "pos": "CCONJ"
+    },
+    {
+     "text": "двадцать",
+     "lemma": "двадцать",
+     "morph": "Case=Acc",
+     "pos": "NUM"
+    },
+    {
+     "text": "пять",
+     "lemma": "пять",
+     "morph": "Case=Acc",
+     "pos": "NUM"
+    },
+    {
+     "text": "минут",
+     "lemma": "минута",
+     "morph": "Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur",
+     "pos": "NOUN"
+    },
+    {
+     "text": "самолёт",
+     "lemma": "самолёт",
+     "morph": "Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing",
+     "pos": "NOUN"
+    },
+    {
+     "text": "взлетает",
+     "lemma": "взлетать",
+     "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+     "pos": "VERB"
+    },
+    {
+     "text": ".",
+     "lemma": ".",
+     "morph": "",
+     "pos": "PUNCT"
+    }
+   ],
+   "audio": "Глава 1 - Готовимся!.translated.json.audio\\101.ogg"
+  },
+  "en": {
+   "sentence": "An hour and twenty-five minutes later, the plane takes off."
+  }
+ },
+ {
+  "ru": {
+   "sentence": "Мы летим в Петербург!",
+   "spacy_tokens": [
+    {
+     "text": "Мы",
+     "lemma": "мы",
+     "morph": "Case=Nom|Number=Plur|Person=First",
+     "pos": "PRON"
+    },
+    {
+     "text": "летим",
+     "lemma": "лететь",
+     "morph": "Aspect=Imp|Mood=Ind|Number=Plur|Person=First|Tense=Pres|VerbForm=Fin|Voice=Act",
+     "pos": "VERB"
+    },
+    {
+     "text": "в",
+     "lemma": "в",
+     "morph": "",
+     "pos": "ADP"
+    },
+    {
+     "text": "Петербург",
+     "lemma": "петербург",
+     "morph": "Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing",
+     "pos": "PROPN"
+    },
+    {
+     "text": "!",
+     "lemma": "!",
+     "morph": "",
+     "pos": "PUNCT"
+    }
+   ],
+   "audio": "Глава 1 - Готовимся!.translated.json.audio\\102.ogg"
+  },
+  "en": {
+   "sentence": "We're going to St. Petersburg!"
+  }
+ }
+]

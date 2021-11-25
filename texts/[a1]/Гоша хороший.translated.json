@@ -1,0 +1,1188 @@
+[
+  {
+    "ru": {
+      "sentence": "У меня есть друг Гоша.",
+      "audio": "Гоша хороший.translated.json.audio\\0.ogg",
+      "spacy_tokens": [
+        {
+          "text": "У",
+          "lemma": "у",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "меня",
+          "lemma": "меня",
+          "morph": "Case=Gen|Number=Sing|Person=First",
+          "pos": "PRON"
+        },
+        {
+          "text": "есть",
+          "lemma": "быть",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "друг",
+          "lemma": "друг",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "Гоша",
+          "lemma": "гоша",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "I have a friend named Gosha."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Он любит говорить.",
+      "audio": "Гоша хороший.translated.json.audio\\1.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Он",
+          "lemma": "он",
+          "morph": "Case=Nom|Gender=Masc|Number=Sing|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": "любит",
+          "lemma": "любить",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "говорить",
+          "lemma": "говорить",
+          "morph": "Aspect=Imp|VerbForm=Inf|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "He likes to talk."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Я не люблю говорить, я люблю слушать.",
+      "audio": "Гоша хороший.translated.json.audio\\2.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Я",
+          "lemma": "я",
+          "morph": "Case=Nom|Number=Sing|Person=First",
+          "pos": "PRON"
+        },
+        {
+          "text": "не",
+          "lemma": "не",
+          "morph": "Polarity=Neg",
+          "pos": "PART"
+        },
+        {
+          "text": "люблю",
+          "lemma": "любить",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=First|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "говорить",
+          "lemma": "говорить",
+          "morph": "Aspect=Imp|VerbForm=Inf|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "я",
+          "lemma": "я",
+          "morph": "Case=Nom|Number=Sing|Person=First",
+          "pos": "PRON"
+        },
+        {
+          "text": "люблю",
+          "lemma": "любить",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=First|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "слушать",
+          "lemma": "слушать",
+          "morph": "Aspect=Imp|VerbForm=Inf|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "I don't like to talk, I like to listen."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "— Привет! — говорит Гоша.",
+      "audio": "Гоша хороший.translated.json.audio\\3.ogg",
+      "spacy_tokens": [
+        {
+          "text": "—",
+          "lemma": "—",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "Привет",
+          "lemma": "привет",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": "!",
+          "lemma": "!",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "—",
+          "lemma": "—",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "говорит",
+          "lemma": "говорить",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "Гоша",
+          "lemma": "гоша",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "- Hi!\" says Gosha."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "— Привет! — говорю я.",
+      "audio": "Гоша хороший.translated.json.audio\\4.ogg",
+      "spacy_tokens": [
+        {
+          "text": "—",
+          "lemma": "—",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "Привет",
+          "lemma": "привет",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": "!",
+          "lemma": "!",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "—",
+          "lemma": "—",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "говорю",
+          "lemma": "говорить",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=First|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "я",
+          "lemma": "я",
+          "morph": "Case=Nom|Number=Sing|Person=First",
+          "pos": "PRON"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "- Hi!\" I say."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "— Гоша хороший, — говорит Гоша.",
+      "audio": "Гоша хороший.translated.json.audio\\5.ogg",
+      "spacy_tokens": [
+        {
+          "text": "—",
+          "lemma": "—",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "Гоша",
+          "lemma": "гоша",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": "хороший",
+          "lemma": "хороший",
+          "morph": "Case=Nom|Degree=Pos|Gender=Masc|Number=Sing",
+          "pos": "ADJ"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "—",
+          "lemma": "—",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "говорит",
+          "lemma": "говорить",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "Гоша",
+          "lemma": "гоша",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "- Gosha is good, - says Gosha."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "— Очень хороший, — говорю я.",
+      "audio": "Гоша хороший.translated.json.audio\\6.ogg",
+      "spacy_tokens": [
+        {
+          "text": "—",
+          "lemma": "—",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "Очень",
+          "lemma": "очень",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "хороший",
+          "lemma": "хороший",
+          "morph": "Case=Nom|Degree=Pos|Gender=Masc|Number=Sing",
+          "pos": "ADJ"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "—",
+          "lemma": "—",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "говорю",
+          "lemma": "говорить",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=First|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "я",
+          "lemma": "я",
+          "morph": "Case=Nom|Number=Sing|Person=First",
+          "pos": "PRON"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "- Very good, - I say."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "— Гоша красивый, — говорит Гоша.",
+      "audio": "Гоша хороший.translated.json.audio\\7.ogg",
+      "spacy_tokens": [
+        {
+          "text": "—",
+          "lemma": "—",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "Гоша",
+          "lemma": "гоша",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": "красивый",
+          "lemma": "красивый",
+          "morph": "Case=Nom|Degree=Pos|Gender=Masc|Number=Sing",
+          "pos": "ADJ"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "—",
+          "lemma": "—",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "говорит",
+          "lemma": "говорить",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "Гоша",
+          "lemma": "гоша",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "- Gosha is beautiful, - says Gosha."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "— Очень красивый, — говорю я.",
+      "audio": "Гоша хороший.translated.json.audio\\8.ogg",
+      "spacy_tokens": [
+        {
+          "text": "—",
+          "lemma": "—",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "Очень",
+          "lemma": "очень",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "красивый",
+          "lemma": "красивый",
+          "morph": "Case=Nom|Degree=Pos|Gender=Masc|Number=Sing",
+          "pos": "ADJ"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "—",
+          "lemma": "—",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "говорю",
+          "lemma": "говорить",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=First|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "я",
+          "lemma": "я",
+          "morph": "Case=Nom|Number=Sing|Person=First",
+          "pos": "PRON"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "- Very handsome, - says I."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "— Гоша умный, — говорит Гоша.",
+      "audio": "Гоша хороший.translated.json.audio\\9.ogg",
+      "spacy_tokens": [
+        {
+          "text": "—",
+          "lemma": "—",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "Гоша",
+          "lemma": "гоша",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": "умный",
+          "lemma": "умный",
+          "morph": "Case=Nom|Degree=Pos|Gender=Masc|Number=Sing",
+          "pos": "ADJ"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "—",
+          "lemma": "—",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "говорит",
+          "lemma": "говорить",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "Гоша",
+          "lemma": "гоша",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "- Gosha is smart, - says Gosha."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "— Очень умный, — говорю я.",
+      "audio": "Гоша хороший.translated.json.audio\\10.ogg",
+      "spacy_tokens": [
+        {
+          "text": "—",
+          "lemma": "—",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "Очень",
+          "lemma": "очень",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "умный",
+          "lemma": "умный",
+          "morph": "Case=Nom|Degree=Pos|Gender=Masc|Number=Sing",
+          "pos": "ADJ"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "—",
+          "lemma": "—",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "говорю",
+          "lemma": "говорить",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=First|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "я",
+          "lemma": "я",
+          "morph": "Case=Nom|Number=Sing|Person=First",
+          "pos": "PRON"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "- Very clever,\" I say."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Раньше у меня была жена , а теперь у меня есть только Гоша.",
+      "audio": "Гоша хороший.translated.json.audio\\11.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Раньше",
+          "lemma": "раньше",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "у",
+          "lemma": "у",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "меня",
+          "lemma": "меня",
+          "morph": "Case=Gen|Number=Sing|Person=First",
+          "pos": "PRON"
+        },
+        {
+          "text": "была",
+          "lemma": "быть",
+          "morph": "Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "жена",
+          "lemma": "жена",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "а",
+          "lemma": "а",
+          "morph": "",
+          "pos": "CCONJ"
+        },
+        {
+          "text": "теперь",
+          "lemma": "теперь",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "у",
+          "lemma": "у",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "меня",
+          "lemma": "меня",
+          "morph": "Case=Gen|Number=Sing|Person=First",
+          "pos": "PRON"
+        },
+        {
+          "text": "есть",
+          "lemma": "быть",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "только",
+          "lemma": "только",
+          "morph": "",
+          "pos": "PART"
+        },
+        {
+          "text": "Гоша",
+          "lemma": "гоша",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "I used to have a wife, but now I only have Gosha."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Жена говорила много, а Гоша говорит мало.",
+      "audio": "Гоша хороший.translated.json.audio\\12.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Жена",
+          "lemma": "жена",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "говорила",
+          "lemma": "говорить",
+          "morph": "Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "много",
+          "lemma": "много",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "а",
+          "lemma": "а",
+          "morph": "",
+          "pos": "CCONJ"
+        },
+        {
+          "text": "Гоша",
+          "lemma": "гоша",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": "говорит",
+          "lemma": "говорить",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "мало",
+          "lemma": "мало",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "My wife talked a lot, and Gosha didn't talk much."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Жена говорила громко, а Гоша говорит тихо.",
+      "audio": "Гоша хороший.translated.json.audio\\13.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Жена",
+          "lemma": "жена",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "говорила",
+          "lemma": "говорить",
+          "morph": "Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "громко",
+          "lemma": "громко",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "а",
+          "lemma": "а",
+          "morph": "",
+          "pos": "CCONJ"
+        },
+        {
+          "text": "Гоша",
+          "lemma": "гоша",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": "говорит",
+          "lemma": "говорить",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "тихо",
+          "lemma": "тихо",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "Wife spoke loudly, and Gosha speaks softly."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Жена кричала, а Гоша не кричит.",
+      "audio": "Гоша хороший.translated.json.audio\\14.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Жена",
+          "lemma": "жена",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "кричала",
+          "lemma": "кричать",
+          "morph": "Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "а",
+          "lemma": "а",
+          "morph": "",
+          "pos": "CCONJ"
+        },
+        {
+          "text": "Гоша",
+          "lemma": "гоша",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": "не",
+          "lemma": "не",
+          "morph": "Polarity=Neg",
+          "pos": "PART"
+        },
+        {
+          "text": "кричит",
+          "lemma": "кричать",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "Wife shouted, and Gosha didn't shout."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Жена была злая, а Гоша добрый.",
+      "audio": "Гоша хороший.translated.json.audio\\15.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Жена",
+          "lemma": "жена",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "была",
+          "lemma": "была",
+          "morph": "Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "AUX"
+        },
+        {
+          "text": "злая",
+          "lemma": "злой",
+          "morph": "Case=Nom|Degree=Pos|Gender=Fem|Number=Sing",
+          "pos": "ADJ"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "а",
+          "lemma": "а",
+          "morph": "",
+          "pos": "CCONJ"
+        },
+        {
+          "text": "Гоша",
+          "lemma": "гоша",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": "добрый",
+          "lemma": "добрый",
+          "morph": "Case=Nom|Degree=Pos|Gender=Masc|Number=Sing",
+          "pos": "ADJ"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "The wife was mean and Gosha was kind."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Жена была большая, а Гоша маленький.",
+      "audio": "Гоша хороший.translated.json.audio\\16.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Жена",
+          "lemma": "жена",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "была",
+          "lemma": "была",
+          "morph": "Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "AUX"
+        },
+        {
+          "text": "большая",
+          "lemma": "больший",
+          "morph": "Case=Nom|Degree=Pos|Gender=Fem|Number=Sing",
+          "pos": "ADJ"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "а",
+          "lemma": "а",
+          "morph": "",
+          "pos": "CCONJ"
+        },
+        {
+          "text": "Гоша",
+          "lemma": "гоша",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": "маленький",
+          "lemma": "маленький",
+          "morph": "Case=Nom|Degree=Pos|Gender=Masc|Number=Sing",
+          "pos": "ADJ"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "The wife was big and Gosha was small."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Дедушка жены работал в министерстве, а дедушка Гоши жил в джунглях в Бразилии.",
+      "audio": "Гоша хороший.translated.json.audio\\17.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Дедушка",
+          "lemma": "дедушка",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "жены",
+          "lemma": "жена",
+          "morph": "Animacy=Anim|Case=Gen|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "работал",
+          "lemma": "работать",
+          "morph": "Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "в",
+          "lemma": "в",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "министерстве",
+          "lemma": "министерство",
+          "morph": "Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "а",
+          "lemma": "а",
+          "morph": "",
+          "pos": "CCONJ"
+        },
+        {
+          "text": "дедушка",
+          "lemma": "дедушка",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "Гоши",
+          "lemma": "гоши",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": "жил",
+          "lemma": "жить",
+          "morph": "Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "в",
+          "lemma": "в",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "джунглях",
+          "lemma": "джунглях",
+          "morph": "Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur",
+          "pos": "NOUN"
+        },
+        {
+          "text": "в",
+          "lemma": "в",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "Бразилии",
+          "lemma": "бразилия",
+          "morph": "Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "Wife's grandfather worked in the ministry, and Gosha's grandfather lived in the jungle in Brazil."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Гоша — попугай.",
+      "audio": "Гоша хороший.translated.json.audio\\18.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Гоша",
+          "lemma": "гоша",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": "—",
+          "lemma": "—",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "попугай",
+          "lemma": "попугай",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "Gosha is a parrot."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Он мой лучший друг.",
+      "audio": "Гоша хороший.translated.json.audio\\19.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Он",
+          "lemma": "он",
+          "morph": "Case=Nom|Gender=Masc|Number=Sing|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": "мой",
+          "lemma": "мой",
+          "morph": "Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "DET"
+        },
+        {
+          "text": "лучший",
+          "lemma": "хороший",
+          "morph": "Case=Nom|Degree=Pos|Gender=Masc|Number=Sing",
+          "pos": "ADJ"
+        },
+        {
+          "text": "друг",
+          "lemma": "друг",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "He is my best friend."
+    }
+  }
+]

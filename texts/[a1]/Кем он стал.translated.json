@@ -1,0 +1,1325 @@
+[
+  {
+    "ru": {
+      "sentence": "Мой младший брат всегда хотел стать путешественником.",
+      "audio": "Кем он стал.translated.json.audio\\0.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Мой",
+          "lemma": "мой",
+          "morph": "Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "DET"
+        },
+        {
+          "text": "младший",
+          "lemma": "младший",
+          "morph": "Case=Nom|Degree=Pos|Gender=Masc|Number=Sing",
+          "pos": "ADJ"
+        },
+        {
+          "text": "брат",
+          "lemma": "брат",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "всегда",
+          "lemma": "всегда",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "хотел",
+          "lemma": "хотеть",
+          "morph": "Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "стать",
+          "lemma": "стать",
+          "morph": "Aspect=Perf|VerbForm=Inf|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "путешественником",
+          "lemma": "путешественник",
+          "morph": "Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "My younger brother always wanted to be a traveler."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Он серьёзно занимался спортом, много читал о разных странах, ходил в горы, ездил в Сибирь, на Кавказ и в Крым.",
+      "audio": "Кем он стал.translated.json.audio\\1.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Он",
+          "lemma": "он",
+          "morph": "Case=Nom|Gender=Masc|Number=Sing|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": "серьёзно",
+          "lemma": "серьёзно",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "занимался",
+          "lemma": "заниматься",
+          "morph": "Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid",
+          "pos": "VERB"
+        },
+        {
+          "text": "спортом",
+          "lemma": "спорт",
+          "morph": "Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "много",
+          "lemma": "много",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "читал",
+          "lemma": "читать",
+          "morph": "Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "о",
+          "lemma": "о",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "разных",
+          "lemma": "разный",
+          "morph": "Case=Loc|Degree=Pos|Number=Plur",
+          "pos": "ADJ"
+        },
+        {
+          "text": "странах",
+          "lemma": "страна",
+          "morph": "Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur",
+          "pos": "NOUN"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "ходил",
+          "lemma": "ходить",
+          "morph": "Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "в",
+          "lemma": "в",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "горы",
+          "lemma": "гора",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur",
+          "pos": "NOUN"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "ездил",
+          "lemma": "ездить",
+          "morph": "Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "в",
+          "lemma": "в",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "Сибирь",
+          "lemma": "сибирь",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "на",
+          "lemma": "на",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "Кавказ",
+          "lemma": "кавказ",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": "и",
+          "lemma": "и",
+          "morph": "",
+          "pos": "CCONJ"
+        },
+        {
+          "text": "в",
+          "lemma": "в",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "Крым",
+          "lemma": "крым",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "He was serious about sports, read a lot about different countries, went to the mountains, went to Siberia, to the Caucasus and to the Crimea."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Он мечтал поехать в Индию, в Австралию и в Антарктиду.",
+      "audio": "Кем он стал.translated.json.audio\\2.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Он",
+          "lemma": "он",
+          "morph": "Case=Nom|Gender=Masc|Number=Sing|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": "мечтал",
+          "lemma": "мечтать",
+          "morph": "Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "поехать",
+          "lemma": "поехать",
+          "morph": "Aspect=Perf|VerbForm=Inf|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "в",
+          "lemma": "в",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "Индию",
+          "lemma": "индия",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "в",
+          "lemma": "в",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "Австралию",
+          "lemma": "австралия",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": "и",
+          "lemma": "и",
+          "morph": "",
+          "pos": "CCONJ"
+        },
+        {
+          "text": "в",
+          "lemma": "в",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "Антарктиду",
+          "lemma": "антарктида",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "He dreamed of going to India, to Australia, and to Antarctica."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Когда ему было тринадцать лет, он первый раз в жизни увидел компьютер.",
+      "audio": "Кем он стал.translated.json.audio\\3.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Когда",
+          "lemma": "когда",
+          "morph": "",
+          "pos": "SCONJ"
+        },
+        {
+          "text": "ему",
+          "lemma": "ему",
+          "morph": "Case=Dat|Gender=Masc|Number=Sing|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": "было",
+          "lemma": "было",
+          "morph": "Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "AUX"
+        },
+        {
+          "text": "тринадцать",
+          "lemma": "тринадцать",
+          "morph": "Case=Nom",
+          "pos": "NUM"
+        },
+        {
+          "text": "лет",
+          "lemma": "год",
+          "morph": "Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur",
+          "pos": "NOUN"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "он",
+          "lemma": "он",
+          "morph": "Case=Nom|Gender=Masc|Number=Sing|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": "первый",
+          "lemma": "первый",
+          "morph": "Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing",
+          "pos": "ADJ"
+        },
+        {
+          "text": "раз",
+          "lemma": "раз",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "в",
+          "lemma": "в",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "жизни",
+          "lemma": "жизнь",
+          "morph": "Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "увидел",
+          "lemma": "увидеть",
+          "morph": "Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "компьютер",
+          "lemma": "компьютер",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "When he was thirteen, he saw a computer for the first time in his life."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Сейчас моему брату тридцать пять лет.",
+      "audio": "Кем он стал.translated.json.audio\\4.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Сейчас",
+          "lemma": "сейчас",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "моему",
+          "lemma": "мой",
+          "morph": "Case=Dat|Gender=Masc|Number=Sing",
+          "pos": "DET"
+        },
+        {
+          "text": "брату",
+          "lemma": "брат",
+          "morph": "Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "тридцать",
+          "lemma": "тридцать",
+          "morph": "Case=Acc",
+          "pos": "NUM"
+        },
+        {
+          "text": "пять",
+          "lemma": "пять",
+          "morph": "Case=Acc",
+          "pos": "NUM"
+        },
+        {
+          "text": "лет",
+          "lemma": "год",
+          "morph": "Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "Now my brother is thirty-five years old."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Он стал инженером и занимается компьютерами.",
+      "audio": "Кем он стал.translated.json.audio\\5.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Он",
+          "lemma": "он",
+          "morph": "Case=Nom|Gender=Masc|Number=Sing|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": "стал",
+          "lemma": "стать",
+          "morph": "Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "инженером",
+          "lemma": "инженер",
+          "morph": "Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "и",
+          "lemma": "и",
+          "morph": "",
+          "pos": "CCONJ"
+        },
+        {
+          "text": "занимается",
+          "lemma": "заниматься",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Mid",
+          "pos": "VERB"
+        },
+        {
+          "text": "компьютерами",
+          "lemma": "компьютер",
+          "morph": "Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "He became an engineer and works in computers."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Его жена говорит, что он живёт в Интернете.",
+      "audio": "Кем он стал.translated.json.audio\\6.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Его",
+          "lemma": "его",
+          "morph": "Case=Gen|Gender=Masc|Number=Sing|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": "жена",
+          "lemma": "жена",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "говорит",
+          "lemma": "говорить",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "что",
+          "lemma": "что",
+          "morph": "",
+          "pos": "SCONJ"
+        },
+        {
+          "text": "он",
+          "lemma": "он",
+          "morph": "Case=Nom|Gender=Masc|Number=Sing|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": "живёт",
+          "lemma": "жить",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "в",
+          "lemma": "в",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "Интернете",
+          "lemma": "интернет",
+          "morph": "Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "His wife says he lives on the Internet."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Он часто ездит в другие страны, но видит там только компьютеры.",
+      "audio": "Кем он стал.translated.json.audio\\7.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Он",
+          "lemma": "он",
+          "morph": "Case=Nom|Gender=Masc|Number=Sing|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": "часто",
+          "lemma": "часто",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "ездит",
+          "lemma": "ездить",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "в",
+          "lemma": "в",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "другие",
+          "lemma": "другие",
+          "morph": "Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur",
+          "pos": "ADJ"
+        },
+        {
+          "text": "страны",
+          "lemma": "страна",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur",
+          "pos": "NOUN"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "но",
+          "lemma": "но",
+          "morph": "",
+          "pos": "CCONJ"
+        },
+        {
+          "text": "видит",
+          "lemma": "видеть",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "там",
+          "lemma": "там",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "только",
+          "lemma": "только",
+          "morph": "",
+          "pos": "PART"
+        },
+        {
+          "text": "компьютеры",
+          "lemma": "компьютер",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "He often travels to other countries, but he only sees computers there."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "В прошлом году он ездил на компьютерную выставку в Нью Йорк и купил там самый современный планшет для своей жены на день рождения.",
+      "audio": "Кем он стал.translated.json.audio\\8.ogg",
+      "spacy_tokens": [
+        {
+          "text": "В",
+          "lemma": "в",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "прошлом",
+          "lemma": "прошлый",
+          "morph": "Case=Loc|Degree=Pos|Gender=Masc|Number=Sing",
+          "pos": "ADJ"
+        },
+        {
+          "text": "году",
+          "lemma": "год",
+          "morph": "Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "он",
+          "lemma": "он",
+          "morph": "Case=Nom|Gender=Masc|Number=Sing|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": "ездил",
+          "lemma": "ездить",
+          "morph": "Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "на",
+          "lemma": "на",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "компьютерную",
+          "lemma": "компьютерный",
+          "morph": "Case=Acc|Degree=Pos|Gender=Fem|Number=Sing",
+          "pos": "ADJ"
+        },
+        {
+          "text": "выставку",
+          "lemma": "выставка",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "в",
+          "lemma": "в",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "Нью",
+          "lemma": "нью",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": "Йорк",
+          "lemma": "йорк",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": "и",
+          "lemma": "и",
+          "morph": "",
+          "pos": "CCONJ"
+        },
+        {
+          "text": "купил",
+          "lemma": "купить",
+          "morph": "Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "там",
+          "lemma": "там",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "самый",
+          "lemma": "самый",
+          "morph": "Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing",
+          "pos": "ADJ"
+        },
+        {
+          "text": "современный",
+          "lemma": "современный",
+          "morph": "Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing",
+          "pos": "ADJ"
+        },
+        {
+          "text": "планшет",
+          "lemma": "планшет",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "для",
+          "lemma": "для",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "своей",
+          "lemma": "свой",
+          "morph": "Case=Gen|Gender=Fem|Number=Sing",
+          "pos": "DET"
+        },
+        {
+          "text": "жены",
+          "lemma": "жена",
+          "morph": "Animacy=Anim|Case=Gen|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "на",
+          "lemma": "на",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "день",
+          "lemma": "день",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "рождения",
+          "lemma": "рождение",
+          "morph": "Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "Last year he went to a computer show in New York and bought a state-of-the-art tablet for his wife for her birthday."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Его жена говорит, что в таком подарке нет романтики.",
+      "audio": "Кем он стал.translated.json.audio\\9.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Его",
+          "lemma": "его",
+          "morph": "Case=Gen|Gender=Masc|Number=Sing|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": "жена",
+          "lemma": "жена",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "говорит",
+          "lemma": "говорить",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "что",
+          "lemma": "что",
+          "morph": "",
+          "pos": "SCONJ"
+        },
+        {
+          "text": "в",
+          "lemma": "в",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "таком",
+          "lemma": "такой",
+          "morph": "Case=Loc|Gender=Masc|Number=Sing",
+          "pos": "DET"
+        },
+        {
+          "text": "подарке",
+          "lemma": "подарок",
+          "morph": "Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "нет",
+          "lemma": "нет",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "романтики",
+          "lemma": "романтика",
+          "morph": "Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "His wife says there is no romance in such a gift."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Игорь (так зовут моего брата) может починить любой компьютер или планшет.",
+      "audio": "Кем он стал.translated.json.audio\\10.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Игорь",
+          "lemma": "игорь",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": "(",
+          "lemma": "(",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "так",
+          "lemma": "так",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "зовут",
+          "lemma": "звать",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Plur|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "моего",
+          "lemma": "мой",
+          "morph": "Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing",
+          "pos": "DET"
+        },
+        {
+          "text": "брата",
+          "lemma": "брат",
+          "morph": "Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ")",
+          "lemma": ")",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "может",
+          "lemma": "мочь",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "починить",
+          "lemma": "починить",
+          "morph": "Aspect=Perf|VerbForm=Inf|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "любой",
+          "lemma": "любой",
+          "morph": "Case=Acc|Gender=Masc|Number=Sing",
+          "pos": "DET"
+        },
+        {
+          "text": "компьютер",
+          "lemma": "компьютер",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "или",
+          "lemma": "или",
+          "morph": "",
+          "pos": "CCONJ"
+        },
+        {
+          "text": "планшет",
+          "lemma": "планшет",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "Igor (that's my brother's name) can fix any computer or tablet."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "У него дома настоящая мастерская по ремонту техники.",
+      "audio": "Кем он стал.translated.json.audio\\11.ogg",
+      "spacy_tokens": [
+        {
+          "text": "У",
+          "lemma": "у",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "него",
+          "lemma": "него",
+          "morph": "Case=Gen|Gender=Masc|Number=Sing|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": "дома",
+          "lemma": "дома",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "настоящая",
+          "lemma": "настоящий",
+          "morph": "Case=Nom|Degree=Pos|Gender=Fem|Number=Sing",
+          "pos": "ADJ"
+        },
+        {
+          "text": "мастерская",
+          "lemma": "мастерская",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "по",
+          "lemma": "по",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "ремонту",
+          "lemma": "ремонт",
+          "morph": "Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "техники",
+          "lemma": "техника",
+          "morph": "Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "He has a real equipment repair shop at home."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Его жена говорит, что её муж любит технику больше, чем её.",
+      "audio": "Кем он стал.translated.json.audio\\12.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Его",
+          "lemma": "его",
+          "morph": "Case=Gen|Gender=Masc|Number=Sing|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": "жена",
+          "lemma": "жена",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "говорит",
+          "lemma": "говорить",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "что",
+          "lemma": "что",
+          "morph": "",
+          "pos": "SCONJ"
+        },
+        {
+          "text": "её",
+          "lemma": "её",
+          "morph": "",
+          "pos": "DET"
+        },
+        {
+          "text": "муж",
+          "lemma": "муж",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "любит",
+          "lemma": "любить",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "технику",
+          "lemma": "техника",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "больше",
+          "lemma": "больше",
+          "morph": "Degree=Cmp",
+          "pos": "ADV"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "чем",
+          "lemma": "чем",
+          "morph": "",
+          "pos": "SCONJ"
+        },
+        {
+          "text": "её",
+          "lemma": "её",
+          "morph": "Case=Gen|Gender=Fem|Number=Sing|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "His wife says her husband loves technology more than he loves her."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Очень скоро Игорь с друзьями откроет магазин по продаже и ремонту компьютеров.",
+      "audio": "Кем он стал.translated.json.audio\\13.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Очень",
+          "lemma": "очень",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "скоро",
+          "lemma": "скоро",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "Игорь",
+          "lemma": "игорь",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": "с",
+          "lemma": "с",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "друзьями",
+          "lemma": "друг",
+          "morph": "Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur",
+          "pos": "NOUN"
+        },
+        {
+          "text": "откроет",
+          "lemma": "открыть",
+          "morph": "Aspect=Perf|Mood=Ind|Number=Sing|Person=Third|Tense=Fut|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "магазин",
+          "lemma": "магазин",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "по",
+          "lemma": "по",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "продаже",
+          "lemma": "продажа",
+          "morph": "Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "и",
+          "lemma": "и",
+          "morph": "",
+          "pos": "CCONJ"
+        },
+        {
+          "text": "ремонту",
+          "lemma": "ремонт",
+          "morph": "Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "компьютеров",
+          "lemma": "компьютер",
+          "morph": "Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "Very soon, Igor and his friends will open a store to sell and repair computers."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Его жена молчит и ждёт, когда её муж станет миллионером.",
+      "audio": "Кем он стал.translated.json.audio\\14.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Его",
+          "lemma": "его",
+          "morph": "Case=Gen|Gender=Masc|Number=Sing|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": "жена",
+          "lemma": "жена",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "молчит",
+          "lemma": "молчать",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "и",
+          "lemma": "и",
+          "morph": "",
+          "pos": "CCONJ"
+        },
+        {
+          "text": "ждёт",
+          "lemma": "ждать",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "когда",
+          "lemma": "когда",
+          "morph": "",
+          "pos": "SCONJ"
+        },
+        {
+          "text": "её",
+          "lemma": "её",
+          "morph": "",
+          "pos": "DET"
+        },
+        {
+          "text": "муж",
+          "lemma": "муж",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "станет",
+          "lemma": "стать",
+          "morph": "Aspect=Perf|Mood=Ind|Number=Sing|Person=Third|Tense=Fut|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "миллионером",
+          "lemma": "миллионер",
+          "morph": "Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "His wife keeps quiet and waits for her husband to become a millionaire."
+    }
+  }
+]

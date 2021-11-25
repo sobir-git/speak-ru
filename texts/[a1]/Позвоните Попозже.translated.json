@@ -1,0 +1,2067 @@
+[
+  {
+    "ru": {
+      "sentence": "У меня есть друг.",
+      "audio": "Позвоните Попозже.translated.json.audio\\0.ogg",
+      "spacy_tokens": [
+        {
+          "text": "У",
+          "lemma": "у",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "меня",
+          "lemma": "меня",
+          "morph": "Case=Gen|Number=Sing|Person=First",
+          "pos": "PRON"
+        },
+        {
+          "text": "есть",
+          "lemma": "быть",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "друг",
+          "lemma": "друг",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "I have a friend."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Его зовут Саша.",
+      "audio": "Позвоните Попозже.translated.json.audio\\1.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Его",
+          "lemma": "его",
+          "morph": "Case=Acc|Gender=Masc|Number=Sing|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": "зовут",
+          "lemma": "звать",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Plur|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "Саша",
+          "lemma": "саша",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "His name is Sasha."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Вчера я позвонил ему, а его брат сказал:",
+      "audio": "Позвоните Попозже.translated.json.audio\\2.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Вчера",
+          "lemma": "вчера",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "я",
+          "lemma": "я",
+          "morph": "Case=Nom|Number=Sing|Person=First",
+          "pos": "PRON"
+        },
+        {
+          "text": "позвонил",
+          "lemma": "позвонить",
+          "morph": "Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "ему",
+          "lemma": "ему",
+          "morph": "Case=Dat|Gender=Masc|Number=Sing|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "а",
+          "lemma": "а",
+          "morph": "",
+          "pos": "CCONJ"
+        },
+        {
+          "text": "его",
+          "lemma": "его",
+          "morph": "Case=Gen|Gender=Masc|Number=Sing|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": "брат",
+          "lemma": "брат",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "сказал",
+          "lemma": "сказать",
+          "morph": "Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": ":",
+          "lemma": ":",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "Yesterday I called him and his brother said:"
+    }
+  },
+  {
+    "ru": {
+      "sentence": "«Саши нет, он будет через час».",
+      "audio": "Позвоните Попозже.translated.json.audio\\3.ogg",
+      "spacy_tokens": [
+        {
+          "text": "«",
+          "lemma": "\"",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "Саши",
+          "lemma": "саша",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur",
+          "pos": "NOUN"
+        },
+        {
+          "text": "нет",
+          "lemma": "нет",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "он",
+          "lemma": "он",
+          "morph": "Case=Nom|Gender=Masc|Number=Sing|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": "будет",
+          "lemma": "будет",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "AUX"
+        },
+        {
+          "text": "через",
+          "lemma": "через",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "час",
+          "lemma": "час",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "»",
+          "lemma": "\"",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "\"Sasha's not here, he'll be here in an hour.\""
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Я позвонил через час, и его брат сказал:",
+      "audio": "Позвоните Попозже.translated.json.audio\\4.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Я",
+          "lemma": "я",
+          "morph": "Case=Nom|Number=Sing|Person=First",
+          "pos": "PRON"
+        },
+        {
+          "text": "позвонил",
+          "lemma": "позвонить",
+          "morph": "Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "через",
+          "lemma": "через",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "час",
+          "lemma": "час",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "и",
+          "lemma": "и",
+          "morph": "",
+          "pos": "CCONJ"
+        },
+        {
+          "text": "его",
+          "lemma": "его",
+          "morph": "Case=Gen|Gender=Masc|Number=Sing|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": "брат",
+          "lemma": "брат",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "сказал",
+          "lemma": "сказать",
+          "morph": "Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": ":",
+          "lemma": ":",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "I called an hour later, and his brother said:"
+    }
+  },
+  {
+    "ru": {
+      "sentence": "«Саши нет, позвоните попозже».",
+      "audio": "Позвоните Попозже.translated.json.audio\\5.ogg",
+      "spacy_tokens": [
+        {
+          "text": "«",
+          "lemma": "\"",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "Саши",
+          "lemma": "саша",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur",
+          "pos": "NOUN"
+        },
+        {
+          "text": "нет",
+          "lemma": "нет",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "позвоните",
+          "lemma": "позвонить",
+          "morph": "Aspect=Perf|Mood=Imp|Number=Plur|Person=Second|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "попозже",
+          "lemma": "попозже",
+          "morph": "Degree=Cmp",
+          "pos": "ADV"
+        },
+        {
+          "text": "»",
+          "lemma": "\"",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "\"Sasha's not here, call me later.\""
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Я позвонил через полчаса, его брат сказал:",
+      "audio": "Позвоните Попозже.translated.json.audio\\6.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Я",
+          "lemma": "я",
+          "morph": "Case=Nom|Number=Sing|Person=First",
+          "pos": "PRON"
+        },
+        {
+          "text": "позвонил",
+          "lemma": "позвонить",
+          "morph": "Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "через",
+          "lemma": "через",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "полчаса",
+          "lemma": "полчаса",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur",
+          "pos": "NOUN"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "его",
+          "lemma": "его",
+          "morph": "Case=Gen|Gender=Masc|Number=Sing|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": "брат",
+          "lemma": "брат",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "сказал",
+          "lemma": "сказать",
+          "morph": "Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": ":",
+          "lemma": ":",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "I called half an hour later, his brother said:"
+    }
+  },
+  {
+    "ru": {
+      "sentence": "«Саши нет, он вышел».",
+      "audio": "Позвоните Попозже.translated.json.audio\\7.ogg",
+      "spacy_tokens": [
+        {
+          "text": "«",
+          "lemma": "\"",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "Саши",
+          "lemma": "саша",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur",
+          "pos": "NOUN"
+        },
+        {
+          "text": "нет",
+          "lemma": "нет",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "он",
+          "lemma": "он",
+          "morph": "Case=Nom|Gender=Masc|Number=Sing|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": "вышел",
+          "lemma": "выйти",
+          "morph": "Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "»",
+          "lemma": "\"",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "\"Sasha's not here, he's out.\""
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Я позвонил через пятнадцать минут.",
+      "audio": "Позвоните Попозже.translated.json.audio\\8.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Я",
+          "lemma": "я",
+          "morph": "Case=Nom|Number=Sing|Person=First",
+          "pos": "PRON"
+        },
+        {
+          "text": "позвонил",
+          "lemma": "позвонить",
+          "morph": "Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "через",
+          "lemma": "через",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "пятнадцать",
+          "lemma": "пятнадцать",
+          "morph": "Case=Acc",
+          "pos": "NUM"
+        },
+        {
+          "text": "минут",
+          "lemma": "минута",
+          "morph": "Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "I called fifteen minutes later."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "– Саши нет, он ушёл.",
+      "audio": "Позвоните Попозже.translated.json.audio\\9.ogg",
+      "spacy_tokens": [
+        {
+          "text": "–",
+          "lemma": "–",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "Саши",
+          "lemma": "саши",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": "нет",
+          "lemma": "нет",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "он",
+          "lemma": "он",
+          "morph": "Case=Nom|Gender=Masc|Number=Sing|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": "ушёл",
+          "lemma": "уйти",
+          "morph": "Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "- Sasha isn't here, he's gone out."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "– А когда он будет?",
+      "audio": "Позвоните Попозже.translated.json.audio\\10.ogg",
+      "spacy_tokens": [
+        {
+          "text": "–",
+          "lemma": "–",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "А",
+          "lemma": "а",
+          "morph": "",
+          "pos": "CCONJ"
+        },
+        {
+          "text": "когда",
+          "lemma": "когда",
+          "morph": "",
+          "pos": "SCONJ"
+        },
+        {
+          "text": "он",
+          "lemma": "он",
+          "morph": "Case=Nom|Gender=Masc|Number=Sing|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": "будет",
+          "lemma": "будет",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "?",
+          "lemma": "?",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "- And when will he be here?"
+    }
+  },
+  {
+    "ru": {
+      "sentence": "– спросил я.",
+      "audio": "Позвоните Попозже.translated.json.audio\\11.ogg",
+      "spacy_tokens": [
+        {
+          "text": "–",
+          "lemma": "–",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "спросил",
+          "lemma": "спросить",
+          "morph": "Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "я",
+          "lemma": "я",
+          "morph": "Case=Nom|Number=Sing|Person=First",
+          "pos": "PRON"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "- I asked."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "– Не знаю, – ответил брат.",
+      "audio": "Позвоните Попозже.translated.json.audio\\12.ogg",
+      "spacy_tokens": [
+        {
+          "text": "–",
+          "lemma": "–",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "Не",
+          "lemma": "не",
+          "morph": "Polarity=Neg",
+          "pos": "PART"
+        },
+        {
+          "text": "знаю",
+          "lemma": "знать",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=First|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "–",
+          "lemma": "–",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "ответил",
+          "lemma": "ответить",
+          "morph": "Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "брат",
+          "lemma": "брат",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "- I don't know, - my brother answered."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Сегодня утром я позвонил Саше ещё раз, и его брат сказал:",
+      "audio": "Позвоните Попозже.translated.json.audio\\13.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Сегодня",
+          "lemma": "сегодня",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "утром",
+          "lemma": "утро",
+          "morph": "Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "я",
+          "lemma": "я",
+          "morph": "Case=Nom|Number=Sing|Person=First",
+          "pos": "PRON"
+        },
+        {
+          "text": "позвонил",
+          "lemma": "позвонить",
+          "morph": "Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "Саше",
+          "lemma": "саша",
+          "morph": "Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": "ещё",
+          "lemma": "ещё",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "раз",
+          "lemma": "раз",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "и",
+          "lemma": "и",
+          "morph": "",
+          "pos": "CCONJ"
+        },
+        {
+          "text": "его",
+          "lemma": "его",
+          "morph": "Case=Gen|Gender=Masc|Number=Sing|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": "брат",
+          "lemma": "брат",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "сказал",
+          "lemma": "сказать",
+          "morph": "Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": ":",
+          "lemma": ":",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "This morning I called Sasha again, and his brother said:"
+    }
+  },
+  {
+    "ru": {
+      "sentence": "«Саши нет, он будет вечером».",
+      "audio": "Позвоните Попозже.translated.json.audio\\14.ogg",
+      "spacy_tokens": [
+        {
+          "text": "«",
+          "lemma": "\"",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "Саши",
+          "lemma": "саша",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur",
+          "pos": "NOUN"
+        },
+        {
+          "text": "нет",
+          "lemma": "нет",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "он",
+          "lemma": "он",
+          "morph": "Case=Nom|Gender=Masc|Number=Sing|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": "будет",
+          "lemma": "будет",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "AUX"
+        },
+        {
+          "text": "вечером",
+          "lemma": "вечер",
+          "morph": "Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "»",
+          "lemma": "\"",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "\"Sasha isn't here, he'll be there in the evening.\""
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Через пятнадцать минут Саше позвонила Лена.",
+      "audio": "Позвоните Попозже.translated.json.audio\\15.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Через",
+          "lemma": "через",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "пятнадцать",
+          "lemma": "пятнадцать",
+          "morph": "Case=Acc",
+          "pos": "NUM"
+        },
+        {
+          "text": "минут",
+          "lemma": "минута",
+          "morph": "Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur",
+          "pos": "NOUN"
+        },
+        {
+          "text": "Саше",
+          "lemma": "саше",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": "позвонила",
+          "lemma": "позвонить",
+          "morph": "Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "Лена",
+          "lemma": "лена",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "Fifteen minutes later Sasha got a call from Lena."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Она спросила:",
+      "audio": "Позвоните Попозже.translated.json.audio\\16.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Она",
+          "lemma": "она",
+          "morph": "Case=Nom|Gender=Fem|Number=Sing|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": "спросила",
+          "lemma": "спросить",
+          "morph": "Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": ":",
+          "lemma": ":",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "She asked:"
+    }
+  },
+  {
+    "ru": {
+      "sentence": "«Можно Сашу?»",
+      "audio": "Позвоните Попозже.translated.json.audio\\17.ogg",
+      "spacy_tokens": [
+        {
+          "text": "«",
+          "lemma": "\"",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "Можно",
+          "lemma": "можно",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "Сашу",
+          "lemma": "сашу",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": "?",
+          "lemma": "?",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "»",
+          "lemma": "\"",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "\"Can I see Sasha?\""
+    }
+  },
+  {
+    "ru": {
+      "sentence": "– Конечно, – ответил брат.",
+      "audio": "Позвоните Попозже.translated.json.audio\\18.ogg",
+      "spacy_tokens": [
+        {
+          "text": "–",
+          "lemma": "–",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "Конечно",
+          "lemma": "конечно",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "–",
+          "lemma": "–",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "ответил",
+          "lemma": "ответить",
+          "morph": "Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "брат",
+          "lemma": "брат",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "- Of course,\" his brother replied."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Через десять минут ему позвонила Оля.",
+      "audio": "Позвоните Попозже.translated.json.audio\\19.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Через",
+          "lemma": "через",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "десять",
+          "lemma": "десять",
+          "morph": "Case=Acc",
+          "pos": "NUM"
+        },
+        {
+          "text": "минут",
+          "lemma": "минута",
+          "morph": "Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur",
+          "pos": "NOUN"
+        },
+        {
+          "text": "ему",
+          "lemma": "ему",
+          "morph": "Case=Dat|Gender=Masc|Number=Sing|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": "позвонила",
+          "lemma": "позвонить",
+          "morph": "Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "Оля",
+          "lemma": "оля",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "Ten minutes later he got a call from Olya."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "– Будьте добры Сашу, – сказала она.",
+      "audio": "Позвоните Попозже.translated.json.audio\\20.ogg",
+      "spacy_tokens": [
+        {
+          "text": "–",
+          "lemma": "–",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "Будьте",
+          "lemma": "будьте",
+          "morph": "Aspect=Imp|Mood=Imp|Number=Plur|Person=Second|VerbForm=Fin|Voice=Act",
+          "pos": "AUX"
+        },
+        {
+          "text": "добры",
+          "lemma": "добрый",
+          "morph": "Degree=Pos|Number=Plur|StyleVariant=Short",
+          "pos": "ADJ"
+        },
+        {
+          "text": "Сашу",
+          "lemma": "сашу",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "–",
+          "lemma": "–",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "сказала",
+          "lemma": "сказать",
+          "morph": "Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "она",
+          "lemma": "она",
+          "morph": "Case=Nom|Gender=Fem|Number=Sing|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "- Would you be so kind to Sasha,\" she said."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "– Пожалуйста, – сказал брат.",
+      "audio": "Позвоните Попозже.translated.json.audio\\21.ogg",
+      "spacy_tokens": [
+        {
+          "text": "–",
+          "lemma": "–",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "Пожалуйста",
+          "lemma": "пожалуйста",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "–",
+          "lemma": "–",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "сказал",
+          "lemma": "сказать",
+          "morph": "Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "брат",
+          "lemma": "брат",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "- Please, - said the brother."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Через час Саше позвонила Марина.",
+      "audio": "Позвоните Попозже.translated.json.audio\\22.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Через",
+          "lemma": "через",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "час",
+          "lemma": "час",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "Саше",
+          "lemma": "саше",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": "позвонила",
+          "lemma": "позвонить",
+          "morph": "Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "Марина",
+          "lemma": "марина",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "An hour later Sasha got a call from Marina."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "– Можно Сашу?",
+      "audio": "Позвоните Попозже.translated.json.audio\\23.ogg",
+      "spacy_tokens": [
+        {
+          "text": "–",
+          "lemma": "–",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "Можно",
+          "lemma": "можно",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "Сашу",
+          "lemma": "сашу",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": "?",
+          "lemma": "?",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "- May I see Sasha?"
+    }
+  },
+  {
+    "ru": {
+      "sentence": "– Одну минуту.",
+      "audio": "Позвоните Попозже.translated.json.audio\\24.ogg",
+      "spacy_tokens": [
+        {
+          "text": "–",
+          "lemma": "–",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "Одну",
+          "lemma": "одну",
+          "morph": "Case=Acc|Gender=Fem|Number=Sing",
+          "pos": "NUM"
+        },
+        {
+          "text": "минуту",
+          "lemma": "минута",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "- One minute."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Ещё через полчаса Саше позвонил Олег, и брат Саши сказал:",
+      "audio": "Позвоните Попозже.translated.json.audio\\25.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Ещё",
+          "lemma": "ещё",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": "через",
+          "lemma": "через",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "полчаса",
+          "lemma": "полчаса",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur",
+          "pos": "NOUN"
+        },
+        {
+          "text": "Саше",
+          "lemma": "саше",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": "позвонил",
+          "lemma": "позвонить",
+          "morph": "Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "Олег",
+          "lemma": "олег",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "и",
+          "lemma": "и",
+          "morph": "",
+          "pos": "CCONJ"
+        },
+        {
+          "text": "брат",
+          "lemma": "брат",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "Саши",
+          "lemma": "саши",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": "сказал",
+          "lemma": "сказать",
+          "morph": "Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": ":",
+          "lemma": ":",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "Another half hour later Sasha got a call from Oleg, and Sasha's brother said:"
+    }
+  },
+  {
+    "ru": {
+      "sentence": "«Саши нет, и когда он будет, я не знаю».",
+      "audio": "Позвоните Попозже.translated.json.audio\\26.ogg",
+      "spacy_tokens": [
+        {
+          "text": "«",
+          "lemma": "\"",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "Саши",
+          "lemma": "саша",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur",
+          "pos": "NOUN"
+        },
+        {
+          "text": "нет",
+          "lemma": "нет",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "и",
+          "lemma": "и",
+          "morph": "",
+          "pos": "CCONJ"
+        },
+        {
+          "text": "когда",
+          "lemma": "когда",
+          "morph": "",
+          "pos": "SCONJ"
+        },
+        {
+          "text": "он",
+          "lemma": "он",
+          "morph": "Case=Nom|Gender=Masc|Number=Sing|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": "будет",
+          "lemma": "будет",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "AUX"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "я",
+          "lemma": "я",
+          "morph": "Case=Nom|Number=Sing|Person=First",
+          "pos": "PRON"
+        },
+        {
+          "text": "не",
+          "lemma": "не",
+          "morph": "Polarity=Neg",
+          "pos": "PART"
+        },
+        {
+          "text": "знаю",
+          "lemma": "знать",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=First|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "»",
+          "lemma": "\"",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "\"Sasha is not here, and I don't know when he will be.\""
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Сегодня Саше звонил Олег, Антон, Сергей, Андрей, и его брат говорил: «Саши нет», «Он вышел», «Позвоните попозже», «Позвоните через двадцать минут», «Он будет через час», «Он ушёл», «Я не знаю, когда он будет».",
+      "audio": "Позвоните Попозже.translated.json.audio\\27.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Сегодня",
+          "lemma": "сегодня",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "Саше",
+          "lemma": "саше",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": "звонил",
+          "lemma": "звонить",
+          "morph": "Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "Олег",
+          "lemma": "олег",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "Антон",
+          "lemma": "антон",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "Сергей",
+          "lemma": "сергей",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "Андрей",
+          "lemma": "андрей",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "и",
+          "lemma": "и",
+          "morph": "",
+          "pos": "CCONJ"
+        },
+        {
+          "text": "его",
+          "lemma": "его",
+          "morph": "Case=Gen|Gender=Masc|Number=Sing|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": "брат",
+          "lemma": "брат",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "говорил",
+          "lemma": "говорить",
+          "morph": "Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": ":",
+          "lemma": ":",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "«",
+          "lemma": "\"",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "Саши",
+          "lemma": "саша",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur",
+          "pos": "NOUN"
+        },
+        {
+          "text": "нет",
+          "lemma": "нет",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "»",
+          "lemma": "\"",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "«",
+          "lemma": "\"",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "Он",
+          "lemma": "он",
+          "morph": "Case=Nom|Gender=Masc|Number=Sing|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": "вышел",
+          "lemma": "выйти",
+          "morph": "Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "»",
+          "lemma": "\"",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "«",
+          "lemma": "\"",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "Позвоните",
+          "lemma": "позвонить",
+          "morph": "Aspect=Perf|Mood=Imp|Number=Plur|Person=Second|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "попозже",
+          "lemma": "попозже",
+          "morph": "Degree=Cmp",
+          "pos": "ADV"
+        },
+        {
+          "text": "»",
+          "lemma": "\"",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "«",
+          "lemma": "\"",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "Позвоните",
+          "lemma": "позвонить",
+          "morph": "Aspect=Perf|Mood=Imp|Number=Plur|Person=Second|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "через",
+          "lemma": "через",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "двадцать",
+          "lemma": "двадцать",
+          "morph": "Case=Acc",
+          "pos": "NUM"
+        },
+        {
+          "text": "минут",
+          "lemma": "минута",
+          "morph": "Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur",
+          "pos": "NOUN"
+        },
+        {
+          "text": "»",
+          "lemma": "\"",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "«",
+          "lemma": "\"",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "Он",
+          "lemma": "он",
+          "morph": "Case=Nom|Gender=Masc|Number=Sing|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": "будет",
+          "lemma": "будет",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "AUX"
+        },
+        {
+          "text": "через",
+          "lemma": "через",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "час",
+          "lemma": "час",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "»",
+          "lemma": "\"",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "«",
+          "lemma": "\"",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "Он",
+          "lemma": "он",
+          "morph": "Case=Nom|Gender=Masc|Number=Sing|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": "ушёл",
+          "lemma": "уйти",
+          "morph": "Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "»",
+          "lemma": "\"",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "«",
+          "lemma": "\"",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "Я",
+          "lemma": "я",
+          "morph": "Case=Nom|Number=Sing|Person=First",
+          "pos": "PRON"
+        },
+        {
+          "text": "не",
+          "lemma": "не",
+          "morph": "Polarity=Neg",
+          "pos": "PART"
+        },
+        {
+          "text": "знаю",
+          "lemma": "знать",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=First|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "когда",
+          "lemma": "когда",
+          "morph": "",
+          "pos": "SCONJ"
+        },
+        {
+          "text": "он",
+          "lemma": "он",
+          "morph": "Case=Nom|Gender=Masc|Number=Sing|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": "будет",
+          "lemma": "будет",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "AUX"
+        },
+        {
+          "text": "»",
+          "lemma": "\"",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "Oleg, Anton, Sergei, Andrei called Sasha today, and his brother said, \"Sasha's not here,\" \"He's out,\" \"Call me later,\" \"Call me in twenty minutes,\" \"He'll be in an hour,\" \"He's gone,\" \"I don't know when he'll be.\""
+    }
+  },
+  {
+    "ru": {
+      "sentence": "А когда Саше звонили Лена, Оля, Марина, Света, его брат говорил: «Пожалуйста», «Одну минуту», «Конечно».",
+      "audio": "Позвоните Попозже.translated.json.audio\\28.ogg",
+      "spacy_tokens": [
+        {
+          "text": "А",
+          "lemma": "а",
+          "morph": "",
+          "pos": "CCONJ"
+        },
+        {
+          "text": "когда",
+          "lemma": "когда",
+          "morph": "",
+          "pos": "SCONJ"
+        },
+        {
+          "text": "Саше",
+          "lemma": "саше",
+          "morph": "Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": "звонили",
+          "lemma": "звонить",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "Лена",
+          "lemma": "лена",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "Оля",
+          "lemma": "оля",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "Марина",
+          "lemma": "марина",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "Света",
+          "lemma": "света",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "его",
+          "lemma": "его",
+          "morph": "Case=Gen|Gender=Masc|Number=Sing|Person=Third",
+          "pos": "PRON"
+        },
+        {
+          "text": "брат",
+          "lemma": "брат",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "говорил",
+          "lemma": "говорить",
+          "morph": "Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": ":",
+          "lemma": ":",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "«",
+          "lemma": "\"",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "Пожалуйста",
+          "lemma": "пожалуйста",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "»",
+          "lemma": "\"",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "«",
+          "lemma": "\"",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "Одну",
+          "lemma": "одну",
+          "morph": "Case=Acc|Gender=Fem|Number=Sing",
+          "pos": "NUM"
+        },
+        {
+          "text": "минуту",
+          "lemma": "минута",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "»",
+          "lemma": "\"",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "«",
+          "lemma": "\"",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "Конечно",
+          "lemma": "конечно",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "»",
+          "lemma": "\"",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "And when Sasha got a call from Lena, Olya, Marina, Sveta, his brother would say, \"Please,\" \"Just a minute,\" \"Sure.\""
+    }
+  }
+]

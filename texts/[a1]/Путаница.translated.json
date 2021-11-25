@@ -1,0 +1,1185 @@
+[
+  {
+    "ru": {
+      "sentence": "Сегодня суббота.",
+      "audio": "Путаница.translated.json.audio\\0.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Сегодня",
+          "lemma": "сегодня",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "суббота",
+          "lemma": "суббота",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "It's Saturday."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Погода отличная, мороженое вкусное, настроение супер!",
+      "audio": "Путаница.translated.json.audio\\1.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Погода",
+          "lemma": "погода",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "отличная",
+          "lemma": "отличный",
+          "morph": "Case=Nom|Degree=Pos|Gender=Fem|Number=Sing",
+          "pos": "ADJ"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "мороженое",
+          "lemma": "мороженый",
+          "morph": "Case=Nom|Degree=Pos|Gender=Neut|Number=Sing",
+          "pos": "ADJ"
+        },
+        {
+          "text": "вкусное",
+          "lemma": "вкусный",
+          "morph": "Case=Nom|Degree=Pos|Gender=Neut|Number=Sing",
+          "pos": "ADJ"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "настроение",
+          "lemma": "настроение",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "супер",
+          "lemma": "супер",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "!",
+          "lemma": "!",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "The weather is great, the ice cream is delicious, and the mood is super!"
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Мы с Джоном гуляем по Москве и практикуем русский язык.",
+      "audio": "Путаница.translated.json.audio\\2.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Мы",
+          "lemma": "мы",
+          "morph": "Case=Nom|Number=Plur|Person=First",
+          "pos": "PRON"
+        },
+        {
+          "text": "с",
+          "lemma": "с",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "Джоном",
+          "lemma": "джон",
+          "morph": "Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": "гуляем",
+          "lemma": "гулять",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Plur|Person=First|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "по",
+          "lemma": "по",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "Москве",
+          "lemma": "москва",
+          "morph": "Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": "и",
+          "lemma": "и",
+          "morph": "",
+          "pos": "CCONJ"
+        },
+        {
+          "text": "практикуем",
+          "lemma": "практиковать",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Plur|Person=First|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "русский",
+          "lemma": "русский",
+          "morph": "Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing",
+          "pos": "ADJ"
+        },
+        {
+          "text": "язык",
+          "lemma": "язык",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "John and I are walking around Moscow and practicing Russian."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "– Какая красная церковь!",
+      "audio": "Путаница.translated.json.audio\\3.ogg",
+      "spacy_tokens": [
+        {
+          "text": "–",
+          "lemma": "–",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "Какая",
+          "lemma": "какой",
+          "morph": "Case=Nom|Gender=Fem|Number=Sing",
+          "pos": "DET"
+        },
+        {
+          "text": "красная",
+          "lemma": "красный",
+          "morph": "Case=Nom|Degree=Pos|Gender=Fem|Number=Sing",
+          "pos": "ADJ"
+        },
+        {
+          "text": "церковь",
+          "lemma": "церковь",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "!",
+          "lemma": "!",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "- What a red church!"
+    }
+  },
+  {
+    "ru": {
+      "sentence": "– говорит Джон.",
+      "audio": "Путаница.translated.json.audio\\4.ogg",
+      "spacy_tokens": [
+        {
+          "text": "–",
+          "lemma": "–",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "говорит",
+          "lemma": "говорить",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "Джон",
+          "lemma": "джон",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "- John says."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "– Джон, церковь не красная, а красивая!",
+      "audio": "Путаница.translated.json.audio\\5.ogg",
+      "spacy_tokens": [
+        {
+          "text": "–",
+          "lemma": "–",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "Джон",
+          "lemma": "джон",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "церковь",
+          "lemma": "церковь",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "не",
+          "lemma": "не",
+          "morph": "Polarity=Neg",
+          "pos": "PART"
+        },
+        {
+          "text": "красная",
+          "lemma": "красный",
+          "morph": "Case=Nom|Degree=Pos|Gender=Fem|Number=Sing",
+          "pos": "ADJ"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "а",
+          "lemma": "а",
+          "morph": "",
+          "pos": "CCONJ"
+        },
+        {
+          "text": "красивая",
+          "lemma": "красивый",
+          "morph": "Case=Nom|Degree=Pos|Gender=Fem|Number=Sing",
+          "pos": "ADJ"
+        },
+        {
+          "text": "!",
+          "lemma": "!",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "- John, the church is not red, it's beautiful!"
+    }
+  },
+  {
+    "ru": {
+      "sentence": "А Кремль – красный.",
+      "audio": "Путаница.translated.json.audio\\6.ogg",
+      "spacy_tokens": [
+        {
+          "text": "А",
+          "lemma": "а",
+          "morph": "",
+          "pos": "CCONJ"
+        },
+        {
+          "text": "Кремль",
+          "lemma": "кремль",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": "–",
+          "lemma": "–",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "красный",
+          "lemma": "красный",
+          "morph": "Case=Nom|Degree=Pos|Gender=Masc|Number=Sing",
+          "pos": "ADJ"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "And the Kremlin is red."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "– Я всегда путаю эти слова!",
+      "audio": "Путаница.translated.json.audio\\7.ogg",
+      "spacy_tokens": [
+        {
+          "text": "–",
+          "lemma": "–",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "Я",
+          "lemma": "я",
+          "morph": "Case=Nom|Number=Sing|Person=First",
+          "pos": "PRON"
+        },
+        {
+          "text": "всегда",
+          "lemma": "всегда",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "путаю",
+          "lemma": "путаю",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Plur|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "эти",
+          "lemma": "этот",
+          "morph": "Animacy=Inan|Case=Acc|Number=Plur",
+          "pos": "DET"
+        },
+        {
+          "text": "слова",
+          "lemma": "слово",
+          "morph": "Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur",
+          "pos": "NOUN"
+        },
+        {
+          "text": "!",
+          "lemma": "!",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "- I always get those words mixed up!"
+    }
+  },
+  {
+    "ru": {
+      "sentence": "– А ты знаешь, как называется эта площадь?",
+      "audio": "Путаница.translated.json.audio\\8.ogg",
+      "spacy_tokens": [
+        {
+          "text": "–",
+          "lemma": "–",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "А",
+          "lemma": "а",
+          "morph": "",
+          "pos": "CCONJ"
+        },
+        {
+          "text": "ты",
+          "lemma": "ты",
+          "morph": "Case=Nom|Number=Sing|Person=Second",
+          "pos": "PRON"
+        },
+        {
+          "text": "знаешь",
+          "lemma": "знать",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Second|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "как",
+          "lemma": "как",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "называется",
+          "lemma": "называться",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Mid",
+          "pos": "VERB"
+        },
+        {
+          "text": "эта",
+          "lemma": "этот",
+          "morph": "Case=Nom|Gender=Fem|Number=Sing",
+          "pos": "DET"
+        },
+        {
+          "text": "площадь",
+          "lemma": "площадь",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "?",
+          "lemma": "?",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "- Do you know what this square is called?"
+    }
+  },
+  {
+    "ru": {
+      "sentence": "– Конечно!",
+      "audio": "Путаница.translated.json.audio\\9.ogg",
+      "spacy_tokens": [
+        {
+          "text": "–",
+          "lemma": "–",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "Конечно",
+          "lemma": "конечно",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "!",
+          "lemma": "!",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "- Of course I do."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Это Красивая площадь!",
+      "audio": "Путаница.translated.json.audio\\10.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Это",
+          "lemma": "это",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing",
+          "pos": "PRON"
+        },
+        {
+          "text": "Красивая",
+          "lemma": "красивый",
+          "morph": "Case=Nom|Degree=Pos|Gender=Fem|Number=Sing",
+          "pos": "ADJ"
+        },
+        {
+          "text": "площадь",
+          "lemma": "площадь",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "!",
+          "lemma": "!",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "It's Beautiful Square!"
+    }
+  },
+  {
+    "ru": {
+      "sentence": "– Нет, Джон.",
+      "audio": "Путаница.translated.json.audio\\11.ogg",
+      "spacy_tokens": [
+        {
+          "text": "–",
+          "lemma": "–",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "Нет",
+          "lemma": "нет",
+          "morph": "Polarity=Neg",
+          "pos": "PART"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "Джон",
+          "lemma": "джон",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "- No, John."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Это Красная площадь!",
+      "audio": "Путаница.translated.json.audio\\12.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Это",
+          "lemma": "это",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing",
+          "pos": "PRON"
+        },
+        {
+          "text": "Красная",
+          "lemma": "красный",
+          "morph": "Case=Nom|Degree=Pos|Gender=Fem|Number=Sing",
+          "pos": "ADJ"
+        },
+        {
+          "text": "площадь",
+          "lemma": "площадь",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "!",
+          "lemma": "!",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "It's Red Square!"
+    }
+  },
+  {
+    "ru": {
+      "sentence": "– Окей, теперь я запомнил!",
+      "audio": "Путаница.translated.json.audio\\13.ogg",
+      "spacy_tokens": [
+        {
+          "text": "–",
+          "lemma": "–",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "Окей",
+          "lemma": "окей",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "PROPN"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "теперь",
+          "lemma": "теперь",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "я",
+          "lemma": "я",
+          "morph": "Case=Nom|Number=Sing|Person=First",
+          "pos": "PRON"
+        },
+        {
+          "text": "запомнил",
+          "lemma": "запомнить",
+          "morph": "Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "!",
+          "lemma": "!",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "- Okay, now I remember!"
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Церковь – красивая, площадь – Красная.",
+      "audio": "Путаница.translated.json.audio\\14.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Церковь",
+          "lemma": "церковь",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "–",
+          "lemma": "–",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "красивая",
+          "lemma": "красивый",
+          "morph": "Case=Nom|Degree=Pos|Gender=Fem|Number=Sing",
+          "pos": "ADJ"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "площадь",
+          "lemma": "площадь",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "–",
+          "lemma": "–",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "Красная",
+          "lemma": "красный",
+          "morph": "Case=Nom|Degree=Pos|Gender=Fem|Number=Sing",
+          "pos": "ADJ"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "The church is beautiful, the square is Red."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Ты – красивая, а твоя сумка – красная!",
+      "audio": "Путаница.translated.json.audio\\15.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Ты",
+          "lemma": "ты",
+          "morph": "Case=Nom|Number=Sing|Person=Second",
+          "pos": "PRON"
+        },
+        {
+          "text": "–",
+          "lemma": "–",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "красивая",
+          "lemma": "красивый",
+          "morph": "Case=Nom|Degree=Pos|Gender=Fem|Number=Sing",
+          "pos": "ADJ"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "а",
+          "lemma": "а",
+          "morph": "",
+          "pos": "CCONJ"
+        },
+        {
+          "text": "твоя",
+          "lemma": "твой",
+          "morph": "Case=Nom|Gender=Fem|Number=Sing",
+          "pos": "DET"
+        },
+        {
+          "text": "сумка",
+          "lemma": "сумка",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "–",
+          "lemma": "–",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "красная",
+          "lemma": "красный",
+          "morph": "Case=Nom|Degree=Pos|Gender=Fem|Number=Sing",
+          "pos": "ADJ"
+        },
+        {
+          "text": "!",
+          "lemma": "!",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "You are beautiful, and your bag is red!"
+    }
+  },
+  {
+    "ru": {
+      "sentence": "– Молодец!",
+      "audio": "Путаница.translated.json.audio\\16.ogg",
+      "spacy_tokens": [
+        {
+          "text": "–",
+          "lemma": "–",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "Молодец",
+          "lemma": "молодец",
+          "morph": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "!",
+          "lemma": "!",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "- Well done!"
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Кстати, а ты знаешь, как по-русски «beautiful weather”?",
+      "audio": "Путаница.translated.json.audio\\17.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Кстати",
+          "lemma": "кстати",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "а",
+          "lemma": "а",
+          "morph": "",
+          "pos": "CCONJ"
+        },
+        {
+          "text": "ты",
+          "lemma": "ты",
+          "morph": "Case=Nom|Number=Sing|Person=Second",
+          "pos": "PRON"
+        },
+        {
+          "text": "знаешь",
+          "lemma": "знать",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Second|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "как",
+          "lemma": "как",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "по",
+          "lemma": "по",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "-",
+          "lemma": "-",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "русски",
+          "lemma": "русски",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "«",
+          "lemma": "\"",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "beautiful",
+          "lemma": "beautiful",
+          "morph": "Foreign=Yes",
+          "pos": "X"
+        },
+        {
+          "text": "weather",
+          "lemma": "weather",
+          "morph": "Foreign=Yes",
+          "pos": "X"
+        },
+        {
+          "text": "”",
+          "lemma": "”",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "?",
+          "lemma": "?",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "By the way, do you know how \"beautiful weather\" is in Russian?"
+    }
+  },
+  {
+    "ru": {
+      "sentence": "– Красивая погода!",
+      "audio": "Путаница.translated.json.audio\\18.ogg",
+      "spacy_tokens": [
+        {
+          "text": "–",
+          "lemma": "–",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "Красивая",
+          "lemma": "красивый",
+          "morph": "Case=Nom|Degree=Pos|Gender=Fem|Number=Sing",
+          "pos": "ADJ"
+        },
+        {
+          "text": "погода",
+          "lemma": "погода",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "!",
+          "lemma": "!",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "- Beautiful weather!"
+    }
+  },
+  {
+    "ru": {
+      "sentence": "– Нет, мы говорим: ПРЕКРАСНАЯ погода!",
+      "audio": "Путаница.translated.json.audio\\19.ogg",
+      "spacy_tokens": [
+        {
+          "text": "–",
+          "lemma": "–",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "Нет",
+          "lemma": "нет",
+          "morph": "Polarity=Neg",
+          "pos": "PART"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "мы",
+          "lemma": "мы",
+          "morph": "Case=Nom|Number=Plur|Person=First",
+          "pos": "PRON"
+        },
+        {
+          "text": "говорим",
+          "lemma": "говорить",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Plur|Person=First|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": ":",
+          "lemma": ":",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "ПРЕКРАСНАЯ",
+          "lemma": "прекрасная",
+          "morph": "Aspect=Imp|Mood=Imp|Number=Sing|Person=Second|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "погода",
+          "lemma": "погода",
+          "morph": "Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "!",
+          "lemma": "!",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "- No, we say BEAUTIFUL weather!"
+    }
+  },
+  {
+    "ru": {
+      "sentence": "– Ох, мне нужно больше практики.",
+      "audio": "Путаница.translated.json.audio\\20.ogg",
+      "spacy_tokens": [
+        {
+          "text": "–",
+          "lemma": "–",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "Ох",
+          "lemma": "ох",
+          "morph": "",
+          "pos": "INTJ"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "мне",
+          "lemma": "мне",
+          "morph": "Case=Dat|Number=Sing|Person=First",
+          "pos": "PRON"
+        },
+        {
+          "text": "нужно",
+          "lemma": "нужный",
+          "morph": "Degree=Pos|Gender=Neut|Number=Sing|StyleVariant=Short",
+          "pos": "ADJ"
+        },
+        {
+          "text": "больше",
+          "lemma": "больше",
+          "morph": "Degree=Cmp",
+          "pos": "NUM"
+        },
+        {
+          "text": "практики",
+          "lemma": "практика",
+          "morph": "Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "- Oh, I need more practice."
+    }
+  },
+  {
+    "ru": {
+      "sentence": "Ты хочешь еще мороженого?",
+      "audio": "Путаница.translated.json.audio\\21.ogg",
+      "spacy_tokens": [
+        {
+          "text": "Ты",
+          "lemma": "ты",
+          "morph": "Case=Nom|Number=Sing|Person=Second",
+          "pos": "PRON"
+        },
+        {
+          "text": "хочешь",
+          "lemma": "хотеть",
+          "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=Second|Tense=Pres|VerbForm=Fin|Voice=Act",
+          "pos": "VERB"
+        },
+        {
+          "text": "еще",
+          "lemma": "еще",
+          "morph": "Degree=Pos",
+          "pos": "ADV"
+        },
+        {
+          "text": "мороженого",
+          "lemma": "мороженое",
+          "morph": "Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "?",
+          "lemma": "?",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "Would you like some more ice cream?"
+    }
+  },
+  {
+    "ru": {
+      "sentence": "– Да, с удовольствием!",
+      "audio": "Путаница.translated.json.audio\\22.ogg",
+      "spacy_tokens": [
+        {
+          "text": "–",
+          "lemma": "–",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "Да",
+          "lemma": "да",
+          "morph": "",
+          "pos": "PART"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "morph": "",
+          "pos": "PUNCT"
+        },
+        {
+          "text": "с",
+          "lemma": "с",
+          "morph": "",
+          "pos": "ADP"
+        },
+        {
+          "text": "удовольствием",
+          "lemma": "удовольствие",
+          "morph": "Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing",
+          "pos": "NOUN"
+        },
+        {
+          "text": "!",
+          "lemma": "!",
+          "morph": "",
+          "pos": "PUNCT"
+        }
+      ]
+    },
+    "en": {
+      "sentence": "- Yes, I'd love one!"
+    }
+  }
+]
