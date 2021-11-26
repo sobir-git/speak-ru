@@ -44,5 +44,13 @@
 
 {#each tokenList as token, i (token)}
     <Token token={token} coded={finalCodedIndices.has(i)}/>
-    <span />
+    <span></span>
 {/each}
+
+<style>
+    span {
+        width: 1ch;
+        font-family: monospace;
+        font-weight: bold;
+    }
+</style>

@@ -1,37 +1,37 @@
 <script>
     import { Router, Link, Route, link, navigate } from "svelte-routing";
-    import PassageReader from "./PassageReader.svelte";
-    let passages = [{ title: "No passages loaded", id: "123" }];
+    let passages;
 
-    fetch("/api/passage-list")
-        .then((response) => response.json())
-        .then((data) => (passages = data));
+    async function getPassages() {
+        const res = await fetch(`/api/passage-list`);
+        const json = await res.json();
+
+        if (res.ok) {
+            passages = json;
+            return json;
+        } else {
+            throw new Error(json);
+        }
+    }
+
+    let promise = getPassages();
 </script>
 
+<svelte:head>
+    <title>Passages</title>
+</svelte:head>
 
-<Router>
+{#await promise}
+    <p>...waiting</p>
+{:then passages}
     {#each passages as p}
-    <div>
-        <a use:link class="main" href={"/read/"+p.id}>
-            {p.folder} <b>{p.title}</b>
-        </a>
-        <a use:link class="speak" href={"/speak/"+p.id}>
-            speak
-        </a>
-    </div>
+        <div>
+            <a use:link class="main" href={"/read/" + p.id}>
+                {p.folder} <b>{p.title}</b>
+            </a>
+            <a use:link class="speak" href={"/speak/" + p.id}> speak </a>
+        </div>
     {/each}
-</Router>
-
-<style>
-    .main {
-        /* display: block; */
-    }
-    .speak {
-        float: right;
-        /* display: block; */
-    }
-    a:hover {
-        /* text-decoration: none; */
-    }
-    
-</style>
+{:catch error}
+    <p style="color: red">{error.message}</p>
+{/await}
