@@ -5,6 +5,7 @@
     import Sentence from "../token/Sentence.svelte";
     import Recognizer from "./Recognizer.svelte";
     import SentenceSelector from "./SentenceSelector.svelte";
+    import YandexTranslateButton from "./YandexTranslateButton.svelte";
 
     export let sentenceIdx;
     export let passage;
@@ -62,7 +63,7 @@
         class="sentence-ru"
     />
 </div>
-<div>
+<div class="btn-row">
     <Recognizer bind:this={recognizer} on:recognition={handleRecognition} />
     <button on:click={handleClickPrevious} disabled={sentenceIdx == 0}
         >Prev</button
@@ -80,6 +81,12 @@
     {#if pair.ru.audio}
         <AudioPlayer url={"/api/audio/" + passageId + "/" + pair.ru.audio} />
     {/if}
+    <YandexTranslateButton
+        class="translate-btn"
+        text={pair.en.sentence}
+        targetLang="ru"
+        sourceLang="en"
+    />
 </div>
 <textarea
     bind:this={textarea}
