@@ -4,16 +4,15 @@ from pathlib import Path
 from typing import List
 
 
-
-
 class Passage:
     def __init__(self, passage_folder, passage_file) -> None:
         passage_file = Path(passage_file)
         passage_folder = Path(passage_folder)
-        
+
         self.title = passage_file.name.replace('.translated.json', '')
         self.folder = passage_folder
-        self.id = open(passage_folder / (passage_file.name + '.id')).read().strip()
+        self.id = open(passage_folder /
+                       (passage_file.name + '.id')).read().strip()
         self.passage_file = passage_file
 
     @property
@@ -55,5 +54,5 @@ class Passages:
 
 
 # TEXTS_ROOT = r"C:\Users\sobir\PycharmProjects\speak-russian\texts"
-TEXTS_ROOT = os.getenv('TEXTS_ROOT', r"texts")
+TEXTS_ROOT = os.getenv('TEXTS_ROOT', r"../texts")
 PASSAGES = Passages(TEXTS_ROOT)

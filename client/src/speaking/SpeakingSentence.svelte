@@ -8,10 +8,14 @@
 
     export let sentenceIdx;
     export let passage;
+    let textarea;
     $: passageId = passage.id;
     $: pair = passage.pairs[sentenceIdx];
     $: numSentences = passage.pairs.length;
-    $: console.assert(sentenceIdx >= 0 && sentenceIdx < numSentences, {sentenceIdx,numSentences})
+    $: console.assert(sentenceIdx >= 0 && sentenceIdx < numSentences, {
+        sentenceIdx,
+        numSentences,
+    });
 
     const dispatch = new createEventDispatcher();
     let sentenceComponent;
@@ -20,9 +24,10 @@
         recognizer;
 
     function handleRecognition(e) {
-        lastPiece = e.detail.lastPiece;
-        text = e.detail.text;
-        console.log(e.detail);
+        lastPiece = e.detail;
+        let lastChar = text.substr(text.length - 1);
+        if (lastChar !== " ") text += " ";
+        text += lastPiece;
         handleTextChange();
     }
 
@@ -35,13 +40,13 @@
     }
 
     function handleTextChange() {
-        console.log("textChange", text);
+        // console.log("textChange", text);
         sentenceComponent.revealTokens(text);
+        textarea.scrollTop = textarea.scrollHeight;
     }
 
     function gotoSentence(idx) {
         text = "";
-        recognizer.reset();
         dispatch("gotoSentence", {
             sentenceIdx: idx,
         });
@@ -71,9 +76,16 @@
         {sentenceIdx}
         on:selectSentence={(e) => gotoSentence(e.detail.sentenceIdx)}
     />
-    <AudioPlayer url={"/api/audio/" + passageId + "/" + pair.ru.audio} />
+    {#if pair.ru.audio}
+        <AudioPlayer url={"/api/audio/" + passageId + "/" + pair.ru.audio} />
+    {/if}
 </div>
-<textarea bind:value={text} on:change={handleTextChange} rows:3 />
+<textarea
+    bind:this={textarea}
+    bind:value={text}
+    on:input={handleTextChange}
+    rows:3
+/>
 
 <style>
     textarea {
