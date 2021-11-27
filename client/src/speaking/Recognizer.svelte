@@ -75,9 +75,29 @@
 </script>
 
 {#if support}
-    <button on:click={handleRecordClick}>
+    <button
+        on:click={handleRecordClick}
+        class="record-btn {isRecording ? 'recording' : ''}"
+    >
         {isRecording ? "Pause" : "Record"}
     </button>
 {:else}
     SpeechRecognition not supported!
 {/if}
+
+<style>
+    .record-btn {
+        position: absolute;
+        bottom: 0;
+        left: 0;
+        width: 100%;
+        margin: 0;
+        height: 5em;
+    }
+    .recording {
+        background-color: #5bff60;
+    }
+    .recording:active {
+        background-color: rgba(32, 226, 32, 0.871);
+    }
+</style>

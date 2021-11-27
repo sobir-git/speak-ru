@@ -53,12 +53,13 @@
     }
 </script>
 
-<div>
-    <div>{pair.en.sentence}</div>
+<div class="sentence-parent">
+    <div class="english">{pair.en.sentence}</div>
     <Sentence
         bind:this={sentenceComponent}
         sentence={pair.ru}
         codedIndices={new Set([...Array(pair.ru.spacy_tokens.length).keys()])}
+        class="sentence-ru"
     />
 </div>
 <div>
@@ -84,11 +85,26 @@
     bind:this={textarea}
     bind:value={text}
     on:input={handleTextChange}
-    rows:3
+    rows="4"
 />
 
 <style>
     textarea {
         width: 100%;
+        font-family: monospace;
+    }
+    .english {
+        font-size: 1.2em;
+        margin-bottom: 1em;
+    }
+    .sentence-parent :global(.sentence-ru) {
+        margin-top: 0.5em;
+        margin-bottom: 1.2em;
+    }
+    .sentence-parent :global(.sentence-ru > .word) {
+        font-weight: bold;
+        font-family: monospace;
+        font-size: 1.8em;
+        color: orange;
     }
 </style>

@@ -29,14 +29,13 @@ export function createSpeechRecognition(restartOnFail = false, interimResults = 
     }
 
     r.start = function () {
-        r.reset();
         r._start();
     }
 
     r.addEventListener('end', function () {
         if (!r.stopRequested || r.errored) {
             // why ending without stop request...?
-            setTimeout(() => r.restart(), 0);
+            r.restart();
         }
     })
 

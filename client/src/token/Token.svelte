@@ -93,7 +93,6 @@
     .word {
         font-weight: bold;
         font-family: monospace;
-        font-size: 1.5em;
     }
     @media (hover: none) {
         .word {
