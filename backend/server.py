@@ -41,6 +41,7 @@ def get_passage(id):
     return jsonify({
         'id': passage.id,
         'title': passage.title,
+        'folder': passage.folder.name,
         'pairs': passage.sentence_pairs,
     })
 

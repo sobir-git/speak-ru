@@ -19,8 +19,8 @@
     }
 </script>
 
+<div>{passage.folder} > {passage.title}</div>
 <h1>Speaking</h1>
-
 <svelte:head>
     <title>Speak {passage ? ": " + passage.title : ""}</title>
 </svelte:head>
