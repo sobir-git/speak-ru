@@ -20,7 +20,7 @@ export function createSpeechRecognition(restartOnFail = false, interimResults = 
 
     r.restart = function () {
         r.reset();
-        r.start();
+        r._start();
     }
 
     r.stop = function () {
@@ -29,6 +29,7 @@ export function createSpeechRecognition(restartOnFail = false, interimResults = 
     }
 
     r.start = function () {
+        r.reset();
         r._start();
     }
 
