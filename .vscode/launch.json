@@ -9,6 +9,8 @@
             "type": "python",
             "request": "launch",
             "module": "flask",
+            "cwd": "${workspaceFolder}/backend",
+            "justMyCode": false,
             "env": {
                 "FLASK_APP": "server.py",
                 "FLASK_ENV": "development"
@@ -17,8 +19,12 @@
                 "run",
                 "--no-debugger",
                 "-h", "0.0.0.0",
+                "-p", "5000",
+                "--cert", "../cert/RootCA.pem",
+                "--key", "../cert/RootCA.key"
             ],
             "jinja": true
         },
+
     ]
 }
