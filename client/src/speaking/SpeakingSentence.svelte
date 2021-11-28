@@ -1,5 +1,7 @@
 <script>
     import { createEventDispatcher } from "svelte";
+    import { settings } from "../settings";
+    import { computeCodedIndices } from "./token";
 
     import AudioPlayer from "../AudioPlayer.svelte";
     import Sentence from "../token/Sentence.svelte";
@@ -77,9 +79,10 @@
             <Sentence
                 bind:this={sentenceComponent}
                 sentence={pair.ru}
-                codedIndices={new Set([
-                    ...Array(pair.ru.spacy_tokens.length).keys(),
-                ])}
+                codedIndices={computeCodedIndices(
+                    pair.ru.spacy_tokens,
+                    settings
+                )}
                 class="sentence-ru"
             />
         </div>
