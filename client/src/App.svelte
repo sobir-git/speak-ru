@@ -35,5 +35,22 @@
     .content {
         flex: 1 1 auto;
         overflow: auto;
+        margin-left: 8px;
+        margin-right: 8px;
+    }
+    nav {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        overflow: auto;
+        background-color: #333;
+        flex: none;
+    }
+    nav > :global(a) {
+        display: inline-block;
+        color: white;
+        text-align: center;
+        padding: 8px 8px;
+        text-decoration: none;
     }
 </style>

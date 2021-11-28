@@ -70,7 +70,7 @@
 
 <div id="root">
     <div id="top-content">
-        <h1>Speaking</h1>
+        <h1 id="speaking-title">Speaking</h1>
 
         <div class="sentence-parent">
             <div class="english">{pair.en.sentence}</div>
@@ -187,5 +187,9 @@
     }
     .recording:active {
         background-color: #8fdb5c;
+    }
+
+    #speaking-title {
+        margin-top: 8px;
     }
 </style>
