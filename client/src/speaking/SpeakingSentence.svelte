@@ -9,7 +9,6 @@
 
     export let sentenceIdx;
     export let passage;
-    let textarea;
     $: passageId = passage.id;
     $: pair = passage.pairs[sentenceIdx];
     $: numSentences = passage.pairs.length;
@@ -19,8 +18,10 @@
     });
 
     const dispatch = new createEventDispatcher();
-    let sentenceComponent;
-    let text = "",
+    let textarea,
+        sentenceComponent,
+        isRecording,
+        text = "",
         lastPiece,
         recognizer;
 
@@ -52,51 +53,117 @@
             sentenceIdx: idx,
         });
     }
+
+    function handleClickRecord(e) {
+        if (e.detail == 2) {
+            return; // prevent double click
+        }
+        recognizer.toggleRecording();
+    }
 </script>
 
-<div class="sentence-parent">
-    <div class="english">{pair.en.sentence}</div>
-    <Sentence
-        bind:this={sentenceComponent}
-        sentence={pair.ru}
-        codedIndices={new Set([...Array(pair.ru.spacy_tokens.length).keys()])}
-        class="sentence-ru"
-    />
-</div>
-<div class="btn-row">
-    <Recognizer bind:this={recognizer} on:recognition={handleRecognition} />
-    <button on:click={handleClickPrevious} disabled={sentenceIdx == 0}
-        >Prev</button
-    >
-    <button
-        on:click={handleClickNext}
-        disabled={sentenceIdx == numSentences - 1}>Next</button
-    >
-    {sentenceIdx + 1} / {numSentences}
-    <SentenceSelector
-        {passage}
-        {sentenceIdx}
-        on:selectSentence={(e) => gotoSentence(e.detail.sentenceIdx)}
-    />
-    {#if pair.ru.audio}
-        <AudioPlayer url={"/api/audio/" + passageId + "/" + pair.ru.audio} />
-    {/if}
-    <YandexTranslateButton
-        class="translate-btn"
-        text={pair.en.sentence}
-        targetLang="ru"
-        sourceLang="en"
-    />
-</div>
-<textarea
-    bind:this={textarea}
-    bind:value={text}
-    on:input={handleTextChange}
-    rows="4"
+<Recognizer
+    bind:this={recognizer}
+    bind:isRecording
+    on:recognition={handleRecognition}
 />
 
+<div id="root">
+    <div id="top-content">
+        <h1>Speaking</h1>
+
+        <div class="sentence-parent">
+            <div class="english">{pair.en.sentence}</div>
+            <Sentence
+                bind:this={sentenceComponent}
+                sentence={pair.ru}
+                codedIndices={new Set([
+                    ...Array(pair.ru.spacy_tokens.length).keys(),
+                ])}
+                class="sentence-ru"
+            />
+        </div>
+        <div id="small-buttons">
+            {sentenceIdx + 1} / {numSentences}
+            <SentenceSelector
+                {passage}
+                {sentenceIdx}
+                on:selectSentence={(e) => gotoSentence(e.detail.sentenceIdx)}
+            />
+            {#if pair.ru.audio}
+                <AudioPlayer
+                    url={"/api/audio/" + passageId + "/" + pair.ru.audio}
+                />
+            {/if}
+            <YandexTranslateButton
+                class="translate-btn"
+                text={pair.en.sentence}
+                targetLang="ru"
+                sourceLang="en"
+            />
+        </div>
+    </div>
+    <div id="panel">
+        <textarea
+            bind:this={textarea}
+            bind:value={text}
+            on:input={handleTextChange}
+            rows="4"
+        />
+        <div id="panel-buttons">
+            <button
+                id="prev-btn"
+                on:click={handleClickPrevious}
+                disabled={sentenceIdx == 0}
+            >
+                Prev
+            </button>
+
+            {#if recognizer}
+                <button
+                    on:click={handleClickRecord}
+                    id="record-btn"
+                    class={isRecording ? "recording" : ""}
+                >
+                    {isRecording ? "Pause" : "Record"}
+                </button>
+            {/if}
+
+            <button
+                id="next-btn"
+                on:click={handleClickNext}
+                disabled={sentenceIdx == numSentences - 1}
+            >
+                Next
+            </button>
+        </div>
+    </div>
+</div>
+
 <style>
-    textarea {
+    #root {
+        display: flex;
+        flex-direction: column;
+        height: 100%;
+    }
+
+    #top-content {
+        flex: 1 1 auto;
+        overflow: auto;
+    }
+
+    #panel-buttons {
+        display: flex;
+        height: 5rem;
+    }
+
+    #record-btn {
+        flex: 1 0 auto;
+        margin-left: 12px;
+        margin-right: 12px;
+    }
+
+    #panel > textarea {
         width: 100%;
         font-family: monospace;
     }
@@ -113,5 +180,12 @@
         font-family: monospace;
         font-size: 1.8em;
         color: orange;
+    }
+
+    .recording {
+        background-color: #b0ff7b;
+    }
+    .recording:active {
+        background-color: #8fdb5c;
     }
 </style>

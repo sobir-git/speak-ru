@@ -3,8 +3,8 @@
     import { createSpeechRecognition } from "./speech-utils";
     const dispatch = createEventDispatcher();
 
-    let isRecording = false,
-        support = true,
+    export let isRecording = false;
+    let support = true,
         recognition,
         interimResultsEnabled = true,
         lastTranscript = "";
@@ -56,10 +56,7 @@
         console.log("Speech Recognition Error", event);
     });
 
-    function handleRecordClick(e) {
-        if (e.detail == 2) {
-            return; // prevent double click
-        }
+    export function toggleRecording() {
         if (isRecording) {
             recognition.stop();
         } else {
@@ -74,30 +71,6 @@
     });
 </script>
 
-{#if support}
-    <button
-        on:click={handleRecordClick}
-        class="record-btn {isRecording ? 'recording' : ''}"
-    >
-        {isRecording ? "Pause" : "Record"}
-    </button>
-{:else}
-    SpeechRecognition not supported!
+{#if !support}
+    <p>SpeechRecognition not supported!</p>
 {/if}
-
-<style>
-    .record-btn {
-        position: absolute;
-        bottom: 0;
-        left: 0;
-        width: 100%;
-        margin: 0;
-        height: 5em;
-    }
-    .recording {
-        background-color: #5bff60;
-    }
-    .recording:active {
-        background-color: rgba(32, 226, 32, 0.871);
-    }
-</style>

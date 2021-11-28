@@ -2,9 +2,10 @@
     import { insertUrlParam, getUrlParam } from "../utils.js";
     import SpeakingSentence from "./SpeakingSentence.svelte";
 
-    export let passage, sentenceIdx=null;
+    export let passage,
+        sentenceIdx = null;
 
-    if (sentenceIdx == null){
+    if (sentenceIdx == null) {
         sentenceIdx = parseInt(getUrlParam("snt", "1")) - 1;
     }
 
@@ -19,14 +20,29 @@
     }
 </script>
 
-<div>{passage.folder} > {passage.title}</div>
-<h1>Speaking</h1>
 <svelte:head>
     <title>Speak {passage ? ": " + passage.title : ""}</title>
 </svelte:head>
 
-<SpeakingSentence
-    {passage}
-    {sentenceIdx}
-    on:gotoSentence={handleGotoSentence}
-/>
+<div id="root">
+    <div>{passage.folder} > {passage.title}</div>
+    <div id="main">
+        <SpeakingSentence
+            {passage}
+            {sentenceIdx}
+            on:gotoSentence={handleGotoSentence}
+        />
+    </div>
+</div>
+
+<style>
+    #root {
+        display: flex;
+        flex-direction: column;
+        height: 100%;
+    }
+    #main {
+        flex: 1 1 auto;
+        overflow: auto;
+    }
+</style>
