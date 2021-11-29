@@ -1,9 +1,11 @@
 <script>
     import { insertUrlParam, getUrlParam } from "../utils.js";
     import SpeakingSentence from "./SpeakingSentence.svelte";
+    import BottomPanel from "./BottomPanel.svelte";
 
-    export let passage,
-        sentenceIdx = null;
+    export let passage;
+    export let sentenceIdx = null;
+    let speakingSentenceComponent;
 
     if (sentenceIdx == null) {
         sentenceIdx = parseInt(getUrlParam("snt", "1")) - 1;
@@ -15,7 +17,7 @@
     }
 
     function handleGotoSentence(event) {
-        let sentenceIdx = event.detail.sentenceIdx;
+        let sentenceIdx = event.detail;
         gotoSentence(sentenceIdx);
     }
 </script>
@@ -25,12 +27,22 @@
 </svelte:head>
 
 <div id="root">
-    <div>{passage.folder} > {passage.title}</div>
-    <div id="main">
+    <div id="top-content">
+        <div>{passage.folder} > {passage.title}</div>
         <SpeakingSentence
             {passage}
             {sentenceIdx}
             on:gotoSentence={handleGotoSentence}
+            bind:this={speakingSentenceComponent}
+        />
+    </div>
+    <div id="panel">
+        <BottomPanel
+            {sentenceIdx}
+            {passage}
+            on:gotoSentence={handleGotoSentence}
+            on:textChange={(e) =>
+                speakingSentenceComponent.checkInputTokens(e.detail)}
         />
     </div>
 </div>
@@ -41,7 +53,8 @@
         flex-direction: column;
         height: 100%;
     }
-    #main {
+
+    #top-content {
         flex: 1 1 auto;
         overflow: auto;
     }
