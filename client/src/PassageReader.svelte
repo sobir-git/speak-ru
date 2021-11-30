@@ -36,7 +36,7 @@
         margin-top: 1em;
         margin-bottom: 0.3em;
     }
-    .sentence-ru-parent :global(.sentence-ru > .word) {
+    .sentence-ru-parent :global(.sentence-ru) {
         font-weight: bold;
         font-family: monospace;
         font-size: 1.5em;

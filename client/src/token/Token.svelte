@@ -90,10 +90,7 @@
     .word:hover {
         color: skyblue;
     }
-    .word {
-        font-weight: bold;
-        font-family: monospace;
-    }
+
     @media (hover: none) {
         .word {
             -webkit-touch-callout: none; /* iOS Safari */

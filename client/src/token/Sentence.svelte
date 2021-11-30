@@ -85,7 +85,7 @@
 <div class={$$props.class}>
     {#each renderList as item, i (item)}
         {#if item.type == "space"}
-            <span class="whitespace" />
+            <span class="whitespace">{" "}</span>
         {:else if item.type == "token-punct"}
             <span class="word">{item.value}</span>
         {:else}
@@ -94,9 +94,4 @@
     {/each}
 </div>
 
-<style>
-    span.whitespace {
-        margin-left: 1.25ch;
-        display: inline-block;
-    }
-</style>
+

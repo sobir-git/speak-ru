@@ -66,7 +66,7 @@
         margin-top: 0.5em;
         margin-bottom: 1.2em;
     }
-    .sentence-parent :global(.sentence-ru > .word) {
+    .sentence-parent :global(.sentence-ru) {
         font-weight: bold;
         font-family: monospace;
         font-size: 1.8em;
