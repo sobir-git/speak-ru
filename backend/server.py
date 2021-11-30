@@ -5,7 +5,7 @@ from passages import PASSAGES
 
 app = Flask(__name__)
 
-
+# Fallback: index.html
 @app.route("/")
 @app.route("/<path:path>")
 def svelte(path=None):
@@ -14,13 +14,12 @@ def svelte(path=None):
 
 # Path for all the static files (compiled JS/CSS, etc.)
 @app.route("/svelte/<path:path>")
-def svelte_dirs(path):
+def get_from_svelte_dirs(path):
     return send_from_directory('../client/public', path)
 
 
-# Path for all the static files (compiled JS/CSS, etc.)
 @app.route("/api/passage-list")
-def passage_list():
+def api_get_passage_list():
     passages_list = PASSAGES.get_passages_list()
     return jsonify([
         {
@@ -33,9 +32,8 @@ def passage_list():
     ])
 
 
-# Path for all the static files (compiled JS/CSS, etc.)
 @app.route("/api/get-passage/<path:id>")
-def get_passage(id):
+def api_get_passage(id):
     passage = PASSAGES.get_passage_by_id(id)
 
     return jsonify({
@@ -46,7 +44,6 @@ def get_passage(id):
     })
 
 
-# Path for all the static files (compiled JS/CSS, etc.)
 @app.route("/api/audio/<passage_id>/<path:audio_path>")
 def api_get_audio(passage_id, audio_path):
     passage = PASSAGES.get_passage_by_id(passage_id)
