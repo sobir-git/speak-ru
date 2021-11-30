@@ -5,11 +5,21 @@ Built with Svelte and Flask.
 
 # Setup
 Recommended to create a virtual environment first. The python3.9.7 was used, although different versions should also work. 
+1. Install python requirements
 ```
-# install requirements
 python -m pip install -r requirements.txt
+```
 
-# lunch local server
+2. Compile svelte app
+```
+cd client/
+npm install
+npm run build
+cd ..
+```
+
+3. Launch server
+```
 cd backend/
 export FLASK_APP=backend/server.py
 python -m flask run
