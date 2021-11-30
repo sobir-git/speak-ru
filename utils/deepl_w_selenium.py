@@ -1,3 +1,5 @@
+import base64
+import hashlib
 import itertools
 import json
 import re
@@ -178,3 +180,10 @@ if __name__ == '__main__':
 
     json.dump(result, open(args.output, 'w', encoding='utf-8'), indent=True, ensure_ascii=False)
     print("saved in:", args.output)
+
+    # add id file
+    uri = args.output.encode('utf-8')
+    generate_id = base64.urlsafe_b64encode(hashlib.md5(uri).digest())
+    generate_id = generate_id[:5].decode('ascii')
+    with open(args.output + '.id', 'w') as f:
+        f.write(generate_id)
